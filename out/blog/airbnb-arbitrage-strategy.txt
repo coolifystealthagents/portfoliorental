@@ -1,0 +1,329 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","airbnb-arbitrage-strategy"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","airbnb-arbitrage-strategy","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","airbnb-arbitrage-strategy","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Airbnb Arbitrage: Is It Still Profitable in 2026?\",\"description\":\"Is Airbnb arbitrage still profitable in 2026? Learn how rental arbitrage works, what it costs to start, the risks involved, and which markets still make sense.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/airbnb-arbitrage-strategy\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Airbnb Arbitrage: Is It Still Profitable in 2026?\",\"item\":\"https://portfoliorental.com/blog/airbnb-arbitrage-strategy\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Airbnb Arbitrage: Is It Still Profitable in 2026?"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[10," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-airbnb-arbitrage",{"className":"","children":["$","a",null,{"href":"#what-is-airbnb-arbitrage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Airbnb Arbitrage?"}]}],["$","li","how-airbnb-arbitrage-works-the-full-process",{"className":"","children":["$","a",null,{"href":"#how-airbnb-arbitrage-works-the-full-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Airbnb Arbitrage Works: The Full Process"}]}],["$","li","step-1-find-landlord-permission",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-find-landlord-permission","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Find Landlord Permission"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]}]]}],"$L27","$L28"]}],"$L29","$L2a"]}],"$L2b"]}]]}],"$L2c"]
+11:["$","li","step-2-analyze-the-market",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-analyze-the-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Analyze the Market"}]}]
+12:["$","li","step-3-lease-negotiation",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-lease-negotiation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Lease Negotiation"}]}]
+13:["$","li","step-4-furnish-and-set-up-the-property",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-furnish-and-set-up-the-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Furnish and Set Up the Property"}]}]
+14:["$","li","step-5-list-and-optimize",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-list-and-optimize","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: List and Optimize"}]}]
+15:["$","li","step-6-operate-and-scale",{"className":"ml-4","children":["$","a",null,{"href":"#step-6-operate-and-scale","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 6: Operate and Scale"}]}]
+16:["$","li","startup-costs-for-airbnb-arbitrage",{"className":"","children":["$","a",null,{"href":"#startup-costs-for-airbnb-arbitrage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Startup Costs for Airbnb Arbitrage"}]}]
+17:["$","li","profitability-in-2026-what-has-changed",{"className":"","children":["$","a",null,{"href":"#profitability-in-2026-what-has-changed","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Profitability in 2026: What Has Changed"}]}]
+18:["$","li","the-markets-that-no-longer-work",{"className":"ml-4","children":["$","a",null,{"href":"#the-markets-that-no-longer-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Markets That No Longer Work"}]}]
+19:["$","li","the-markets-that-still-work",{"className":"ml-4","children":["$","a",null,{"href":"#the-markets-that-still-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Markets That Still Work"}]}]
+1a:["$","li","margin-compression-is-real",{"className":"ml-4","children":["$","a",null,{"href":"#margin-compression-is-real","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Margin Compression Is Real"}]}]
+1b:["$","li","competition-has-intensified",{"className":"ml-4","children":["$","a",null,{"href":"#competition-has-intensified","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Competition Has Intensified"}]}]
+1c:["$","li","the-risks-of-airbnb-arbitrage",{"className":"","children":["$","a",null,{"href":"#the-risks-of-airbnb-arbitrage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Risks of Airbnb Arbitrage"}]}]
+1d:["$","li","1-regulatory-risk",{"className":"ml-4","children":["$","a",null,{"href":"#1-regulatory-risk","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Regulatory Risk"}]}]
+1e:["$","li","2-lease-termination-risk",{"className":"ml-4","children":["$","a",null,{"href":"#2-lease-termination-risk","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Lease Termination Risk"}]}]
+1f:["$","li","3-vacancy-and-revenue-variability",{"className":"ml-4","children":["$","a",null,{"href":"#3-vacancy-and-revenue-variability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Vacancy and Revenue Variability"}]}]
+20:["$","li","4-property-damage-liability",{"className":"ml-4","children":["$","a",null,{"href":"#4-property-damage-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Property Damage Liability"}]}]
+21:["$","li","5-platform-risk",{"className":"ml-4","children":["$","a",null,{"href":"#5-platform-risk","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Platform Risk"}]}]
+22:["$","li","airbnb-arbitrage-vs-buying-a-property-for-str",{"className":"","children":["$","a",null,{"href":"#airbnb-arbitrage-vs-buying-a-property-for-str","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Arbitrage vs. Buying a Property for STR"}]}]
+23:["$","li","how-to-find-landlords-who-allow-str-arbitrage",{"className":"","children":["$","a",null,{"href":"#how-to-find-landlords-who-allow-str-arbitrage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Find Landlords Who Allow STR Arbitrage"}]}]
+24:["$","li","scaling-an-airbnb-arbitrage-business",{"className":"","children":["$","a",null,{"href":"#scaling-an-airbnb-arbitrage-business","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Scaling an Airbnb Arbitrage Business"}]}]
+25:["$","li","is-airbnb-arbitrage-right-for-you",{"className":"","children":["$","a",null,{"href":"#is-airbnb-arbitrage-right-for-you","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Is Airbnb Arbitrage Right for You?"}]}]
+26:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2d:T432d,<p>Airbnb arbitrage — the strategy of leasing a property long-term and re-renting it short-term on Airbnb and similar platforms — became one of the most talked-about real estate strategies of the past decade. At its peak, entrepreneurs were building six-figure operations without owning a single property.</p>
+<p>But the landscape has changed significantly. Stricter regulations, higher rents, and increased competition have raised the bar for profitability. So the honest question investors are asking in 2026 is: <strong>Is Airbnb arbitrage still worth it?</strong></p>
+<p>The answer is yes — in the right markets, with the right approach. But the era of easy arbitrage profits is over. What remains requires genuine operational skill, careful market selection, and a realistic understanding of the risks involved.</p>
+<hr>
+<h2 id="what-is-airbnb-arbitrage">What Is Airbnb Arbitrage?</h2>
+<p>Airbnb arbitrage (also called rental arbitrage or short-term rental arbitrage) is a business model where you:</p>
+<ol>
+<li><strong>Sign a long-term lease</strong> on an apartment, home, or other property</li>
+<li><strong>Furnish and prepare the property</strong> for short-term guests</li>
+<li><strong>List the property</strong> on Airbnb, VRBO, and other platforms</li>
+<li><strong>Profit from the spread</strong> between what you pay in rent and what you earn in short-term rental income</li>
+</ol>
+<p><strong>Simple Example:</strong></p>
+<ul>
+<li>Monthly rent: $1,800</li>
+<li>Furnishing cost: $5,000–$8,000 (one-time)</li>
+<li>Average STR revenue: $3,200/month at 70% occupancy</li>
+<li>Operating costs (utilities, cleaning, supplies, platform fees): $600/month</li>
+<li>Net profit: ~$800/month per unit</li>
+</ul>
+<p>The appeal is obvious: you access real estate income without the capital requirements of property ownership. No down payment, no mortgage qualification, no property taxes.</p>
+<hr>
+<h2 id="how-airbnb-arbitrage-works-the-full-process">How Airbnb Arbitrage Works: The Full Process</h2>
+<h3 id="step-1-find-landlord-permission">Step 1: Find Landlord Permission</h3>
+<p>This is the step most people underestimate. Your lease almost certainly prohibits short-term subletting. Operating without landlord permission exposes you to immediate eviction and legal liability.</p>
+<p>The arbitrage process begins by finding landlords who will allow — or be persuaded to allow — short-term rental use. Strategies include:</p>
+<ul>
+<li>Approaching landlords of vacant units who are struggling to find long-term tenants</li>
+<li>Offering above-market rent in exchange for STR permission</li>
+<li>Proposing a revenue share arrangement</li>
+<li>Targeting smaller, independent landlords rather than large apartment management companies</li>
+</ul>
+<p>Get permission in writing. A verbal agreement offers no protection if the landlord changes their mind or sells the property.</p>
+<h3 id="step-2-analyze-the-market">Step 2: Analyze the Market</h3>
+<p>Before signing a lease, you need to verify that the location will generate enough revenue to cover costs and profit. Use data tools like AirDNA or Rabbu to analyze:</p>
+<ul>
+<li>Average daily rate (ADR) in the specific neighborhood</li>
+<li>Occupancy rates by month (seasonality)</li>
+<li>Revenue per available night (RevPAN)</li>
+<li>Number of competing listings and their performance</li>
+</ul>
+<p><strong>A conservative formula for viability:</strong>
+Monthly STR Revenue (at 65% occupancy) > Monthly Rent + $800 (operating costs buffer)</p>
+<p>If the numbers work conservatively, the opportunity may be worth pursuing.</p>
+<h3 id="step-3-lease-negotiation">Step 3: Lease Negotiation</h3>
+<p>Once you have identified a viable property and a willing landlord, negotiate lease terms that support your business model:</p>
+<ul>
+<li><strong>Month-to-month or short initial lease term</strong> to minimize risk while you validate the market</li>
+<li><strong>Right to sublet</strong> written explicitly into the lease or an addendum</li>
+<li><strong>Utility inclusion</strong> or clear caps on utility costs (STR guests use more electricity and water than long-term tenants)</li>
+<li><strong>Permission to furnish</strong> and make minor alterations (mounting TVs, installing smart locks)</li>
+</ul>
+<h3 id="step-4-furnish-and-set-up-the-property">Step 4: Furnish and Set Up the Property</h3>
+<p>Furnishing is your largest upfront cost. Budget realistically:</p>
+<ul>
+<li><strong>Studio or 1BR:</strong> $3,000–$6,000</li>
+<li><strong>2BR:</strong> $6,000–$12,000</li>
+<li><strong>3BR+:</strong> $10,000–$20,000+</li>
+</ul>
+<p>Focus furnishing dollars on items guests notice most: bed quality, linens, kitchen equipment, and bathroom aesthetics. Do not over-invest in decorative items that guests will not value.</p>
+<h3 id="step-5-list-and-optimize">Step 5: List and Optimize</h3>
+<p>Create listings on Airbnb, VRBO, and Booking.com. Professional photography is essential — it is the single highest-ROI investment in your listing's performance. Use dynamic pricing tools from day one.</p>
+<p>For listing optimization strategies, see our <a href="/blog/airbnb-property-management-tips">airbnb property management tips</a> guide.</p>
+<h3 id="step-6-operate-and-scale">Step 6: Operate and Scale</h3>
+<p>Once your first unit is generating positive cash flow, you can replicate the model. Many successful arbitrageurs manage 5–20 units without owning any of them. At this scale, the operation requires systems, staff, and property management tools.</p>
+<hr>
+<h2 id="startup-costs-for-airbnb-arbitrage">Startup Costs for Airbnb Arbitrage</h2>
+<p>Unlike real estate investing, arbitrage has low capital requirements but is not zero-cost. Expect to invest:</p>
+<table>
+<thead>
+<tr>
+<th>Cost Category</th>
+<th>Typical Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>First + last month's rent deposit</td>
+<td>$3,600–$8,000</td>
+</tr>
+<tr>
+<td>Furniture and furnishings</td>
+<td>$4,000–$15,000</td>
+</tr>
+<tr>
+<td>Photography</td>
+<td>$200–$500</td>
+</tr>
+<tr>
+<td>Smart lock and tech</td>
+<td>$200–$600</td>
+</tr>
+<tr>
+<td>Operating reserve (3 months rent)</td>
+<td>$5,400–$15,000</td>
+</tr>
+<tr>
+<td><strong>Total to launch one unit</strong></td>
+<td><strong>$13,000–$39,000</strong></td>
+</tr>
+</tbody>
+</table>
+<p>The operating reserve is critical. STR income is variable — lower occupancy months, slow seasons, and unexpected property issues can all impact revenue. Without a reserve, a single bad month can leave you unable to pay rent.</p>
+<hr>
+<h2 id="profitability-in-2026-what-has-changed">Profitability in 2026: What Has Changed</h2>
+<h3 id="the-markets-that-no-longer-work">The Markets That No Longer Work</h3>
+<p>In highly regulated markets — New York City, San Francisco, Los Angeles, Paris, Amsterdam, Barcelona — short-term rental restrictions have made traditional Airbnb arbitrage effectively illegal or economically unviable. Permits are scarce, fines are steep, and enforcement has intensified.</p>
+<p>For a detailed breakdown of local regulations, our <a href="/blog/short-term-rental-regulations">short-term rental regulations</a> guide is essential reading before committing to any market.</p>
+<h3 id="the-markets-that-still-work">The Markets That Still Work</h3>
+<p>Profitable arbitrage still exists in:</p>
+<ul>
+<li><strong>Mid-size leisure markets:</strong> Mountain towns, lake communities, beach communities outside major metros</li>
+<li><strong>Secondary cities</strong> with strong business travel and limited hotel supply</li>
+<li><strong>Markets near major attractions</strong> where tourism demand outpaces local regulation</li>
+<li><strong>New markets</strong> where regulation is still developing</li>
+</ul>
+<p>The key differentiator in 2026 is regulatory environment. Markets with clear permitting paths and host-friendly regulation still offer genuine opportunity.</p>
+<h3 id="margin-compression-is-real">Margin Compression Is Real</h3>
+<p>According to <a href="https://www.investopedia.com/terms/r/rental-rate.asp" rel="noopener" target="_blank">Investopedia's rental analysis</a>, rising rents in most markets have squeezed arbitrage margins. A property that generated $1,000/month profit in 2021 may now generate $300–$400/month as long-term rents have increased faster than short-term rates in many cities.</p>
+<h3 id="competition-has-intensified">Competition Has Intensified</h3>
+<p>The arbitrage model was widely publicized, creating more competition. Markets that were underserved in 2019 now have dozens of well-run, professionally managed STR listings. Standing out requires a strong listing, great reviews, and operational excellence.</p>
+<hr>
+<h2 id="the-risks-of-airbnb-arbitrage">The Risks of Airbnb Arbitrage</h2>
+<p>Arbitrage is not passive income — it is an active business with real risks. Understand them fully before committing.</p>
+<h3 id="1-regulatory-risk">1. Regulatory Risk</h3>
+<p>This is the biggest threat. A city can pass an STR ordinance overnight, effectively making your business model illegal without warning. Your lease continues; your income stops.</p>
+<p>Mitigate this by:</p>
+<ul>
+<li>Operating in markets with stable, established STR regulation</li>
+<li>Staying active in local STR associations and government meetings</li>
+<li>Maintaining operating reserves that can sustain you through a regulatory transition</li>
+</ul>
+<h3 id="2-lease-termination-risk">2. Lease Termination Risk</h3>
+<p>Even with written permission, landlords can change their minds, sell the property, or find lease technicalities to terminate your agreement. Your furnishing investment is stranded if you lose the lease.</p>
+<p>Mitigate this by:</p>
+<ul>
+<li>Negotiating longer initial lease terms (1–2 years) once profitability is confirmed</li>
+<li>Amortizing furnishing costs against that term</li>
+<li>Purchasing portable furnishings you can relocate to a new unit</li>
+</ul>
+<h3 id="3-vacancy-and-revenue-variability">3. Vacancy and Revenue Variability</h3>
+<p>STR income is inherently seasonal and market-dependent. A month of low occupancy can wipe out weeks of profit.</p>
+<p>Mitigate this by:</p>
+<ul>
+<li>Building 3–6 months of operating reserves</li>
+<li>Using dynamic pricing to maximize revenue during peak periods</li>
+<li>Marketing through multiple channels (Airbnb, VRBO, direct booking)</li>
+</ul>
+<h3 id="4-property-damage-liability">4. Property Damage Liability</h3>
+<p>You are responsible to your landlord for the condition of the property. If a guest causes damage that exceeds Airbnb's AirCover protection, you may be personally liable.</p>
+<p>Mitigate this by:</p>
+<ul>
+<li>Purchasing dedicated short-term rental insurance (not just relying on AirCover)</li>
+<li>Implementing strong guest screening processes</li>
+<li>Documenting property condition thoroughly before each stay</li>
+</ul>
+<p>Our <a href="/blog/short-term-rental-insurance">short-term rental insurance</a> guide covers the coverage options relevant to arbitrage operators.</p>
+<h3 id="5-platform-risk">5. Platform Risk</h3>
+<p>Airbnb has changed its algorithms, fee structures, and host policies multiple times. Changes that reduce your visibility or increase guest fees can meaningfully impact revenue.</p>
+<p>Mitigate this by:</p>
+<ul>
+<li>Building a direct booking channel to reduce OTA dependence</li>
+<li>Listing on multiple platforms (Airbnb, VRBO, Booking.com)</li>
+</ul>
+<hr>
+<h2 id="airbnb-arbitrage-vs-buying-a-property-for-str">Airbnb Arbitrage vs. Buying a Property for STR</h2>
+<p>Many investors eventually face this comparison:</p>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Arbitrage</th>
+<th>Buying Property</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Capital required</td>
+<td>$15,000–$40,000</td>
+<td>$50,000–$200,000+</td>
+</tr>
+<tr>
+<td>Equity building</td>
+<td>None</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Appreciation potential</td>
+<td>None</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Tax advantages</td>
+<td>Limited</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Flexibility</td>
+<td>High</td>
+<td>Low</td>
+</tr>
+<tr>
+<td>Regulatory risk</td>
+<td>High</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>Scalability</td>
+<td>Very high</td>
+<td>Moderate</td>
+</tr>
+</tbody>
+</table>
+<p>Arbitrage offers lower barriers and faster scaling. Property ownership builds long-term wealth. Many successful investors use arbitrage to generate cash flow, then invest those profits into property purchases.</p>
+<p>For a comprehensive comparison of STR vs. long-term rental investment, see our <a href="/blog/airbnb-vs-long-term-rental">airbnb vs long term rental</a> analysis.</p>
+<hr>
+<h2 id="how-to-find-landlords-who-allow-str-arbitrage">How to Find Landlords Who Allow STR Arbitrage</h2>
+<p>Finding willing landlords is the most challenging aspect of launching an arbitrage business. Effective approaches:</p>
+<p><strong>Direct Outreach:</strong></p>
+<ul>
+<li>Contact landlords of vacant properties on Craigslist and Zillow</li>
+<li>Approach property managers of buildings with high vacancy rates</li>
+<li>Network with real estate investors who own rental properties</li>
+</ul>
+<p><strong>Your Pitch:</strong>
+Frame arbitrage as a premium tenant proposition:</p>
+<ul>
+<li>You will pay consistent rent (often at or above market)</li>
+<li>You will maintain the property to hotel standards</li>
+<li>You will carry dedicated liability insurance</li>
+<li>You will sign a longer lease term in exchange for subletting permission</li>
+</ul>
+<p><strong>Offer a Revenue Share:</strong>
+Some landlords are more receptive to a revenue share model (e.g., base rent plus 20% of net STR income) than a flat subletting permission. This aligns incentives.</p>
+<hr>
+<h2 id="scaling-an-airbnb-arbitrage-business">Scaling an Airbnb Arbitrage Business</h2>
+<p>Once you have validated one unit, scaling requires:</p>
+<p><strong>Systems and Automation:</strong> As you add units, manual management becomes impossible. Invest in a channel manager and property management software early. See our guide on <a href="/blog/airbnb-automation-tools">airbnb automation tools</a> for the tools that make scaling possible.</p>
+<p><strong>A Reliable Cleaning Team:</strong> Your cleaning operation is the backbone of your turnaround process. Build redundancy into your team so a single absence cannot derail a stay.</p>
+<p><strong>Legal Structure:</strong> As revenue grows, forming an LLC and maintaining separate business banking becomes important for liability protection and tax purposes, as outlined by the <a href="https://www.sba.gov/business-guide/launch-your-business/choose-business-structure" rel="noopener" target="_blank">SBA business structure guide</a>.</p>
+<p><strong>Tax Planning:</strong> Arbitrage income is business income and must be reported per <a href="https://www.irs.gov/businesses/small-businesses-self-employed/report-of-cash-payments-over-10000-received-in-a-trade-or-business" rel="noopener" target="_blank">IRS self-employment rules</a>. Work with a CPA familiar with STR taxation early. Our <a href="/blog/short-term-rental-tax-guide">short-term rental tax guide</a> covers the basics.</p>
+<hr>
+<h2 id="is-airbnb-arbitrage-right-for-you">Is Airbnb Arbitrage Right for You?</h2>
+<p>Arbitrage may be a good fit if you:</p>
+<ul>
+<li>Want to enter STR investing without large capital</li>
+<li>Are operationally oriented and enjoy managing systems and teams</li>
+<li>Are willing to invest significant time, especially in the early months</li>
+<li>Live in or are targeting a STR-friendly market</li>
+<li>Have a 3–6 month operating reserve beyond startup costs</li>
+</ul>
+<p>It is probably not the right fit if you:</p>
+<ul>
+<li>Expect passive income without active management</li>
+<li>Are operating in a highly regulated or over-saturated market</li>
+<li>Do not have landlord permission secured in writing</li>
+<li>Cannot absorb the loss of your startup investment in a worst-case scenario</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Airbnb arbitrage in 2026 is not dead — but it is no longer easy. The operators thriving in this model are running genuine businesses: careful about market selection, rigorous in their financial analysis, sophisticated in their operations, and fully compliant with local regulations.</p>
+<p>For investors with the right market, the right mindset, and the right systems, arbitrage remains one of the most accessible paths into short-term rental income. The key is going in with accurate expectations and building a foundation that can withstand the inevitable challenges of the STR market.</p>
+<p>For a complete operational playbook, our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a> covers everything from launch to scaling.</p>
+<p><strong>Airbnb Arbitrage Key Takeaways:</strong></p>
+<ul>
+<li>Always secure written landlord permission before operating</li>
+<li>Verify market viability with actual data before signing a lease</li>
+<li>Budget $15,000–$40,000 for startup costs per unit including reserves</li>
+<li>Regulatory risk is the #1 threat — choose markets carefully</li>
+<li>The model still works in mid-size leisure and secondary business markets</li>
+<li>Arbitrage is an active business, not passive income</li>
+</ul>
+27:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2d"}}]
+28:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","airbnb arbitrage",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb arbitrage"}],["$","span","rental arbitrage",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental arbitrage"}],["$","span","short-term rentals",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rentals"}],["$","span","real estate investing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"real estate investing"}],["$","span","passive income",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"passive income"}]]}]
+29:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+2a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","automate-short-term-rental-passive-income",{"href":"/blog/automate-short-term-rental-passive-income","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Automate Your Short-Term Rental for Hands-Off Income"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","short-term-rental-llc-setup",{"href":"/blog/short-term-rental-llc-setup","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Setting Up an LLC for Your Short-Term Rental"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","airbnb-property-management-tips",{"href":"/blog/airbnb-property-management-tips","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"15 Airbnb Property Management Tips to Boost Bookings and Reviews"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}]]}]]}]
+2b:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-airbnb-arbitrage",{"className":"","children":["$","a",null,{"href":"#what-is-airbnb-arbitrage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Airbnb Arbitrage?"}]}],["$","li","how-airbnb-arbitrage-works-the-full-process",{"className":"","children":["$","a",null,{"href":"#how-airbnb-arbitrage-works-the-full-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Airbnb Arbitrage Works: The Full Process"}]}],["$","li","step-1-find-landlord-permission",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-find-landlord-permission","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Find Landlord Permission"}]}],["$","li","step-2-analyze-the-market",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-analyze-the-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Analyze the Market"}]}],["$","li","step-3-lease-negotiation",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-lease-negotiation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Lease Negotiation"}]}],["$","li","step-4-furnish-and-set-up-the-property",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-furnish-and-set-up-the-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Furnish and Set Up the Property"}]}],["$","li","step-5-list-and-optimize",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-list-and-optimize","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: List and Optimize"}]}],["$","li","step-6-operate-and-scale",{"className":"ml-4","children":["$","a",null,{"href":"#step-6-operate-and-scale","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 6: Operate and Scale"}]}],["$","li","startup-costs-for-airbnb-arbitrage",{"className":"","children":["$","a",null,{"href":"#startup-costs-for-airbnb-arbitrage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Startup Costs for Airbnb Arbitrage"}]}],["$","li","profitability-in-2026-what-has-changed",{"className":"","children":["$","a",null,{"href":"#profitability-in-2026-what-has-changed","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Profitability in 2026: What Has Changed"}]}],["$","li","the-markets-that-no-longer-work",{"className":"ml-4","children":["$","a",null,{"href":"#the-markets-that-no-longer-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Markets That No Longer Work"}]}],["$","li","the-markets-that-still-work",{"className":"ml-4","children":["$","a",null,{"href":"#the-markets-that-still-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Markets That Still Work"}]}],["$","li","margin-compression-is-real",{"className":"ml-4","children":["$","a",null,{"href":"#margin-compression-is-real","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Margin Compression Is Real"}]}],["$","li","competition-has-intensified",{"className":"ml-4","children":["$","a",null,{"href":"#competition-has-intensified","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Competition Has Intensified"}]}],["$","li","the-risks-of-airbnb-arbitrage",{"className":"","children":"$L2e"}],"$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38"]}]]}]}]
+2c:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2e:["$","a",null,{"href":"#the-risks-of-airbnb-arbitrage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Risks of Airbnb Arbitrage"}]
+2f:["$","li","1-regulatory-risk",{"className":"ml-4","children":["$","a",null,{"href":"#1-regulatory-risk","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Regulatory Risk"}]}]
+30:["$","li","2-lease-termination-risk",{"className":"ml-4","children":["$","a",null,{"href":"#2-lease-termination-risk","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Lease Termination Risk"}]}]
+31:["$","li","3-vacancy-and-revenue-variability",{"className":"ml-4","children":["$","a",null,{"href":"#3-vacancy-and-revenue-variability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Vacancy and Revenue Variability"}]}]
+32:["$","li","4-property-damage-liability",{"className":"ml-4","children":["$","a",null,{"href":"#4-property-damage-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Property Damage Liability"}]}]
+33:["$","li","5-platform-risk",{"className":"ml-4","children":["$","a",null,{"href":"#5-platform-risk","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Platform Risk"}]}]
+34:["$","li","airbnb-arbitrage-vs-buying-a-property-for-str",{"className":"","children":["$","a",null,{"href":"#airbnb-arbitrage-vs-buying-a-property-for-str","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Arbitrage vs. Buying a Property for STR"}]}]
+35:["$","li","how-to-find-landlords-who-allow-str-arbitrage",{"className":"","children":["$","a",null,{"href":"#how-to-find-landlords-who-allow-str-arbitrage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Find Landlords Who Allow STR Arbitrage"}]}]
+36:["$","li","scaling-an-airbnb-arbitrage-business",{"className":"","children":["$","a",null,{"href":"#scaling-an-airbnb-arbitrage-business","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Scaling an Airbnb Arbitrage Business"}]}]
+37:["$","li","is-airbnb-arbitrage-right-for-you",{"className":"","children":["$","a",null,{"href":"#is-airbnb-arbitrage-right-for-you","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Is Airbnb Arbitrage Right for You?"}]}]
+38:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Airbnb Arbitrage: Is It Still Profitable in 2026? | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Is Airbnb arbitrage still profitable in 2026? Learn how rental arbitrage works, what it costs to start, the risks involved, and which markets still make sense."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"airbnb arbitrage,rental arbitrage,short-term rentals,real estate investing,passive income"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/airbnb-arbitrage-strategy"}],["$","meta","6",{"property":"og:title","content":"Airbnb Arbitrage: Is It Still Profitable in 2026?"}],["$","meta","7",{"property":"og:description","content":"Is Airbnb arbitrage still profitable in 2026? Learn how rental arbitrage works, what it costs to start, the risks involved, and which markets still make sense."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/airbnb-arbitrage-strategy"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Airbnb Arbitrage: Is It Still Profitable in 2026?"}],["$","meta","15",{"name":"twitter:description","content":"Is Airbnb arbitrage still profitable in 2026? Learn how rental arbitrage works, what it costs to start, the risks involved, and which markets still make sense."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

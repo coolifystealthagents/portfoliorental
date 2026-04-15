@@ -1,0 +1,273 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","lease-agreement-template-guide"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","lease-agreement-template-guide","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","lease-agreement-template-guide","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Lease Agreement Template Guide: Essential Clauses Every Landlord Needs\",\"description\":\"Get a complete lease agreement template guide with essential clauses, state-specific requirements, pet policies, and customization tips. Protect your rental investment with a strong lease.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/lease-agreement-template-guide\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tenant Management\",\"item\":\"https://portfoliorental.com/blog/category/tenant-management\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Lease Agreement Template Guide: Essential Clauses Every Landlord Needs\",\"item\":\"https://portfoliorental.com/blog/lease-agreement-template-guide\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/tenant-management","className":"hover:text-blue-600","children":"Tenant Management"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Tenant Management"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Lease Agreement Template Guide: Essential Clauses Every Landlord Needs"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[11," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-a-strong-lease-agreement-matters",{"className":"","children":["$","a",null,{"href":"#why-a-strong-lease-agreement-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why a Strong Lease Agreement Matters"}]}],["$","li","essential-clauses-for-every-lease-agreement",{"className":"","children":["$","a",null,{"href":"#essential-clauses-for-every-lease-agreement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Essential Clauses for Every Lease Agreement"}]}],["$","li","1-names-of-all-parties",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]}]]}],"$L25","$L26"]}],"$L27","$L28"]}],"$L29"]}]]}],"$L2a"]
+11:["$","a",null,{"href":"#1-names-of-all-parties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Names of All Parties"}]
+12:["$","li","2-property-description",{"className":"ml-4","children":["$","a",null,{"href":"#2-property-description","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Property Description"}]}]
+13:["$","li","3-lease-term",{"className":"ml-4","children":["$","a",null,{"href":"#3-lease-term","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Lease Term"}]}]
+14:["$","li","4-rent-amount-and-payment-terms",{"className":"ml-4","children":["$","a",null,{"href":"#4-rent-amount-and-payment-terms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Rent Amount and Payment Terms"}]}]
+15:["$","li","5-late-fees-and-penalties",{"className":"ml-4","children":["$","a",null,{"href":"#5-late-fees-and-penalties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Late Fees and Penalties"}]}]
+16:["$","li","6-security-deposit",{"className":"ml-4","children":["$","a",null,{"href":"#6-security-deposit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Security Deposit"}]}]
+17:["$","li","7-maintenance-and-repair-responsibilities",{"className":"ml-4","children":["$","a",null,{"href":"#7-maintenance-and-repair-responsibilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Maintenance and Repair Responsibilities"}]}]
+18:["$","li","8-pet-policy",{"className":"ml-4","children":["$","a",null,{"href":"#8-pet-policy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Pet Policy"}]}]
+19:["$","li","9-rules-about-alterations-and-modifications",{"className":"ml-4","children":["$","a",null,{"href":"#9-rules-about-alterations-and-modifications","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"9. Rules About Alterations and Modifications"}]}]
+1a:["$","li","10-renewal-terms",{"className":"ml-4","children":["$","a",null,{"href":"#10-renewal-terms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"10. Renewal Terms"}]}]
+1b:["$","li","state-specific-requirements-you-cannot-ignore",{"className":"","children":["$","a",null,{"href":"#state-specific-requirements-you-cannot-ignore","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"State-Specific Requirements You Cannot Ignore"}]}]
+1c:["$","li","clauses-you-should-never-include",{"className":"","children":["$","a",null,{"href":"#clauses-you-should-never-include","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Clauses You Should Never Include"}]}]
+1d:["$","li","tips-for-customizing-your-lease-template",{"className":"","children":["$","a",null,{"href":"#tips-for-customizing-your-lease-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tips for Customizing Your Lease Template"}]}]
+1e:["$","li","use-clear-simple-language",{"className":"ml-4","children":["$","a",null,{"href":"#use-clear-simple-language","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Clear, Simple Language"}]}]
+1f:["$","li","include-an-addendum-section",{"className":"ml-4","children":["$","a",null,{"href":"#include-an-addendum-section","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Include an Addendum Section"}]}]
+20:["$","li","review-and-update-annually",{"className":"ml-4","children":["$","a",null,{"href":"#review-and-update-annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Review and Update Annually"}]}]
+21:["$","li","have-an-attorney-review-your-lease",{"className":"ml-4","children":["$","a",null,{"href":"#have-an-attorney-review-your-lease","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Have an Attorney Review Your Lease"}]}]
+22:["$","li","move-in-and-move-out-checklists",{"className":"","children":["$","a",null,{"href":"#move-in-and-move-out-checklists","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Move-In and Move-Out Checklists"}]}]
+23:["$","li","digital-vs-paper-lease-agreements",{"className":"","children":["$","a",null,{"href":"#digital-vs-paper-lease-agreements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Digital vs. Paper Lease Agreements"}]}]
+24:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+2b:T4675,<p>A lease agreement is the foundation of every landlord-tenant relationship. It sets the rules, protects both parties, and defines what happens when things go wrong.</p>
+<p>A weak lease leaves you exposed. Missing clauses, vague language, or outdated terms can cost you thousands of dollars in disputes and legal fees. A strong lease prevents problems before they start.</p>
+<p>A well-crafted lease is a cornerstone of <a href="/blog/tenant-management-best-practices">tenant management best practices</a>. This guide walks you through every essential clause your lease agreement needs. You will learn about state-specific requirements, pet policies, security deposits, and tips for customizing your template. By the end, you will have a clear blueprint for building a lease that protects your investment.</p>
+<h2 id="why-a-strong-lease-agreement-matters">Why a Strong Lease Agreement Matters</h2>
+<p>Your lease is more than a piece of paper. It is a legal contract that governs everything about the tenancy. Without it, you have almost no legal recourse when problems arise.</p>
+<p>A strong lease agreement:</p>
+<ul>
+<li><strong>Defines expectations.</strong> Both parties know their rights and responsibilities from day one.</li>
+<li><strong>Prevents disputes.</strong> Clear language reduces misunderstandings and arguments.</li>
+<li><strong>Protects your property.</strong> Clauses about maintenance, damage, and alterations keep your investment safe.</li>
+<li><strong>Supports legal action.</strong> If you need to pursue eviction or collect damages, the lease is your primary evidence.</li>
+<li><strong>Ensures compliance.</strong> A well-written lease follows state and local laws, keeping you out of legal trouble.</li>
+</ul>
+<p>A professional <a href="/blog/property-management-agreement-explained">property management agreement</a> covers the business side of property management. Your lease agreement covers the tenant side. Both are equally important.</p>
+<h2 id="essential-clauses-for-every-lease-agreement">Essential Clauses for Every Lease Agreement</h2>
+<p>Let us go through each clause your lease needs. Skip any of these, and you are leaving yourself vulnerable.</p>
+<h3 id="1-names-of-all-parties">1. Names of All Parties</h3>
+<p>List the full legal name of every adult who will live in the unit. This includes the landlord (or property management company) and every tenant.</p>
+<p>Why it matters: Only people named on the lease are legally bound by its terms. If someone not on the lease causes damage, you may have a harder time holding anyone accountable.</p>
+<p>Include a clause that states only the named tenants and their minor children may occupy the unit. This prevents unauthorized occupants.</p>
+<h3 id="2-property-description">2. Property Description</h3>
+<p>Describe the rental property in detail. Include:</p>
+<ul>
+<li>Full street address, including unit number</li>
+<li>Type of property (apartment, house, condo, townhouse)</li>
+<li>Number of bedrooms and bathrooms</li>
+<li>Included parking spaces, storage units, or common areas</li>
+<li>Any furnishings or appliances included with the rental</li>
+</ul>
+<p>Be specific. The more detail you include, the less room there is for disagreement later.</p>
+<h3 id="3-lease-term">3. Lease Term</h3>
+<p>State the start date, end date, and type of lease:</p>
+<ul>
+<li><strong>Fixed-term lease.</strong> A set period, usually 12 months. Neither party can change the terms until the lease expires.</li>
+<li><strong>Month-to-month lease.</strong> Continues indefinitely with 30-day notice from either party to end it.</li>
+</ul>
+<p>If the lease converts to month-to-month after the initial term, state that clearly. Include the notice period required for either party to end the tenancy.</p>
+<h3 id="4-rent-amount-and-payment-terms">4. Rent Amount and Payment Terms</h3>
+<p>This clause should cover:</p>
+<ul>
+<li><strong>Monthly rent amount.</strong> State the exact dollar figure.</li>
+<li><strong>Due date.</strong> When rent is due each month (usually the 1st).</li>
+<li><strong>Grace period.</strong> How many days after the due date before a late fee applies (typically 3 to 5 days).</li>
+<li><strong>Accepted payment methods.</strong> Check, bank transfer, online portal, etc.</li>
+<li><strong>Where to pay.</strong> Mailing address or online payment link.</li>
+</ul>
+<p>Be clear about what happens when rent is late. For detailed guidance on this topic, see our article on <a href="/blog/late-rent-payment-policy">late rent payment policy</a>.</p>
+<h3 id="5-late-fees-and-penalties">5. Late Fees and Penalties</h3>
+<p>Specify the consequences for late payment:</p>
+<ul>
+<li><strong>Late fee amount.</strong> A flat fee (such as $50) or a percentage of rent (such as 5 percent). Check your state law for maximums.</li>
+<li><strong>When the fee applies.</strong> After the grace period ends.</li>
+<li><strong>NSF (bounced check) fee.</strong> A separate fee for returned payments, typically $25 to $50.</li>
+<li><strong>Repeated late payments.</strong> State that chronic late payment is a lease violation.</li>
+</ul>
+<p>Many states cap the amount you can charge for late fees. Research your state's rules before setting yours.</p>
+<h3 id="6-security-deposit">6. Security Deposit</h3>
+<p>Your security deposit clause should cover:</p>
+<ul>
+<li><strong>Amount.</strong> Most states cap this at one to two months' rent.</li>
+<li><strong>How it will be held.</strong> Some states require the deposit in a separate escrow account with interest.</li>
+<li><strong>Conditions for deductions.</strong> Unpaid rent, damage beyond normal wear and tear, cleaning costs, early termination.</li>
+<li><strong>Return timeline.</strong> Most states require the deposit returned within 14 to 30 days after move-out.</li>
+<li><strong>Itemized statement.</strong> If you deduct anything, you must provide an itemized list of deductions.</li>
+</ul>
+<p>Security deposit laws vary widely by state. Getting this wrong can result in penalties of two to three times the deposit amount. Know your state's requirements and follow them exactly. For a detailed breakdown of state-specific rules, read our <a href="/blog/security-deposit-laws-guide">security deposit laws guide</a>.</p>
+<h3 id="7-maintenance-and-repair-responsibilities">7. Maintenance and Repair Responsibilities</h3>
+<p>Clearly define who is responsible for what:</p>
+<p><strong>Landlord responsibilities typically include:</strong></p>
+<ul>
+<li>Structural repairs (roof, foundation, walls)</li>
+<li>Major systems (plumbing, electrical, HVAC)</li>
+<li>Appliance repair or replacement (if provided by landlord)</li>
+<li>Common area maintenance</li>
+<li>Pest control (in most states)</li>
+</ul>
+<p><strong>Tenant responsibilities typically include:</strong></p>
+<ul>
+<li>Keeping the unit clean and sanitary</li>
+<li>Minor maintenance (replacing light bulbs, smoke detector batteries)</li>
+<li>Reporting problems promptly</li>
+<li>Not causing damage through negligence or misuse</li>
+<li>Lawn care (if specified for single-family homes)</li>
+</ul>
+<p>Include a process for submitting maintenance requests. State the expected response times for different types of repairs.</p>
+<h3 id="8-pet-policy">8. Pet Policy</h3>
+<p>Whether you allow pets or not, your lease needs a pet clause.</p>
+<p><strong>If you allow pets, include:</strong></p>
+<ul>
+<li>Types of pets allowed (dogs, cats, fish, etc.)</li>
+<li>Size or breed restrictions</li>
+<li>Maximum number of pets</li>
+<li>Pet deposit or monthly pet rent amount</li>
+<li>Vaccination and licensing requirements</li>
+<li>Rules about noise, waste cleanup, and leash requirements</li>
+<li>Liability for pet damage</li>
+</ul>
+<p><strong>If you do not allow pets, state it clearly.</strong> But remember that service animals and emotional support animals are not pets under federal law. You cannot charge pet deposits or fees for service animals.</p>
+<p>A detailed pet policy prevents arguments and protects your property. Many landlords charge a non-refundable pet fee of $200 to $500 plus monthly pet rent of $25 to $50 per pet.</p>
+<h3 id="9-rules-about-alterations-and-modifications">9. Rules About Alterations and Modifications</h3>
+<p>Tenants often want to make changes to their living space. Your lease should spell out what is and is not allowed.</p>
+<p>Common restrictions include:</p>
+<ul>
+<li>No painting without written permission</li>
+<li>No holes in walls larger than a picture nail</li>
+<li>No removal or modification of fixtures</li>
+<li>No installation of permanent structures (shelves, built-ins)</li>
+<li>All approved modifications must be restored at move-out (unless agreed otherwise)</li>
+</ul>
+<p>For disability-related modifications (like grab bars or wheelchair ramps), you must allow reasonable modifications under the Fair Housing Act. You can require the tenant to restore the unit at their expense when they move out.</p>
+<h3 id="10-renewal-terms">10. Renewal Terms</h3>
+<p>Explain what happens when the lease ends:</p>
+<ul>
+<li><strong>Automatic renewal.</strong> Does the lease automatically renew for another term, or does it convert to month-to-month?</li>
+<li><strong>Notice to vacate.</strong> How much notice must the tenant give if they plan to leave? (Usually 30 to 60 days.)</li>
+<li><strong>Notice of non-renewal.</strong> How much notice will you give if you choose not to renew?</li>
+<li><strong>Rent changes.</strong> Will rent increase upon renewal? If so, how will the new rate be determined?</li>
+</ul>
+<p>Clear renewal terms prevent confusion and give both parties time to plan.</p>
+<h2 id="state-specific-requirements-you-cannot-ignore">State-Specific Requirements You Cannot Ignore</h2>
+<p>Every state has its own landlord-tenant laws. Your lease must comply with the laws in your state, or specific clauses may be unenforceable.</p>
+<p>Here are common areas where state laws differ:</p>
+<ul>
+<li><strong>Security deposit limits.</strong> Some states cap deposits at one month's rent. Others allow two or more.</li>
+<li><strong>Late fee caps.</strong> Many states limit the amount you can charge for late rent.</li>
+<li><strong>Notice periods.</strong> The time you must give before entering the property, raising rent, or ending a tenancy varies.</li>
+<li><strong>Required disclosures.</strong> Most states require specific disclosures, such as lead paint (for pre-1978 buildings), mold, flood zones, or sex offender registries.</li>
+<li><strong>Habitability standards.</strong> States define minimum standards for heat, water, electricity, and structural safety.</li>
+<li><strong>Interest on deposits.</strong> Some states require you to pay interest on security deposits held in escrow.</li>
+<li><strong>Rent control.</strong> A growing number of cities have rent control or rent stabilization laws.</li>
+</ul>
+<p>Never use a generic template without checking your state's requirements. A lease that is legal in Texas may be illegal in California. Our guide on <a href="/blog/landlord-tenant-law-by-state">landlord-tenant law by state</a> can help you identify the key differences. You can also consult <a href="https://www.law.cornell.edu/wex/landlord-tenant_law" rel="noopener" target="_blank">statutory text on landlord-tenant law at Cornell Law</a> for authoritative legal references. Consult a local attorney or your state's landlord-tenant handbook.</p>
+<h2 id="clauses-you-should-never-include">Clauses You Should Never Include</h2>
+<p>Some lease clauses are illegal or unenforceable, regardless of where you are. Including them can expose you to lawsuits.</p>
+<p><strong>Never include clauses that:</strong></p>
+<ul>
+<li><strong>Waive the tenant's right to a habitable unit.</strong> Tenants always have the right to safe, livable conditions.</li>
+<li><strong>Waive the tenant's right to sue.</strong> You cannot force a tenant to give up their legal rights.</li>
+<li><strong>Charge excessive late fees.</strong> Fees that exceed your state's limits are void.</li>
+<li><strong>Allow entry without notice.</strong> Except for emergencies, you must give proper notice.</li>
+<li><strong>Penalize tenants for calling code enforcement.</strong> Retaliatory clauses are illegal in every state.</li>
+<li><strong>Discriminate based on protected classes.</strong> Any clause that targets race, religion, sex, disability, familial status, or national origin violates fair housing laws.</li>
+<li><strong>Require tenants to waive jury trial rights</strong> in states where such waivers are not permitted.</li>
+</ul>
+<p>If you are not sure whether a clause is legal, ask an attorney. It is better to leave a clause out than to include one that gets you sued.</p>
+<p>Understanding <a href="/blog/tenant-rights-responsibilities">tenant rights and responsibilities</a> helps you write a lease that is fair, legal, and enforceable.</p>
+<h2 id="tips-for-customizing-your-lease-template">Tips for Customizing Your Lease Template</h2>
+<p>A template is a starting point, not a finished product. Customize your lease for your property, your market, and your tenants.</p>
+<p>Here are practical tips:</p>
+<h3 id="use-clear-simple-language">Use Clear, Simple Language</h3>
+<p>Write your lease so anyone can understand it. Avoid legal jargon when plain language works just as well.</p>
+<p>Instead of: <em>"The Lessee shall be liable for all costs associated with the remediation of damages to the premises exceeding normal wear and tear."</em></p>
+<p>Write: <em>"The tenant is responsible for paying for any damage to the property beyond normal wear and tear."</em></p>
+<p>Simple language reduces confusion and makes enforcement easier.</p>
+<h3 id="include-an-addendum-section">Include an Addendum Section</h3>
+<p>Some clauses do not fit neatly into the main lease. Use addendums for:</p>
+<ul>
+<li>Pet agreements</li>
+<li>Parking assignments</li>
+<li>Storage unit agreements</li>
+<li>Roommate agreements</li>
+<li>Lead paint disclosures</li>
+<li>Mold disclosures</li>
+<li>Move-in/move-out checklists</li>
+</ul>
+<p>Each addendum should reference the main lease and be signed by all parties.</p>
+<h3 id="review-and-update-annually">Review and Update Annually</h3>
+<p>Laws change. Market conditions change. Your lease should keep up.</p>
+<p>Review your lease template at least once a year. Check for:</p>
+<ul>
+<li>Changes in state or local landlord-tenant laws</li>
+<li>New disclosure requirements</li>
+<li>Clauses that caused problems in the past</li>
+<li>Market-rate adjustments for late fees, deposits, or pet rent</li>
+</ul>
+<p>An annual review keeps your lease current and reduces legal risk.</p>
+<h3 id="have-an-attorney-review-your-lease">Have an Attorney Review Your Lease</h3>
+<p>Even if you start with a template, have a landlord-tenant attorney review your final version. This is especially important if:</p>
+<ul>
+<li>You are a new landlord</li>
+<li>You operate in multiple states</li>
+<li>You recently changed your lease terms</li>
+<li>You had a legal dispute with a tenant</li>
+</ul>
+<p>An attorney review typically costs $200 to $500. That is a small price for the peace of mind that your lease will hold up in court. Resources like <a href="https://www.nolo.com/legal-encyclopedia/leases-rental-agreements" rel="noopener" target="_blank">Nolo's lease and rental agreement guides</a> can also help you understand what belongs in a solid lease.</p>
+<h2 id="move-in-and-move-out-checklists">Move-In and Move-Out Checklists</h2>
+<p>Include a move-in/move-out checklist as part of your lease package. This checklist documents the condition of the property at the start and end of the tenancy.</p>
+<p>The checklist should cover:</p>
+<ul>
+<li>Walls, ceilings, and floors (note any stains, holes, or damage)</li>
+<li>Windows and doors (note cracks, broken locks, or screen damage)</li>
+<li>Kitchen appliances (note condition and functionality)</li>
+<li>Bathroom fixtures (note leaks, stains, or damage)</li>
+<li>Light fixtures and switches</li>
+<li>Smoke and carbon monoxide detectors</li>
+<li>Exterior areas (if applicable)</li>
+</ul>
+<p>Walk through the property with the tenant at move-in and move-out. Both parties should sign and date the checklist. Take photos of every room.</p>
+<p>This checklist is your evidence if there is a dispute about the security deposit. Without it, you may have to return the full deposit even if the tenant caused damage.</p>
+<h2 id="digital-vs-paper-lease-agreements">Digital vs. Paper Lease Agreements</h2>
+<p>Both formats are legally valid in most states. But digital leases offer several advantages:</p>
+<ul>
+<li><strong>Faster execution.</strong> Tenants can sign from anywhere using e-signature tools like DocuSign or HelloSign.</li>
+<li><strong>Easier storage.</strong> Digital files are easy to organize, search, and back up.</li>
+<li><strong>Better tracking.</strong> You can see when the tenant opened, read, and signed the lease.</li>
+<li><strong>Automatic reminders.</strong> Set up renewal reminders so you never miss a deadline.</li>
+</ul>
+<p>If you use a paper lease, make copies for both parties and store your copy in a secure location.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Your lease agreement is the most important document in your rental business. A strong lease protects your property, sets clear expectations, and gives you legal backing when problems arise.</p>
+<p>Here is what every lease needs:</p>
+<ul>
+<li>Names of all parties and property description</li>
+<li>Lease term, rent amount, and payment terms</li>
+<li>Late fees and security deposit details</li>
+<li>Maintenance responsibilities for both parties</li>
+<li>Pet policy, alteration rules, and renewal terms</li>
+<li>State-specific disclosures and compliance</li>
+<li>No illegal or unenforceable clauses</li>
+</ul>
+<p>Start with a solid template, customize it for your property, and have an attorney review it. Update it every year to stay current with the law.</p>
+<p>A few hours spent on your lease now can save you thousands of dollars and countless headaches down the road. Take the time to get it right.</p>
+25:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2b"}}]
+26:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","tenant management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant management"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","rental operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental operations"}],["$","span","tenant relations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant relations"}],["$","span","lease agreement template",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"lease agreement template"}]]}]
+27:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Tenant Management"]}],["$","$L10",null,{"href":"/blog/category/tenant-management","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accept-rent-payments-international-tenants",{"children":["$","$L10",null,{"href":"/blog/accept-rent-payments-international-tenants","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Accept Rent Payments from International Tenants"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ach-rent-payments-direct-debit-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ach-rent-payments-direct-debit-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ACH Rent Payments: Setting Up Direct Debit for Your Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-tenant-screening",{"children":["$","$L10",null,{"href":"/blog/akron-tenant-screening","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Tenant Screening in Akron: Best Practices for Landlords"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","albuquerque-tenant-screening-best-practices",{"children":["$","$L10",null,{"href":"/blog/albuquerque-tenant-screening-best-practices","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Albuquerque Tenant Screening Best Practices"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+28:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","tenant-retention-strategies",{"href":"/blog/tenant-retention-strategies","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"12 Proven Tenant Retention Strategies to Keep Great Renters Long-Term"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","handle-difficult-tenants",{"href":"/blog/handle-difficult-tenants","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Handle Difficult Tenants: A Landlord's Complete Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","late-rent-payment-policy",{"href":"/blog/late-rent-payment-policy","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Late Rent Payment Policy: How to Create and Enforce One That Works"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}]]}]]}]
+29:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-a-strong-lease-agreement-matters",{"className":"","children":["$","a",null,{"href":"#why-a-strong-lease-agreement-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why a Strong Lease Agreement Matters"}]}],["$","li","essential-clauses-for-every-lease-agreement",{"className":"","children":["$","a",null,{"href":"#essential-clauses-for-every-lease-agreement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Essential Clauses for Every Lease Agreement"}]}],["$","li","1-names-of-all-parties",{"className":"ml-4","children":["$","a",null,{"href":"#1-names-of-all-parties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Names of All Parties"}]}],["$","li","2-property-description",{"className":"ml-4","children":["$","a",null,{"href":"#2-property-description","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Property Description"}]}],["$","li","3-lease-term",{"className":"ml-4","children":["$","a",null,{"href":"#3-lease-term","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Lease Term"}]}],["$","li","4-rent-amount-and-payment-terms",{"className":"ml-4","children":["$","a",null,{"href":"#4-rent-amount-and-payment-terms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Rent Amount and Payment Terms"}]}],["$","li","5-late-fees-and-penalties",{"className":"ml-4","children":["$","a",null,{"href":"#5-late-fees-and-penalties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Late Fees and Penalties"}]}],["$","li","6-security-deposit",{"className":"ml-4","children":["$","a",null,{"href":"#6-security-deposit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Security Deposit"}]}],["$","li","7-maintenance-and-repair-responsibilities",{"className":"ml-4","children":["$","a",null,{"href":"#7-maintenance-and-repair-responsibilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Maintenance and Repair Responsibilities"}]}],["$","li","8-pet-policy",{"className":"ml-4","children":["$","a",null,{"href":"#8-pet-policy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Pet Policy"}]}],["$","li","9-rules-about-alterations-and-modifications",{"className":"ml-4","children":["$","a",null,{"href":"#9-rules-about-alterations-and-modifications","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"9. Rules About Alterations and Modifications"}]}],["$","li","10-renewal-terms",{"className":"ml-4","children":["$","a",null,{"href":"#10-renewal-terms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"10. Renewal Terms"}]}],["$","li","state-specific-requirements-you-cannot-ignore",{"className":"","children":["$","a",null,{"href":"#state-specific-requirements-you-cannot-ignore","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"State-Specific Requirements You Cannot Ignore"}]}],["$","li","clauses-you-should-never-include",{"className":"","children":["$","a",null,{"href":"#clauses-you-should-never-include","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Clauses You Should Never Include"}]}],["$","li","tips-for-customizing-your-lease-template",{"className":"","children":["$","a",null,{"href":"#tips-for-customizing-your-lease-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tips for Customizing Your Lease Template"}]}],"$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32"]}]]}]}]
+2a:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2c:["$","li","use-clear-simple-language",{"className":"ml-4","children":["$","a",null,{"href":"#use-clear-simple-language","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Clear, Simple Language"}]}]
+2d:["$","li","include-an-addendum-section",{"className":"ml-4","children":["$","a",null,{"href":"#include-an-addendum-section","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Include an Addendum Section"}]}]
+2e:["$","li","review-and-update-annually",{"className":"ml-4","children":["$","a",null,{"href":"#review-and-update-annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Review and Update Annually"}]}]
+2f:["$","li","have-an-attorney-review-your-lease",{"className":"ml-4","children":["$","a",null,{"href":"#have-an-attorney-review-your-lease","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Have an Attorney Review Your Lease"}]}]
+30:["$","li","move-in-and-move-out-checklists",{"className":"","children":["$","a",null,{"href":"#move-in-and-move-out-checklists","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Move-In and Move-Out Checklists"}]}]
+31:["$","li","digital-vs-paper-lease-agreements",{"className":"","children":["$","a",null,{"href":"#digital-vs-paper-lease-agreements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Digital vs. Paper Lease Agreements"}]}]
+32:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Lease Agreement Template Guide: Essential Clauses Every Landlord Needs | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Get a complete lease agreement template guide with essential clauses, state-specific requirements, pet policies, and customization tips. Protect your rental investment with a strong lease."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"tenant management,landlord tips,rental operations,tenant relations,lease agreement template"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/lease-agreement-template-guide"}],["$","meta","6",{"property":"og:title","content":"Lease Agreement Template Guide: Essential Clauses Every Landlord Needs"}],["$","meta","7",{"property":"og:description","content":"Get a complete lease agreement template guide with essential clauses, state-specific requirements, pet policies, and customization tips. Protect your rental investment with a strong lease."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/lease-agreement-template-guide"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Lease Agreement Template Guide: Essential Clauses Every Landlord Needs"}],["$","meta","15",{"name":"twitter:description","content":"Get a complete lease agreement template guide with essential clauses, state-specific requirements, pet policies, and customization tips. Protect your rental investment with a strong lease."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

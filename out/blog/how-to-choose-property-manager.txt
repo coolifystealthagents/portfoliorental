@@ -1,0 +1,292 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","how-to-choose-property-manager"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","how-to-choose-property-manager","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","how-to-choose-property-manager","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"How to Choose a Property Manager: A Step-by-Step Guide\",\"description\":\"Learn how to choose the right property manager for your rental portfolio with this step-by-step guide covering qualifications, fees, interview questions, and red flags to avoid.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/how-to-choose-property-manager\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Management\",\"item\":\"https://portfoliorental.com/blog/category/property-management\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"How to Choose a Property Manager: A Step-by-Step Guide\",\"item\":\"https://portfoliorental.com/blog/how-to-choose-property-manager\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-management","className":"hover:text-blue-600","children":"Property Management"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Management"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"How to Choose a Property Manager: A Step-by-Step Guide"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[11," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","step-1-define-what-you-need",{"className":"","children":["$","a",null,{"href":"#step-1-define-what-you-need","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Define What You Need"}]}],["$","li","full-service-or-partial",{"className":"ml-4","children":["$","a",null,{"href":"#full-service-or-partial","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Full-Service or Partial?"}]}],["$","li","how-many-units-do-you-have",{"className":"ml-4","children":["$","a",null,{"href":"#how-many-units-do-you-have","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Many Units Do You Have?"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34"]}]}]]}],"$L35","$L36"]}],"$L37","$L38"]}],"$L39"]}]]}],"$L3a"]
+11:["$","li","what-property-types-do-you-own",{"className":"ml-4","children":["$","a",null,{"href":"#what-property-types-do-you-own","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Property Types Do You Own?"}]}]
+12:["$","li","what-is-your-budget",{"className":"ml-4","children":["$","a",null,{"href":"#what-is-your-budget","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Your Budget?"}]}]
+13:["$","li","step-2-build-your-shortlist",{"className":"","children":["$","a",null,{"href":"#step-2-build-your-shortlist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Build Your Shortlist"}]}]
+14:["$","li","online-directories",{"className":"ml-4","children":["$","a",null,{"href":"#online-directories","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Online Directories"}]}]
+15:["$","li","local-real-estate-networks",{"className":"ml-4","children":["$","a",null,{"href":"#local-real-estate-networks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Local Real Estate Networks"}]}]
+16:["$","li","online-reviews",{"className":"ml-4","children":["$","a",null,{"href":"#online-reviews","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Online Reviews"}]}]
+17:["$","li","property-management-websites",{"className":"ml-4","children":["$","a",null,{"href":"#property-management-websites","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Management Websites"}]}]
+18:["$","li","step-3-verify-credentials-and-licensing",{"className":"","children":["$","a",null,{"href":"#step-3-verify-credentials-and-licensing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Verify Credentials and Licensing"}]}]
+19:["$","li","state-licensing",{"className":"ml-4","children":["$","a",null,{"href":"#state-licensing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"State Licensing"}]}]
+1a:["$","li","insurance",{"className":"ml-4","children":["$","a",null,{"href":"#insurance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance"}]}]
+1b:["$","li","professional-designations",{"className":"ml-4","children":["$","a",null,{"href":"#professional-designations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Professional Designations"}]}]
+1c:["$","li","years-in-business",{"className":"ml-4","children":["$","a",null,{"href":"#years-in-business","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Years in Business"}]}]
+1d:["$","li","step-4-interview-your-top-candidates",{"className":"","children":["$","a",null,{"href":"#step-4-interview-your-top-candidates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Interview Your Top Candidates"}]}]
+1e:["$","li","questions-about-their-business",{"className":"ml-4","children":["$","a",null,{"href":"#questions-about-their-business","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Questions About Their Business"}]}]
+1f:["$","li","questions-about-leasing",{"className":"ml-4","children":["$","a",null,{"href":"#questions-about-leasing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Questions About Leasing"}]}]
+20:["$","li","questions-about-maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#questions-about-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Questions About Maintenance"}]}]
+21:["$","li","questions-about-communication-and-reporting",{"className":"ml-4","children":["$","a",null,{"href":"#questions-about-communication-and-reporting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Questions About Communication and Reporting"}]}]
+22:["$","li","questions-about-fees-and-contracts",{"className":"ml-4","children":["$","a",null,{"href":"#questions-about-fees-and-contracts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Questions About Fees and Contracts"}]}]
+23:["$","li","step-5-check-references",{"className":"","children":["$","a",null,{"href":"#step-5-check-references","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Check References"}]}]
+24:["$","li","red-flags-from-references",{"className":"ml-4","children":["$","a",null,{"href":"#red-flags-from-references","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Red Flags from References"}]}]
+25:["$","li","step-6-review-the-management-agreement",{"className":"","children":["$","a",null,{"href":"#step-6-review-the-management-agreement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 6: Review the Management Agreement"}]}]
+26:["$","li","scope-of-services",{"className":"ml-4","children":["$","a",null,{"href":"#scope-of-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Scope of Services"}]}]
+27:["$","li","fee-schedule",{"className":"ml-4","children":["$","a",null,{"href":"#fee-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fee Schedule"}]}]
+28:["$","li","termination-clause",{"className":"ml-4","children":["$","a",null,{"href":"#termination-clause","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Termination Clause"}]}]
+29:["$","li","liability-and-insurance",{"className":"ml-4","children":["$","a",null,{"href":"#liability-and-insurance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Liability and Insurance"}]}]
+2a:["$","li","property-condition-at-start",{"className":"ml-4","children":["$","a",null,{"href":"#property-condition-at-start","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Condition at Start"}]}]
+2b:["$","li","step-7-start-with-a-trial-mindset",{"className":"","children":["$","a",null,{"href":"#step-7-start-with-a-trial-mindset","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 7: Start with a Trial Mindset"}]}]
+2c:["$","li","what-to-evaluate-in-the-first-90-days",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-evaluate-in-the-first-90-days","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Evaluate in the First 90 Days"}]}]
+2d:["$","li","common-mistakes-when-choosing-a-property-manager",{"className":"","children":["$","a",null,{"href":"#common-mistakes-when-choosing-a-property-manager","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Mistakes When Choosing a Property Manager"}]}]
+2e:["$","li","choosing-based-on-price-alone",{"className":"ml-4","children":["$","a",null,{"href":"#choosing-based-on-price-alone","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Choosing Based on Price Alone"}]}]
+2f:["$","li","not-visiting-their-office",{"className":"ml-4","children":["$","a",null,{"href":"#not-visiting-their-office","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Not Visiting Their Office"}]}]
+30:["$","li","ignoring-technology",{"className":"ml-4","children":["$","a",null,{"href":"#ignoring-technology","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ignoring Technology"}]}]
+31:["$","li","skipping-the-contract-review",{"className":"ml-4","children":["$","a",null,{"href":"#skipping-the-contract-review","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Skipping the Contract Review"}]}]
+32:["$","li","not-asking-about-their-portfolio",{"className":"ml-4","children":["$","a",null,{"href":"#not-asking-about-their-portfolio","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Not Asking About Their Portfolio"}]}]
+33:["$","li","what-good-property-management-looks-like",{"className":"","children":["$","a",null,{"href":"#what-good-property-management-looks-like","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Good Property Management Looks Like"}]}]
+34:["$","li","final-checklist",{"className":"","children":["$","a",null,{"href":"#final-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Checklist"}]}]
+3b:T49fa,<p>Choosing the wrong property manager can cost you thousands of dollars and months of headaches. Choosing the right one can transform your rental property from a time-consuming burden into a smooth-running investment.</p>
+<p>The challenge is that most landlords do not know how to evaluate a property management company. They pick based on price, a friend's recommendation, or a flashy website. Then six months later, they are dealing with poor communication, hidden fees, and declining property conditions.</p>
+<p>This guide gives you a clear, step-by-step process for how to choose a property manager who actually delivers results. Follow it, and you will make a decision you are confident in.</p>
+<p>If you are still deciding whether you even need a property manager, start with our guide on <a href="/blog/what-does-a-property-manager-do">what a property manager does</a> and our <a href="/blog/property-management-services-complete-guide">complete overview of property management services</a>.</p>
+<h2 id="step-1-define-what-you-need">Step 1: Define What You Need</h2>
+<p>Before you start calling companies, get clear on what you want from a property manager. Your needs shape which companies are the right fit.</p>
+<h3 id="full-service-or-partial">Full-Service or Partial?</h3>
+<p>Full-service management handles everything from leasing to maintenance to financials. Partial service covers specific areas like tenant placement only or maintenance coordination only. If you want to stay hands-off, go full-service. If you enjoy certain aspects of management and want to save money, consider partial service.</p>
+<h3 id="how-many-units-do-you-have">How Many Units Do You Have?</h3>
+<p>Your portfolio size affects which companies will serve you well. Some managers specialize in large portfolios of 50+ units. Others focus on small landlords with 1-5 properties. Make sure the company you choose works with clients at your scale.</p>
+<h3 id="what-property-types-do-you-own">What Property Types Do You Own?</h3>
+<p>A company that manages single-family homes may not have the expertise for multifamily buildings, and vice versa. If you own commercial property, you need a commercial property manager. Match the company's specialization to your property type.</p>
+<h3 id="what-is-your-budget">What Is Your Budget?</h3>
+<p>Know your numbers before you start shopping. Use our <a href="/blog/property-management-fees-breakdown">property management fees breakdown</a> to understand typical costs. Then calculate the maximum you can spend while still maintaining a healthy return. Our <a href="/blog/rental-property-cash-flow-analysis">rental property cash flow analysis</a> guide can help with this.</p>
+<h2 id="step-2-build-your-shortlist">Step 2: Build Your Shortlist</h2>
+<p>Now that you know what you need, build a list of 3-5 companies to evaluate. Here is where to find them.</p>
+<h3 id="online-directories">Online Directories</h3>
+<p><a href="https://www.narpm.org/" rel="noopener" target="_blank">NARPM (National Association of Residential Property Managers)</a> has a directory of member companies where you can find a qualified property manager in your area. Members must follow a code of ethics and meet professional standards. This is one of the most reliable starting points.</p>
+<h3 id="local-real-estate-networks">Local Real Estate Networks</h3>
+<p>Ask other landlords, real estate agents, and local real estate investment groups for recommendations. Landlords who have worked with a company for years can give you honest assessments that online reviews cannot.</p>
+<h3 id="online-reviews">Online Reviews</h3>
+<p>Check Google Reviews, Yelp, and the <a href="https://www.bbb.org/" rel="noopener" target="_blank">Better Business Bureau</a>. Pay attention to patterns rather than individual reviews. Every company gets an occasional negative review. What matters is whether the same complaints come up repeatedly: poor communication, hidden fees, slow maintenance response, or unresponsive management.</p>
+<h3 id="property-management-websites">Property Management Websites</h3>
+<p>Search for "property management [your city]" and review the top results. Look at their websites for professionalism, clear pricing, and detailed service descriptions. A company that cannot market itself effectively may struggle to market your property.</p>
+<h2 id="step-3-verify-credentials-and-licensing">Step 3: Verify Credentials and Licensing</h2>
+<p>Before investing time in interviews, verify that each company on your list meets basic professional standards.</p>
+<h3 id="state-licensing">State Licensing</h3>
+<p>Most states require property managers to hold a real estate broker's license or work under a licensed broker. Verify this through your state's real estate commission website. An unlicensed operator puts your property at legal risk.</p>
+<h3 id="insurance">Insurance</h3>
+<p>The company should carry errors and omissions (E&#x26;O) insurance and general liability insurance at minimum. Some also carry a fidelity bond, which protects your funds in case of employee theft. Ask for proof of insurance.</p>
+<h3 id="professional-designations">Professional Designations</h3>
+<p>Look for managers who hold industry designations:</p>
+<ul>
+<li><strong>CPM (Certified Property Manager):</strong> Awarded by the Institute of Real Estate Management (IREM). Requires extensive education, experience, and ethics commitments.</li>
+<li><strong>RMP (Residential Management Professional):</strong> Awarded by NARPM. Focused specifically on residential property management.</li>
+<li><strong>MPM (Master Property Manager):</strong> The highest NARPM designation. Requires years of experience and demonstrated excellence.</li>
+</ul>
+<p>These designations are not required, but they signal a commitment to professional development.</p>
+<h3 id="years-in-business">Years in Business</h3>
+<p>Experience matters. A company that has managed properties in your market for 5+ years has likely dealt with most situations that can arise. They know the local laws, the reliable contractors, and the market dynamics.</p>
+<h2 id="step-4-interview-your-top-candidates">Step 4: Interview Your Top Candidates</h2>
+<p>This is where you separate the strong companies from the weak ones. Schedule phone or in-person meetings with your top 3 candidates and ask these questions.</p>
+<h3 id="questions-about-their-business">Questions About Their Business</h3>
+<ol>
+<li>
+<p><strong>How many units do you currently manage?</strong> A company managing 200-500 units is typically a sweet spot. Large enough to have proper systems, small enough to give you personal attention.</p>
+</li>
+<li>
+<p><strong>What is your average client tenure?</strong> Companies that retain clients for 3+ years on average are doing something right.</p>
+</li>
+<li>
+<p><strong>What is your staff-to-unit ratio?</strong> A common benchmark is one property manager for every 100-150 units. If the ratio is much higher, the manager may be stretched too thin.</p>
+</li>
+<li>
+<p><strong>How do you handle after-hours emergencies?</strong> The answer should be specific: a dedicated phone line, a rotation of on-call staff, or a third-party answering service with clear escalation procedures.</p>
+</li>
+</ol>
+<h3 id="questions-about-leasing">Questions About Leasing</h3>
+<ol start="5">
+<li>
+<p><strong>What is your average time to fill a vacancy?</strong> Top companies fill vacancies within 2-3 weeks. Anything above 30 days should prompt follow-up questions about their marketing strategy.</p>
+</li>
+<li>
+<p><strong>What is your average vacancy rate?</strong> Compare their answer to the market average. If the local average is 5% and they run at 3%, that is a strong indicator of performance.</p>
+</li>
+<li>
+<p><strong>How do you price rental units?</strong> They should describe a data-driven process using comparable rentals, market trends, and seasonal factors. If the answer is vague, their pricing strategy probably is too.</p>
+</li>
+<li>
+<p><strong>What screening criteria do you use?</strong> Look for a consistent, documented process that includes credit checks, background checks, income verification, rental history, and eviction history.</p>
+</li>
+</ol>
+<h3 id="questions-about-maintenance">Questions About Maintenance</h3>
+<ol start="9">
+<li>
+<p><strong>Do you use in-house maintenance staff or third-party contractors?</strong> Both models work. The key is transparency in pricing and quality of work.</p>
+</li>
+<li>
+<p><strong>What is your maintenance markup?</strong> A 10-15% markup is standard. Anything above 20% is excessive. For a detailed look at all fees, see our <a href="/blog/property-management-fees-breakdown">property management fees breakdown</a>.</p>
+</li>
+<li>
+<p><strong>What is the spending threshold for repairs?</strong> Most companies approve repairs up to $300-$500 without owner approval. This speeds up response times and keeps tenants happy.</p>
+</li>
+<li>
+<p><strong>Can you share your preferred vendor list?</strong> A well-run company has a documented list of vetted contractors for every trade.</p>
+</li>
+</ol>
+<h3 id="questions-about-communication-and-reporting">Questions About Communication and Reporting</h3>
+<ol start="13">
+<li>
+<p><strong>How often will I receive financial reports?</strong> Monthly statements are the standard. Some companies also provide quarterly and annual summaries.</p>
+</li>
+<li>
+<p><strong>Do you offer an online owner portal?</strong> You should have 24/7 access to financial data, maintenance records, and lease documents through a secure online portal.</p>
+</li>
+<li>
+<p><strong>What is your typical response time to owner inquiries?</strong> Within 24 hours on business days is a reasonable expectation. Same-day responses are even better.</p>
+</li>
+<li>
+<p><strong>How do you handle tenant complaints and disputes?</strong> Look for a structured process that includes documentation, fair investigation, and consistent enforcement.</p>
+</li>
+</ol>
+<h3 id="questions-about-fees-and-contracts">Questions About Fees and Contracts</h3>
+<ol start="17">
+<li>
+<p><strong>Can you provide a complete written fee schedule?</strong> If they hesitate or say their fees vary, that is a warning sign. See our <a href="/blog/property-management-fees-breakdown">property management fees breakdown</a> to know which fees are standard.</p>
+</li>
+<li>
+<p><strong>What is your contract term?</strong> Month-to-month or one-year terms with 30-day cancellation clauses are ideal. Avoid companies that require multi-year commitments.</p>
+</li>
+<li>
+<p><strong>Is there an early termination fee?</strong> If so, how much? Companies confident in their service should offer reasonable exit terms.</p>
+</li>
+<li>
+<p><strong>What happens if the tenant you place breaks the lease early?</strong> The best companies offer a leasing guarantee: they re-lease the unit at no additional cost within a specified period.</p>
+</li>
+</ol>
+<h2 id="step-5-check-references">Step 5: Check References</h2>
+<p>Never skip this step. Ask each finalist for at least three references from current clients. Then ask these questions:</p>
+<ul>
+<li>How long have you worked with this company?</li>
+<li>How well do they communicate?</li>
+<li>Have you experienced any issues with hidden fees or unexpected charges?</li>
+<li>How quickly do they respond to your questions?</li>
+<li>How effectively do they handle maintenance?</li>
+<li>Would you recommend them to another landlord?</li>
+</ul>
+<p>Also, ask for references from tenants if possible. A company that treats tenants well has lower turnover, which directly benefits your bottom line.</p>
+<h3 id="red-flags-from-references">Red Flags from References</h3>
+<p>Pay attention if references mention:</p>
+<ul>
+<li>Slow communication or unreturned calls</li>
+<li>Surprises on monthly statements</li>
+<li>High tenant turnover</li>
+<li>Maintenance issues that went unresolved</li>
+<li>Difficulty getting clear answers about finances</li>
+</ul>
+<p>Even one of these issues can indicate systemic problems.</p>
+<h2 id="step-6-review-the-management-agreement">Step 6: Review the Management Agreement</h2>
+<p>The management agreement is a legally binding contract. Read every word before you sign. Here is what to look for.</p>
+<h3 id="scope-of-services">Scope of Services</h3>
+<p>The contract should clearly list every service included in the management fee and every service that costs extra. If it is vague, ask for clarification in writing.</p>
+<h3 id="fee-schedule">Fee Schedule</h3>
+<p>All fees should be documented in the contract, not just discussed verbally. Compare the contract to the written fee schedule the company provided. They should match exactly.</p>
+<h3 id="termination-clause">Termination Clause</h3>
+<p>Look for:</p>
+<ul>
+<li>How much notice is required to cancel (30-60 days is reasonable)</li>
+<li>Whether there is an early termination fee</li>
+<li>What happens to security deposits and reserve funds when you leave</li>
+<li>How the transition process works</li>
+</ul>
+<h3 id="liability-and-insurance">Liability and Insurance</h3>
+<p>The contract should specify:</p>
+<ul>
+<li>What insurance the company carries</li>
+<li>How liability is allocated between you and the company</li>
+<li>Whether the company is responsible for their errors</li>
+</ul>
+<h3 id="property-condition-at-start">Property Condition at Start</h3>
+<p>A reputable company will inspect your property before taking over management. The contract should reference this inspection and note any existing issues.</p>
+<h2 id="step-7-start-with-a-trial-mindset">Step 7: Start with a Trial Mindset</h2>
+<p>Even after thorough research, you will not know how good a property manager is until they manage your property. Approach the first 90 days as a trial period.</p>
+<h3 id="what-to-evaluate-in-the-first-90-days">What to Evaluate in the First 90 Days</h3>
+<ul>
+<li><strong>Communication quality.</strong> Are monthly reports arriving on time? Are your questions answered promptly?</li>
+<li><strong>Leasing performance.</strong> If there is a vacancy, how quickly is it filled?</li>
+<li><strong>Maintenance handling.</strong> Are tenant requests addressed quickly? Are costs reasonable?</li>
+<li><strong>Financial accuracy.</strong> Do the numbers on your statements add up? Are there any unexplained charges?</li>
+<li><strong>Tenant feedback.</strong> If possible, check in with your tenants to see how they feel about the new management.</li>
+</ul>
+<p>If the company performs well during this period, you can feel confident in a longer commitment. If there are problems, address them early. Most issues are fixable with clear communication.</p>
+<h2 id="common-mistakes-when-choosing-a-property-manager">Common Mistakes When Choosing a Property Manager</h2>
+<p>Avoid these costly errors:</p>
+<h3 id="choosing-based-on-price-alone">Choosing Based on Price Alone</h3>
+<p>The cheapest property manager often costs you the most. Low fees usually mean fewer services, less experienced staff, or higher hidden charges. The real cost of management includes vacancy losses, maintenance quality, and tenant retention, not just the monthly fee. Understand the full cost with our <a href="/blog/property-management-cost-per-door">cost per door analysis</a>.</p>
+<h3 id="not-visiting-their-office">Not Visiting Their Office</h3>
+<p>If possible, visit the company's office. Is it professional and organized? Do the staff seem knowledgeable and friendly? The state of their office often reflects the state of their management.</p>
+<h3 id="ignoring-technology">Ignoring Technology</h3>
+<p>Modern property management requires modern tools. If a company still relies on paper checks, manual spreadsheets, and phone-only communication, they will struggle to provide the efficiency and transparency you need.</p>
+<h3 id="skipping-the-contract-review">Skipping the Contract Review</h3>
+<p>Many landlords sign management agreements without reading them carefully. This leads to surprise fees, unfavorable terms, and difficulty switching companies. Take the time to review every clause.</p>
+<h3 id="not-asking-about-their-portfolio">Not Asking About Their Portfolio</h3>
+<p>A property manager who manages 1,000 units will manage your property very differently than one who manages 100. Neither is inherently better, but you need to understand how your property fits within their portfolio and how much attention it will receive.</p>
+<h2 id="what-good-property-management-looks-like">What Good Property Management Looks Like</h2>
+<p>When you find the right property manager, the relationship should feel like a partnership. Here is what to expect:</p>
+<ul>
+<li><strong>Proactive communication.</strong> They reach out before problems become emergencies.</li>
+<li><strong>Transparent finances.</strong> You always know where your money is going.</li>
+<li><strong>Consistent performance.</strong> Vacancies are filled quickly, rent is collected on time, and maintenance is handled well.</li>
+<li><strong>Professional growth.</strong> They stay current on laws, technology, and best practices.</li>
+<li><strong>Aligned incentives.</strong> Their success is tied to your success.</li>
+</ul>
+<p>For a comprehensive view of what professional management includes, read our <a href="/blog/property-management-services-complete-guide">complete guide to property management services</a>. To learn how the right manager can boost your returns, explore our <a href="/blog/maximize-rental-income-strategies">strategies to maximize rental income</a>.</p>
+<h2 id="final-checklist">Final Checklist</h2>
+<p>Before you make your final decision, confirm the following:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> The company is properly licensed in your state</li>
+<li class="task-list-item"><input type="checkbox" disabled> They carry adequate insurance</li>
+<li class="task-list-item"><input type="checkbox" disabled> You have checked at least 3 client references</li>
+<li class="task-list-item"><input type="checkbox" disabled> You have received and reviewed a complete written fee schedule</li>
+<li class="task-list-item"><input type="checkbox" disabled> You have read the full management agreement</li>
+<li class="task-list-item"><input type="checkbox" disabled> The contract includes a reasonable termination clause</li>
+<li class="task-list-item"><input type="checkbox" disabled> Their technology platform meets your needs</li>
+<li class="task-list-item"><input type="checkbox" disabled> Their specialization matches your property type</li>
+<li class="task-list-item"><input type="checkbox" disabled> Their portfolio size allows for adequate attention to your property</li>
+<li class="task-list-item"><input type="checkbox" disabled> You feel comfortable with their communication style</li>
+</ul>
+<p>Choose carefully, and your property manager will become one of the most valuable partners in your real estate investing journey.</p>
+35:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$3b"}}]
+36:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","property management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","rental management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental management"}],["$","span","property management basics",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management basics"}],["$","span","how to choose a property manager",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"how to choose a property manager"}]]}]
+37:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Management"]}],["$","$L10",null,{"href":"/blog/category/property-management","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-property-management-approaches",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-property-management-approaches","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Property Management Approaches"}],["$","span",null,{"className":"text-xs text-gray-400","children":[5," min"]}]]}]}],["$","li","addendum-property-management-agreement",{"children":["$","$L10",null,{"href":"/blog/addendum-property-management-agreement","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Addendum to Property Management Agreement: When and How to Use One"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-fees",{"children":["$","$L10",null,{"href":"/blog/akron-fees","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Property Management Fees in Akron: What to Expect"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-guide",{"children":["$","$L10",null,{"href":"/blog/akron-guide","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Complete Guide to Property Management in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+38:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","full-service-property-management",{"href":"/blog/full-service-property-management","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Full Service Property Management: What It Includes and Who Needs It"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","hiring-property-manager-checklist",{"href":"/blog/hiring-property-manager-checklist","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Hiring a Property Manager Checklist: 15 Steps to Find the Right Fit"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","portfolio-rental-management-basics",{"href":"/blog/portfolio-rental-management-basics","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Portfolio Rental Management Basics: A Complete Guide for Property Investors"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}]]}]]}]
+39:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","step-1-define-what-you-need",{"className":"","children":["$","a",null,{"href":"#step-1-define-what-you-need","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Define What You Need"}]}],["$","li","full-service-or-partial",{"className":"ml-4","children":["$","a",null,{"href":"#full-service-or-partial","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Full-Service or Partial?"}]}],["$","li","how-many-units-do-you-have",{"className":"ml-4","children":["$","a",null,{"href":"#how-many-units-do-you-have","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Many Units Do You Have?"}]}],["$","li","what-property-types-do-you-own",{"className":"ml-4","children":["$","a",null,{"href":"#what-property-types-do-you-own","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Property Types Do You Own?"}]}],["$","li","what-is-your-budget",{"className":"ml-4","children":["$","a",null,{"href":"#what-is-your-budget","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Your Budget?"}]}],["$","li","step-2-build-your-shortlist",{"className":"","children":["$","a",null,{"href":"#step-2-build-your-shortlist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Build Your Shortlist"}]}],["$","li","online-directories",{"className":"ml-4","children":["$","a",null,{"href":"#online-directories","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Online Directories"}]}],["$","li","local-real-estate-networks",{"className":"ml-4","children":["$","a",null,{"href":"#local-real-estate-networks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Local Real Estate Networks"}]}],["$","li","online-reviews",{"className":"ml-4","children":["$","a",null,{"href":"#online-reviews","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Online Reviews"}]}],["$","li","property-management-websites",{"className":"ml-4","children":["$","a",null,{"href":"#property-management-websites","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Management Websites"}]}],["$","li","step-3-verify-credentials-and-licensing",{"className":"","children":["$","a",null,{"href":"#step-3-verify-credentials-and-licensing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Verify Credentials and Licensing"}]}],["$","li","state-licensing",{"className":"ml-4","children":["$","a",null,{"href":"#state-licensing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"State Licensing"}]}],["$","li","insurance",{"className":"ml-4","children":["$","a",null,{"href":"#insurance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance"}]}],["$","li","professional-designations",{"className":"ml-4","children":["$","a",null,{"href":"#professional-designations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Professional Designations"}]}],["$","li","years-in-business",{"className":"ml-4","children":["$","a",null,{"href":"#years-in-business","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Years in Business"}]}],["$","li","step-4-interview-your-top-candidates",{"className":"","children":["$","a",null,{"href":"#step-4-interview-your-top-candidates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Interview Your Top Candidates"}]}],"$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52"]}]]}]}]
+3a:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+3c:["$","li","questions-about-their-business",{"className":"ml-4","children":["$","a",null,{"href":"#questions-about-their-business","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Questions About Their Business"}]}]
+3d:["$","li","questions-about-leasing",{"className":"ml-4","children":["$","a",null,{"href":"#questions-about-leasing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Questions About Leasing"}]}]
+3e:["$","li","questions-about-maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#questions-about-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Questions About Maintenance"}]}]
+3f:["$","li","questions-about-communication-and-reporting",{"className":"ml-4","children":["$","a",null,{"href":"#questions-about-communication-and-reporting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Questions About Communication and Reporting"}]}]
+40:["$","li","questions-about-fees-and-contracts",{"className":"ml-4","children":["$","a",null,{"href":"#questions-about-fees-and-contracts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Questions About Fees and Contracts"}]}]
+41:["$","li","step-5-check-references",{"className":"","children":["$","a",null,{"href":"#step-5-check-references","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Check References"}]}]
+42:["$","li","red-flags-from-references",{"className":"ml-4","children":["$","a",null,{"href":"#red-flags-from-references","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Red Flags from References"}]}]
+43:["$","li","step-6-review-the-management-agreement",{"className":"","children":["$","a",null,{"href":"#step-6-review-the-management-agreement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 6: Review the Management Agreement"}]}]
+44:["$","li","scope-of-services",{"className":"ml-4","children":["$","a",null,{"href":"#scope-of-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Scope of Services"}]}]
+45:["$","li","fee-schedule",{"className":"ml-4","children":["$","a",null,{"href":"#fee-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fee Schedule"}]}]
+46:["$","li","termination-clause",{"className":"ml-4","children":["$","a",null,{"href":"#termination-clause","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Termination Clause"}]}]
+47:["$","li","liability-and-insurance",{"className":"ml-4","children":["$","a",null,{"href":"#liability-and-insurance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Liability and Insurance"}]}]
+48:["$","li","property-condition-at-start",{"className":"ml-4","children":["$","a",null,{"href":"#property-condition-at-start","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Condition at Start"}]}]
+49:["$","li","step-7-start-with-a-trial-mindset",{"className":"","children":["$","a",null,{"href":"#step-7-start-with-a-trial-mindset","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 7: Start with a Trial Mindset"}]}]
+4a:["$","li","what-to-evaluate-in-the-first-90-days",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-evaluate-in-the-first-90-days","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Evaluate in the First 90 Days"}]}]
+4b:["$","li","common-mistakes-when-choosing-a-property-manager",{"className":"","children":["$","a",null,{"href":"#common-mistakes-when-choosing-a-property-manager","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Mistakes When Choosing a Property Manager"}]}]
+4c:["$","li","choosing-based-on-price-alone",{"className":"ml-4","children":["$","a",null,{"href":"#choosing-based-on-price-alone","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Choosing Based on Price Alone"}]}]
+4d:["$","li","not-visiting-their-office",{"className":"ml-4","children":["$","a",null,{"href":"#not-visiting-their-office","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Not Visiting Their Office"}]}]
+4e:["$","li","ignoring-technology",{"className":"ml-4","children":["$","a",null,{"href":"#ignoring-technology","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ignoring Technology"}]}]
+4f:["$","li","skipping-the-contract-review",{"className":"ml-4","children":["$","a",null,{"href":"#skipping-the-contract-review","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Skipping the Contract Review"}]}]
+50:["$","li","not-asking-about-their-portfolio",{"className":"ml-4","children":["$","a",null,{"href":"#not-asking-about-their-portfolio","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Not Asking About Their Portfolio"}]}]
+51:["$","li","what-good-property-management-looks-like",{"className":"","children":["$","a",null,{"href":"#what-good-property-management-looks-like","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Good Property Management Looks Like"}]}]
+52:["$","li","final-checklist",{"className":"","children":["$","a",null,{"href":"#final-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Checklist"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"How to Choose a Property Manager: A Step-by-Step Guide | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn how to choose the right property manager for your rental portfolio with this step-by-step guide covering qualifications, fees, interview questions, and red flags to avoid."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"property management,landlord tips,rental management,property management basics,how to choose a property manager"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/how-to-choose-property-manager"}],["$","meta","6",{"property":"og:title","content":"How to Choose a Property Manager: A Step-by-Step Guide"}],["$","meta","7",{"property":"og:description","content":"Learn how to choose the right property manager for your rental portfolio with this step-by-step guide covering qualifications, fees, interview questions, and red flags to avoid."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/how-to-choose-property-manager"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"How to Choose a Property Manager: A Step-by-Step Guide"}],["$","meta","15",{"name":"twitter:description","content":"Learn how to choose the right property manager for your rental portfolio with this step-by-step guide covering qualifications, fees, interview questions, and red flags to avoid."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,338 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","amenities-checklist-short-term-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","amenities-checklist-short-term-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","amenities-checklist-short-term-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Must-Have Amenities Checklist for Short-Term Rentals\",\"description\":\"Complete amenities checklist for short-term rentals covering essentials, premium upgrades, and room-by-room must-haves to maximize guest satisfaction and reviews.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/amenities-checklist-short-term-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Must-Have Amenities Checklist for Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/amenities-checklist-short-term-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Must-Have Amenities Checklist for Short-Term Rentals"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-amenities-directly-impact-your-revenue",{"className":"","children":["$","a",null,{"href":"#why-amenities-directly-impact-your-revenue","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Amenities Directly Impact Your Revenue"}]}],["$","li","tier-1-absolute-essentials-non-negotiable",{"className":"","children":["$","a",null,{"href":"#tier-1-absolute-essentials-non-negotiable","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 1: Absolute Essentials (Non-Negotiable)"}]}],["$","li","technology-x26-connectivity",{"className":"ml-4","children":["$","a",null,{"href":"#technology-x26-connectivity","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Technology &#x26; Connectivity"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]}]]}],"$L24","$L25"]}],"$L26","$L27"]}],"$L28"]}]]}],"$L29"]
+11:["$","li","climate-control",{"className":"ml-4","children":["$","a",null,{"href":"#climate-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Climate Control"}]}]
+12:["$","li","safety",{"className":"ml-4","children":["$","a",null,{"href":"#safety","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Safety"}]}]
+13:["$","li","entry-x26-access",{"className":"ml-4","children":["$","a",null,{"href":"#entry-x26-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Entry &#x26; Access"}]}]
+14:["$","li","tier-2-room-by-room-essentials-checklist",{"className":"","children":["$","a",null,{"href":"#tier-2-room-by-room-essentials-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 2: Room-by-Room Essentials Checklist"}]}]
+15:["$","li","kitchen-essentials",{"className":"ml-4","children":["$","a",null,{"href":"#kitchen-essentials","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Kitchen Essentials"}]}]
+16:["$","li","bedroom-essentials",{"className":"ml-4","children":["$","a",null,{"href":"#bedroom-essentials","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedroom Essentials"}]}]
+17:["$","li","bathroom-essentials",{"className":"ml-4","children":["$","a",null,{"href":"#bathroom-essentials","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bathroom Essentials"}]}]
+18:["$","li","living-room-common-area",{"className":"ml-4","children":["$","a",null,{"href":"#living-room-common-area","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Living Room / Common Area"}]}]
+19:["$","li","laundry-area",{"className":"ml-4","children":["$","a",null,{"href":"#laundry-area","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Laundry Area"}]}]
+1a:["$","li","outdoor-spaces-if-applicable",{"className":"ml-4","children":["$","a",null,{"href":"#outdoor-spaces-if-applicable","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Outdoor Spaces (If Applicable)"}]}]
+1b:["$","li","tier-3-premium-amenities-that-justify-higher-rates",{"className":"","children":["$","a",null,{"href":"#tier-3-premium-amenities-that-justify-higher-rates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 3: Premium Amenities That Justify Higher Rates"}]}]
+1c:["$","li","technology-upgrades",{"className":"ml-4","children":["$","a",null,{"href":"#technology-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Technology Upgrades"}]}]
+1d:["$","li","kitchen-upgrades",{"className":"ml-4","children":["$","a",null,{"href":"#kitchen-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Kitchen Upgrades"}]}]
+1e:["$","li","bedroom-upgrades",{"className":"ml-4","children":["$","a",null,{"href":"#bedroom-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedroom Upgrades"}]}]
+1f:["$","li","guest-experience-extras",{"className":"ml-4","children":["$","a",null,{"href":"#guest-experience-extras","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Guest Experience Extras"}]}]
+20:["$","li","consumable-restocking-how-much-is-enough",{"className":"","children":["$","a",null,{"href":"#consumable-restocking-how-much-is-enough","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Consumable Restocking: How Much Is Enough?"}]}]
+21:["$","li","listing-your-amenities-correctly",{"className":"","children":["$","a",null,{"href":"#listing-your-amenities-correctly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Listing Your Amenities Correctly"}]}]
+22:["$","li","seasonal-amenity-adjustments",{"className":"","children":["$","a",null,{"href":"#seasonal-amenity-adjustments","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Seasonal Amenity Adjustments"}]}]
+23:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2a:T47d6,<p>Walk into any top-rated vacation rental and you'll notice something: it feels complete. Nothing is missing. Guests aren't hunting through cabinets for a can opener or calling the host because there's no toilet paper. That feeling of completeness — of thoughtfulness — is what drives five-star reviews and repeat bookings.</p>
+<p>This comprehensive <strong>amenities checklist for short-term rentals</strong> covers everything from baseline necessities to premium upgrades, organized room by room so you can audit your property systematically.</p>
+<hr>
+<h2 id="why-amenities-directly-impact-your-revenue">Why Amenities Directly Impact Your Revenue</h2>
+<p>Amenities aren't just about comfort — they're about competitiveness. On platforms like Airbnb and VRBO, guests filter searches by amenity. A property without Wi-Fi, air conditioning, or a washer/dryer is immediately excluded from a significant portion of search results.</p>
+<p>Beyond search filters, amenities drive:</p>
+<ul>
+<li><strong>Review scores</strong> — especially the "accuracy" and "value" categories</li>
+<li><strong>Booking conversion</strong> — guests comparing listings choose the one that feels more complete</li>
+<li><strong>Nightly rate potential</strong> — premium amenities justify higher pricing (see our <a href="/blog/short-term-rental-pricing-strategy">short-term rental pricing strategy</a>)</li>
+<li><strong>Repeat bookings</strong> — guests remember properties that anticipated their needs</li>
+</ul>
+<p>For the full framework on running a high-performing STR, see our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="tier-1-absolute-essentials-non-negotiable">Tier 1: Absolute Essentials (Non-Negotiable)</h2>
+<p>These are the baseline amenities guests expect at any price point. Missing any of these will almost certainly generate negative reviews.</p>
+<h3 id="technology-x26-connectivity">Technology &#x26; Connectivity</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> High-speed Wi-Fi (minimum 50 Mbps; 100+ Mbps preferred)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Wi-Fi password clearly displayed (in multiple locations)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Working TV with streaming services (Netflix, Hulu, or similar)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Reliable cell signal or documented dead zone disclosure</li>
+</ul>
+<h3 id="climate-control">Climate Control</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Air conditioning (in warm climates or summer destinations)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Heating (in cool climates or winter destinations)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Ceiling fans or portable fans as backup</li>
+</ul>
+<h3 id="safety">Safety</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Smoke detectors (in every bedroom and common area)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Carbon monoxide detector (<a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center">CPSC safety guidelines</a>)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Fire extinguisher (accessible and inspected, per <a href="https://www.fema.gov/emergency-managers/risk-management/fire">FEMA fire safety tips</a>)</li>
+<li class="task-list-item"><input type="checkbox" disabled> First aid kit</li>
+<li class="task-list-item"><input type="checkbox" disabled> Emergency contact list posted visibly</li>
+</ul>
+<h3 id="entry-x26-access">Entry &#x26; Access</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Keypad/smart lock or clearly explained key system</li>
+<li class="task-list-item"><input type="checkbox" disabled> Working exterior lighting</li>
+<li class="task-list-item"><input type="checkbox" disabled> Secure parking (if applicable)</li>
+</ul>
+<hr>
+<h2 id="tier-2-room-by-room-essentials-checklist">Tier 2: Room-by-Room Essentials Checklist</h2>
+<h3 id="kitchen-essentials">Kitchen Essentials</h3>
+<p><strong>Appliances:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Coffee maker (drip or pod-based)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Microwave</li>
+<li class="task-list-item"><input type="checkbox" disabled> Toaster or toaster oven</li>
+<li class="task-list-item"><input type="checkbox" disabled> Blender</li>
+<li class="task-list-item"><input type="checkbox" disabled> Electric kettle (especially for international guests)</li>
+</ul>
+<p><strong>Cookware &#x26; Tools:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Pots and pans (minimum: small, medium, large)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Baking sheet</li>
+<li class="task-list-item"><input type="checkbox" disabled> Cutting board (at least two)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Sharp knives (chef's knife, paring knife, serrated)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Colander</li>
+<li class="task-list-item"><input type="checkbox" disabled> Mixing bowls</li>
+<li class="task-list-item"><input type="checkbox" disabled> Measuring cups and spoons</li>
+<li class="task-list-item"><input type="checkbox" disabled> Wooden spoon, spatula, ladle, tongs</li>
+</ul>
+<p><strong>Dishes &#x26; Glassware (plan for maximum occupancy + 2):</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Dinner plates</li>
+<li class="task-list-item"><input type="checkbox" disabled> Salad/side plates</li>
+<li class="task-list-item"><input type="checkbox" disabled> Bowls (cereal and soup)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Mugs</li>
+<li class="task-list-item"><input type="checkbox" disabled> Wine glasses</li>
+<li class="task-list-item"><input type="checkbox" disabled> Drinking glasses</li>
+<li class="task-list-item"><input type="checkbox" disabled> Cutlery set</li>
+</ul>
+<p><strong>Consumable Supplies:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Dish soap</li>
+<li class="task-list-item"><input type="checkbox" disabled> Sponge and scrub brush</li>
+<li class="task-list-item"><input type="checkbox" disabled> Dishwasher pods (if applicable)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Dish towels (3+ per turnover)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Paper towels</li>
+<li class="task-list-item"><input type="checkbox" disabled> Trash bags (sized to fit all bins)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Aluminum foil and plastic wrap</li>
+<li class="task-list-item"><input type="checkbox" disabled> Salt, pepper, cooking oil (starter supplies)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Coffee and tea (starter quantities)</li>
+</ul>
+<hr>
+<h3 id="bedroom-essentials">Bedroom Essentials</h3>
+<p><strong>Bedding (per bed):</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Mattress protector</li>
+<li class="task-list-item"><input type="checkbox" disabled> Two fitted sheets (one on, one spare)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Two flat sheets or duvet covers</li>
+<li class="task-list-item"><input type="checkbox" disabled> Comforter or duvet (appropriate weight for season/climate)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Four pillows per queen/king bed (two per twin)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Extra blanket in closet or visible storage</li>
+</ul>
+<p><strong>Bedroom Comfort:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Bedside table with lamp and outlet/USB charging port</li>
+<li class="task-list-item"><input type="checkbox" disabled> Blackout curtains or blinds</li>
+<li class="task-list-item"><input type="checkbox" disabled> Mirror (full-length or large dresser mirror)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Adequate closet or storage space (hangers, shelves, or drawers)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Luggage rack or bench</li>
+<li class="task-list-item"><input type="checkbox" disabled> Alarm clock or accessible phone charging (guests wake up at various times)</li>
+</ul>
+<hr>
+<h3 id="bathroom-essentials">Bathroom Essentials</h3>
+<p><strong>Per Bathroom:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Toilet paper (minimum 4 rolls per bathroom at start of stay)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Shampoo and conditioner</li>
+<li class="task-list-item"><input type="checkbox" disabled> Body wash or bar soap</li>
+<li class="task-list-item"><input type="checkbox" disabled> Hand soap at sink</li>
+<li class="task-list-item"><input type="checkbox" disabled> Bath towels (2 per guest minimum)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Hand towels (1-2 per bathroom)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Washcloths (1-2 per guest)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Bath mat (non-slip)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Hair dryer</li>
+<li class="task-list-item"><input type="checkbox" disabled> Makeup/shaving mirror</li>
+<li class="task-list-item"><input type="checkbox" disabled> Toilet brush and holder</li>
+<li class="task-list-item"><input type="checkbox" disabled> Trash can with liner</li>
+</ul>
+<p><strong>Nice to Have:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Facial tissues</li>
+<li class="task-list-item"><input type="checkbox" disabled> Cotton balls and swabs</li>
+<li class="task-list-item"><input type="checkbox" disabled> Disposable razors</li>
+<li class="task-list-item"><input type="checkbox" disabled> Toothbrush and toothpaste (travel size)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Shower cap</li>
+<li class="task-list-item"><input type="checkbox" disabled> Loofah or bath sponge</li>
+</ul>
+<hr>
+<h3 id="living-room-common-area">Living Room / Common Area</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Comfortable seating for maximum occupancy</li>
+<li class="task-list-item"><input type="checkbox" disabled> Coffee table with adequate surface space</li>
+<li class="task-list-item"><input type="checkbox" disabled> Adequate lighting (overhead + table/floor lamps)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Throw blankets (2-3)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Board games or card games</li>
+<li class="task-list-item"><input type="checkbox" disabled> Books or local magazines</li>
+<li class="task-list-item"><input type="checkbox" disabled> Charging stations or power strips</li>
+<li class="task-list-item"><input type="checkbox" disabled> Bluetooth speaker (increasingly expected)</li>
+</ul>
+<hr>
+<h3 id="laundry-area">Laundry Area</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Washer and dryer (or coin laundry instructions)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Laundry detergent (starter supply)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Dryer sheets or dryer balls</li>
+<li class="task-list-item"><input type="checkbox" disabled> Laundry basket or bag</li>
+<li class="task-list-item"><input type="checkbox" disabled> Iron and ironing board</li>
+<li class="task-list-item"><input type="checkbox" disabled> Drying rack</li>
+</ul>
+<hr>
+<h3 id="outdoor-spaces-if-applicable">Outdoor Spaces (If Applicable)</h3>
+<p><strong>Patio / Deck:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Outdoor seating (table + chairs)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Grill (propane or charcoal with fuel/charcoal)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Grill brush and tongs</li>
+<li class="task-list-item"><input type="checkbox" disabled> String lights or outdoor lighting</li>
+</ul>
+<p><strong>Yard / Grounds:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Hose or watering access</li>
+<li class="task-list-item"><input type="checkbox" disabled> Outdoor games (cornhole, bocce, ladder toss)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Fire pit with firewood (if safe and legal)</li>
+</ul>
+<p>For properties with pools, see our detailed <a href="/blog/pool-maintenance-vacation-rental">pool maintenance guide for vacation rentals</a>.</p>
+<hr>
+<h2 id="tier-3-premium-amenities-that-justify-higher-rates">Tier 3: Premium Amenities That Justify Higher Rates</h2>
+<p>Once the essentials are covered, these upgrades differentiate your property and support premium pricing.</p>
+<h3 id="technology-upgrades">Technology Upgrades</h3>
+<ul>
+<li>Smart TV (65"+) with universal remote</li>
+<li>Smart home devices (Alexa, Google Home for lighting/temperature control)</li>
+<li>EV charging outlet in garage or driveway</li>
+<li>Noise monitoring device (Minut, NoiseAware) for peace of mind</li>
+<li>Ring or Nest doorbell camera (exterior only, disclosed in listing)</li>
+</ul>
+<h3 id="kitchen-upgrades">Kitchen Upgrades</h3>
+<ul>
+<li>Espresso machine or high-end coffee maker</li>
+<li>Instant Pot or air fryer</li>
+<li>Full spice rack</li>
+<li>Pour-over or French press for coffee enthusiasts</li>
+<li>Wine opener and bottle stopper set</li>
+<li>Cocktail kit (shaker, strainer, jigger)</li>
+</ul>
+<h3 id="bedroom-upgrades">Bedroom Upgrades</h3>
+<ul>
+<li>Hotel-quality pillows (memory foam or down alternatives)</li>
+<li>Premium mattress (guests notice)</li>
+<li>White noise machine in each bedroom</li>
+<li>Reading lights with USB ports on each bedside table</li>
+</ul>
+<h3 id="guest-experience-extras">Guest Experience Extras</h3>
+<ul>
+<li>Welcome basket (local snacks, wine, sparkling water)</li>
+<li>Local guidebook with personal recommendations</li>
+<li>Umbrella (often forgotten by guests)</li>
+<li>Baby gear (crib, high chair, baby bathtub) — great niche differentiator</li>
+<li>Pack of playing cards and a few novels</li>
+</ul>
+<hr>
+<h2 id="consumable-restocking-how-much-is-enough">Consumable Restocking: How Much Is Enough?</h2>
+<p>A common mistake is stocking just enough for one guest — leaving them to scramble if they use more than average. A useful rule of thumb:</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Minimum Stock</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Toilet paper</td>
+<td>4 rolls per bathroom</td>
+</tr>
+<tr>
+<td>Paper towels</td>
+<td>2 full rolls</td>
+</tr>
+<tr>
+<td>Dish soap</td>
+<td>One full bottle</td>
+</tr>
+<tr>
+<td>Trash bags</td>
+<td>2 per bin size</td>
+</tr>
+<tr>
+<td>Laundry detergent</td>
+<td>3-4 loads worth</td>
+</tr>
+<tr>
+<td>Coffee pods / grounds</td>
+<td>Enough for 2 mornings</td>
+</tr>
+<tr>
+<td>Shampoo/conditioner</td>
+<td>Travel-size bottles, full</td>
+</tr>
+</tbody>
+</table>
+<p>For turnover checklists that cover restocking systematically, see our <a href="/blog/vacation-rental-turnover-checklist">vacation rental turnover checklist</a>.</p>
+<hr>
+<h2 id="listing-your-amenities-correctly">Listing Your Amenities Correctly</h2>
+<p>Having an amenity is only half the battle — you need to list it accurately to attract the right guests and avoid expectation mismatches.</p>
+<p><strong>Best practices for listing amenities:</strong></p>
+<ul>
+<li>Mark only what's actually available and functional</li>
+<li>Add descriptions for unique or premium items ("Nespresso machine with capsule starter pack")</li>
+<li>Upload photos of key amenities — a photo of the well-stocked kitchen is more compelling than a checkbox</li>
+<li>Update your listing when you add or remove items</li>
+</ul>
+<p>Guests booking on Airbnb and VRBO filter heavily by amenities — accurate listings mean you appear in the right searches. According to VRBO's host resources, properties with 10+ amenities listed consistently outperform those with fewer in search ranking. <a href="https://www.epa.gov/indoor-air-quality-iaq">EPA indoor air quality</a> standards also apply to rental properties.</p>
+<hr>
+<h2 id="seasonal-amenity-adjustments">Seasonal Amenity Adjustments</h2>
+<p>Don't set your amenity supply once and forget it. Adjust for the season:</p>
+<p><strong>Summer additions:</strong></p>
+<ul>
+<li>Beach towels (if near water)</li>
+<li>Sunscreen (travel size)</li>
+<li>Insect repellent</li>
+<li>Cooler for day trips</li>
+<li>Fan or extra cooling capacity</li>
+</ul>
+<p><strong>Winter additions:</strong></p>
+<ul>
+<li>Extra blankets and flannel sheets</li>
+<li>Hot cocoa or cider packets</li>
+<li>Boot tray near entrance</li>
+<li>Space heater (with safety disclosure)</li>
+<li>Umbrella and rain gear</li>
+</ul>
+<p><strong>Holiday seasons:</strong></p>
+<ul>
+<li>Seasonal decorations</li>
+<li>Board games for longer stays</li>
+<li>Extra pantry items for cooking</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>A fully stocked, thoughtfully equipped short-term rental is one of the most reliable paths to consistent five-star reviews. Guests rarely comment on amenities when they're all there — but they always notice when something is missing.</p>
+<p>Use this checklist to audit your property room by room, prioritize the Tier 1 essentials first, then layer in the premium upgrades that fit your property type and target guest. Pair your amenities strategy with strong <a href="/blog/guest-communication-short-term-rental">guest communication</a> and you've built a guest experience that stands out in any market.</p>
+<p>For a complete roadmap to running a profitable STR, visit our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+24:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2a"}}]
+25:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","amenities",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"amenities"}],["$","span","vacation rental checklist",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacation rental checklist"}],["$","span","airbnb hosting",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb hosting"}],["$","span","short-term rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rental"}],["$","span","guest experience",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"guest experience"}]]}]
+26:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+27:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","guest-communication-short-term-rental",{"href":"/blog/guest-communication-short-term-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Guest Communication Templates for Short-Term Rentals"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","guest-complaint-resolution-str",{"href":"/blog/guest-complaint-resolution-str","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Resolving Guest Complaints at Short-Term Rentals"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","airbnb-review-response-template",{"href":"/blog/airbnb-review-response-template","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb Review Response Templates That Work"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+28:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-amenities-directly-impact-your-revenue",{"className":"","children":["$","a",null,{"href":"#why-amenities-directly-impact-your-revenue","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Amenities Directly Impact Your Revenue"}]}],["$","li","tier-1-absolute-essentials-non-negotiable",{"className":"","children":["$","a",null,{"href":"#tier-1-absolute-essentials-non-negotiable","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 1: Absolute Essentials (Non-Negotiable)"}]}],["$","li","technology-x26-connectivity",{"className":"ml-4","children":["$","a",null,{"href":"#technology-x26-connectivity","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Technology &#x26; Connectivity"}]}],["$","li","climate-control",{"className":"ml-4","children":["$","a",null,{"href":"#climate-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Climate Control"}]}],["$","li","safety",{"className":"ml-4","children":["$","a",null,{"href":"#safety","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Safety"}]}],["$","li","entry-x26-access",{"className":"ml-4","children":["$","a",null,{"href":"#entry-x26-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Entry &#x26; Access"}]}],["$","li","tier-2-room-by-room-essentials-checklist",{"className":"","children":["$","a",null,{"href":"#tier-2-room-by-room-essentials-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 2: Room-by-Room Essentials Checklist"}]}],["$","li","kitchen-essentials",{"className":"ml-4","children":["$","a",null,{"href":"#kitchen-essentials","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Kitchen Essentials"}]}],["$","li","bedroom-essentials",{"className":"ml-4","children":["$","a",null,{"href":"#bedroom-essentials","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedroom Essentials"}]}],["$","li","bathroom-essentials",{"className":"ml-4","children":["$","a",null,{"href":"#bathroom-essentials","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bathroom Essentials"}]}],["$","li","living-room-common-area",{"className":"ml-4","children":["$","a",null,{"href":"#living-room-common-area","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Living Room / Common Area"}]}],["$","li","laundry-area",{"className":"ml-4","children":["$","a",null,{"href":"#laundry-area","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Laundry Area"}]}],["$","li","outdoor-spaces-if-applicable",{"className":"ml-4","children":["$","a",null,{"href":"#outdoor-spaces-if-applicable","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Outdoor Spaces (If Applicable)"}]}],["$","li","tier-3-premium-amenities-that-justify-higher-rates",{"className":"","children":["$","a",null,{"href":"#tier-3-premium-amenities-that-justify-higher-rates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 3: Premium Amenities That Justify Higher Rates"}]}],["$","li","technology-upgrades",{"className":"ml-4","children":["$","a",null,{"href":"#technology-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Technology Upgrades"}]}],["$","li","kitchen-upgrades",{"className":"ml-4","children":["$","a",null,{"href":"#kitchen-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Kitchen Upgrades"}]}],"$L2b","$L2c","$L2d","$L2e","$L2f","$L30"]}]]}]}]
+29:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2b:["$","li","bedroom-upgrades",{"className":"ml-4","children":["$","a",null,{"href":"#bedroom-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedroom Upgrades"}]}]
+2c:["$","li","guest-experience-extras",{"className":"ml-4","children":["$","a",null,{"href":"#guest-experience-extras","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Guest Experience Extras"}]}]
+2d:["$","li","consumable-restocking-how-much-is-enough",{"className":"","children":["$","a",null,{"href":"#consumable-restocking-how-much-is-enough","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Consumable Restocking: How Much Is Enough?"}]}]
+2e:["$","li","listing-your-amenities-correctly",{"className":"","children":["$","a",null,{"href":"#listing-your-amenities-correctly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Listing Your Amenities Correctly"}]}]
+2f:["$","li","seasonal-amenity-adjustments",{"className":"","children":["$","a",null,{"href":"#seasonal-amenity-adjustments","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Seasonal Amenity Adjustments"}]}]
+30:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Must-Have Amenities Checklist for Short-Term Rentals | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Complete amenities checklist for short-term rentals covering essentials, premium upgrades, and room-by-room must-haves to maximize guest satisfaction and reviews."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"amenities,vacation rental checklist,airbnb hosting,short-term rental,guest experience"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/amenities-checklist-short-term-rental"}],["$","meta","6",{"property":"og:title","content":"Must-Have Amenities Checklist for Short-Term Rentals"}],["$","meta","7",{"property":"og:description","content":"Complete amenities checklist for short-term rentals covering essentials, premium upgrades, and room-by-room must-haves to maximize guest satisfaction and reviews."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/amenities-checklist-short-term-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Must-Have Amenities Checklist for Short-Term Rentals"}],["$","meta","15",{"name":"twitter:description","content":"Complete amenities checklist for short-term rentals covering essentials, premium upgrades, and room-by-room must-haves to maximize guest satisfaction and reviews."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

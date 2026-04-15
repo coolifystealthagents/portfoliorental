@@ -1,0 +1,245 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","self-check-in-airbnb"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","self-check-in-airbnb","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","self-check-in-airbnb","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Setting Up Self Check-In for Your Airbnb\",\"description\":\"Learn how to set up self check-in for your Airbnb using smart locks, lockboxes, and keypads. Improve guest experience and reduce your workload as a host.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/self-check-in-airbnb\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Setting Up Self Check-In for Your Airbnb\",\"item\":\"https://portfoliorental.com/blog/self-check-in-airbnb\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Setting Up Self Check-In for Your Airbnb"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[9," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-self-check-in-matters-for-airbnb-hosts",{"className":"","children":["$","a",null,{"href":"#why-self-check-in-matters-for-airbnb-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Self Check-In Matters for Airbnb Hosts"}]}],["$","li","it-is-what-guests-expect",{"className":"ml-4","children":["$","a",null,{"href":"#it-is-what-guests-expect","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Is What Guests Expect"}]}],["$","li","it-enables-remote-management",{"className":"ml-4","children":["$","a",null,{"href":"#it-enables-remote-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Enables Remote Management"}]}],["$","li","it-improves-your-check-in-rating",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]}]]}],"$L27","$L28"]}],"$L29","$L2a"]}],"$L2b"]}]]}],"$L2c"]
+11:["$","a",null,{"href":"#it-improves-your-check-in-rating","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Improves Your Check-In Rating"}]
+12:["$","li","it-supports-flexible-arrival-times",{"className":"ml-4","children":["$","a",null,{"href":"#it-supports-flexible-arrival-times","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Supports Flexible Arrival Times"}]}]
+13:["$","li","self-check-in-methods-comparing-your-options",{"className":"","children":["$","a",null,{"href":"#self-check-in-methods-comparing-your-options","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Self Check-In Methods: Comparing Your Options"}]}]
+14:["$","li","option-1-smart-lock-best-experience",{"className":"ml-4","children":["$","a",null,{"href":"#option-1-smart-lock-best-experience","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 1: Smart Lock (Best Experience)"}]}]
+15:["$","li","option-2-lockbox-most-affordable",{"className":"ml-4","children":["$","a",null,{"href":"#option-2-lockbox-most-affordable","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 2: Lockbox (Most Affordable)"}]}]
+16:["$","li","option-3-keypad-lock-middle-ground",{"className":"ml-4","children":["$","a",null,{"href":"#option-3-keypad-lock-middle-ground","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 3: Keypad Lock (Middle Ground)"}]}]
+17:["$","li","how-to-set-up-self-check-in-on-airbnb",{"className":"","children":["$","a",null,{"href":"#how-to-set-up-self-check-in-on-airbnb","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Set Up Self Check-In on Airbnb"}]}]
+18:["$","li","step-1-choose-and-install-your-access-method",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-choose-and-install-your-access-method","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Choose and Install Your Access Method"}]}]
+19:["$","li","step-2-enable-self-check-in-on-your-airbnb-listing",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-enable-self-check-in-on-your-airbnb-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Enable Self Check-In on Your Airbnb Listing"}]}]
+1a:["$","li","step-3-write-clear-check-in-instructions",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-write-clear-check-in-instructions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Write Clear Check-In Instructions"}]}]
+1b:["$","li","step-4-automate-your-pre-arrival-messaging",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-automate-your-pre-arrival-messaging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Automate Your Pre-Arrival Messaging"}]}]
+1c:["$","li","what-to-include-in-self-check-in-instructions",{"className":"","children":["$","a",null,{"href":"#what-to-include-in-self-check-in-instructions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Include in Self Check-In Instructions"}]}]
+1d:["$","li","smart-lock-best-practices-for-airbnb-hosts",{"className":"","children":["$","a",null,{"href":"#smart-lock-best-practices-for-airbnb-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Lock Best Practices for Airbnb Hosts"}]}]
+1e:["$","li","generate-unique-codes-per-guest",{"className":"ml-4","children":["$","a",null,{"href":"#generate-unique-codes-per-guest","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Generate Unique Codes Per Guest"}]}]
+1f:["$","li","time-restricted-access",{"className":"ml-4","children":["$","a",null,{"href":"#time-restricted-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Time-Restricted Access"}]}]
+20:["$","li","backup-access-plan",{"className":"ml-4","children":["$","a",null,{"href":"#backup-access-plan","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Backup Access Plan"}]}]
+21:["$","li","regular-battery-replacement",{"className":"ml-4","children":["$","a",null,{"href":"#regular-battery-replacement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Regular Battery Replacement"}]}]
+22:["$","li","monitor-entry-logs",{"className":"ml-4","children":["$","a",null,{"href":"#monitor-entry-logs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monitor Entry Logs"}]}]
+23:["$","li","self-check-in-and-airbnb-s-check-in-sub-rating",{"className":"","children":["$","a",null,{"href":"#self-check-in-and-airbnb-s-check-in-sub-rating","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Self Check-In and Airbnb's Check-In Sub-Rating"}]}]
+24:["$","li","self-check-in-for-multi-unit-and-apartment-properties",{"className":"","children":["$","a",null,{"href":"#self-check-in-for-multi-unit-and-apartment-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Self Check-In for Multi-Unit and Apartment Properties"}]}]
+25:["$","li","integrating-self-check-in-with-your-overall-operation",{"className":"","children":["$","a",null,{"href":"#integrating-self-check-in-with-your-overall-operation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Integrating Self Check-In with Your Overall Operation"}]}]
+26:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2d:T3e35,<p>Today's travelers expect flexibility. Many guests arrive late at night, change their plans last minute, or simply prefer not to coordinate with a host for arrival. <strong>Self check-in for Airbnb</strong> properties addresses all of these expectations — and it benefits hosts just as much as guests.</p>
+<p>According to <a href="https://www.nerdwallet.com/article/finance/airbnb-host-tips">NerdWallet's hosting tips</a>, self check-in eliminates the need to be present for every arrival. Guests can arrive on their own schedule, enter securely, and start enjoying their stay immediately. Your response to the question "Do you offer self check-in?" can be the deciding factor for many bookings.</p>
+<p>This guide covers everything you need to know: the best self check-in methods, how to set them up, what to include in your check-in instructions, and how to use self check-in to improve your listing performance.</p>
+<hr>
+<h2 id="why-self-check-in-matters-for-airbnb-hosts">Why Self Check-In Matters for Airbnb Hosts</h2>
+<h3 id="it-is-what-guests-expect">It Is What Guests Expect</h3>
+<p>Airbnb data consistently shows that self check-in is among the most searched amenities on the platform. Guests filtering by this feature are actively excluding properties that require host-assisted check-in. Without self check-in, you are invisible to a significant portion of the booking market.</p>
+<h3 id="it-enables-remote-management">It Enables Remote Management</h3>
+<p>If you are not local to your property, or if you manage multiple properties, being physically present for every arrival is not realistic. Self check-in is the foundation of a scalable, remotely manageable STR operation.</p>
+<h3 id="it-improves-your-check-in-rating">It Improves Your Check-In Rating</h3>
+<p>Airbnb's check-in sub-rating reflects how smoothly guests were able to access the property. Hosts with well-designed self check-in systems consistently receive higher scores in this category.</p>
+<h3 id="it-supports-flexible-arrival-times">It Supports Flexible Arrival Times</h3>
+<p>Standard check-in windows create friction. With self check-in, guests can arrive at any time — early morning, late night, or during a gap between cleanings — as long as the property is ready. This is particularly valuable for business travelers.</p>
+<p>For a complete framework on managing the guest journey, see our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="self-check-in-methods-comparing-your-options">Self Check-In Methods: Comparing Your Options</h2>
+<p>There are three primary self check-in methods available to Airbnb hosts. Each has trade-offs in cost, security, and guest experience.</p>
+<h3 id="option-1-smart-lock-best-experience">Option 1: Smart Lock (Best Experience)</h3>
+<p>A smart lock replaces or augments your existing door lock and allows you to create and delete unique access codes remotely. Each guest gets a code that works only during their reservation window.</p>
+<p><strong>How it works:</strong></p>
+<ul>
+<li>Guest receives a unique access code in their pre-arrival message</li>
+<li>Code activates at check-in time and expires automatically at checkout</li>
+<li>You receive notifications when the door is unlocked</li>
+<li>No physical key exchange required</li>
+</ul>
+<p><strong>Popular smart lock brands for Airbnb:</strong></p>
+<ul>
+<li><strong>August Smart Lock</strong> — Fits over most existing deadbolts; works with Airbnb's smart lock integration</li>
+<li><strong>Schlage Encode</strong> — Standalone unit; built-in WiFi without a hub requirement</li>
+<li><strong>Yale Assure Lock</strong> — Reliable, widely compatible, integrates with many PMS platforms</li>
+<li><strong>Nuki Smart Lock</strong> — Popular in European markets</li>
+<li><strong>Igloohome</strong> — Works offline; codes generated algorithmically, no WiFi required at the door</li>
+</ul>
+<p><strong>Pros:</strong> Best guest experience, maximum security, remote management, integration with property management software
+<strong>Cons:</strong> Upfront cost ($100–$300+), requires installation, may need professional setup</p>
+<p><strong>Airbnb Integration:</strong> Airbnb has partnered with select smart lock manufacturers to allow direct code generation through the Airbnb app. When connected, Airbnb automatically sends unique codes to guests without host action. Check the Airbnb Help Center for a current list of compatible devices.</p>
+<h3 id="option-2-lockbox-most-affordable">Option 2: Lockbox (Most Affordable)</h3>
+<p>A lockbox is a small secure box mounted near your door that holds physical keys. Guests access it by entering a combination you provide in advance.</p>
+<p><strong>How it works:</strong></p>
+<ul>
+<li>You set a combination (usually 4–6 digits) before each stay</li>
+<li>Guests enter the code, retrieve the key, and let themselves in</li>
+<li>After checkout, guests return the key and you reset the code</li>
+</ul>
+<p><strong>Types of lockboxes:</strong></p>
+<ul>
+<li><strong>Wall-mounted combination lockboxes</strong> — Fixed to the wall beside your door or on a gate post</li>
+<li><strong>Portable/shackle lockboxes</strong> — Loop around a door handle or railing (less secure)</li>
+<li><strong>Electronic keypad lockboxes</strong> — No combination dial; guests enter a code on a keypad</li>
+</ul>
+<p><strong>Pros:</strong> Low cost ($20–$60), no WiFi or technology required, simple setup
+<strong>Cons:</strong> Physical key can be copied, less secure than smart locks, requires resetting between guests, no activity notifications</p>
+<h3 id="option-3-keypad-lock-middle-ground">Option 3: Keypad Lock (Middle Ground)</h3>
+<p>A keypad lock is a door lock with a built-in numerical keypad. Unlike smart locks, most keypad locks are not WiFi-connected — they require physical programming to change codes. Some models, however, do support remote programming via Bluetooth or WiFi.</p>
+<p><strong>How it works:</strong></p>
+<ul>
+<li>You program a unique code for each guest directly on the lock or through an app</li>
+<li>Guest enters their code to unlock the door</li>
+<li>Code is deleted after checkout</li>
+</ul>
+<p><strong>Pros:</strong> More secure than a lockbox, no physical key, moderate cost ($80–$200)
+<strong>Cons:</strong> Some models require physical access to reprogram, no remote monitoring unless WiFi-enabled</p>
+<hr>
+<h2 id="how-to-set-up-self-check-in-on-airbnb">How to Set Up Self Check-In on Airbnb</h2>
+<h3 id="step-1-choose-and-install-your-access-method">Step 1: Choose and Install Your Access Method</h3>
+<p>Select the method that best fits your budget and technical comfort level. For most hosts, a smart lock delivers the best return on investment when factoring in time savings and guest satisfaction.</p>
+<p>If you are installing a smart lock yourself, most models come with step-by-step instructions. For locks requiring drilling or wiring, consider professional installation.</p>
+<h3 id="step-2-enable-self-check-in-on-your-airbnb-listing">Step 2: Enable Self Check-In on Your Airbnb Listing</h3>
+<p>Once your access system is in place:</p>
+<ol>
+<li>Go to your Airbnb listing settings</li>
+<li>Navigate to <strong>Amenities</strong></li>
+<li>Select <strong>Self check-in</strong> as an available feature</li>
+<li>Choose your check-in method (smart lock, lockbox, keypad, or building staff)</li>
+</ol>
+<p>This adds the self check-in badge to your listing and makes it searchable in the self check-in filter.</p>
+<h3 id="step-3-write-clear-check-in-instructions">Step 3: Write Clear Check-In Instructions</h3>
+<p>Airbnb has a dedicated <strong>Check-in Instructions</strong> section in your listing. Use it to provide step-by-step directions. Keep it detailed but scannable:</p>
+<p><strong>Example Check-In Instructions:</strong></p>
+<ol>
+<li>Park in the driveway or on the street in front of the house</li>
+<li>Walk to the front door — it has a black keypad lock</li>
+<li>Enter your unique code: [provided 48 hours before arrival]</li>
+<li>Push the door handle down while turning the knob to open</li>
+<li>Your code works from [check-in time] to [checkout time]</li>
+<li>Find your welcome packet on the kitchen counter</li>
+</ol>
+<h3 id="step-4-automate-your-pre-arrival-messaging">Step 4: Automate Your Pre-Arrival Messaging</h3>
+<p>Do not rely on guests to read check-in instructions in the listing. Use your property management system or Airbnb's scheduled messages to send:</p>
+<ul>
+<li><strong>Booking confirmation message:</strong> Acknowledge the booking, set expectations for future communication</li>
+<li><strong>48-hour pre-arrival message:</strong> Send the specific access code, parking details, WiFi password, and a link to your house rules</li>
+<li><strong>Day-of-arrival message:</strong> A short welcome message with your contact number for any issues</li>
+</ul>
+<p>If you want to automate this process, see our guide on <a href="/blog/airbnb-automation-tools">airbnb automation tools</a>.</p>
+<hr>
+<h2 id="what-to-include-in-self-check-in-instructions">What to Include in Self Check-In Instructions</h2>
+<p>Great check-in instructions anticipate every question a guest might have on arrival. Include:</p>
+<p><strong>Access Information</strong></p>
+<ul>
+<li>Exact address and any distinguishing property features (color, unit number)</li>
+<li>Specific access code and where to enter it</li>
+<li>Which door to use (front, side, garage)</li>
+<li>Whether the code is the same for all entry points or different for each</li>
+</ul>
+<p><strong>Parking Directions</strong></p>
+<ul>
+<li>Where to park (driveway, street, dedicated spot)</li>
+<li>Any parking restrictions (street cleaning days, permit zones)</li>
+</ul>
+<p><strong>Property Orientation</strong></p>
+<ul>
+<li>Where to find the WiFi password</li>
+<li>Location of towels, extra linens, and toiletries</li>
+<li>How to operate the thermostat, TV, and any smart home devices</li>
+<li>Location of trash and recycling bins</li>
+</ul>
+<p><strong>Emergency Information</strong></p>
+<ul>
+<li>Your phone number (or co-host/property manager contact)</li>
+<li>Nearest hospital or urgent care</li>
+<li>Utility shutoffs (water, gas, electricity) — especially important for longer stays</li>
+</ul>
+<p><strong>House Rules Summary</strong></p>
+<ul>
+<li>A brief reminder of key rules: no parties, quiet hours, pet policy</li>
+<li>Your full house rules are covered separately — link here for reference</li>
+</ul>
+<p>For a full house rules framework, see our <a href="/blog/house-rules-template-short-term-rental">house rules template for short-term rentals</a>.</p>
+<hr>
+<h2 id="smart-lock-best-practices-for-airbnb-hosts">Smart Lock Best Practices for Airbnb Hosts</h2>
+<h3 id="generate-unique-codes-per-guest">Generate Unique Codes Per Guest</h3>
+<p>Never reuse codes between guests. Always assign a fresh, unique code for each reservation. Most property management systems can automate this if integrated with a compatible smart lock.</p>
+<h3 id="time-restricted-access">Time-Restricted Access</h3>
+<p>Program codes to activate no more than 30 minutes before check-in and expire 30 minutes after checkout. This prevents guests from accessing the property during the cleaning window between reservations.</p>
+<h3 id="backup-access-plan">Backup Access Plan</h3>
+<p>The <a href="https://www.cpsc.gov/Safety-Education/Safety-Guides/General-Information/Locks">CPSC's home safety tips</a> remind hosts that even smart locks fail. Always have a backup plan:</p>
+<ul>
+<li>A lockbox with a master key hidden on the property</li>
+<li>A spare key with a trusted neighbor or co-host</li>
+<li>24/7 contact number guests can call if they are locked out</li>
+</ul>
+<h3 id="regular-battery-replacement">Regular Battery Replacement</h3>
+<p>Smart locks run on batteries. Low batteries cause lock malfunctions that strand guests — a quick way to earn a bad review. Check battery levels monthly and replace proactively (not when the low battery warning appears).</p>
+<h3 id="monitor-entry-logs">Monitor Entry Logs</h3>
+<p>Most smart locks provide an activity log. Review it after each checkout to confirm the guest departed. If unexpected entries appear during non-reservation periods, investigate promptly.</p>
+<hr>
+<h2 id="self-check-in-and-airbnb-s-check-in-sub-rating">Self Check-In and Airbnb's Check-In Sub-Rating</h2>
+<p>Airbnb asks guests to rate their check-in experience specifically. This sub-rating contributes to your overall score and appears on your listing profile.</p>
+<p>To maximize your check-in sub-rating:</p>
+<ul>
+<li>Ensure your instructions are accurate and easy to follow (test them yourself)</li>
+<li>Send access codes in advance — never make guests ask for them</li>
+<li>Make sure the lock or lockbox is working perfectly before every arrival</li>
+<li>Have a rapid response plan for access failures</li>
+</ul>
+<p>Hosts who nail self check-in consistently report higher overall ratings because the first experience in the property sets the emotional tone for the entire stay.</p>
+<hr>
+<h2 id="self-check-in-for-multi-unit-and-apartment-properties">Self Check-In for Multi-Unit and Apartment Properties</h2>
+<p>If your property is in a multi-unit building, self check-in has additional complexity:</p>
+<p><strong>Building Access:</strong> You may need a solution for both the building entrance and the unit door. Some smart lock systems integrate with building intercom or access control systems.</p>
+<p><strong>HOA and Building Rules:</strong> The <a href="https://www.ftc.gov/legal-library/browse/consumer-information">FTC's HOA guidance</a> notes many buildings restrict smart lock installations. Check your lease or HOA rules before installing any hardware.</p>
+<p><strong>Elevator and Common Areas:</strong> Make sure your check-in instructions cover the full path from the street to the unit — including which elevator to use and what floor.</p>
+<hr>
+<h2 id="integrating-self-check-in-with-your-overall-operation">Integrating Self Check-In with Your Overall Operation</h2>
+<p>Self check-in is most powerful when integrated into a full operational system:</p>
+<ul>
+<li><strong>Cleaning notifications:</strong> Your cleaner should receive automatic notifications when a guest checks out, triggered by the smart lock or your PMS</li>
+<li><strong>Maintenance alerts:</strong> Use smart lock activity logs to confirm cleaners have accessed the property between stays</li>
+<li><strong>Welcome home automation:</strong> Smart home integrations can turn on lights, set the thermostat to a welcome temperature, and play music when a guest's code is entered</li>
+</ul>
+<p>For hosts building a fully automated operation, our <a href="/blog/airbnb-property-management-tips">airbnb property management tips</a> guide covers these integrations in detail.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Self check-in is one of the most impactful upgrades you can make to your Airbnb operation. It eliminates friction for guests, enables remote property management, improves your listing's amenity profile, and supports a consistently high check-in rating.</p>
+<p>Start with a smart lock if your budget allows — it offers the best combination of security, convenience, and automation capability. Pair it with clear, proactive communication, and your guests will arrive ready for a great stay before they even open the door.</p>
+<p><strong>Self Check-In Setup Checklist:</strong></p>
+<ul>
+<li>Choose your access method: smart lock, lockbox, or keypad</li>
+<li>Install and test the system before your next booking</li>
+<li>Enable self check-in in your Airbnb listing amenities</li>
+<li>Write detailed step-by-step check-in instructions in your listing</li>
+<li>Automate your 48-hour pre-arrival message with the access code</li>
+<li>Create a backup access plan for technology failures</li>
+<li>Monitor battery levels and access logs regularly</li>
+</ul>
+27:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2d"}}]
+28:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","self check-in",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"self check-in"}],["$","span","airbnb",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb"}],["$","span","smart lock",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"smart lock"}],["$","span","guest experience",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"guest experience"}],["$","span","short-term rentals",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rentals"}]]}]
+29:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+2a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","airbnb-hoa-rules-restrictions",{"href":"/blog/airbnb-hoa-rules-restrictions","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb and HOA Rules: Navigating Restrictions"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","albuquerque-short-term-rental-regulations",{"href":"/blog/albuquerque-short-term-rental-regulations","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Albuquerque Short-Term Rental Regulations"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","anaheim-short-term-rental-regulations",{"href":"/blog/anaheim-short-term-rental-regulations","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Anaheim Short-Term Rental Regulations"}],["$","p",null,{"className":"text-sm text-gray-500","children":[4," min read"]}]]}]]}]]}]
+2b:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-self-check-in-matters-for-airbnb-hosts",{"className":"","children":["$","a",null,{"href":"#why-self-check-in-matters-for-airbnb-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Self Check-In Matters for Airbnb Hosts"}]}],["$","li","it-is-what-guests-expect",{"className":"ml-4","children":["$","a",null,{"href":"#it-is-what-guests-expect","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Is What Guests Expect"}]}],["$","li","it-enables-remote-management",{"className":"ml-4","children":["$","a",null,{"href":"#it-enables-remote-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Enables Remote Management"}]}],["$","li","it-improves-your-check-in-rating",{"className":"ml-4","children":["$","a",null,{"href":"#it-improves-your-check-in-rating","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Improves Your Check-In Rating"}]}],["$","li","it-supports-flexible-arrival-times",{"className":"ml-4","children":["$","a",null,{"href":"#it-supports-flexible-arrival-times","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Supports Flexible Arrival Times"}]}],["$","li","self-check-in-methods-comparing-your-options",{"className":"","children":["$","a",null,{"href":"#self-check-in-methods-comparing-your-options","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Self Check-In Methods: Comparing Your Options"}]}],["$","li","option-1-smart-lock-best-experience",{"className":"ml-4","children":["$","a",null,{"href":"#option-1-smart-lock-best-experience","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 1: Smart Lock (Best Experience)"}]}],["$","li","option-2-lockbox-most-affordable",{"className":"ml-4","children":["$","a",null,{"href":"#option-2-lockbox-most-affordable","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 2: Lockbox (Most Affordable)"}]}],["$","li","option-3-keypad-lock-middle-ground",{"className":"ml-4","children":["$","a",null,{"href":"#option-3-keypad-lock-middle-ground","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 3: Keypad Lock (Middle Ground)"}]}],["$","li","how-to-set-up-self-check-in-on-airbnb",{"className":"","children":["$","a",null,{"href":"#how-to-set-up-self-check-in-on-airbnb","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Set Up Self Check-In on Airbnb"}]}],["$","li","step-1-choose-and-install-your-access-method",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-choose-and-install-your-access-method","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Choose and Install Your Access Method"}]}],["$","li","step-2-enable-self-check-in-on-your-airbnb-listing",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-enable-self-check-in-on-your-airbnb-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Enable Self Check-In on Your Airbnb Listing"}]}],["$","li","step-3-write-clear-check-in-instructions",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-write-clear-check-in-instructions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Write Clear Check-In Instructions"}]}],"$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39"]}]]}]}]
+2c:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2e:["$","li","step-4-automate-your-pre-arrival-messaging",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-automate-your-pre-arrival-messaging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Automate Your Pre-Arrival Messaging"}]}]
+2f:["$","li","what-to-include-in-self-check-in-instructions",{"className":"","children":["$","a",null,{"href":"#what-to-include-in-self-check-in-instructions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Include in Self Check-In Instructions"}]}]
+30:["$","li","smart-lock-best-practices-for-airbnb-hosts",{"className":"","children":["$","a",null,{"href":"#smart-lock-best-practices-for-airbnb-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Lock Best Practices for Airbnb Hosts"}]}]
+31:["$","li","generate-unique-codes-per-guest",{"className":"ml-4","children":["$","a",null,{"href":"#generate-unique-codes-per-guest","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Generate Unique Codes Per Guest"}]}]
+32:["$","li","time-restricted-access",{"className":"ml-4","children":["$","a",null,{"href":"#time-restricted-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Time-Restricted Access"}]}]
+33:["$","li","backup-access-plan",{"className":"ml-4","children":["$","a",null,{"href":"#backup-access-plan","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Backup Access Plan"}]}]
+34:["$","li","regular-battery-replacement",{"className":"ml-4","children":["$","a",null,{"href":"#regular-battery-replacement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Regular Battery Replacement"}]}]
+35:["$","li","monitor-entry-logs",{"className":"ml-4","children":["$","a",null,{"href":"#monitor-entry-logs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monitor Entry Logs"}]}]
+36:["$","li","self-check-in-and-airbnb-s-check-in-sub-rating",{"className":"","children":["$","a",null,{"href":"#self-check-in-and-airbnb-s-check-in-sub-rating","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Self Check-In and Airbnb's Check-In Sub-Rating"}]}]
+37:["$","li","self-check-in-for-multi-unit-and-apartment-properties",{"className":"","children":["$","a",null,{"href":"#self-check-in-for-multi-unit-and-apartment-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Self Check-In for Multi-Unit and Apartment Properties"}]}]
+38:["$","li","integrating-self-check-in-with-your-overall-operation",{"className":"","children":["$","a",null,{"href":"#integrating-self-check-in-with-your-overall-operation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Integrating Self Check-In with Your Overall Operation"}]}]
+39:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Setting Up Self Check-In for Your Airbnb | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn how to set up self check-in for your Airbnb using smart locks, lockboxes, and keypads. Improve guest experience and reduce your workload as a host."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"self check-in,airbnb,smart lock,guest experience,short-term rentals"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/self-check-in-airbnb"}],["$","meta","6",{"property":"og:title","content":"Setting Up Self Check-In for Your Airbnb"}],["$","meta","7",{"property":"og:description","content":"Learn how to set up self check-in for your Airbnb using smart locks, lockboxes, and keypads. Improve guest experience and reduce your workload as a host."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/self-check-in-airbnb"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Setting Up Self Check-In for Your Airbnb"}],["$","meta","15",{"name":"twitter:description","content":"Learn how to set up self check-in for your Airbnb using smart locks, lockboxes, and keypads. Improve guest experience and reduce your workload as a host."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

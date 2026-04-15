@@ -1,0 +1,402 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","rental-property-turnover-process"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","rental-property-turnover-process","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rental-property-turnover-process","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Rental Property Turnover Process: How to Minimize Vacancy and Maximize Returns\",\"description\":\"Master the rental property turnover process with this step-by-step guide. Learn how to handle move-out inspections, cleaning, repairs, and marketing to minimize vacancy days and reduce costs.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/rental-property-turnover-process\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Rental Property Turnover Process: How to Minimize Vacancy and Maximize Returns\",\"item\":\"https://portfoliorental.com/blog/rental-property-turnover-process\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Rental Property Turnover Process: How to Minimize Vacancy and Maximize Returns"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[11," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","understanding-the-true-cost-of-turnover",{"className":"","children":["$","a",null,{"href":"#understanding-the-true-cost-of-turnover","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Understanding the True Cost of Turnover"}]}],["$","li","step-1-prepare-before-the-tenant-moves-out",{"className":"","children":["$","a",null,{"href":"#step-1-prepare-before-the-tenant-moves-out","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Prepare Before the Tenant Moves Out"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36"]}]}]]}],"$L37","$L38"]}],"$L39","$L3a"]}],"$L3b"]}]]}],"$L3c"]
+11:["$","li","give-and-receive-proper-notice",{"className":"ml-4","children":["$","a",null,{"href":"#give-and-receive-proper-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Give and Receive Proper Notice"}]}]
+12:["$","li","create-a-move-out-instruction-packet",{"className":"ml-4","children":["$","a",null,{"href":"#create-a-move-out-instruction-packet","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create a Move-Out Instruction Packet"}]}]
+13:["$","li","line-up-your-team",{"className":"ml-4","children":["$","a",null,{"href":"#line-up-your-team","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Line Up Your Team"}]}]
+14:["$","li","begin-marketing-early",{"className":"ml-4","children":["$","a",null,{"href":"#begin-marketing-early","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Begin Marketing Early"}]}]
+15:["$","li","step-2-conduct-the-move-out-inspection",{"className":"","children":["$","a",null,{"href":"#step-2-conduct-the-move-out-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Conduct the Move-Out Inspection"}]}]
+16:["$","li","how-to-do-the-move-out-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#how-to-do-the-move-out-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Do the Move-Out Inspection"}]}]
+17:["$","li","what-to-inspect",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-inspect","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Inspect"}]}]
+18:["$","li","document-everything",{"className":"ml-4","children":["$","a",null,{"href":"#document-everything","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Document Everything"}]}]
+19:["$","li","normal-wear-and-tear-vs-damage",{"className":"ml-4","children":["$","a",null,{"href":"#normal-wear-and-tear-vs-damage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Normal Wear and Tear vs. Damage"}]}]
+1a:["$","li","step-3-handle-security-deposit-accounting",{"className":"","children":["$","a",null,{"href":"#step-3-handle-security-deposit-accounting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Handle Security Deposit Accounting"}]}]
+1b:["$","li","know-your-state-deadlines",{"className":"ml-4","children":["$","a",null,{"href":"#know-your-state-deadlines","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Know Your State Deadlines"}]}]
+1c:["$","li","create-an-itemized-statement",{"className":"ml-4","children":["$","a",null,{"href":"#create-an-itemized-statement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create an Itemized Statement"}]}]
+1d:["$","li","send-the-deposit-promptly",{"className":"ml-4","children":["$","a",null,{"href":"#send-the-deposit-promptly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Send the Deposit Promptly"}]}]
+1e:["$","li","step-4-clean-the-unit-to-a-high-standard",{"className":"","children":["$","a",null,{"href":"#step-4-clean-the-unit-to-a-high-standard","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Clean the Unit to a High Standard"}]}]
+1f:["$","li","professional-cleaning-checklist",{"className":"ml-4","children":["$","a",null,{"href":"#professional-cleaning-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Professional Cleaning Checklist"}]}]
+20:["$","li","hire-professionals-or-do-it-yourself",{"className":"ml-4","children":["$","a",null,{"href":"#hire-professionals-or-do-it-yourself","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hire Professionals or Do It Yourself"}]}]
+21:["$","li","step-5-make-repairs-and-updates",{"className":"","children":["$","a",null,{"href":"#step-5-make-repairs-and-updates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Make Repairs and Updates"}]}]
+22:["$","li","must-do-repairs",{"className":"ml-4","children":["$","a",null,{"href":"#must-do-repairs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Must-Do Repairs"}]}]
+23:["$","li","strategic-updates-that-pay-off",{"className":"ml-4","children":["$","a",null,{"href":"#strategic-updates-that-pay-off","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Strategic Updates That Pay Off"}]}]
+24:["$","li","prioritize-speed-without-cutting-corners",{"className":"ml-4","children":["$","a",null,{"href":"#prioritize-speed-without-cutting-corners","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Prioritize Speed Without Cutting Corners"}]}]
+25:["$","li","step-6-optimize-your-marketing-timeline",{"className":"","children":["$","a",null,{"href":"#step-6-optimize-your-marketing-timeline","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 6: Optimize Your Marketing Timeline"}]}]
+26:["$","li","when-to-start-marketing",{"className":"ml-4","children":["$","a",null,{"href":"#when-to-start-marketing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When to Start Marketing"}]}]
+27:["$","li","create-a-strong-listing",{"className":"ml-4","children":["$","a",null,{"href":"#create-a-strong-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create a Strong Listing"}]}]
+28:["$","li","price-it-right",{"className":"ml-4","children":["$","a",null,{"href":"#price-it-right","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Price It Right"}]}]
+29:["$","li","step-7-minimize-vacancy-days",{"className":"","children":["$","a",null,{"href":"#step-7-minimize-vacancy-days","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 7: Minimize Vacancy Days"}]}]
+2a:["$","li","overlap-tasks",{"className":"ml-4","children":["$","a",null,{"href":"#overlap-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Overlap Tasks"}]}]
+2b:["$","li","pre-screen-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#pre-screen-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pre-Screen Tenants"}]}]
+2c:["$","li","offer-a-move-in-incentive",{"className":"ml-4","children":["$","a",null,{"href":"#offer-a-move-in-incentive","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Offer a Move-In Incentive"}]}]
+2d:["$","li","keep-the-unit-show-ready",{"className":"ml-4","children":["$","a",null,{"href":"#keep-the-unit-show-ready","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep the Unit \"Show Ready\""}]}]
+2e:["$","li","step-8-track-your-turnover-costs",{"className":"","children":["$","a",null,{"href":"#step-8-track-your-turnover-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 8: Track Your Turnover Costs"}]}]
+2f:["$","li","what-to-track",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-track","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Track"}]}]
+30:["$","li","use-this-data",{"className":"ml-4","children":["$","a",null,{"href":"#use-this-data","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use This Data"}]}]
+31:["$","li","the-complete-turnover-checklist",{"className":"","children":["$","a",null,{"href":"#the-complete-turnover-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Complete Turnover Checklist"}]}]
+32:["$","li","tenant-transition-best-practices",{"className":"","children":["$","a",null,{"href":"#tenant-transition-best-practices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Transition Best Practices"}]}]
+33:["$","li","welcome-your-new-tenant",{"className":"ml-4","children":["$","a",null,{"href":"#welcome-your-new-tenant","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Welcome Your New Tenant"}]}]
+34:["$","li","complete-the-move-in-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#complete-the-move-in-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Complete the Move-In Inspection"}]}]
+35:["$","li","set-expectations-early",{"className":"ml-4","children":["$","a",null,{"href":"#set-expectations-early","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Set Expectations Early"}]}]
+36:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+3d:T4f6c,<p>Every day your rental sits empty costs you money. A vacant unit brings in zero income, but the mortgage, insurance, and taxes keep rolling in. That is why a smooth rental property turnover process is one of the most important skills a landlord can master.</p>
+<p>The average turnover takes two to four weeks, but experienced landlords can cut that to just seven to ten days with the right system. This guide breaks down every step of the process so you can turn units faster, spend less, and get quality tenants moved in quickly.</p>
+<h2 id="understanding-the-true-cost-of-turnover">Understanding the True Cost of Turnover</h2>
+<p>Before diving into the process, let us look at what turnover really costs. Most landlords only think about lost rent, but the true cost is much higher.</p>
+<p>For a unit that rents for $1,500 per month, a 30-day vacancy costs:</p>
+<ul>
+<li><strong>Lost rent</strong>: $1,500</li>
+<li><strong>Cleaning</strong>: $200 to $500</li>
+<li><strong>Painting</strong>: $300 to $800</li>
+<li><strong>Carpet cleaning or replacement</strong>: $200 to $2,000</li>
+<li><strong>Minor repairs</strong>: $200 to $500</li>
+<li><strong>Marketing costs</strong>: $50 to $200</li>
+<li><strong>Your time</strong>: priceless (but valuable)</li>
+</ul>
+<p>That adds up to $2,450 to $5,500 for a single turnover, consistent with <a href="https://www.homeadvisor.com/" rel="noopener" target="_blank">HomeAdvisor's estimates for turnover-related repair and cleaning costs</a>. Multiply that across several units and the numbers get serious fast. This is exactly why you need to <a href="/blog/reduce-vacancy-rate-rental-property">reduce your vacancy rate</a> with a tight process.</p>
+<h2 id="step-1-prepare-before-the-tenant-moves-out">Step 1: Prepare Before the Tenant Moves Out</h2>
+<p>The turnover process starts well before the tenant leaves. Smart preparation saves days during the actual turnover.</p>
+<h3 id="give-and-receive-proper-notice">Give and Receive Proper Notice</h3>
+<p>Most leases require 30 to 60 days of notice before move-out. Use this time wisely:</p>
+<ul>
+<li>Confirm the exact move-out date in writing</li>
+<li>Review the lease for any move-out requirements</li>
+<li>Send the tenant a move-out instruction packet</li>
+<li>Schedule the move-out inspection</li>
+</ul>
+<h3 id="create-a-move-out-instruction-packet">Create a Move-Out Instruction Packet</h3>
+<p>Give your tenant clear instructions that cover:</p>
+<ul>
+<li>How to leave the unit (cleaned, all belongings removed, all keys returned)</li>
+<li>Where to return keys, garage remotes, and access cards</li>
+<li>Forwarding address form for the security deposit</li>
+<li>Utility transfer instructions</li>
+<li>Any specific cleaning requirements from the lease</li>
+</ul>
+<p>This packet prevents confusion and gives tenants a fair chance to leave the unit in good condition.</p>
+<h3 id="line-up-your-team">Line Up Your Team</h3>
+<p>Do not wait until the tenant leaves to start calling vendors. During the notice period:</p>
+<ul>
+<li>Schedule your cleaning crew for the day after move-out</li>
+<li>Alert your painter and handyman that a job is coming</li>
+<li>Arrange for carpet cleaning or replacement if needed</li>
+<li>Start drafting your listing if you plan to market the unit</li>
+</ul>
+<h3 id="begin-marketing-early">Begin Marketing Early</h3>
+<p>If your local laws allow it, start marketing the unit before the current tenant leaves. You can show the property with proper notice to the existing tenant. This lets you potentially have a new tenant ready to sign a lease on the day the unit becomes available.</p>
+<h2 id="step-2-conduct-the-move-out-inspection">Step 2: Conduct the Move-Out Inspection</h2>
+<p>The move-out inspection protects both you and the tenant. It documents the condition of the unit and determines what comes out of the security deposit.</p>
+<h3 id="how-to-do-the-move-out-inspection">How to Do the Move-Out Inspection</h3>
+<p>Walk through the unit with the tenant if possible. Having both parties present reduces disputes later. Bring:</p>
+<ul>
+<li>The move-in inspection report (for comparison)</li>
+<li>A camera or phone for photos and video</li>
+<li>A detailed inspection checklist</li>
+<li>A clipboard and pen for notes</li>
+</ul>
+<h3 id="what-to-inspect">What to Inspect</h3>
+<p>Go room by room and check:</p>
+<ul>
+<li><strong>Walls and ceilings</strong>: Holes, stains, scuff marks, paint damage</li>
+<li><strong>Floors</strong>: Scratches, stains, burns, damaged tiles</li>
+<li><strong>Windows and doors</strong>: Cracks, broken locks, damaged screens, missing blinds</li>
+<li><strong>Kitchen</strong>: Appliance condition, cabinet damage, countertop condition, sink and faucet</li>
+<li><strong>Bathrooms</strong>: Fixtures, grout, caulking, toilet, shower or tub condition</li>
+<li><strong>Electrical</strong>: All outlets, switches, and light fixtures working</li>
+<li><strong>Plumbing</strong>: All faucets, drains, and toilets functioning</li>
+<li><strong>HVAC</strong>: Filters, thermostat, overall function</li>
+<li><strong>Exterior</strong>: Landscaping, patio, garage, storage areas</li>
+<li><strong>General</strong>: Smoke detectors, carbon monoxide detectors, fire extinguishers</li>
+</ul>
+<h3 id="document-everything">Document Everything</h3>
+<p>Take photos and video of every room, every wall, and every issue you find. Compare the condition to your <a href="/blog/tenant-move-in-checklist">move-in checklist</a> photos. This documentation is essential if you need to justify any security deposit deductions.</p>
+<h3 id="normal-wear-and-tear-vs-damage">Normal Wear and Tear vs. Damage</h3>
+<p>This distinction matters for security deposit deductions. Normal wear and tear includes:</p>
+<ul>
+<li>Small nail holes from hanging pictures</li>
+<li>Minor scuff marks on walls</li>
+<li>Slightly worn carpet in high-traffic areas</li>
+<li>Faded paint from sunlight</li>
+</ul>
+<p>Damage that tenants are responsible for includes:</p>
+<ul>
+<li>Large holes in walls</li>
+<li>Stains from pets or spills</li>
+<li>Broken fixtures or appliances (beyond normal use)</li>
+<li>Unauthorized paint colors</li>
+<li>Burns or tears in carpet or flooring</li>
+</ul>
+<p>Know your state laws on this topic. The rules vary significantly from state to state.</p>
+<h2 id="step-3-handle-security-deposit-accounting">Step 3: Handle Security Deposit Accounting</h2>
+<p>Security deposit disputes are one of the most common sources of landlord-tenant conflict. Handle this step carefully and follow your state laws exactly.</p>
+<h3 id="know-your-state-deadlines">Know Your State Deadlines</h3>
+<p>Most states require you to return the security deposit (or provide an itemized list of deductions) within 14 to 30 days after move-out. Missing this deadline can mean you owe the tenant the full deposit back, regardless of damages.</p>
+<h3 id="create-an-itemized-statement">Create an Itemized Statement</h3>
+<p>For any deductions, provide a detailed breakdown:</p>
+<ul>
+<li>Description of each item</li>
+<li>Cost of repair or replacement</li>
+<li>Receipts or invoices for work done</li>
+<li>Photos showing the damage</li>
+</ul>
+<h3 id="send-the-deposit-promptly">Send the Deposit Promptly</h3>
+<p>Mail the deposit (minus any deductions) to the tenant's forwarding address. Use certified mail so you have proof of delivery. Include the itemized statement with any remaining balance.</p>
+<h2 id="step-4-clean-the-unit-to-a-high-standard">Step 4: Clean the Unit to a High Standard</h2>
+<p>Cleaning is where many landlords cut corners, and it shows. A spotless unit attracts better tenants and justifies higher rent. Do not skip this step.</p>
+<h3 id="professional-cleaning-checklist">Professional Cleaning Checklist</h3>
+<p>A thorough cleaning covers:</p>
+<p><strong>Kitchen</strong></p>
+<ul>
+<li>Deep clean oven, stovetop, and hood</li>
+<li>Clean inside and outside of all cabinets</li>
+<li>Sanitize countertops and backsplash</li>
+<li>Clean and sanitize sink and garbage disposal</li>
+<li>Clean dishwasher interior</li>
+<li>Wipe down refrigerator inside and out</li>
+<li>Clean microwave inside and out</li>
+<li>Degrease all surfaces</li>
+</ul>
+<p><strong>Bathrooms</strong></p>
+<ul>
+<li>Scrub and sanitize toilet, inside and out</li>
+<li>Clean tub and shower, including grout</li>
+<li>Replace caulking if moldy or peeling</li>
+<li>Clean vanity, sink, and mirror</li>
+<li>Clean exhaust fan</li>
+</ul>
+<p><strong>All Rooms</strong></p>
+<ul>
+<li>Wash or replace blinds and curtains</li>
+<li>Clean all windows inside and out</li>
+<li>Wipe down all baseboards</li>
+<li>Clean all light fixtures and ceiling fans</li>
+<li>Wipe all switch plates and door handles</li>
+<li>Clean inside all closets</li>
+<li>Vacuum or mop all floors</li>
+</ul>
+<p><strong>General</strong></p>
+<ul>
+<li>Replace HVAC filters</li>
+<li>Test smoke and carbon monoxide detectors</li>
+<li>Replace batteries in all detectors</li>
+<li>Clean garage and storage areas</li>
+<li>Power wash exterior areas if needed</li>
+</ul>
+<h3 id="hire-professionals-or-do-it-yourself">Hire Professionals or Do It Yourself</h3>
+<p>For a standard two-bedroom apartment, professional cleaning costs $200 to $400. For a house, expect $300 to $600. This is money well spent. Professional cleaners work faster and more thoroughly than most landlords doing it themselves.</p>
+<h2 id="step-5-make-repairs-and-updates">Step 5: Make Repairs and Updates</h2>
+<p>With the unit clean and empty, it is time to fix what is broken and consider strategic updates.</p>
+<h3 id="must-do-repairs">Must-Do Repairs</h3>
+<p>Fix everything that is broken or worn out:</p>
+<ul>
+<li>Patch and paint walls (a fresh coat of neutral paint makes every unit look new)</li>
+<li>Fix leaky faucets and running toilets</li>
+<li>Replace damaged flooring</li>
+<li>Repair or replace broken appliances</li>
+<li>Fix damaged cabinets and countertops</li>
+<li>Replace worn weatherstripping</li>
+<li>Fix any electrical or plumbing issues</li>
+</ul>
+<h3 id="strategic-updates-that-pay-off">Strategic Updates That Pay Off</h3>
+<p>Some updates cost a little but add a lot of value. Consider:</p>
+<ul>
+<li>New cabinet hardware ($50 to $100)</li>
+<li>Updated light fixtures ($100 to $300)</li>
+<li>New faucets ($75 to $200 each)</li>
+<li>Fresh caulking in kitchens and bathrooms ($20 to $50)</li>
+<li>New outlet covers and switch plates ($30 to $60)</li>
+<li>Updated thermostat ($25 to $250)</li>
+</ul>
+<p>These small touches make the unit feel modern and well-maintained. They help you command higher rent and attract better tenants. Check our guide on how to <a href="/blog/increase-rental-property-value">increase your rental property value</a> for more ideas.</p>
+<h3 id="prioritize-speed-without-cutting-corners">Prioritize Speed Without Cutting Corners</h3>
+<p>The goal is to complete all repairs as fast as possible without sacrificing quality. Here is how:</p>
+<ul>
+<li>Create a repair list during the move-out inspection</li>
+<li>Order materials before the tenant leaves</li>
+<li>Schedule multiple vendors for the same day when possible</li>
+<li>Handle easy fixes yourself (painting, replacing hardware)</li>
+<li>Save bigger projects for when you have the unit empty</li>
+</ul>
+<h2 id="step-6-optimize-your-marketing-timeline">Step 6: Optimize Your Marketing Timeline</h2>
+<p>Getting the word out early and effectively is key to minimizing vacancy.</p>
+<h3 id="when-to-start-marketing">When to Start Marketing</h3>
+<p>The ideal timeline looks like this:</p>
+<ul>
+<li><strong>45 days before move-out</strong>: Start drafting your listing and taking new photos (if the unit looks good with the tenant's furniture)</li>
+<li><strong>30 days before</strong>: Post the listing online</li>
+<li><strong>14 days before</strong>: Begin showing the unit to prospective tenants (with proper notice to the current tenant)</li>
+<li><strong>Move-out day</strong>: Finalize the listing with photos of the empty, cleaned unit</li>
+<li><strong>7 days after move-out</strong>: Aim to have a signed lease by this point</li>
+</ul>
+<h3 id="create-a-strong-listing">Create a Strong Listing</h3>
+<p>Your listing should include:</p>
+<ul>
+<li>High-quality photos (at least 15 to 20)</li>
+<li>A virtual tour if possible</li>
+<li>Detailed description of features and amenities</li>
+<li>Rent amount and any move-in specials</li>
+<li>Pet policy</li>
+<li>Parking information</li>
+<li>Nearby attractions and amenities</li>
+<li>Application requirements and process</li>
+</ul>
+<h3 id="price-it-right">Price It Right</h3>
+<p>An empty unit at the right price rents faster than a unit priced too high. Research comparable rentals in your area and price competitively. A unit that sits empty for an extra month because you priced it $100 too high actually costs you $1,400 ($1,500 in lost rent minus the $100 per month you were trying to gain).</p>
+<h2 id="step-7-minimize-vacancy-days">Step 7: Minimize Vacancy Days</h2>
+<p>Here are proven strategies to cut your vacancy time down to the absolute minimum.</p>
+<h3 id="overlap-tasks">Overlap Tasks</h3>
+<p>Do not do things one at a time. While the cleaners are working, have the painter start in a different room. While repairs are happening, keep showing the unit to prospective tenants (just warn them about the work in progress).</p>
+<h3 id="pre-screen-tenants">Pre-Screen Tenants</h3>
+<p>Start collecting and reviewing applications before the unit is ready. Run background checks, verify income, and check references while the turnover work is happening. By the time the unit is ready, you can have a lease ready to sign.</p>
+<h3 id="offer-a-move-in-incentive">Offer a Move-In Incentive</h3>
+<p>If you are struggling to fill the unit, consider offering a small incentive:</p>
+<ul>
+<li>Half off the first month's rent</li>
+<li>Waived application fee</li>
+<li>Free parking for the first three months</li>
+<li>A gift card for a local store</li>
+</ul>
+<p>These incentives cost less than an extra week or two of vacancy.</p>
+<h3 id="keep-the-unit-show-ready">Keep the Unit "Show Ready"</h3>
+<p>Even during turnover, keep the unit as presentable as possible for showings. A clean, well-lit space with some work happening looks much better than a messy construction zone.</p>
+<h2 id="step-8-track-your-turnover-costs">Step 8: Track Your Turnover Costs</h2>
+<p>Every turnover is a learning opportunity. Track your costs so you can improve next time.</p>
+<h3 id="what-to-track">What to Track</h3>
+<p>For each turnover, record:</p>
+<ul>
+<li>Move-out date</li>
+<li>Move-in date (new tenant)</li>
+<li>Total vacancy days</li>
+<li>Cleaning costs</li>
+<li>Repair costs</li>
+<li>Update and improvement costs</li>
+<li>Marketing costs</li>
+<li>Security deposit deductions applied</li>
+<li>Total out-of-pocket cost</li>
+</ul>
+<h3 id="use-this-data">Use This Data</h3>
+<p>After several turnovers, you will spot patterns:</p>
+<ul>
+<li>Which repairs come up every time (and should be prevented with better maintenance)</li>
+<li>Which vendors are fastest and most cost-effective</li>
+<li>What marketing channels bring the best tenants</li>
+<li>How your vacancy time compares to the local average</li>
+</ul>
+<p>This data helps you build a better <a href="/blog/rental-property-maintenance-checklist">maintenance checklist</a> and refine your process each time.</p>
+<h2 id="the-complete-turnover-checklist">The Complete Turnover Checklist</h2>
+<p>Here is your quick-reference checklist for every turnover:</p>
+<p><strong>Before Move-Out (30+ days)</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Confirm move-out date in writing</li>
+<li class="task-list-item"><input type="checkbox" disabled> Send move-out instruction packet</li>
+<li class="task-list-item"><input type="checkbox" disabled> Begin marketing the unit</li>
+<li class="task-list-item"><input type="checkbox" disabled> Schedule cleaning crew and vendors</li>
+<li class="task-list-item"><input type="checkbox" disabled> Order materials for known repairs</li>
+</ul>
+<p><strong>Move-Out Day</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Conduct move-out inspection with tenant</li>
+<li class="task-list-item"><input type="checkbox" disabled> Collect all keys, remotes, and access devices</li>
+<li class="task-list-item"><input type="checkbox" disabled> Document unit condition with photos and video</li>
+<li class="task-list-item"><input type="checkbox" disabled> Get tenant's forwarding address</li>
+</ul>
+<p><strong>Days 1 to 3 After Move-Out</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Professional cleaning</li>
+<li class="task-list-item"><input type="checkbox" disabled> Begin painting</li>
+<li class="task-list-item"><input type="checkbox" disabled> Start repairs</li>
+</ul>
+<p><strong>Days 3 to 7</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Complete all repairs and updates</li>
+<li class="task-list-item"><input type="checkbox" disabled> Final cleaning touch-up</li>
+<li class="task-list-item"><input type="checkbox" disabled> Take professional listing photos</li>
+<li class="task-list-item"><input type="checkbox" disabled> Update online listings with new photos</li>
+<li class="task-list-item"><input type="checkbox" disabled> Process security deposit accounting</li>
+</ul>
+<p><strong>Days 7 to 10</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Continue showings</li>
+<li class="task-list-item"><input type="checkbox" disabled> Review and approve tenant applications</li>
+<li class="task-list-item"><input type="checkbox" disabled> Prepare lease agreement</li>
+<li class="task-list-item"><input type="checkbox" disabled> Schedule move-in inspection</li>
+</ul>
+<p><strong>Move-In Day</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Conduct move-in inspection with new tenant</li>
+<li class="task-list-item"><input type="checkbox" disabled> Collect first month's rent and security deposit</li>
+<li class="task-list-item"><input type="checkbox" disabled> Hand over keys and access devices</li>
+<li class="task-list-item"><input type="checkbox" disabled> Provide welcome packet</li>
+</ul>
+<h2 id="tenant-transition-best-practices">Tenant Transition Best Practices</h2>
+<p>The way you handle the transition between tenants sets the tone for your next tenancy.</p>
+<h3 id="welcome-your-new-tenant">Welcome Your New Tenant</h3>
+<p>Create a welcome packet that includes:</p>
+<ul>
+<li>Emergency contact numbers</li>
+<li>How to submit maintenance requests</li>
+<li>Trash and recycling schedules</li>
+<li>Parking rules</li>
+<li>Building rules and community guidelines</li>
+<li>Local utility company contact information</li>
+<li>Nearby grocery stores, pharmacies, and restaurants</li>
+</ul>
+<h3 id="complete-the-move-in-inspection">Complete the Move-In Inspection</h3>
+<p>Do a thorough <a href="/blog/tenant-move-in-checklist">move-in inspection</a> with the new tenant. Document everything with photos and have the tenant sign the inspection report. This protects both of you when the next turnover comes around.</p>
+<h3 id="set-expectations-early">Set Expectations Early</h3>
+<p>Use the move-in meeting to set clear expectations about:</p>
+<ul>
+<li>Rent payment dates and methods</li>
+<li>Maintenance request procedures</li>
+<li>Communication preferences</li>
+<li>Lease terms and rules</li>
+</ul>
+<p>A strong start leads to a smoother tenancy, which means less wear and tear and an easier turnover next time. The <a href="https://www.narpm.org/" rel="noopener" target="_blank">National Association of Residential Property Managers</a> recommends standardized move-in and move-out procedures as a best practice for reducing turnover costs.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>The rental property turnover process does not have to be stressful or expensive. With a clear system, reliable vendors, and some advance planning, you can turn units quickly and keep your vacancy costs low. Start by creating your own turnover checklist based on this guide. Refine it after each turnover. Over time, you will have a process that runs like clockwork, saving you time, money, and headaches with every tenant transition.</p>
+37:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$3d"}}]
+38:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","rental operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental operations"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","maintenance operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"maintenance operations"}],["$","span","rental property turnover process",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental property turnover process"}]]}]
+39:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+3a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","emergency-maintenance-rental-property",{"href":"/blog/emergency-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Emergency Maintenance for Rental Properties: A Landlord's Response Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}],["$","$L10","reduce-maintenance-costs-rental",{"href":"/blog/reduce-maintenance-costs-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Reduce Maintenance Costs on Rental Properties Without Cutting Corners"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","preventive-maintenance-schedule-rental",{"href":"/blog/preventive-maintenance-schedule-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Preventive Maintenance Schedule for Rental Properties: A Landlord's Year-Round Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}]]}]]}]
+3b:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","understanding-the-true-cost-of-turnover",{"className":"","children":["$","a",null,{"href":"#understanding-the-true-cost-of-turnover","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Understanding the True Cost of Turnover"}]}],["$","li","step-1-prepare-before-the-tenant-moves-out",{"className":"","children":["$","a",null,{"href":"#step-1-prepare-before-the-tenant-moves-out","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Prepare Before the Tenant Moves Out"}]}],["$","li","give-and-receive-proper-notice",{"className":"ml-4","children":["$","a",null,{"href":"#give-and-receive-proper-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Give and Receive Proper Notice"}]}],["$","li","create-a-move-out-instruction-packet",{"className":"ml-4","children":["$","a",null,{"href":"#create-a-move-out-instruction-packet","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create a Move-Out Instruction Packet"}]}],["$","li","line-up-your-team",{"className":"ml-4","children":["$","a",null,{"href":"#line-up-your-team","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Line Up Your Team"}]}],["$","li","begin-marketing-early",{"className":"ml-4","children":["$","a",null,{"href":"#begin-marketing-early","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Begin Marketing Early"}]}],["$","li","step-2-conduct-the-move-out-inspection",{"className":"","children":["$","a",null,{"href":"#step-2-conduct-the-move-out-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Conduct the Move-Out Inspection"}]}],["$","li","how-to-do-the-move-out-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#how-to-do-the-move-out-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Do the Move-Out Inspection"}]}],["$","li","what-to-inspect",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-inspect","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Inspect"}]}],["$","li","document-everything",{"className":"ml-4","children":["$","a",null,{"href":"#document-everything","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Document Everything"}]}],["$","li","normal-wear-and-tear-vs-damage",{"className":"ml-4","children":["$","a",null,{"href":"#normal-wear-and-tear-vs-damage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Normal Wear and Tear vs. Damage"}]}],["$","li","step-3-handle-security-deposit-accounting",{"className":"","children":["$","a",null,{"href":"#step-3-handle-security-deposit-accounting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Handle Security Deposit Accounting"}]}],["$","li","know-your-state-deadlines",{"className":"ml-4","children":["$","a",null,{"href":"#know-your-state-deadlines","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Know Your State Deadlines"}]}],["$","li","create-an-itemized-statement",{"className":"ml-4","children":["$","a",null,{"href":"#create-an-itemized-statement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create an Itemized Statement"}]}],["$","li","send-the-deposit-promptly",{"className":"ml-4","children":["$","a",null,{"href":"#send-the-deposit-promptly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Send the Deposit Promptly"}]}],"$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56"]}]]}]}]
+3c:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+3e:["$","li","step-4-clean-the-unit-to-a-high-standard",{"className":"","children":["$","a",null,{"href":"#step-4-clean-the-unit-to-a-high-standard","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Clean the Unit to a High Standard"}]}]
+3f:["$","li","professional-cleaning-checklist",{"className":"ml-4","children":["$","a",null,{"href":"#professional-cleaning-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Professional Cleaning Checklist"}]}]
+40:["$","li","hire-professionals-or-do-it-yourself",{"className":"ml-4","children":["$","a",null,{"href":"#hire-professionals-or-do-it-yourself","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hire Professionals or Do It Yourself"}]}]
+41:["$","li","step-5-make-repairs-and-updates",{"className":"","children":["$","a",null,{"href":"#step-5-make-repairs-and-updates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Make Repairs and Updates"}]}]
+42:["$","li","must-do-repairs",{"className":"ml-4","children":["$","a",null,{"href":"#must-do-repairs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Must-Do Repairs"}]}]
+43:["$","li","strategic-updates-that-pay-off",{"className":"ml-4","children":["$","a",null,{"href":"#strategic-updates-that-pay-off","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Strategic Updates That Pay Off"}]}]
+44:["$","li","prioritize-speed-without-cutting-corners",{"className":"ml-4","children":["$","a",null,{"href":"#prioritize-speed-without-cutting-corners","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Prioritize Speed Without Cutting Corners"}]}]
+45:["$","li","step-6-optimize-your-marketing-timeline",{"className":"","children":["$","a",null,{"href":"#step-6-optimize-your-marketing-timeline","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 6: Optimize Your Marketing Timeline"}]}]
+46:["$","li","when-to-start-marketing",{"className":"ml-4","children":["$","a",null,{"href":"#when-to-start-marketing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When to Start Marketing"}]}]
+47:["$","li","create-a-strong-listing",{"className":"ml-4","children":["$","a",null,{"href":"#create-a-strong-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create a Strong Listing"}]}]
+48:["$","li","price-it-right",{"className":"ml-4","children":["$","a",null,{"href":"#price-it-right","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Price It Right"}]}]
+49:["$","li","step-7-minimize-vacancy-days",{"className":"","children":["$","a",null,{"href":"#step-7-minimize-vacancy-days","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 7: Minimize Vacancy Days"}]}]
+4a:["$","li","overlap-tasks",{"className":"ml-4","children":["$","a",null,{"href":"#overlap-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Overlap Tasks"}]}]
+4b:["$","li","pre-screen-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#pre-screen-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pre-Screen Tenants"}]}]
+4c:["$","li","offer-a-move-in-incentive",{"className":"ml-4","children":["$","a",null,{"href":"#offer-a-move-in-incentive","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Offer a Move-In Incentive"}]}]
+4d:["$","li","keep-the-unit-show-ready",{"className":"ml-4","children":["$","a",null,{"href":"#keep-the-unit-show-ready","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep the Unit \"Show Ready\""}]}]
+4e:["$","li","step-8-track-your-turnover-costs",{"className":"","children":["$","a",null,{"href":"#step-8-track-your-turnover-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 8: Track Your Turnover Costs"}]}]
+4f:["$","li","what-to-track",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-track","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Track"}]}]
+50:["$","li","use-this-data",{"className":"ml-4","children":["$","a",null,{"href":"#use-this-data","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use This Data"}]}]
+51:["$","li","the-complete-turnover-checklist",{"className":"","children":["$","a",null,{"href":"#the-complete-turnover-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Complete Turnover Checklist"}]}]
+52:["$","li","tenant-transition-best-practices",{"className":"","children":["$","a",null,{"href":"#tenant-transition-best-practices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Transition Best Practices"}]}]
+53:["$","li","welcome-your-new-tenant",{"className":"ml-4","children":["$","a",null,{"href":"#welcome-your-new-tenant","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Welcome Your New Tenant"}]}]
+54:["$","li","complete-the-move-in-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#complete-the-move-in-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Complete the Move-In Inspection"}]}]
+55:["$","li","set-expectations-early",{"className":"ml-4","children":["$","a",null,{"href":"#set-expectations-early","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Set Expectations Early"}]}]
+56:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Rental Property Turnover Process: How to Minimize Vacancy and Maximize Returns | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Master the rental property turnover process with this step-by-step guide. Learn how to handle move-out inspections, cleaning, repairs, and marketing to minimize vacancy days and reduce costs."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"property maintenance,rental operations,landlord tips,maintenance operations,rental property turnover process"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/rental-property-turnover-process"}],["$","meta","6",{"property":"og:title","content":"Rental Property Turnover Process: How to Minimize Vacancy and Maximize Returns"}],["$","meta","7",{"property":"og:description","content":"Master the rental property turnover process with this step-by-step guide. Learn how to handle move-out inspections, cleaning, repairs, and marketing to minimize vacancy days and reduce costs."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/rental-property-turnover-process"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Rental Property Turnover Process: How to Minimize Vacancy and Maximize Returns"}],["$","meta","15",{"name":"twitter:description","content":"Master the rental property turnover process with this step-by-step guide. Learn how to handle move-out inspections, cleaning, repairs, and marketing to minimize vacancy days and reduce costs."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

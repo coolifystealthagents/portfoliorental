@@ -1,0 +1,323 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","rental-property-photography-tips"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","rental-property-photography-tips","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rental-property-photography-tips","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Rental Property Photography Tips for Stunning Listing Photos\",\"description\":\"Master rental property photography with these practical tips. Learn lighting, staging, equipment, editing, and room-by-room techniques to make your listing stand out.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/rental-property-photography-tips\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Marketing & Leasing\",\"item\":\"https://portfoliorental.com/blog/category/marketing-and-leasing\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Rental Property Photography Tips for Stunning Listing Photos\",\"item\":\"https://portfoliorental.com/blog/rental-property-photography-tips\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/marketing-and-leasing","className":"hover:text-blue-600","children":"Marketing & Leasing"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Marketing & Leasing"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Rental Property Photography Tips for Stunning Listing Photos"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[11," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-great-photos-matter",{"className":"","children":["$","a",null,{"href":"#why-great-photos-matter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Great Photos Matter"}]}],["$","li","phone-vs-dslr-which-should-you-use",{"className":"","children":["$","a",null,{"href":"#phone-vs-dslr-which-should-you-use","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Phone vs. DSLR: Which Should You Use?"}]}],["$","li","lighting-techniques-that-make-rooms-shine",{"className":"","children":["$","a",null,{"href":"#lighting-techniques-that-make-rooms-shine","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lighting Techniques That Make Rooms Shine"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b"]}]}]]}],"$L2c","$L2d"]}],"$L2e","$L2f"]}],"$L30"]}]]}],"$L31"]
+11:["$","li","use-natural-light",{"className":"ml-4","children":["$","a",null,{"href":"#use-natural-light","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Natural Light"}]}]
+12:["$","li","avoid-common-lighting-mistakes",{"className":"ml-4","children":["$","a",null,{"href":"#avoid-common-lighting-mistakes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Avoid Common Lighting Mistakes"}]}]
+13:["$","li","cloudy-days-are-your-friend",{"className":"ml-4","children":["$","a",null,{"href":"#cloudy-days-are-your-friend","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cloudy Days Are Your Friend"}]}]
+14:["$","li","staging-your-property-for-photos",{"className":"","children":["$","a",null,{"href":"#staging-your-property-for-photos","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Staging Your Property for Photos"}]}]
+15:["$","li","the-basics-of-staging",{"className":"ml-4","children":["$","a",null,{"href":"#the-basics-of-staging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Basics of Staging"}]}]
+16:["$","li","staging-an-empty-property",{"className":"ml-4","children":["$","a",null,{"href":"#staging-an-empty-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Staging an Empty Property"}]}]
+17:["$","li","room-by-room-photography-guide",{"className":"","children":["$","a",null,{"href":"#room-by-room-photography-guide","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Room-by-Room Photography Guide"}]}]
+18:["$","li","living-room",{"className":"ml-4","children":["$","a",null,{"href":"#living-room","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Living Room"}]}]
+19:["$","li","kitchen",{"className":"ml-4","children":["$","a",null,{"href":"#kitchen","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Kitchen"}]}]
+1a:["$","li","bedrooms",{"className":"ml-4","children":["$","a",null,{"href":"#bedrooms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedrooms"}]}]
+1b:["$","li","bathrooms",{"className":"ml-4","children":["$","a",null,{"href":"#bathrooms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bathrooms"}]}]
+1c:["$","li","laundry-area",{"className":"ml-4","children":["$","a",null,{"href":"#laundry-area","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Laundry Area"}]}]
+1d:["$","li","exterior-shots",{"className":"","children":["$","a",null,{"href":"#exterior-shots","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Shots"}]}]
+1e:["$","li","front-of-the-property",{"className":"ml-4","children":["$","a",null,{"href":"#front-of-the-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Front of the Property"}]}]
+1f:["$","li","backyard-and-outdoor-spaces",{"className":"ml-4","children":["$","a",null,{"href":"#backyard-and-outdoor-spaces","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Backyard and Outdoor Spaces"}]}]
+20:["$","li","parking-and-common-areas",{"className":"ml-4","children":["$","a",null,{"href":"#parking-and-common-areas","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Parking and Common Areas"}]}]
+21:["$","li","editing-your-photos",{"className":"","children":["$","a",null,{"href":"#editing-your-photos","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Editing Your Photos"}]}]
+22:["$","li","free-and-easy-editing-tools",{"className":"ml-4","children":["$","a",null,{"href":"#free-and-easy-editing-tools","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Free and Easy Editing Tools"}]}]
+23:["$","li","basic-edits-to-make-on-every-photo",{"className":"ml-4","children":["$","a",null,{"href":"#basic-edits-to-make-on-every-photo","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Basic Edits to Make on Every Photo"}]}]
+24:["$","li","edits-to-avoid",{"className":"ml-4","children":["$","a",null,{"href":"#edits-to-avoid","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Edits to Avoid"}]}]
+25:["$","li","virtual-staging",{"className":"","children":["$","a",null,{"href":"#virtual-staging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Virtual Staging"}]}]
+26:["$","li","drone-photography",{"className":"","children":["$","a",null,{"href":"#drone-photography","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Drone Photography"}]}]
+27:["$","li","photo-order-in-your-listing",{"className":"","children":["$","a",null,{"href":"#photo-order-in-your-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Photo Order in Your Listing"}]}]
+28:["$","li","how-many-photos-to-include",{"className":"","children":["$","a",null,{"href":"#how-many-photos-to-include","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Many Photos to Include"}]}]
+29:["$","li","creating-a-shot-list",{"className":"","children":["$","a",null,{"href":"#creating-a-shot-list","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Creating a Shot List"}]}]
+2a:["$","li","common-photography-mistakes",{"className":"","children":["$","a",null,{"href":"#common-photography-mistakes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Photography Mistakes"}]}]
+2b:["$","li","putting-it-all-together",{"className":"","children":["$","a",null,{"href":"#putting-it-all-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Putting It All Together"}]}]
+32:T48c8,<p>Great photos are the number one thing that gets renters to click on your listing. Studies show that listings with high-quality photos get two to three times more views than those with dark, blurry, or poorly framed images. Yet many landlords rush through photos or skip them altogether.</p>
+<p>You do not need expensive equipment or professional training to take great rental property photos. With the right techniques and a little preparation, you can create listing photos that attract quality tenants and help you fill vacancies faster.</p>
+<p>This guide covers everything you need to know about rental property photography, from equipment and lighting to staging and editing.</p>
+<h2 id="why-great-photos-matter">Why Great Photos Matter</h2>
+<p>Before we get into the how-to, let us talk about why photos deserve your attention.</p>
+<p>Renters scroll through dozens of listings at a time. They spend about two seconds on each listing before deciding to click or keep scrolling. Your photos are what make them stop.</p>
+<p>Great listing photos help you:</p>
+<ul>
+<li><strong>Get more clicks</strong> on your online listing</li>
+<li><strong>Attract serious renters</strong> who already like what they see</li>
+<li><strong>Reduce wasted showings</strong> with people who would not like the property in person</li>
+<li><strong>Justify your asking rent</strong> by showing the property at its best</li>
+<li><strong>Fill vacancies faster</strong> by creating demand</li>
+</ul>
+<p>These photos become part of your broader <a href="/blog/rental-property-marketing-strategies">rental property marketing strategy</a> and work alongside your listing description to sell the property.</p>
+<h2 id="phone-vs-dslr-which-should-you-use">Phone vs. DSLR: Which Should You Use?</h2>
+<p>The first question most landlords ask is whether they need a fancy camera. Here is the honest answer: modern smartphones take excellent photos for rental listings.</p>
+<p><strong>Use your smartphone if:</strong></p>
+<ul>
+<li>You are on a tight budget</li>
+<li>You manage just a few properties</li>
+<li>You are comfortable with basic photo editing</li>
+<li>Your phone is from the last three to four years</li>
+</ul>
+<p><strong>Consider a DSLR or mirrorless camera if:</strong></p>
+<ul>
+<li>You manage many properties and take photos regularly</li>
+<li>You want the absolute best quality</li>
+<li>You are willing to learn manual camera settings</li>
+<li>Your properties are high-end and compete with professional listings</li>
+</ul>
+<p><strong>Smartphone tips for better photos:</strong></p>
+<ul>
+<li>Use the wide-angle lens (usually the default on newer phones)</li>
+<li>Turn on the grid overlay to keep your lines straight</li>
+<li>Tap the screen to set focus, then adjust brightness</li>
+<li>Use HDR mode for rooms with bright windows and dark corners</li>
+<li>Hold the phone horizontally for every shot (landscape orientation)</li>
+</ul>
+<p><strong>If you go with a DSLR:</strong></p>
+<ul>
+<li>Use a wide-angle lens (10-22mm on crop sensor or 16-35mm on full frame)</li>
+<li>Shoot in aperture priority mode at f/8 to f/11 for sharp photos</li>
+<li>Use a tripod for steady, consistent shots</li>
+<li>Shoot in RAW format for better editing flexibility</li>
+</ul>
+<p>Either way, the techniques below will dramatically improve your results.</p>
+<h2 id="lighting-techniques-that-make-rooms-shine">Lighting Techniques That Make Rooms Shine</h2>
+<p>Lighting is the single biggest factor in photo quality. Here is how to get it right every time.</p>
+<h3 id="use-natural-light">Use Natural Light</h3>
+<p>Natural light makes rooms look warm, inviting, and spacious. Follow these rules:</p>
+<ul>
+<li><strong>Shoot during the day</strong> between 10 AM and 2 PM when the sun is high</li>
+<li><strong>Open all blinds and curtains</strong> to let in as much light as possible</li>
+<li><strong>Turn on every light in the property</strong> including lamps, overhead lights, and under-cabinet lighting</li>
+<li><strong>Open interior doors</strong> to let light flow between rooms</li>
+</ul>
+<h3 id="avoid-common-lighting-mistakes">Avoid Common Lighting Mistakes</h3>
+<ul>
+<li><strong>Never use flash.</strong> On-camera flash creates harsh shadows and makes rooms look cold and flat.</li>
+<li><strong>Watch out for mixed lighting.</strong> If a room has warm lamps and cool overhead lights, it can look odd in photos. Stick with one type when possible.</li>
+<li><strong>Be careful with windows.</strong> Bright windows can make the rest of the room look dark. Use HDR mode to balance the exposure.</li>
+</ul>
+<h3 id="cloudy-days-are-your-friend">Cloudy Days Are Your Friend</h3>
+<p>Overcast skies act like a giant softbox, spreading light evenly without harsh shadows. Many professional photographers prefer cloudy days for interior shots. If you can, schedule your photo session on a lightly overcast day.</p>
+<h2 id="staging-your-property-for-photos">Staging Your Property for Photos</h2>
+<p>Staging means arranging the property to look its best in photos. You do not need to hire a professional stager or buy expensive furniture. Simple staging goes a long way.</p>
+<h3 id="the-basics-of-staging">The Basics of Staging</h3>
+<ol>
+<li><strong>Deep clean everything.</strong> Clean floors, counters, windows, and fixtures. A dirty property photographs poorly no matter what else you do.</li>
+<li><strong>Declutter every surface.</strong> Remove personal items, excess furniture, and anything that makes rooms look small or messy.</li>
+<li><strong>Make beds with fresh linens.</strong> A neatly made bed with matching pillows makes a bedroom look like a hotel.</li>
+<li><strong>Add small touches.</strong> A bowl of fruit on the kitchen counter, fresh towels in the bathroom, or a plant on the coffee table adds warmth.</li>
+<li><strong>Hide cords and cables.</strong> Loose wires make rooms look messy. Tuck them behind furniture.</li>
+<li><strong>Remove trash cans, toilet brushes, and cleaning supplies.</strong> These everyday items look terrible in photos.</li>
+</ol>
+<h3 id="staging-an-empty-property">Staging an Empty Property</h3>
+<p>Empty rooms are harder to photograph because they lack scale and feel cold. Here are some ways to handle empty units:</p>
+<ul>
+<li><strong>Add a few key pieces.</strong> A simple dining table with chairs, a bed with bedding, or a couch with throw pillows can transform an empty room.</li>
+<li><strong>Use virtual staging.</strong> Software can add furniture to photos of empty rooms. This is cheaper than physical staging and looks great in listings. We will cover this more below.</li>
+<li><strong>Shoot from corners.</strong> Empty rooms look bigger when photographed from a corner, showing two walls and the floor.</li>
+</ul>
+<p>For more detailed staging advice, see our guide on <a href="/blog/rental-property-staging-tips">rental property staging tips</a>.</p>
+<h2 id="room-by-room-photography-guide">Room-by-Room Photography Guide</h2>
+<p>Every room has its own challenges. Here is how to photograph each one for the best results.</p>
+<h3 id="living-room">Living Room</h3>
+<ul>
+<li>Shoot from the corner that shows the most space</li>
+<li>Include windows to show natural light</li>
+<li>If furnished, arrange seating to face the camera</li>
+<li>Show the view from the living room into adjacent rooms to emphasize flow</li>
+</ul>
+<h3 id="kitchen">Kitchen</h3>
+<ul>
+<li>Clean the counters completely. No dishes, no appliances, no clutter</li>
+<li>Wipe down all appliances so they do not show fingerprints</li>
+<li>Turn on under-cabinet lighting if available</li>
+<li>Shoot from the doorway looking in and from the corners</li>
+<li>Open one or two upper cabinets to show storage space</li>
+</ul>
+<h3 id="bedrooms">Bedrooms</h3>
+<ul>
+<li>Make the bed with clean, neutral bedding</li>
+<li>Remove personal photos and clutter from nightstands</li>
+<li>Open closet doors to show closet size (make sure the closet is organized)</li>
+<li>Shoot from the doorway and from the corner opposite the bed</li>
+</ul>
+<h3 id="bathrooms">Bathrooms</h3>
+<ul>
+<li>Close the toilet lid</li>
+<li>Hang fresh, matching towels</li>
+<li>Remove all personal products from the counter and shower</li>
+<li>Clean the mirror until it sparkles (dirty mirrors are very obvious in photos)</li>
+<li>Shoot from the doorway since bathrooms are small and hard to photograph from inside</li>
+</ul>
+<h3 id="laundry-area">Laundry Area</h3>
+<ul>
+<li>Close washer and dryer doors</li>
+<li>Remove detergent bottles and laundry baskets</li>
+<li>Wipe down surfaces</li>
+<li>Show shelving or storage if available</li>
+</ul>
+<h2 id="exterior-shots">Exterior Shots</h2>
+<p>Exterior photos are just as important as interior ones. The outside of your property is the first thing renters see, and it sets expectations for what is inside.</p>
+<h3 id="front-of-the-property">Front of the Property</h3>
+<ul>
+<li>Shoot on a clear day with blue sky if possible</li>
+<li>Stand across the street to capture the full facade</li>
+<li>Mow the lawn, trim bushes, and clean up the yard before shooting</li>
+<li>Remove cars from the driveway and trash cans from the curb</li>
+<li>Shoot at a slight angle rather than straight on for a more dynamic look</li>
+</ul>
+<h3 id="backyard-and-outdoor-spaces">Backyard and Outdoor Spaces</h3>
+<ul>
+<li>Photograph patios, decks, pools, and outdoor seating areas</li>
+<li>Stage outdoor furniture with cushions and a few accessories</li>
+<li>Clean the grill and outdoor kitchen if applicable</li>
+<li>Show fencing for renters with pets or children</li>
+</ul>
+<h3 id="parking-and-common-areas">Parking and Common Areas</h3>
+<ul>
+<li>Include photos of the garage, parking spaces, or carport</li>
+<li>Show common areas like lobbies, gyms, pools, and laundry rooms</li>
+<li>Photograph mailboxes, storage units, and other amenities</li>
+</ul>
+<h2 id="editing-your-photos">Editing Your Photos</h2>
+<p>Even great photos benefit from a little editing. You do not need to be a Photoshop expert. Simple adjustments make a big difference.</p>
+<h3 id="free-and-easy-editing-tools">Free and Easy Editing Tools</h3>
+<ul>
+<li><strong>Google Photos</strong> has built-in editing with auto-adjust</li>
+<li><strong>Snapseed</strong> is a free mobile app with powerful editing tools</li>
+<li><strong>Lightroom Mobile</strong> offers professional-level editing for free</li>
+<li><strong>Canva</strong> lets you add text overlays and create collages</li>
+</ul>
+<h3 id="basic-edits-to-make-on-every-photo">Basic Edits to Make on Every Photo</h3>
+<ol>
+<li><strong>Straighten the image.</strong> Make sure walls and door frames are perfectly vertical.</li>
+<li><strong>Adjust brightness.</strong> Increase exposure slightly if the photo looks dark.</li>
+<li><strong>Increase contrast.</strong> A small contrast boost makes the image pop.</li>
+<li><strong>Correct white balance.</strong> Make sure whites look white, not yellow or blue.</li>
+<li><strong>Crop for composition.</strong> Remove distracting edges and center the subject.</li>
+</ol>
+<h3 id="edits-to-avoid">Edits to Avoid</h3>
+<ul>
+<li><strong>Do not over-edit.</strong> Heavy filters make photos look fake and turn renters off.</li>
+<li><strong>Do not misrepresent the property.</strong> Editing should enhance, not deceive. If you make a small room look huge through editing tricks, renters will be disappointed in person.</li>
+<li><strong>Do not use black and white or sepia.</strong> Renters want to see accurate colors.</li>
+</ul>
+<h2 id="virtual-staging">Virtual Staging</h2>
+<p>Virtual staging uses software to add furniture and decor to photos of empty rooms. It is a cost-effective way to help renters visualize the space.</p>
+<p><strong>Benefits of virtual staging:</strong></p>
+<ul>
+<li>Costs 25 to 75 dollars per photo versus 1,000+ dollars for physical staging</li>
+<li>Quick turnaround, often within 24 to 48 hours</li>
+<li>Multiple style options for different target demographics</li>
+<li>Easy to update or change</li>
+</ul>
+<p><strong>Tips for virtual staging:</strong></p>
+<ul>
+<li>Use realistic furniture that fits the room proportions</li>
+<li>Match the style to your target renter (modern for young professionals, traditional for families)</li>
+<li>Label virtually staged photos clearly in your listing to avoid misleading renters</li>
+<li>Use it for the main living areas and bedrooms but not for kitchens and bathrooms</li>
+</ul>
+<p>Popular virtual staging services include BoxBrownie, VirtualStagingSolutions, and Stuccco. For an even more immersive experience, consider adding <a href="/blog/virtual-tours-rental-property">virtual tours to your rental property</a> listings alongside your photos.</p>
+<h2 id="drone-photography">Drone Photography</h2>
+<p>Drone photos give a unique perspective that sets your listing apart. They are especially useful for:</p>
+<ul>
+<li>Properties with large lots or attractive surroundings</li>
+<li>Multi-family buildings where you want to show the full property</li>
+<li>Homes near parks, water, or scenic views</li>
+<li>Properties where the neighborhood is a major selling point</li>
+</ul>
+<p><strong>Important notes on drone photography:</strong></p>
+<ul>
+<li>You need an FAA Part 107 license to fly drones commercially in the US</li>
+<li>Hiring a licensed drone photographer costs 100 to 300 dollars</li>
+<li>Check local regulations since some areas restrict drone flights</li>
+<li>Do not fly over neighboring properties without permission</li>
+</ul>
+<h2 id="photo-order-in-your-listing">Photo Order in Your Listing</h2>
+<p>The order you place photos in your listing matters more than you might think. Renters often stop scrolling after the first five to seven photos. Put your best content first.</p>
+<p><strong>Recommended photo order:</strong></p>
+<ol>
+<li><strong>Hero shot</strong> - The best exterior photo of the property</li>
+<li><strong>Living room</strong> - The main gathering space</li>
+<li><strong>Kitchen</strong> - Often the most important room for renters</li>
+<li><strong>Primary bedroom</strong> - Shows the main sleeping space</li>
+<li><strong>Primary bathroom</strong> - Especially if it has been updated</li>
+<li><strong>Additional bedrooms</strong> - One photo each</li>
+<li><strong>Additional bathrooms</strong> - One photo each</li>
+<li><strong>Special features</strong> - Laundry, garage, office, bonus rooms</li>
+<li><strong>Outdoor spaces</strong> - Backyard, patio, pool</li>
+<li><strong>Neighborhood</strong> - Parks, shops, views nearby</li>
+</ol>
+<h2 id="how-many-photos-to-include">How Many Photos to Include</h2>
+<p>More photos generally means more interest, but there is a point of diminishing returns.</p>
+<ul>
+<li><strong>Minimum:</strong> 10 photos for a studio or one-bedroom</li>
+<li><strong>Ideal:</strong> 15 to 25 photos for a two- to three-bedroom</li>
+<li><strong>Maximum:</strong> 30 to 35 photos for a large home</li>
+</ul>
+<p>Do not include multiple photos of the same angle or room unless they show something different. Every photo should add new information for the renter.</p>
+<h2 id="creating-a-shot-list">Creating a Shot List</h2>
+<p>Before you start shooting, make a list of every photo you need. This keeps you organized and ensures you do not miss anything.</p>
+<p><strong>Sample shot list for a two-bedroom apartment:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Building exterior (2 angles)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Front entrance or lobby</li>
+<li class="task-list-item"><input type="checkbox" disabled> Living room (2 to 3 angles)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Kitchen (2 to 3 angles)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Dining area</li>
+<li class="task-list-item"><input type="checkbox" disabled> Primary bedroom (2 angles)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Primary bedroom closet</li>
+<li class="task-list-item"><input type="checkbox" disabled> Second bedroom (2 angles)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Primary bathroom</li>
+<li class="task-list-item"><input type="checkbox" disabled> Second bathroom</li>
+<li class="task-list-item"><input type="checkbox" disabled> Laundry area</li>
+<li class="task-list-item"><input type="checkbox" disabled> Balcony or patio</li>
+<li class="task-list-item"><input type="checkbox" disabled> Parking area</li>
+<li class="task-list-item"><input type="checkbox" disabled> Building amenities (pool, gym, etc.)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Neighborhood highlights</li>
+</ul>
+<p>Walk through the property with this list and check off each shot as you take it.</p>
+<h2 id="common-photography-mistakes">Common Photography Mistakes</h2>
+<p>Avoid these errors that make otherwise good properties look bad:</p>
+<ol>
+<li><strong>Shooting in portrait mode.</strong> Always hold your camera or phone horizontally.</li>
+<li><strong>Including yourself in reflections.</strong> Watch for mirrors, windows, and shiny surfaces.</li>
+<li><strong>Leaving toilet seats up.</strong> Always close the lid before photographing a bathroom.</li>
+<li><strong>Forgetting to remove personal items.</strong> Family photos, medications, and valuables should be put away.</li>
+<li><strong>Shooting at night.</strong> Even with lights on, nighttime photos look dark and uninviting.</li>
+<li><strong>Tilting the camera up or down.</strong> Keep it level at about chest height for natural-looking perspectives.</li>
+</ol>
+<h2 id="putting-it-all-together">Putting It All Together</h2>
+<p>Great rental property photography is a skill you can learn and improve over time. Start with these basics: clean the property, use natural light, shoot from corners, and make simple edits. As you get more comfortable, you can add techniques like virtual staging and drone photography.</p>
+<p>Your photos work together with your <a href="/blog/writing-rental-listing-descriptions">listing description</a> to create a complete picture of your property. When both are done well, you attract better tenants and fill vacancies faster.</p>
+<p>Take the time to do your photos right. The effort pays off in shorter vacancy periods, higher-quality applicants, and better rental income over time. For more marketing resources, the <a href="https://www.nar.realtor" rel="noopener" target="_blank">National Association of Realtors</a> offers guidance on real estate photography standards, and <a href="https://www.canva.com" rel="noopener" target="_blank">Canva</a> provides free templates and design tools for creating listing graphics and photo collages.</p>
+2c:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$32"}}]
+2d:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","marketing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"marketing"}],["$","span","vacancy reduction",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacancy reduction"}],["$","span","rental listings",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental listings"}],["$","span","rental property photography tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental property photography tips"}]]}]
+2e:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Marketing & Leasing"]}],["$","$L10",null,{"href":"/blog/category/marketing-and-leasing","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","lease-up-strategy-new-rental-properties",{"children":["$","$L10",null,{"href":"/blog/lease-up-strategy-new-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Lease-Up Strategy for New Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","market-luxury-rental-properties-affluent",{"children":["$","$L10",null,{"href":"/blog/market-luxury-rental-properties-affluent","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Market Luxury Rental Properties to High-Net-Worth Tenants"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","rental-property-showing-schedule-efficiency",{"children":["$","$L10",null,{"href":"/blog/rental-property-showing-schedule-efficiency","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Set Up a Rental Property Showing Schedule That Maximizes Efficiency"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","run-rental-property-showing-converts",{"children":["$","$L10",null,{"href":"/blog/run-rental-property-showing-converts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Run a Rental Property Showing That Converts"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+2f:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","best-rental-listing-sites",{"href":"/blog/best-rental-listing-sites","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Best Rental Listing Sites to Advertise Your Property in 2026"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","reduce-days-on-market-rental",{"href":"/blog/reduce-days-on-market-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Reduce Days on Market for Your Rental Property"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","rental-property-branding",{"href":"/blog/rental-property-branding","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Rental Property Branding: How to Build a Brand That Attracts and Retains Tenants"}],["$","p",null,{"className":"text-sm text-gray-500","children":[12," min read"]}]]}]]}]]}]
+30:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-great-photos-matter",{"className":"","children":["$","a",null,{"href":"#why-great-photos-matter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Great Photos Matter"}]}],["$","li","phone-vs-dslr-which-should-you-use",{"className":"","children":["$","a",null,{"href":"#phone-vs-dslr-which-should-you-use","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Phone vs. DSLR: Which Should You Use?"}]}],["$","li","lighting-techniques-that-make-rooms-shine",{"className":"","children":["$","a",null,{"href":"#lighting-techniques-that-make-rooms-shine","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lighting Techniques That Make Rooms Shine"}]}],["$","li","use-natural-light",{"className":"ml-4","children":["$","a",null,{"href":"#use-natural-light","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Natural Light"}]}],["$","li","avoid-common-lighting-mistakes",{"className":"ml-4","children":["$","a",null,{"href":"#avoid-common-lighting-mistakes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Avoid Common Lighting Mistakes"}]}],["$","li","cloudy-days-are-your-friend",{"className":"ml-4","children":["$","a",null,{"href":"#cloudy-days-are-your-friend","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cloudy Days Are Your Friend"}]}],["$","li","staging-your-property-for-photos",{"className":"","children":["$","a",null,{"href":"#staging-your-property-for-photos","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Staging Your Property for Photos"}]}],["$","li","the-basics-of-staging",{"className":"ml-4","children":["$","a",null,{"href":"#the-basics-of-staging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Basics of Staging"}]}],["$","li","staging-an-empty-property",{"className":"ml-4","children":["$","a",null,{"href":"#staging-an-empty-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Staging an Empty Property"}]}],["$","li","room-by-room-photography-guide",{"className":"","children":["$","a",null,{"href":"#room-by-room-photography-guide","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Room-by-Room Photography Guide"}]}],["$","li","living-room",{"className":"ml-4","children":["$","a",null,{"href":"#living-room","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Living Room"}]}],["$","li","kitchen",{"className":"ml-4","children":["$","a",null,{"href":"#kitchen","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Kitchen"}]}],["$","li","bedrooms",{"className":"ml-4","children":["$","a",null,{"href":"#bedrooms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedrooms"}]}],["$","li","bathrooms",{"className":"ml-4","children":["$","a",null,{"href":"#bathrooms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bathrooms"}]}],["$","li","laundry-area",{"className":"ml-4","children":["$","a",null,{"href":"#laundry-area","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Laundry Area"}]}],["$","li","exterior-shots",{"className":"","children":["$","a",null,{"href":"#exterior-shots","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Shots"}]}],["$","li","front-of-the-property",{"className":"ml-4","children":["$","a",null,{"href":"#front-of-the-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Front of the Property"}]}],"$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f"]}]]}]}]
+31:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+33:["$","li","backyard-and-outdoor-spaces",{"className":"ml-4","children":["$","a",null,{"href":"#backyard-and-outdoor-spaces","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Backyard and Outdoor Spaces"}]}]
+34:["$","li","parking-and-common-areas",{"className":"ml-4","children":["$","a",null,{"href":"#parking-and-common-areas","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Parking and Common Areas"}]}]
+35:["$","li","editing-your-photos",{"className":"","children":["$","a",null,{"href":"#editing-your-photos","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Editing Your Photos"}]}]
+36:["$","li","free-and-easy-editing-tools",{"className":"ml-4","children":["$","a",null,{"href":"#free-and-easy-editing-tools","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Free and Easy Editing Tools"}]}]
+37:["$","li","basic-edits-to-make-on-every-photo",{"className":"ml-4","children":["$","a",null,{"href":"#basic-edits-to-make-on-every-photo","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Basic Edits to Make on Every Photo"}]}]
+38:["$","li","edits-to-avoid",{"className":"ml-4","children":["$","a",null,{"href":"#edits-to-avoid","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Edits to Avoid"}]}]
+39:["$","li","virtual-staging",{"className":"","children":["$","a",null,{"href":"#virtual-staging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Virtual Staging"}]}]
+3a:["$","li","drone-photography",{"className":"","children":["$","a",null,{"href":"#drone-photography","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Drone Photography"}]}]
+3b:["$","li","photo-order-in-your-listing",{"className":"","children":["$","a",null,{"href":"#photo-order-in-your-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Photo Order in Your Listing"}]}]
+3c:["$","li","how-many-photos-to-include",{"className":"","children":["$","a",null,{"href":"#how-many-photos-to-include","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Many Photos to Include"}]}]
+3d:["$","li","creating-a-shot-list",{"className":"","children":["$","a",null,{"href":"#creating-a-shot-list","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Creating a Shot List"}]}]
+3e:["$","li","common-photography-mistakes",{"className":"","children":["$","a",null,{"href":"#common-photography-mistakes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Photography Mistakes"}]}]
+3f:["$","li","putting-it-all-together",{"className":"","children":["$","a",null,{"href":"#putting-it-all-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Putting It All Together"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Rental Property Photography Tips for Stunning Listing Photos | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Master rental property photography with these practical tips. Learn lighting, staging, equipment, editing, and room-by-room techniques to make your listing stand out."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"marketing,vacancy reduction,rental listings,rental property photography tips"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/rental-property-photography-tips"}],["$","meta","6",{"property":"og:title","content":"Rental Property Photography Tips for Stunning Listing Photos"}],["$","meta","7",{"property":"og:description","content":"Master rental property photography with these practical tips. Learn lighting, staging, equipment, editing, and room-by-room techniques to make your listing stand out."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/rental-property-photography-tips"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Rental Property Photography Tips for Stunning Listing Photos"}],["$","meta","15",{"name":"twitter:description","content":"Master rental property photography with these practical tips. Learn lighting, staging, equipment, editing, and room-by-room techniques to make your listing stand out."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

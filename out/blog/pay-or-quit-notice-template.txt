@@ -1,0 +1,227 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","pay-or-quit-notice-template"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","pay-or-quit-notice-template","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pay-or-quit-notice-template","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Free Pay-or-Quit Notice Template (With State-Specific Timelines)\",\"description\":\"A pay-or-quit notice is the first step in the eviction process for nonpayment of rent. Get a free template, learn required elements, state-specific timelines, and proper service methods to make your notice legally enforceable.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/pay-or-quit-notice-template\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tenant Management\",\"item\":\"https://portfoliorental.com/blog/category/tenant-management\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Free Pay-or-Quit Notice Template (With State-Specific Timelines)\",\"item\":\"https://portfoliorental.com/blog/pay-or-quit-notice-template\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/tenant-management","className":"hover:text-blue-600","children":"Tenant Management"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Tenant Management"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Free Pay-or-Quit Notice Template (With State-Specific Timelines)"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[9," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-a-pay-or-quit-notice",{"className":"","children":["$","a",null,{"href":"#what-is-a-pay-or-quit-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is a Pay-or-Quit Notice?"}]}],["$","li","why-the-pay-or-quit-notice-must-be-perfect",{"className":"","children":["$","a",null,{"href":"#why-the-pay-or-quit-notice-must-be-perfect","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why the Pay-or-Quit Notice Must Be Perfect"}]}],["$","li","state-specific-pay-or-quit-notice-timelines",{"className":"","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20"]}]}]]}],"$L21","$L22"]}],"$L23","$L24"]}],"$L25"]}]]}],"$L26"]
+11:["$","a",null,{"href":"#state-specific-pay-or-quit-notice-timelines","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"State-Specific Pay-or-Quit Notice Timelines"}]
+12:["$","li","3-day-notice-states",{"className":"ml-4","children":["$","a",null,{"href":"#3-day-notice-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3-Day Notice States"}]}]
+13:["$","li","5-day-notice-states",{"className":"ml-4","children":["$","a",null,{"href":"#5-day-notice-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5-Day Notice States"}]}]
+14:["$","li","7-day-notice-states",{"className":"ml-4","children":["$","a",null,{"href":"#7-day-notice-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7-Day Notice States"}]}]
+15:["$","li","14-day-notice-states",{"className":"ml-4","children":["$","a",null,{"href":"#14-day-notice-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"14-Day Notice States"}]}]
+16:["$","li","required-elements-of-a-valid-pay-or-quit-notice",{"className":"","children":["$","a",null,{"href":"#required-elements-of-a-valid-pay-or-quit-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Required Elements of a Valid Pay-or-Quit Notice"}]}]
+17:["$","li","free-pay-or-quit-notice-template",{"className":"","children":["$","a",null,{"href":"#free-pay-or-quit-notice-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Free Pay-or-Quit Notice Template"}]}]
+18:["$","li","how-to-fill-out-the-template-correctly",{"className":"","children":["$","a",null,{"href":"#how-to-fill-out-the-template-correctly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Fill Out the Template Correctly"}]}]
+19:["$","li","how-to-serve-a-pay-or-quit-notice",{"className":"","children":["$","a",null,{"href":"#how-to-serve-a-pay-or-quit-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Serve a Pay-or-Quit Notice"}]}]
+1a:["$","li","personal-service",{"className":"ml-4","children":["$","a",null,{"href":"#personal-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Personal Service"}]}]
+1b:["$","li","substituted-service",{"className":"ml-4","children":["$","a",null,{"href":"#substituted-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Substituted Service"}]}]
+1c:["$","li","post-and-mail-service",{"className":"ml-4","children":["$","a",null,{"href":"#post-and-mail-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Post-and-Mail Service"}]}]
+1d:["$","li","certified-mail",{"className":"ml-4","children":["$","a",null,{"href":"#certified-mail","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Certified Mail"}]}]
+1e:["$","li","documenting-service",{"className":"ml-4","children":["$","a",null,{"href":"#documenting-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documenting Service"}]}]
+1f:["$","li","what-happens-after-the-notice-period-expires",{"className":"","children":["$","a",null,{"href":"#what-happens-after-the-notice-period-expires","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Happens After the Notice Period Expires"}]}]
+20:["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]
+27:T3a38,<p>A pay-or-quit notice is the document that formally starts the eviction clock. Before you can file an eviction lawsuit for nonpayment of rent, most states require you to serve this notice and wait for the specified period to expire. Getting the notice wrong — wrong language, wrong timeline, wrong service method — can get your entire eviction case dismissed and force you to start over.</p>
+<p>This guide covers what a pay-or-quit notice is, the elements it must contain, state-specific timelines, a free template, and the service methods that will hold up in court.</p>
+<h2 id="what-is-a-pay-or-quit-notice">What Is a Pay-or-Quit Notice?</h2>
+<p>A pay-or-quit notice (also called a notice to pay rent or quit, pay rent or vacate notice, or 3-day notice depending on your state) is a formal written demand from a landlord to a tenant who has failed to pay rent. It gives the tenant two options:</p>
+<ol>
+<li><strong>Pay</strong> the full amount of overdue rent within the specified number of days, or</li>
+<li><strong>Quit</strong> (vacate) the property by the end of that period</li>
+</ol>
+<p>If the tenant does neither — neither pays the full amount owed nor vacates — the landlord may proceed to file an eviction lawsuit (unlawful detainer action). The notice is a mandatory prerequisite to filing in virtually every state.</p>
+<p>The notice does not file itself. It does not automatically remove the tenant. It is step one in the <a href="/blog/eviction-process-step-by-step">eviction process step by step</a>, not the final step.</p>
+<h2 id="why-the-pay-or-quit-notice-must-be-perfect">Why the Pay-or-Quit Notice Must Be Perfect</h2>
+<p>Courts scrutinize these notices closely because a defective notice voids the entire eviction. Common defects that get evictions dismissed:</p>
+<ul>
+<li>Wrong amount claimed (must be exactly what is owed — not including future rent, court costs, or late fees unless the lease and state law specifically permit)</li>
+<li>Incorrect notice period (e.g., serving a 3-day notice in a state that requires 5 days)</li>
+<li>Missing required information (wrong address, missing tenant name, failure to state the lease date)</li>
+<li>Improper service method (handing it to a child instead of an adult, or skipping certified mail when required)</li>
+<li>Serving the notice on a weekend or holiday when the notice period begins counting from a business day in your state</li>
+</ul>
+<p>Take this document seriously. Many tenants — and their attorneys — will challenge the notice on technical grounds even when they clearly owe rent.</p>
+<h2 id="state-specific-pay-or-quit-notice-timelines">State-Specific Pay-or-Quit Notice Timelines</h2>
+<p>This is the single biggest variable landlords get wrong. States range from 3 days to 14 days for the required notice period:</p>
+<h3 id="3-day-notice-states">3-Day Notice States</h3>
+<ul>
+<li><strong>California</strong> — 3 days (business days; excludes weekends and judicial holidays)</li>
+<li><strong>Florida</strong> — 3 days (calendar days; excludes weekends and legal holidays)</li>
+<li><strong>Arizona</strong> — 5-day notice is standard, but local rules vary</li>
+<li><strong>Nevada</strong> — 7 days for month-to-month, with a 3-day notice option in specific circumstances</li>
+<li><strong>Georgia</strong> — demand letter required; court filing can occur within days</li>
+</ul>
+<h3 id="5-day-notice-states">5-Day Notice States</h3>
+<ul>
+<li><strong>Illinois</strong> — 5 days (calendar days)</li>
+<li><strong>Wisconsin</strong> — 5 days (calendar days)</li>
+<li><strong>Indiana</strong> — 10-day notice, but some localities permit shorter periods</li>
+<li><strong>Ohio</strong> — 3-day notice (check local court rules)</li>
+</ul>
+<h3 id="7-day-notice-states">7-Day Notice States</h3>
+<ul>
+<li><strong>Texas</strong> — 3-day notice is required, but local practice varies; check your lease</li>
+<li><strong>Washington</strong> — 14-day notice for month-to-month tenancies</li>
+<li><strong>Oregon</strong> — 72 hours (3 days) for nonpayment in most circumstances</li>
+</ul>
+<h3 id="14-day-notice-states">14-Day Notice States</h3>
+<ul>
+<li><strong>New York</strong> — 14 days for nonpayment cases (post-2019 Housing Stability and Tenant Protection Act)</li>
+<li><strong>Massachusetts</strong> — 14 days</li>
+<li><strong>Michigan</strong> — 7 days</li>
+</ul>
+<p>Always verify your specific state's current requirements. Legislatures change these timelines, and a guide written before a legislative change will give you the wrong answer. The <a href="https://www.hud.gov/states">HUD state housing resources page</a> and your state court's self-help website are reliable sources.</p>
+<p>For a comprehensive state-by-state breakdown of landlord-tenant laws, see our guide to <a href="/blog/landlord-tenant-law-by-state">landlord-tenant law by state</a>.</p>
+<h2 id="required-elements-of-a-valid-pay-or-quit-notice">Required Elements of a Valid Pay-or-Quit Notice</h2>
+<p>Regardless of your state, a valid pay-or-quit notice must typically contain:</p>
+<ol>
+<li><strong>Date of the notice</strong></li>
+<li><strong>Full names of all tenants</strong> named on the lease (including all adults; omitting a named tenant is a defect)</li>
+<li><strong>Address of the rental property</strong>, including unit number</li>
+<li><strong>Amount of rent owed</strong> — itemized by month or billing period</li>
+<li><strong>The exact period the rent covers</strong> (e.g., "for the rental period of April 1 through April 30, 2026")</li>
+<li><strong>Payment instructions</strong> — where and to whom payment must be made</li>
+<li><strong>The deadline</strong> for payment or vacating</li>
+<li><strong>A clear statement</strong> of the consequence (eviction proceedings will be filed if neither payment nor vacancy occurs)</li>
+<li><strong>Landlord's signature</strong> and contact information</li>
+<li><strong>Proof of service section</strong> (how and when the notice was served)</li>
+</ol>
+<p>Some states require additional elements:</p>
+<ul>
+<li><strong>California</strong> requires including the daily rent rate and the precise amount owed through a specific date</li>
+<li><strong>New York</strong> requires specific statutory language</li>
+<li><strong>Washington</strong> requires the notice to include information about tenant rights and available assistance programs</li>
+</ul>
+<p>Check your state's statutory requirements carefully. Many state court websites provide approved forms.</p>
+<h2 id="free-pay-or-quit-notice-template">Free Pay-or-Quit Notice Template</h2>
+<p>Below is a general-purpose template. Modify it to match your state's specific requirements, particularly the notice period and any required statutory language.</p>
+<hr>
+<p><strong>NOTICE TO PAY RENT OR QUIT</strong></p>
+<p><strong>Date:</strong> [DATE]</p>
+<p><strong>To:</strong> [FULL NAME OF TENANT 1]
+[FULL NAME OF TENANT 2 — if applicable]
+[FULL NAME OF ANY ADDITIONAL TENANTS — if applicable]</p>
+<p><strong>Property Address:</strong> [STREET ADDRESS, UNIT NUMBER, CITY, STATE, ZIP]</p>
+<p><strong>Notice to All Tenants:</strong></p>
+<p>You are hereby notified that you are in default in the payment of rent on the above-described premises.</p>
+<p>The amount of rent past due and owing is as follows:</p>
+<table>
+<thead>
+<tr>
+<th>Rental Period</th>
+<th>Amount Owed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[Month/Period 1]</td>
+<td>$[AMOUNT]</td>
+</tr>
+<tr>
+<td>[Month/Period 2]</td>
+<td>$[AMOUNT]</td>
+</tr>
+<tr>
+<td><strong>Total Amount Due:</strong></td>
+<td><strong>$[TOTAL AMOUNT]</strong></td>
+</tr>
+</tbody>
+</table>
+<p>You are required to pay the total amount stated above, or surrender possession of the premises, within <strong>[3 / 5 / 7 / 14 — INSERT APPLICABLE NOTICE PERIOD] days</strong> from the date this notice is served upon you.</p>
+<p>Payment must be made to:</p>
+<p><strong>Name:</strong> [LANDLORD OR PROPERTY MANAGER NAME]
+<strong>Address:</strong> [PAYMENT ADDRESS]
+<strong>Phone:</strong> [PHONE NUMBER]
+<strong>Email:</strong> [EMAIL ADDRESS — if accepted]</p>
+<p>If you fail to pay the total amount owed or vacate the premises within the time stated above, legal proceedings may be instituted against you to recover possession of the premises, unpaid rent, court costs, and attorney fees as allowed by law.</p>
+<p>Sincerely,</p>
+<hr>
+<p>[LANDLORD NAME]
+[DATE]</p>
+<hr>
+<p><strong>PROOF OF SERVICE</strong></p>
+<p>I, [SERVER NAME], declare that on [DATE], I served the above notice by:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Personal delivery to tenant</li>
+<li class="task-list-item"><input type="checkbox" disabled> Substituted service — left with: [NAME AND RELATIONSHIP], and mailed a copy to the above address by first-class mail on [DATE]</li>
+<li class="task-list-item"><input type="checkbox" disabled> Posting on the main entry door AND mailing a copy by first-class mail on [DATE] (if tenant was unavailable after reasonable attempts)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Certified mail (Return Receipt Requested) — Tracking #: [TRACKING NUMBER]</li>
+</ul>
+<p>Signature: ___________________________
+Date: ___________________________</p>
+<hr>
+<p>This template is a starting point. In jurisdictions with mandatory specific language (California, New York, Washington, among others), you must use the state-approved form or add required statutory language.</p>
+<h2 id="how-to-fill-out-the-template-correctly">How to Fill Out the Template Correctly</h2>
+<p><strong>Calculating the amount owed:</strong> Include only rent that is currently due and unpaid. Do not include:</p>
+<ul>
+<li>Future rent not yet due</li>
+<li>Court costs or attorney fees (unless your state statute specifically permits this)</li>
+<li>Late fees (unless your lease and state law expressly allow them to be included in a pay-or-quit notice)</li>
+</ul>
+<p>In many states, overstating the amount owed — even by a dollar — is grounds for dismissal.</p>
+<p><strong>Setting the deadline:</strong> Count the days carefully. In most states, the day of service is Day Zero, and counting begins the following day. So if you serve a 3-day notice on Monday, Day 1 is Tuesday, Day 2 is Wednesday, and the deadline expires at the end of Day 3 (Thursday). If Day 3 falls on a weekend or holiday, the deadline typically extends to the next business day — but verify this for your state.</p>
+<p><strong>Identifying all tenants:</strong> Name every adult listed on the lease. If you miss a co-tenant, the notice is defective as to that person.</p>
+<h2 id="how-to-serve-a-pay-or-quit-notice">How to Serve a Pay-or-Quit Notice</h2>
+<p>Service methods that are legally recognized vary by state, but most accept one or more of the following:</p>
+<h3 id="personal-service">Personal Service</h3>
+<p>Hand-deliver the notice directly to the tenant. This is the cleanest method — there is no question of whether the tenant received it. Have a witness present if possible, and document the date, time, and circumstances.</p>
+<h3 id="substituted-service">Substituted Service</h3>
+<p>If the tenant is not home, most states allow you to leave the notice with a competent adult at the residence (not a child) and mail a copy by first-class mail. Document who you left it with.</p>
+<h3 id="post-and-mail-service">Post-and-Mail Service</h3>
+<p>If no adult is available after reasonable attempts, most states allow posting the notice on the main entry door and mailing a copy by first-class mail. This method typically adds days to the notice period and some courts scrutinize it closely — use it only when necessary.</p>
+<h3 id="certified-mail">Certified Mail</h3>
+<p>Some states accept or require certified mail with return receipt. Certified mail creates a delivery record but can be refused or go unclaimed. In states where this is accepted, send both certified and first-class mail simultaneously to maximize the chance of confirmed delivery.</p>
+<p>Never serve notice by text message, social media, or email unless your state explicitly authorizes these methods and your lease contains an electronic notice agreement.</p>
+<h3 id="documenting-service">Documenting Service</h3>
+<p>Whatever method you use, complete a proof of service immediately after serving the notice. Include:</p>
+<ul>
+<li>Date and time of service</li>
+<li>Method of service</li>
+<li>Name of person served (or description of how notice was posted)</li>
+<li>Server's signature</li>
+</ul>
+<p>Your rent collection practices also affect how quickly these situations arise. Our guide to <a href="/blog/rent-collection-best-practices">rent collection best practices</a> covers how to structure payment systems and late notice procedures to minimize unpaid rent situations.</p>
+<h2 id="what-happens-after-the-notice-period-expires">What Happens After the Notice Period Expires</h2>
+<p>If the tenant pays in full before the deadline, the eviction is resolved — no further action is needed. However, accepting partial payment can, in some states, waive your right to proceed with the eviction. Check your state's rules before accepting anything less than the full amount stated in the notice.</p>
+<p>If the tenant neither pays nor vacates, you may file an eviction complaint with your local court. Bring:</p>
+<ul>
+<li>The original signed notice</li>
+<li>Proof of service</li>
+<li>Your lease agreement</li>
+<li>Documentation of all communications with the tenant</li>
+<li>Your rent ledger showing what is owed</li>
+</ul>
+<p>The clerk will schedule a hearing date, and you will be required to serve the tenant with the court summons. From there, the formal eviction process proceeds through hearing, judgment, and writ of possession.</p>
+<p>For a complete guide to the process that follows, see our <a href="/blog/eviction-process-step-by-step">eviction process step by step article</a>. For managing late rent before it reaches the eviction stage, see our <a href="/blog/late-rent-payment-policy">late rent payment policy guide</a>.</p>
+<h2 id="summary">Summary</h2>
+<p>The pay-or-quit notice is the foundation of any nonpayment eviction. Getting it right matters — defective notices cause case dismissals, delays, and additional costs.</p>
+<p>Key reminders:</p>
+<ul>
+<li>Use the correct notice period for your state (3, 5, 7, or 14 days)</li>
+<li>Include only rent actually owed — overstating the amount is fatal to many cases</li>
+<li>Name all tenants on the lease</li>
+<li>Use a legally recognized service method and document proof of service</li>
+<li>Do not accept partial payment without understanding whether it waives your eviction rights</li>
+<li>Use your state's official form if one is available</li>
+</ul>
+<p>The few extra minutes spent preparing a correct notice are far less costly than a dismissal that resets your eviction timeline by weeks or months.</p>
+21:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$27"}}]
+22:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","tenant management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant management"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","eviction",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"eviction"}],["$","span","landlord legal",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord legal"}]]}]
+23:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Tenant Management"]}],["$","$L10",null,{"href":"/blog/category/tenant-management","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accept-rent-payments-international-tenants",{"children":["$","$L10",null,{"href":"/blog/accept-rent-payments-international-tenants","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Accept Rent Payments from International Tenants"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ach-rent-payments-direct-debit-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ach-rent-payments-direct-debit-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ACH Rent Payments: Setting Up Direct Debit for Your Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-tenant-screening",{"children":["$","$L10",null,{"href":"/blog/akron-tenant-screening","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Tenant Screening in Akron: Best Practices for Landlords"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","albuquerque-tenant-screening-best-practices",{"children":["$","$L10",null,{"href":"/blog/albuquerque-tenant-screening-best-practices","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Albuquerque Tenant Screening Best Practices"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+24:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","cash-for-keys",{"href":"/blog/cash-for-keys","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Cash for Keys: A Faster Alternative to Eviction"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","eviction-cost-landlord",{"href":"/blog/eviction-cost-landlord","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How Much Does Eviction Cost a Landlord?"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","illegal-activity-tenant",{"href":"/blog/illegal-activity-tenant","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Handle Illegal Activity by a Tenant"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}]]}]]}]
+25:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-a-pay-or-quit-notice",{"className":"","children":["$","a",null,{"href":"#what-is-a-pay-or-quit-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is a Pay-or-Quit Notice?"}]}],["$","li","why-the-pay-or-quit-notice-must-be-perfect",{"className":"","children":["$","a",null,{"href":"#why-the-pay-or-quit-notice-must-be-perfect","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why the Pay-or-Quit Notice Must Be Perfect"}]}],["$","li","state-specific-pay-or-quit-notice-timelines",{"className":"","children":["$","a",null,{"href":"#state-specific-pay-or-quit-notice-timelines","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"State-Specific Pay-or-Quit Notice Timelines"}]}],["$","li","3-day-notice-states",{"className":"ml-4","children":["$","a",null,{"href":"#3-day-notice-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3-Day Notice States"}]}],["$","li","5-day-notice-states",{"className":"ml-4","children":["$","a",null,{"href":"#5-day-notice-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5-Day Notice States"}]}],["$","li","7-day-notice-states",{"className":"ml-4","children":["$","a",null,{"href":"#7-day-notice-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7-Day Notice States"}]}],["$","li","14-day-notice-states",{"className":"ml-4","children":["$","a",null,{"href":"#14-day-notice-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"14-Day Notice States"}]}],["$","li","required-elements-of-a-valid-pay-or-quit-notice",{"className":"","children":["$","a",null,{"href":"#required-elements-of-a-valid-pay-or-quit-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Required Elements of a Valid Pay-or-Quit Notice"}]}],["$","li","free-pay-or-quit-notice-template",{"className":"","children":["$","a",null,{"href":"#free-pay-or-quit-notice-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Free Pay-or-Quit Notice Template"}]}],["$","li","how-to-fill-out-the-template-correctly",{"className":"","children":["$","a",null,{"href":"#how-to-fill-out-the-template-correctly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Fill Out the Template Correctly"}]}],["$","li","how-to-serve-a-pay-or-quit-notice",{"className":"","children":["$","a",null,{"href":"#how-to-serve-a-pay-or-quit-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Serve a Pay-or-Quit Notice"}]}],["$","li","personal-service",{"className":"ml-4","children":["$","a",null,{"href":"#personal-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Personal Service"}]}],["$","li","substituted-service",{"className":"ml-4","children":["$","a",null,{"href":"#substituted-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Substituted Service"}]}],["$","li","post-and-mail-service",{"className":"ml-4","children":["$","a",null,{"href":"#post-and-mail-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Post-and-Mail Service"}]}],["$","li","certified-mail",{"className":"ml-4","children":["$","a",null,{"href":"#certified-mail","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Certified Mail"}]}],"$L28","$L29","$L2a"]}]]}]}]
+26:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+28:["$","li","documenting-service",{"className":"ml-4","children":["$","a",null,{"href":"#documenting-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documenting Service"}]}]
+29:["$","li","what-happens-after-the-notice-period-expires",{"className":"","children":["$","a",null,{"href":"#what-happens-after-the-notice-period-expires","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Happens After the Notice Period Expires"}]}]
+2a:["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Free Pay-or-Quit Notice Template (With State-Specific Timelines) | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A pay-or-quit notice is the first step in the eviction process for nonpayment of rent. Get a free template, learn required elements, state-specific timelines, and proper service methods to make your notice legally enforceable."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"tenant management,landlord tips,eviction,landlord legal"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/pay-or-quit-notice-template"}],["$","meta","6",{"property":"og:title","content":"Free Pay-or-Quit Notice Template (With State-Specific Timelines)"}],["$","meta","7",{"property":"og:description","content":"A pay-or-quit notice is the first step in the eviction process for nonpayment of rent. Get a free template, learn required elements, state-specific timelines, and proper service methods to make your notice legally enforceable."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/pay-or-quit-notice-template"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Free Pay-or-Quit Notice Template (With State-Specific Timelines)"}],["$","meta","15",{"name":"twitter:description","content":"A pay-or-quit notice is the first step in the eviction process for nonpayment of rent. Get a free template, learn required elements, state-specific timelines, and proper service methods to make your notice legally enforceable."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,269 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","adu-rental-income"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","adu-rental-income","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","adu-rental-income","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"ADU Rental Income: How Much Can You Earn?\",\"description\":\"Discover how much ADU rental income you can earn, construction cost breakdowns, financing options, and whether adding an accessory dwelling unit makes financial sense.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/adu-rental-income\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Pricing\",\"item\":\"https://portfoliorental.com/blog/category/pricing\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"ADU Rental Income: How Much Can You Earn?\",\"item\":\"https://portfoliorental.com/blog/adu-rental-income\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/pricing","className":"hover:text-blue-600","children":"Pricing"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Pricing"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"ADU Rental Income: How Much Can You Earn?"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-an-adu",{"className":"","children":["$","a",null,{"href":"#what-is-an-adu","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is an ADU?"}]}],["$","li","adu-rental-income-what-to-expect-by-market",{"className":"","children":["$","a",null,{"href":"#adu-rental-income-what-to-expect-by-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Rental Income: What to Expect by Market"}]}],["$","li","adu-income-potential-annual-revenue-examples",{"className":"","children":["$","a",null,{"href":"#adu-income-potential-annual-revenue-examples","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Income Potential: Annual Revenue Examples"}]}],["$","li","adu-construction-costs-by-type",{"className":"","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]}]]}],"$L23","$L24"]}],"$L25","$L26"]}],"$L27"]}]]}],"$L28"]
+11:["$","a",null,{"href":"#adu-construction-costs-by-type","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Construction Costs by Type"}]
+12:["$","li","detached-adu-new-construction",{"className":"ml-4","children":["$","a",null,{"href":"#detached-adu-new-construction","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Detached ADU (New Construction)"}]}]
+13:["$","li","garage-conversion-adu",{"className":"ml-4","children":["$","a",null,{"href":"#garage-conversion-adu","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Garage Conversion ADU"}]}]
+14:["$","li","basement-adu-conversion",{"className":"ml-4","children":["$","a",null,{"href":"#basement-adu-conversion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Basement ADU Conversion"}]}]
+15:["$","li","above-garage-addition",{"className":"ml-4","children":["$","a",null,{"href":"#above-garage-addition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Above-Garage Addition"}]}]
+16:["$","li","roi-calculation-does-an-adu-pencil-out",{"className":"","children":["$","a",null,{"href":"#roi-calculation-does-an-adu-pencil-out","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ROI Calculation: Does an ADU Pencil Out?"}]}]
+17:["$","li","adu-financing-options",{"className":"","children":["$","a",null,{"href":"#adu-financing-options","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Financing Options"}]}]
+18:["$","li","1-cash-out-refinance",{"className":"ml-4","children":["$","a",null,{"href":"#1-cash-out-refinance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Cash-Out Refinance"}]}]
+19:["$","li","2-home-equity-line-of-credit-heloc",{"className":"ml-4","children":["$","a",null,{"href":"#2-home-equity-line-of-credit-heloc","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Home Equity Line of Credit (HELOC)"}]}]
+1a:["$","li","3-adu-specific-construction-loans",{"className":"ml-4","children":["$","a",null,{"href":"#3-adu-specific-construction-loans","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. ADU-Specific Construction Loans"}]}]
+1b:["$","li","4-renovation-loans-203k-fannie-mae-homestyle",{"className":"ml-4","children":["$","a",null,{"href":"#4-renovation-loans-203k-fannie-mae-homestyle","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Renovation Loans (203k, Fannie Mae HomeStyle)"}]}]
+1c:["$","li","5-state-and-local-adu-programs",{"className":"ml-4","children":["$","a",null,{"href":"#5-state-and-local-adu-programs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. State and Local ADU Programs"}]}]
+1d:["$","li","adu-regulations-what-you-need-to-know",{"className":"","children":["$","a",null,{"href":"#adu-regulations-what-you-need-to-know","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Regulations: What You Need to Know"}]}]
+1e:["$","li","tax-implications-of-adu-rental-income",{"className":"","children":["$","a",null,{"href":"#tax-implications-of-adu-rental-income","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Implications of ADU Rental Income"}]}]
+1f:["$","li","adu-income-as-an-owner-occupant",{"className":"","children":["$","a",null,{"href":"#adu-income-as-an-owner-occupant","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Income as an Owner-Occupant"}]}]
+20:["$","li","adu-vs-short-term-rental-income-comparison",{"className":"","children":["$","a",null,{"href":"#adu-vs-short-term-rental-income-comparison","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU vs. Short-Term Rental: Income Comparison"}]}]
+21:["$","li","common-adu-income-mistakes-to-avoid",{"className":"","children":["$","a",null,{"href":"#common-adu-income-mistakes-to-avoid","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common ADU Income Mistakes to Avoid"}]}]
+22:["$","li","is-an-adu-right-for-your-property",{"className":"","children":["$","a",null,{"href":"#is-an-adu-right-for-your-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Is an ADU Right for Your Property?"}]}]
+29:T3381,<p>Accessory Dwelling Units (ADUs) have become one of the most powerful income-generating strategies available to property owners. Whether you're a homeowner looking to offset your mortgage or an investor seeking to increase a property's NOI and value, an ADU can add significant income with less capital than buying an entirely new property.</p>
+<p>But how much ADU rental income can you actually expect? And does the math work in your specific situation? This guide breaks it down with real numbers.</p>
+<h2 id="what-is-an-adu">What Is an ADU?</h2>
+<p>An <strong>Accessory Dwelling Unit (ADU)</strong> is a secondary housing unit on a single-family or multifamily residential property. Common types include:</p>
+<ul>
+<li><strong>Detached ADU:</strong> Separate structure in the backyard (tiny home, cottage, converted garage)</li>
+<li><strong>Attached ADU:</strong> Addition to the main house (above garage, side addition)</li>
+<li><strong>Basement/Interior ADU:</strong> Converted basement or interior space within the main structure</li>
+<li><strong>Junior ADU (JADU):</strong> Smaller conversion (up to 500 sq ft) within the existing house, often with a shared bathroom</li>
+</ul>
+<p>Each type has different construction costs, income potential, and regulatory requirements.</p>
+<h2 id="adu-rental-income-what-to-expect-by-market">ADU Rental Income: What to Expect by Market</h2>
+<p>ADU rental income varies significantly by geography:</p>
+<table>
+<thead>
+<tr>
+<th>Market</th>
+<th>Typical ADU Rent Range</th>
+<th>Monthly Income</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>San Francisco Bay Area</td>
+<td>$2,500–$4,500</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Los Angeles / Orange County</td>
+<td>$1,800–$3,500</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Seattle / Portland</td>
+<td>$1,400–$2,500</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Denver / Austin / Nashville</td>
+<td>$1,100–$2,000</td>
+<td>Moderate-High</td>
+</tr>
+<tr>
+<td>Chicago / Phoenix / Dallas</td>
+<td>$900–$1,600</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Midwest / Southeast markets</td>
+<td>$700–$1,300</td>
+<td>Moderate</td>
+</tr>
+<tr>
+<td>Rural markets</td>
+<td>$500–$900</td>
+<td>Lower</td>
+</tr>
+</tbody>
+</table>
+<p><strong>National average ADU rent:</strong> Approximately $1,200–$1,500/month for a well-built 400–600 sq ft unit.</p>
+<p>For a precise estimate in your area, run a <a href="/blog/rent-comps-analysis">rent comps analysis</a> for studio and one-bedroom units near your property.</p>
+<h2 id="adu-income-potential-annual-revenue-examples">ADU Income Potential: Annual Revenue Examples</h2>
+<p><strong>Scenario 1: Los Angeles Backyard ADU</strong></p>
+<ul>
+<li>Unit size: 500 sq ft, 1 bed/1 bath</li>
+<li>Monthly rent: $2,200</li>
+<li>Annual gross income: $26,400</li>
+<li>Vacancy allowance (5%): $1,320</li>
+<li><strong>Net annual ADU income: $25,080</strong></li>
+</ul>
+<p><strong>Scenario 2: Denver Basement ADU</strong></p>
+<ul>
+<li>Unit size: 650 sq ft, 1 bed/1 bath</li>
+<li>Monthly rent: $1,350</li>
+<li>Annual gross income: $16,200</li>
+<li>Vacancy allowance (5%): $810</li>
+<li><strong>Net annual ADU income: $15,390</strong></li>
+</ul>
+<p><strong>Scenario 3: Midwest Garage Conversion</strong></p>
+<ul>
+<li>Unit size: 400 sq ft, studio</li>
+<li>Monthly rent: $850</li>
+<li>Annual gross income: $10,200</li>
+<li>Vacancy allowance (5%): $510</li>
+<li><strong>Net annual ADU income: $9,690</strong></li>
+</ul>
+<h2 id="adu-construction-costs-by-type">ADU Construction Costs by Type</h2>
+<p>Understanding costs is essential for calculating your return on investment.</p>
+<h3 id="detached-adu-new-construction">Detached ADU (New Construction)</h3>
+<ul>
+<li><strong>National average:</strong> $150,000–$350,000</li>
+<li>High-cost markets (CA, NY): $250,000–$500,000+</li>
+<li>Includes foundation, framing, utilities, fixtures, permits</li>
+<li>Range depends heavily on size (200–1,200 sq ft)</li>
+</ul>
+<h3 id="garage-conversion-adu">Garage Conversion ADU</h3>
+<ul>
+<li><strong>National average:</strong> $60,000–$150,000</li>
+<li>Leverages existing structure, reducing costs significantly</li>
+<li>Main costs: insulation, HVAC, plumbing if not present, electrical upgrade, permits</li>
+<li>One of the highest ROI ADU types per dollar invested</li>
+</ul>
+<h3 id="basement-adu-conversion">Basement ADU Conversion</h3>
+<ul>
+<li><strong>National average:</strong> $50,000–$130,000</li>
+<li>Depends heavily on existing basement condition and plumbing location</li>
+<li>Egress windows often required (significant cost if not present)</li>
+<li>Junior ADU conversion within existing basement: $20,000–$60,000</li>
+</ul>
+<h3 id="above-garage-addition">Above-Garage Addition</h3>
+<ul>
+<li><strong>National average:</strong> $100,000–$250,000</li>
+<li>Requires structural assessment and potential reinforcement of garage foundation</li>
+<li>Higher cost but separate entrance and good privacy</li>
+</ul>
+<h2 id="roi-calculation-does-an-adu-pencil-out">ROI Calculation: Does an ADU Pencil Out?</h2>
+<p>Let's run the numbers on a garage conversion ADU:</p>
+<p><strong>Investment:</strong></p>
+<ul>
+<li>Construction cost: $90,000</li>
+<li>Permits and soft costs: $8,000</li>
+<li><strong>Total investment: $98,000</strong></li>
+</ul>
+<p><strong>Annual Income:</strong></p>
+<ul>
+<li>Monthly rent: $1,200</li>
+<li>Annual gross rent: $14,400</li>
+<li>Vacancy (5%): -$720</li>
+<li>Operating expenses (insurance, maintenance): -$1,800</li>
+<li><strong>Net operating income from ADU: $11,880</strong></li>
+</ul>
+<p><strong>Return metrics:</strong></p>
+<ul>
+<li>Cash-on-cash return: $11,880 ÷ $98,000 = <strong>12.1%</strong></li>
+<li>Payback period: $98,000 ÷ $11,880 = <strong>8.2 years</strong></li>
+</ul>
+<p>Additionally, the ADU increases the property's market value:</p>
+<ul>
+<li>At a 6.5% cap rate: $11,880 ÷ 0.065 = $182,769 in added property value</li>
+<li>Net value creation: $182,769 - $98,000 = <strong>$84,769 in instant equity</strong></li>
+</ul>
+<p>This is a compelling return that outperforms most other property improvements. Compare to our analysis of <a href="/blog/best-renovations-rental-properties-roi">best renovations for rental property ROI</a>.</p>
+<h2 id="adu-financing-options">ADU Financing Options</h2>
+<h3 id="1-cash-out-refinance">1. Cash-Out Refinance</h3>
+<p>If you have equity in your primary property, a cash-out refinance can fund ADU construction at mortgage rates (lower than construction loans). See our <a href="/blog/equity-build-up-rental-property">equity build-up guide</a> for context on how to access property equity.</p>
+<h3 id="2-home-equity-line-of-credit-heloc">2. Home Equity Line of Credit (HELOC)</h3>
+<p>HELOCs let you draw funds as needed during construction, minimizing interest costs. Available at 65–85% of current equity.</p>
+<h3 id="3-adu-specific-construction-loans">3. ADU-Specific Construction Loans</h3>
+<p>Some lenders offer ADU-specific construction-to-permanent loans. California's ADUfinancing programs and lenders like CalHFA specifically support ADU development.</p>
+<h3 id="4-renovation-loans-203k-fannie-mae-homestyle">4. Renovation Loans (203k, Fannie Mae HomeStyle)</h3>
+<p>FHA 203k and Fannie Mae HomeStyle loans allow you to finance renovations including ADU conversions into a new purchase or refinance mortgage.</p>
+<h3 id="5-state-and-local-adu-programs">5. State and Local ADU Programs</h3>
+<p>Many states and municipalities offer grants, low-interest loans, or pre-approved ADU plans to incentivize ADU construction. California's ADU Grant Program has provided up to $40,000 in grants to qualified homeowners.</p>
+<p><a href="https://www.aducoalition.org/policy-tracker" rel="noopener" target="_blank">The ADU Coalition's policy tracker</a> provides state-by-state information on ADU regulations, incentives, and financing programs.</p>
+<h2 id="adu-regulations-what-you-need-to-know">ADU Regulations: What You Need to Know</h2>
+<p>ADU laws have liberalized dramatically since 2020, especially in high-cost states, but rules still vary widely:</p>
+<p><strong>What to research in your jurisdiction:</strong></p>
+<ul>
+<li>Zoning eligibility (most single-family zones now allow ADUs in CA, OR, WA, and many others)</li>
+<li>Size limits (often 500–1,200 sq ft maximum)</li>
+<li>Setback requirements (distance from property lines)</li>
+<li>Owner-occupancy requirements (some jurisdictions require you to live on-site)</li>
+<li>Parking requirements (many places have eliminated ADU parking minimums)</li>
+<li>Utility connection requirements and fees</li>
+<li>Design standards and aesthetic requirements</li>
+</ul>
+<p>Many cities now have streamlined ADU permitting with pre-approved plans. Check your city's planning department website first.</p>
+<h2 id="tax-implications-of-adu-rental-income">Tax Implications of ADU Rental Income</h2>
+<p>ADU rental income is taxable as ordinary income, but you benefit from significant deductions:</p>
+<p><strong>Deductible expenses:</strong></p>
+<ul>
+<li>Depreciation on the ADU structure (27.5-year schedule for residential)</li>
+<li>A proportional share of property taxes and insurance</li>
+<li>Maintenance, repairs, and utilities for the ADU</li>
+<li>Management fees if using a property manager</li>
+</ul>
+<p><strong>Cost segregation:</strong> For larger ADU projects, a cost segregation study can accelerate depreciation on components with shorter useful lives (cabinets, flooring, appliances), significantly improving early-year tax benefits.</p>
+<p>See our <a href="/blog/rental-property-depreciation-guide">rental property depreciation guide</a> for how to calculate ADU depreciation correctly.</p>
+<h2 id="adu-income-as-an-owner-occupant">ADU Income as an Owner-Occupant</h2>
+<p>For homeowners (not investors), ADU rental income offers a unique advantage: offsetting your primary housing cost.</p>
+<p><strong>Example:</strong></p>
+<ul>
+<li>Primary mortgage: $3,200/month</li>
+<li>ADU rent: $1,400/month</li>
+<li>Net housing cost: $1,800/month</li>
+</ul>
+<p>Your effective housing cost drops 44%—making an expensive market far more affordable. This is why ADUs are sometimes called "mortgage offsets."</p>
+<p>For homeowners in high-cost markets, this may be the single most impactful financial strategy available. The ADU essentially pays for itself over time while increasing your property value and building long-term wealth.</p>
+<h2 id="adu-vs-short-term-rental-income-comparison">ADU vs. Short-Term Rental: Income Comparison</h2>
+<p>ADUs are well-suited to either long-term or short-term (Airbnb/VRBO) rental strategies:</p>
+<p><strong>Long-term rental (12-month lease):</strong></p>
+<ul>
+<li>Pros: Stable, predictable income; lower management burden; lower vacancy risk</li>
+<li>Cons: Lower maximum income potential vs. STR in tourism markets</li>
+</ul>
+<p><strong>Short-term rental:</strong></p>
+<ul>
+<li>Pros: Higher nightly rates; flexibility for personal use; 30–50% more income in strong STR markets</li>
+<li>Cons: Higher management burden; more turnover; regulatory risk (many cities are restricting STRs)</li>
+</ul>
+<p>In major tourism markets, a well-positioned ADU can earn 1.5–2x its long-term rent through short-term rentals. In average suburban markets, long-term rental is often more reliable.</p>
+<h2 id="common-adu-income-mistakes-to-avoid">Common ADU Income Mistakes to Avoid</h2>
+<p><strong>Underestimating construction costs:</strong> Budget 15–20% above contractor estimates. ADU projects routinely run over budget due to unforeseen structural issues, permit delays, and finish upgrades.</p>
+<p><strong>Underpricing rent at launch:</strong> New ADU units often attract strong demand. Research <a href="/blog/fair-market-rent-determination">fair market rent</a> carefully and price at market—you can always reduce if needed, but you can't raise easily mid-tenancy.</p>
+<p><strong>Ignoring neighbor and code considerations:</strong> ADU projects that violate setback requirements or HOA rules can result in costly disputes or even forced removal. Confirm permits before breaking ground.</p>
+<p><strong>Over-finishing the unit:</strong> Tenants paying $1,200/month don't require quartz countertops. Functional, clean, and well-designed is sufficient. Over-improving destroys ROI.</p>
+<h2 id="is-an-adu-right-for-your-property">Is an ADU Right for Your Property?</h2>
+<p>An ADU makes strong financial sense when:</p>
+<ul>
+<li>Your lot has usable space (backyard, garage, basement) not generating income</li>
+<li>Local rents are strong enough to generate 8%+ cash-on-cash return on construction costs</li>
+<li>Your jurisdiction allows ADUs with reasonable regulations</li>
+<li>You have access to financing at reasonable rates</li>
+</ul>
+<p>It may not make sense when:</p>
+<ul>
+<li>Construction costs are very high relative to local rents</li>
+<li>Your lot has severe site constraints (small size, odd shape, HOA restrictions)</li>
+<li>Local zoning still restricts ADUs severely</li>
+</ul>
+<p>For investors focused on <a href="/blog/maximize-rental-income-strategies">maximizing rental income</a>, ADUs represent one of the most compelling value-creation opportunities available—a chance to increase income, property value, and housing supply simultaneously.</p>
+23:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$29"}}]
+24:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","pricing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"pricing"}],["$","span","adu",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"adu"}],["$","span","rental income strategies",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental income strategies"}]]}]
+25:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Pricing"]}],["$","$L10",null,{"href":"/blog/category/pricing","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","adjust-rent-pricing-inflation-2026",{"children":["$","$L10",null,{"href":"/blog/adjust-rent-pricing-inflation-2026","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Adjust Rent Pricing for Inflation in 2026"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","albuquerque-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/albuquerque-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Albuquerque Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","anaheim-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/anaheim-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Anaheim Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}],["$","li","anchorage-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/anchorage-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Anchorage Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}]]}]]}]
+26:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","laundry-room-revenue-rental",{"href":"/blog/laundry-room-revenue-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Adding Laundry Room Revenue to Your Rental"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","albuquerque-cost-of-property-management",{"href":"/blog/albuquerque-cost-of-property-management","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Albuquerque Cost of Property Management"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","rental-property-amenity-upgrades",{"href":"/blog/rental-property-amenity-upgrades","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Amenity Upgrades That Justify Higher Rent"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+27:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-an-adu",{"className":"","children":["$","a",null,{"href":"#what-is-an-adu","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is an ADU?"}]}],["$","li","adu-rental-income-what-to-expect-by-market",{"className":"","children":["$","a",null,{"href":"#adu-rental-income-what-to-expect-by-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Rental Income: What to Expect by Market"}]}],["$","li","adu-income-potential-annual-revenue-examples",{"className":"","children":["$","a",null,{"href":"#adu-income-potential-annual-revenue-examples","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Income Potential: Annual Revenue Examples"}]}],["$","li","adu-construction-costs-by-type",{"className":"","children":["$","a",null,{"href":"#adu-construction-costs-by-type","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Construction Costs by Type"}]}],["$","li","detached-adu-new-construction",{"className":"ml-4","children":["$","a",null,{"href":"#detached-adu-new-construction","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Detached ADU (New Construction)"}]}],["$","li","garage-conversion-adu",{"className":"ml-4","children":["$","a",null,{"href":"#garage-conversion-adu","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Garage Conversion ADU"}]}],["$","li","basement-adu-conversion",{"className":"ml-4","children":["$","a",null,{"href":"#basement-adu-conversion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Basement ADU Conversion"}]}],["$","li","above-garage-addition",{"className":"ml-4","children":["$","a",null,{"href":"#above-garage-addition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Above-Garage Addition"}]}],["$","li","roi-calculation-does-an-adu-pencil-out",{"className":"","children":["$","a",null,{"href":"#roi-calculation-does-an-adu-pencil-out","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ROI Calculation: Does an ADU Pencil Out?"}]}],["$","li","adu-financing-options",{"className":"","children":["$","a",null,{"href":"#adu-financing-options","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Financing Options"}]}],["$","li","1-cash-out-refinance",{"className":"ml-4","children":["$","a",null,{"href":"#1-cash-out-refinance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Cash-Out Refinance"}]}],["$","li","2-home-equity-line-of-credit-heloc",{"className":"ml-4","children":["$","a",null,{"href":"#2-home-equity-line-of-credit-heloc","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Home Equity Line of Credit (HELOC)"}]}],["$","li","3-adu-specific-construction-loans",{"className":"ml-4","children":["$","a",null,{"href":"#3-adu-specific-construction-loans","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. ADU-Specific Construction Loans"}]}],["$","li","4-renovation-loans-203k-fannie-mae-homestyle",{"className":"ml-4","children":["$","a",null,{"href":"#4-renovation-loans-203k-fannie-mae-homestyle","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Renovation Loans (203k, Fannie Mae HomeStyle)"}]}],["$","li","5-state-and-local-adu-programs",{"className":"ml-4","children":["$","a",null,{"href":"#5-state-and-local-adu-programs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. State and Local ADU Programs"}]}],"$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]]}]}]
+28:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2a:["$","li","adu-regulations-what-you-need-to-know",{"className":"","children":["$","a",null,{"href":"#adu-regulations-what-you-need-to-know","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Regulations: What You Need to Know"}]}]
+2b:["$","li","tax-implications-of-adu-rental-income",{"className":"","children":["$","a",null,{"href":"#tax-implications-of-adu-rental-income","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Implications of ADU Rental Income"}]}]
+2c:["$","li","adu-income-as-an-owner-occupant",{"className":"","children":["$","a",null,{"href":"#adu-income-as-an-owner-occupant","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU Income as an Owner-Occupant"}]}]
+2d:["$","li","adu-vs-short-term-rental-income-comparison",{"className":"","children":["$","a",null,{"href":"#adu-vs-short-term-rental-income-comparison","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ADU vs. Short-Term Rental: Income Comparison"}]}]
+2e:["$","li","common-adu-income-mistakes-to-avoid",{"className":"","children":["$","a",null,{"href":"#common-adu-income-mistakes-to-avoid","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common ADU Income Mistakes to Avoid"}]}]
+2f:["$","li","is-an-adu-right-for-your-property",{"className":"","children":["$","a",null,{"href":"#is-an-adu-right-for-your-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Is an ADU Right for Your Property?"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"ADU Rental Income: How Much Can You Earn? | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Discover how much ADU rental income you can earn, construction cost breakdowns, financing options, and whether adding an accessory dwelling unit makes financial sense."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"pricing,adu,rental income strategies"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/adu-rental-income"}],["$","meta","6",{"property":"og:title","content":"ADU Rental Income: How Much Can You Earn?"}],["$","meta","7",{"property":"og:description","content":"Discover how much ADU rental income you can earn, construction cost breakdowns, financing options, and whether adding an accessory dwelling unit makes financial sense."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/adu-rental-income"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"ADU Rental Income: How Much Can You Earn?"}],["$","meta","15",{"name":"twitter:description","content":"Discover how much ADU rental income you can earn, construction cost breakdowns, financing options, and whether adding an accessory dwelling unit makes financial sense."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,291 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","airbnb-co-hosting"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","airbnb-co-hosting","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","airbnb-co-hosting","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Airbnb Co-Hosting: How It Works and How to Start\",\"description\":\"Learn how Airbnb co-hosting works, what co-hosts do, how much they earn, and how to find or become a co-host for short-term rental success.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/airbnb-co-hosting\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Airbnb Co-Hosting: How It Works and How to Start\",\"item\":\"https://portfoliorental.com/blog/airbnb-co-hosting\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Airbnb Co-Hosting: How It Works and How to Start"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-airbnb-co-hosting",{"className":"","children":["$","a",null,{"href":"#what-is-airbnb-co-hosting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Airbnb Co-Hosting?"}]}],["$","li","who-uses-co-hosting",{"className":"ml-4","children":["$","a",null,{"href":"#who-uses-co-hosting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Who Uses Co-Hosting?"}]}],["$","li","what-does-an-airbnb-co-host-do",{"className":"","children":["$","a",null,{"href":"#what-does-an-airbnb-co-host-do","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Does an Airbnb Co-Host Do?"}]}],["$","li","common-co-host-responsibilities",{"className":"ml-4","children":["$","a",null,{"href":"#common-co-host-responsibilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Co-Host Responsibilities"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]}]]}],"$L25","$L26"]}],"$L27","$L28"]}],"$L29"]}]]}],"$L2a"]
+11:["$","li","airbnb-co-hosting-permissions-what-hosts-can-control",{"className":"","children":["$","a",null,{"href":"#airbnb-co-hosting-permissions-what-hosts-can-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Co-Hosting Permissions: What Hosts Can Control"}]}]
+12:["$","li","how-much-do-airbnb-co-hosts-earn",{"className":"","children":["$","a",null,{"href":"#how-much-do-airbnb-co-hosts-earn","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Much Do Airbnb Co-Hosts Earn?"}]}]
+13:["$","li","typical-co-hosting-fee-structures",{"className":"ml-4","children":["$","a",null,{"href":"#typical-co-hosting-fee-structures","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Typical Co-Hosting Fee Structures"}]}]
+14:["$","li","who-pays-the-cleaning-fee",{"className":"ml-4","children":["$","a",null,{"href":"#who-pays-the-cleaning-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Who Pays the Cleaning Fee?"}]}]
+15:["$","li","how-to-find-an-airbnb-co-host",{"className":"","children":["$","a",null,{"href":"#how-to-find-an-airbnb-co-host","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Find an Airbnb Co-Host"}]}]
+16:["$","li","where-to-look",{"className":"ml-4","children":["$","a",null,{"href":"#where-to-look","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Look"}]}]
+17:["$","li","what-to-look-for-in-a-co-host",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-look-for-in-a-co-host","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Look for in a Co-Host"}]}]
+18:["$","li","how-to-become-an-airbnb-co-host",{"className":"","children":["$","a",null,{"href":"#how-to-become-an-airbnb-co-host","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Become an Airbnb Co-Host"}]}]
+19:["$","li","step-1-build-your-own-hosting-experience",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-build-your-own-hosting-experience","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Build Your Own Hosting Experience"}]}]
+1a:["$","li","step-2-get-to-know-your-local-market",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-get-to-know-your-local-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Get to Know Your Local Market"}]}]
+1b:["$","li","step-3-develop-your-systems",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-develop-your-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Develop Your Systems"}]}]
+1c:["$","li","step-4-set-your-rate-and-services",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-set-your-rate-and-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Set Your Rate and Services"}]}]
+1d:["$","li","step-5-market-yourself",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-market-yourself","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Market Yourself"}]}]
+1e:["$","li","co-hosting-vs-property-management-what-s-the-difference",{"className":"","children":["$","a",null,{"href":"#co-hosting-vs-property-management-what-s-the-difference","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Co-Hosting vs. Property Management: What's the Difference?"}]}]
+1f:["$","li","legal-and-tax-considerations-for-co-hosts",{"className":"","children":["$","a",null,{"href":"#legal-and-tax-considerations-for-co-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Tax Considerations for Co-Hosts"}]}]
+20:["$","li","written-agreements-are-essential",{"className":"ml-4","children":["$","a",null,{"href":"#written-agreements-are-essential","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Written Agreements Are Essential"}]}]
+21:["$","li","tax-treatment-of-co-host-income",{"className":"ml-4","children":["$","a",null,{"href":"#tax-treatment-of-co-host-income","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Treatment of Co-Host Income"}]}]
+22:["$","li","common-co-hosting-mistakes-to-avoid",{"className":"","children":["$","a",null,{"href":"#common-co-hosting-mistakes-to-avoid","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Co-Hosting Mistakes to Avoid"}]}]
+23:["$","li","is-co-hosting-right-for-you",{"className":"","children":["$","a",null,{"href":"#is-co-hosting-right-for-you","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Is Co-Hosting Right for You?"}]}]
+24:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2b:T3a20,<p>Running a short-term rental can be incredibly rewarding — but it is also time-intensive. Between managing guest communications, coordinating cleaners, handling check-ins, and keeping your listing optimized, many hosts find themselves overwhelmed. That is where <strong>Airbnb co-hosting</strong> comes in.</p>
+<p>Co-hosting is a flexible arrangement that allows property owners to bring on a trusted partner — often a local property manager, friend, or professional co-host — to share operational responsibilities. It is one of the most practical tools available to hosts who want to scale without burning out.</p>
+<p>This guide covers everything you need to know: how Airbnb co-hosting works, what co-hosts actually do, how fees are structured, and how to find or become a co-host.</p>
+<hr>
+<h2 id="what-is-airbnb-co-hosting">What Is Airbnb Co-Hosting?</h2>
+<p>Airbnb co-hosting is an official feature on the Airbnb platform that lets a primary host add one or more co-hosts to help manage their listing. Co-hosts get access to the listing dashboard and can perform tasks like responding to guests, updating calendars, managing pricing, and coordinating housekeeping.</p>
+<p>Unlike a traditional property management company, co-hosting keeps the listing under the primary host's account. The original host retains ownership and control of the listing, while the co-host operates with a defined set of permissions.</p>
+<h3 id="who-uses-co-hosting">Who Uses Co-Hosting?</h3>
+<ul>
+<li><strong>Property owners</strong> who travel frequently or have day jobs and cannot manage day-to-day operations</li>
+<li><strong>Investors</strong> who own multiple properties and need operational support</li>
+<li><strong>Remote hosts</strong> managing listings in cities they don't live in</li>
+<li><strong>New hosts</strong> who want an experienced partner to guide their early days</li>
+</ul>
+<p>For a broader view of how property management fits into STR investing, see our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="what-does-an-airbnb-co-host-do">What Does an Airbnb Co-Host Do?</h2>
+<p>Co-hosts can take on as many or as few responsibilities as the primary host delegates. Airbnb's platform gives primary hosts granular control over what each co-host can access and manage.</p>
+<h3 id="common-co-host-responsibilities">Common Co-Host Responsibilities</h3>
+<p><strong>Guest Communication</strong></p>
+<ul>
+<li>Responding to inquiries and booking requests</li>
+<li>Sending pre-arrival messages with check-in instructions</li>
+<li>Handling mid-stay issues and guest complaints</li>
+<li>Coordinating post-checkout reviews</li>
+</ul>
+<p><strong>Listing Management</strong></p>
+<ul>
+<li>Updating availability calendars</li>
+<li>Adjusting pricing (with or without pricing tools)</li>
+<li>Editing listing descriptions, photos, and amenities</li>
+<li>Managing minimum stay requirements and booking settings</li>
+</ul>
+<p><strong>Operations Coordination</strong></p>
+<ul>
+<li>Scheduling and confirming cleaning crews</li>
+<li>Overseeing maintenance requests</li>
+<li>Conducting property inspections between stays</li>
+<li>Restocking consumables and supplies</li>
+</ul>
+<p><strong>Financial Reporting</strong></p>
+<ul>
+<li>Tracking income and expenses</li>
+<li>Communicating earnings to the primary host</li>
+<li>Assisting with documentation for taxes</li>
+</ul>
+<p>To understand how strong operational systems underpin STR success, explore our guide on <a href="/blog/vacation-rental-property-management">vacation rental property management</a>.</p>
+<hr>
+<h2 id="airbnb-co-hosting-permissions-what-hosts-can-control">Airbnb Co-Hosting Permissions: What Hosts Can Control</h2>
+<p>When you add a co-host on Airbnb, you choose their permission level. As of 2026, Airbnb allows primary hosts to grant co-hosts access to specific features:</p>
+<table>
+<thead>
+<tr>
+<th>Permission Level</th>
+<th>What Co-Host Can Do</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Full Access</td>
+<td>Manage everything including payouts</td>
+</tr>
+<tr>
+<td>Limited Access</td>
+<td>Manage bookings and communications, no financials</td>
+</tr>
+<tr>
+<td>Custom</td>
+<td>Pick and choose individual permissions</td>
+</tr>
+</tbody>
+</table>
+<p>This flexibility is important. If you are bringing on a co-host for the first time, starting with limited access and expanding permissions as trust builds is a smart approach.</p>
+<hr>
+<h2 id="how-much-do-airbnb-co-hosts-earn">How Much Do Airbnb Co-Hosts Earn?</h2>
+<p>Co-host compensation varies widely depending on the scope of work, local market, and the agreement between parties. There is no fixed Airbnb co-hosting fee set by the platform — it is negotiated between the primary host and co-host.</p>
+<h3 id="typical-co-hosting-fee-structures">Typical Co-Hosting Fee Structures</h3>
+<p><strong>Percentage of Revenue (Most Common)</strong>
+Most co-hosts charge between <strong>10% and 30% of gross rental revenue</strong>, depending on responsibilities:</p>
+<ul>
+<li>10–15%: Light duties (guest messaging, calendar management only)</li>
+<li>15–25%: Full operations including cleaning coordination and inspections</li>
+<li>25–30%+: Fully managed, including furnishing and setup services</li>
+</ul>
+<p><strong>Flat Monthly Fee</strong>
+Some co-hosts charge a flat rate regardless of occupancy. This works well for hosts in high-season markets where the property is almost always booked.</p>
+<p><strong>Per-Task Pricing</strong>
+Less common but used for specific one-off services like a deep clean after a long-term stay or a seasonal property refresh.</p>
+<h3 id="who-pays-the-cleaning-fee">Who Pays the Cleaning Fee?</h3>
+<p>In most arrangements, the cleaning fee collected from guests goes directly to cover cleaning costs. If the co-host manages the cleaning crew, they may handle payment and simply reconcile costs with the primary host monthly.</p>
+<hr>
+<h2 id="how-to-find-an-airbnb-co-host">How to Find an Airbnb Co-Host</h2>
+<p>Finding the right co-host is critical. A bad fit can lead to poor guest experiences, damaged reviews, and financial disputes.</p>
+<h3 id="where-to-look">Where to Look</h3>
+<p><strong>Airbnb's Co-Host Network</strong>
+Airbnb has introduced tools to connect hosts with experienced co-hosts in their area. Check your Airbnb hosting dashboard for the co-host marketplace or network feature.</p>
+<p><strong>Local STR Communities</strong>
+Facebook groups, Reddit communities (r/airbnb, r/airbnbhosts), and local real estate investor meetups are excellent places to find vetted co-hosts.</p>
+<p><strong>Professional Property Managers</strong>
+Many traditional property management companies also offer co-hosting services. Compare what they offer versus standalone co-hosts — a <a href="/blog/vacation-rental-property-management">vacation rental property management</a> company may offer more robust systems but at higher cost.</p>
+<p><strong>Personal Network</strong>
+Trusted friends or family members who are local to your property can make excellent co-hosts, especially if they already have hospitality or real estate experience.</p>
+<h3 id="what-to-look-for-in-a-co-host">What to Look for in a Co-Host</h3>
+<ul>
+<li>Strong communication skills and fast response times</li>
+<li>Experience managing short-term rentals (check their own host profile and reviews)</li>
+<li>Knowledge of local regulations and STR compliance requirements</li>
+<li>Reliability — especially for last-minute issues like broken appliances or early arrivals</li>
+<li>Alignment on hosting style and guest experience standards</li>
+</ul>
+<hr>
+<h2 id="how-to-become-an-airbnb-co-host">How to Become an Airbnb Co-Host</h2>
+<p>If you are on the other side of this equation — interested in becoming a co-host as a business — here is how to build that career.</p>
+<h3 id="step-1-build-your-own-hosting-experience">Step 1: Build Your Own Hosting Experience</h3>
+<p>The best co-hosts have firsthand experience running their own Airbnb listing. Start by hosting a room or a small property to understand the workflow from the inside.</p>
+<h3 id="step-2-get-to-know-your-local-market">Step 2: Get to Know Your Local Market</h3>
+<p>Understand average daily rates, occupancy trends, local regulations, and what guests in your area expect. Tools like AirDNA can help you benchmark performance across your market.</p>
+<h3 id="step-3-develop-your-systems">Step 3: Develop Your Systems</h3>
+<p>Successful co-hosts run tight operational systems. This means:</p>
+<ul>
+<li>Standardized guest messaging templates</li>
+<li>Reliable cleaning and maintenance teams</li>
+<li>A process for handling emergencies at any hour</li>
+<li>Familiarity with <a href="/blog/airbnb-automation-tools">airbnb automation tools</a> that save time</li>
+</ul>
+<h3 id="step-4-set-your-rate-and-services">Step 4: Set Your Rate and Services</h3>
+<p>Define your service packages clearly:</p>
+<ul>
+<li>What tasks are included in your base fee?</li>
+<li>What is billed additionally (deep cleans, emergency callouts, restocking runs)?</li>
+<li>How will you report earnings and expenses to property owners?</li>
+</ul>
+<h3 id="step-5-market-yourself">Step 5: Market Yourself</h3>
+<p>Create a professional profile, gather testimonials from hosts you have worked with, and list yourself on co-host marketplaces. Word of mouth is powerful in this industry — delivering exceptional results for one host often leads to referrals.</p>
+<hr>
+<h2 id="co-hosting-vs-property-management-what-s-the-difference">Co-Hosting vs. Property Management: What's the Difference?</h2>
+<p>Many hosts confuse co-hosting with hiring a full property management company. There are meaningful differences:</p>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Co-Host</th>
+<th>Property Management Company</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Listing Ownership</td>
+<td>Stays with primary host</td>
+<td>May be transferred to PM account</td>
+</tr>
+<tr>
+<td>Platform</td>
+<td>Airbnb native feature</td>
+<td>Often third-party tools</td>
+</tr>
+<tr>
+<td>Flexibility</td>
+<td>Highly customizable</td>
+<td>Standard service packages</td>
+</tr>
+<tr>
+<td>Cost</td>
+<td>Typically 10–25%</td>
+<td>Often 20–40%</td>
+</tr>
+<tr>
+<td>Scale</td>
+<td>Usually 1–5 properties</td>
+<td>Can manage dozens or hundreds</td>
+</tr>
+<tr>
+<td>Accountability</td>
+<td>Informal agreements</td>
+<td>Formal contracts</td>
+</tr>
+</tbody>
+</table>
+<p>For hosts managing a growing portfolio, a channel manager may also become important. See our guide on <a href="/blog/airbnb-property-management-tips">airbnb property management tips</a> to understand how professional systems support scale.</p>
+<hr>
+<h2 id="legal-and-tax-considerations-for-co-hosts">Legal and Tax Considerations for Co-Hosts</h2>
+<h3 id="written-agreements-are-essential">Written Agreements Are Essential</h3>
+<p>Even if you co-host with a friend, always document the arrangement in writing, a practice the <a href="https://www.sba.gov/business-guide/launch-your-business/get-federal-and-state-tax-id-numbers" rel="noopener" target="_blank">SBA recommends for all businesses</a>. Your agreement should cover:</p>
+<ul>
+<li>Fee structure and payment schedule</li>
+<li>Scope of responsibilities</li>
+<li>How liability is handled for property damage or guest incidents</li>
+<li>Termination conditions and notice periods</li>
+</ul>
+<h3 id="tax-treatment-of-co-host-income">Tax Treatment of Co-Host Income</h3>
+<p>Co-hosts who earn income from hosting services are generally classified as <a href="https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center" rel="noopener" target="_blank">self-employed by the IRS</a>. This means:</p>
+<ul>
+<li>Co-hosting income is reportable to tax authorities</li>
+<li>Business expenses related to co-hosting may be deductible</li>
+<li>Depending on volume, co-hosts may need to register as a business entity</li>
+</ul>
+<p>Consult a tax professional familiar with short-term rental income. Our <a href="/blog/short-term-rental-tax-guide">short-term rental tax guide</a> covers the basics for STR operators.</p>
+<hr>
+<h2 id="common-co-hosting-mistakes-to-avoid">Common Co-Hosting Mistakes to Avoid</h2>
+<p><strong>1. Not Setting Clear Expectations</strong>
+Ambiguity breeds conflict. Define who handles what before the first guest arrives.</p>
+<p><strong>2. Skipping the Written Agreement</strong>
+Handshake deals go wrong. A simple one-page agreement protects both parties.</p>
+<p><strong>3. Choosing the Wrong Person</strong>
+A co-host who is slow to respond or unreliable will tank your reviews. Treat the selection process like hiring an employee.</p>
+<p><strong>4. Micromanaging</strong>
+If you hired a co-host to take things off your plate, let them. Trust your systems and check in on performance metrics rather than every decision.</p>
+<p><strong>5. Ignoring Performance Data</strong>
+Track your response rate, review scores, occupancy, and revenue before and after bringing on a co-host. Data tells you whether the arrangement is working.</p>
+<hr>
+<h2 id="is-co-hosting-right-for-you">Is Co-Hosting Right for You?</h2>
+<p>Co-hosting is an excellent option if:</p>
+<ul>
+<li>You own a property but lack time for daily management</li>
+<li>You want to scale your portfolio without becoming a full-time operator</li>
+<li>You are entering a new market and want local expertise</li>
+<li>You are burning out from self-managing</li>
+</ul>
+<p>It may not be the right fit if:</p>
+<ul>
+<li>You are highly hands-on and have difficulty delegating</li>
+<li>Your property generates modest income and a co-host fee would significantly cut margins</li>
+<li>You cannot find a trustworthy co-host in your area</li>
+</ul>
+<p>For more strategies on running a profitable short-term rental operation, review our comprehensive <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Airbnb co-hosting is one of the most underutilized strategies in short-term rental investing. Whether you are a property owner looking for operational relief or an experienced host ready to monetize your skills, co-hosting opens up a scalable, flexible path forward.</p>
+<p>The keys to success are clear communication, a well-defined agreement, and the right systems in place. With those foundations, co-hosting can transform how you manage — and grow — your short-term rental portfolio.</p>
+<p><strong>Quick Reference: Airbnb Co-Hosting Essentials</strong></p>
+<ul>
+<li>Co-hosts earn 10–30% of revenue depending on scope</li>
+<li>Primary hosts control all permission levels on the platform</li>
+<li>Always use a written co-hosting agreement</li>
+<li>Look for co-hosts with verified STR experience and strong communication skills</li>
+<li>Track performance data to measure the value of your co-hosting arrangement</li>
+</ul>
+25:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2b"}}]
+26:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","airbnb co hosting",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb co hosting"}],["$","span","co host",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"co host"}],["$","span","property management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management"}],["$","span","short-term rentals",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rentals"}],["$","span","airbnb hosting",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb hosting"}]]}]
+27:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+28:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","short-term-rental-cleaning-schedule",{"href":"/blog/short-term-rental-cleaning-schedule","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Creating a Cleaning Schedule for Your STR"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","airbnb-superhost-requirements",{"href":"/blog/airbnb-superhost-requirements","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Become and Stay an Airbnb Superhost"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","airbnb-property-management-tips",{"href":"/blog/airbnb-property-management-tips","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"15 Airbnb Property Management Tips to Boost Bookings and Reviews"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}]]}]]}]
+29:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-airbnb-co-hosting",{"className":"","children":["$","a",null,{"href":"#what-is-airbnb-co-hosting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Airbnb Co-Hosting?"}]}],["$","li","who-uses-co-hosting",{"className":"ml-4","children":["$","a",null,{"href":"#who-uses-co-hosting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Who Uses Co-Hosting?"}]}],["$","li","what-does-an-airbnb-co-host-do",{"className":"","children":["$","a",null,{"href":"#what-does-an-airbnb-co-host-do","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Does an Airbnb Co-Host Do?"}]}],["$","li","common-co-host-responsibilities",{"className":"ml-4","children":["$","a",null,{"href":"#common-co-host-responsibilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Co-Host Responsibilities"}]}],["$","li","airbnb-co-hosting-permissions-what-hosts-can-control",{"className":"","children":["$","a",null,{"href":"#airbnb-co-hosting-permissions-what-hosts-can-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Co-Hosting Permissions: What Hosts Can Control"}]}],["$","li","how-much-do-airbnb-co-hosts-earn",{"className":"","children":["$","a",null,{"href":"#how-much-do-airbnb-co-hosts-earn","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Much Do Airbnb Co-Hosts Earn?"}]}],["$","li","typical-co-hosting-fee-structures",{"className":"ml-4","children":["$","a",null,{"href":"#typical-co-hosting-fee-structures","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Typical Co-Hosting Fee Structures"}]}],["$","li","who-pays-the-cleaning-fee",{"className":"ml-4","children":["$","a",null,{"href":"#who-pays-the-cleaning-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Who Pays the Cleaning Fee?"}]}],["$","li","how-to-find-an-airbnb-co-host",{"className":"","children":["$","a",null,{"href":"#how-to-find-an-airbnb-co-host","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Find an Airbnb Co-Host"}]}],["$","li","where-to-look",{"className":"ml-4","children":["$","a",null,{"href":"#where-to-look","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Look"}]}],["$","li","what-to-look-for-in-a-co-host",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-look-for-in-a-co-host","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Look for in a Co-Host"}]}],["$","li","how-to-become-an-airbnb-co-host",{"className":"","children":["$","a",null,{"href":"#how-to-become-an-airbnb-co-host","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Become an Airbnb Co-Host"}]}],["$","li","step-1-build-your-own-hosting-experience",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-build-your-own-hosting-experience","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Build Your Own Hosting Experience"}]}],["$","li","step-2-get-to-know-your-local-market",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-get-to-know-your-local-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Get to Know Your Local Market"}]}],["$","li","step-3-develop-your-systems",{"className":"ml-4","children":"$L2c"}],"$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35"]}]]}]}]
+2a:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2c:["$","a",null,{"href":"#step-3-develop-your-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Develop Your Systems"}]
+2d:["$","li","step-4-set-your-rate-and-services",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-set-your-rate-and-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Set Your Rate and Services"}]}]
+2e:["$","li","step-5-market-yourself",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-market-yourself","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Market Yourself"}]}]
+2f:["$","li","co-hosting-vs-property-management-what-s-the-difference",{"className":"","children":["$","a",null,{"href":"#co-hosting-vs-property-management-what-s-the-difference","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Co-Hosting vs. Property Management: What's the Difference?"}]}]
+30:["$","li","legal-and-tax-considerations-for-co-hosts",{"className":"","children":["$","a",null,{"href":"#legal-and-tax-considerations-for-co-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Tax Considerations for Co-Hosts"}]}]
+31:["$","li","written-agreements-are-essential",{"className":"ml-4","children":["$","a",null,{"href":"#written-agreements-are-essential","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Written Agreements Are Essential"}]}]
+32:["$","li","tax-treatment-of-co-host-income",{"className":"ml-4","children":["$","a",null,{"href":"#tax-treatment-of-co-host-income","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Treatment of Co-Host Income"}]}]
+33:["$","li","common-co-hosting-mistakes-to-avoid",{"className":"","children":["$","a",null,{"href":"#common-co-hosting-mistakes-to-avoid","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Co-Hosting Mistakes to Avoid"}]}]
+34:["$","li","is-co-hosting-right-for-you",{"className":"","children":["$","a",null,{"href":"#is-co-hosting-right-for-you","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Is Co-Hosting Right for You?"}]}]
+35:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Airbnb Co-Hosting: How It Works and How to Start | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn how Airbnb co-hosting works, what co-hosts do, how much they earn, and how to find or become a co-host for short-term rental success."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"airbnb co hosting,co host,property management,short-term rentals,airbnb hosting"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/airbnb-co-hosting"}],["$","meta","6",{"property":"og:title","content":"Airbnb Co-Hosting: How It Works and How to Start"}],["$","meta","7",{"property":"og:description","content":"Learn how Airbnb co-hosting works, what co-hosts do, how much they earn, and how to find or become a co-host for short-term rental success."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/airbnb-co-hosting"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Airbnb Co-Hosting: How It Works and How to Start"}],["$","meta","15",{"name":"twitter:description","content":"Learn how Airbnb co-hosting works, what co-hosts do, how much they earn, and how to find or become a co-host for short-term rental success."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

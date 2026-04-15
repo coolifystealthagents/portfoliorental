@@ -1,0 +1,215 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","tenant-move-in-checklist"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","tenant-move-in-checklist","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","tenant-move-in-checklist","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Tenant Move-In Checklist: Everything Landlords Need to Prepare\",\"description\":\"Use this complete tenant move-in checklist to ensure a smooth transition. Covers inspections, documentation, key handoff, utility transfers, and more.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/tenant-move-in-checklist\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tenant Management\",\"item\":\"https://portfoliorental.com/blog/category/tenant-management\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Tenant Move-In Checklist: Everything Landlords Need to Prepare\",\"item\":\"https://portfoliorental.com/blog/tenant-move-in-checklist\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/tenant-management","className":"hover:text-blue-600","children":"Tenant Management"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Tenant Management"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Tenant Move-In Checklist: Everything Landlords Need to Prepare"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[10," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","1-complete-the-pre-move-in-inspection",{"className":"","children":["$","a",null,{"href":"#1-complete-the-pre-move-in-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Complete the Pre-Move-In Inspection"}]}],["$","li","2-prepare-all-documentation",{"className":"","children":["$","a",null,{"href":"#2-prepare-all-documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Prepare All Documentation"}]}],["$","li","3-handle-the-key-handoff",{"className":"","children":["$","a",null,{"href":"#3-handle-the-key-handoff","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Handle the Key Handoff"}]}],"$L11","$L12","$L13","$L14","$L15","$L16"]}]}]]}],"$L17","$L18"]}],"$L19","$L1a"]}],"$L1b"]}]]}],"$L1c"]
+11:["$","li","4-coordinate-utility-transfers",{"className":"","children":["$","a",null,{"href":"#4-coordinate-utility-transfers","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Coordinate Utility Transfers"}]}]
+12:["$","li","5-create-a-welcome-packet",{"className":"","children":["$","a",null,{"href":"#5-create-a-welcome-packet","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Create a Welcome Packet"}]}]
+13:["$","li","6-complete-the-property-condition-report-together",{"className":"","children":["$","a",null,{"href":"#6-complete-the-property-condition-report-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Complete the Property Condition Report Together"}]}]
+14:["$","li","7-share-emergency-contact-information",{"className":"","children":["$","a",null,{"href":"#7-share-emergency-contact-information","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Share Emergency Contact Information"}]}]
+15:["$","li","8-conduct-the-move-in-walkthrough",{"className":"","children":["$","a",null,{"href":"#8-conduct-the-move-in-walkthrough","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Conduct the Move-In Walkthrough"}]}]
+16:["$","li","your-complete-move-in-day-checklist",{"className":"","children":["$","a",null,{"href":"#your-complete-move-in-day-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Your Complete Move-In Day Checklist"}]}]
+1d:T433c,<p>A smooth move-in sets the tone for the entire tenancy. When you handle it well, tenants feel welcome and respected. They take better care of your property. And you avoid disputes down the road about damages, deposits, and responsibilities.</p>
+<p>When you handle it poorly, problems start from day one. Missing documentation leads to arguments. Skipped inspections make it impossible to prove pre-existing damage. Poor communication leaves tenants confused and frustrated.</p>
+<p>A thorough move-in process is one of the most important <a href="/blog/tenant-management-best-practices">tenant management best practices</a>. This checklist covers every step of the move-in process. Use it as your go-to guide for every new tenant. Print it out, check off each item, and you will never miss a critical step again.</p>
+<h2 id="1-complete-the-pre-move-in-inspection">1. Complete the Pre-Move-In Inspection</h2>
+<p>The pre-move-in inspection is your most important step. It documents the exact condition of the property before the tenant moves in. Without this record, you cannot prove what damage existed before the tenancy and what the tenant caused.</p>
+<p>Here is how to do a thorough pre-move-in inspection:</p>
+<p><strong>Schedule it 1 to 3 days before move-in.</strong> This gives you time to fix any last-minute issues you discover.</p>
+<p><strong>Go room by room.</strong> Check every room in the property and document the condition of:</p>
+<ul>
+<li>Walls (scuffs, holes, paint condition)</li>
+<li>Floors (stains, scratches, damage)</li>
+<li>Windows (cracks, locks, screens)</li>
+<li>Doors (operation, locks, handles)</li>
+<li>Light fixtures and switches</li>
+<li>Outlets (test each one)</li>
+<li>Plumbing fixtures (faucets, toilets, drains)</li>
+<li>Appliances (operation, condition, cleanliness)</li>
+<li>Cabinets and countertops</li>
+<li>Closets and storage areas</li>
+</ul>
+<p><strong>Take photos and video.</strong> Photograph every room from multiple angles. Take close-up photos of any existing damage. Video walkthroughs are even better because they show the full context. Date-stamp everything.</p>
+<p><strong>Test all systems.</strong> Run the HVAC, check water pressure, test the water heater, run the dishwasher, and check the garbage disposal. Fix anything that does not work properly before the tenant moves in.</p>
+<p><strong>Check safety items.</strong> Test smoke detectors and carbon monoxide detectors. Check fire extinguishers. Verify that all exits are accessible. These items are not just good practice. They are legal requirements in most areas. For a full walkthrough of what to check, see our <a href="/blog/property-inspection-requirements">property inspection requirements</a> guide.</p>
+<p>A thorough inspection takes 30 to 60 minutes per unit. It is time well spent. The documentation you create protects you for the entire tenancy.</p>
+<h2 id="2-prepare-all-documentation">2. Prepare All Documentation</h2>
+<p>Paperwork matters. Having the right documents ready before move-in day prevents confusion and protects both you and your tenant.</p>
+<p>Here is the documentation you need:</p>
+<p><strong>Signed lease agreement.</strong> Both parties should have signed copies before the tenant moves in. Make sure the lease includes all important terms: rent amount, due date, late fees, pet policy, maintenance responsibilities, and termination clauses. For guidance on creating a strong lease, see our <a href="/blog/lease-agreement-template-guide">lease agreement template guide</a>.</p>
+<p><strong>Property condition report.</strong> This is the written record of your pre-move-in inspection. Both you and the tenant should sign it during the move-in walkthrough. Give the tenant a copy.</p>
+<p><strong>Security deposit receipt.</strong> Provide a written receipt showing the deposit amount, where it is held, and the conditions for its return. Many states require this by law. Review our <a href="/blog/security-deposit-laws-guide">security deposit laws guide</a> to make sure you comply with your state's specific requirements.</p>
+<p><strong>Rules and regulations.</strong> If your property has rules about parking, noise, trash, common areas, or other topics, put them in writing. Give the tenant a copy separate from the lease.</p>
+<p><strong>Lead paint disclosure.</strong> For properties built before 1978, federal law requires you to provide a lead paint disclosure form and the EPA pamphlet "Protect Your Family From Lead in Your Home." The <a href="https://www.hud.gov/program_offices/healthy_homes/enforcement/disclosure" rel="noopener" target="_blank">HUD lead-based paint disclosure page</a> outlines your federal obligations.</p>
+<p><strong>Move-in cost breakdown.</strong> Give the tenant a clear list showing first month's rent, security deposit, pet deposit, and any other move-in costs. Show what has been paid and what is still owed.</p>
+<p>Keep copies of every document in a secure file, either physical or digital. You may need these records years later for legal or tax purposes.</p>
+<h2 id="3-handle-the-key-handoff">3. Handle the Key Handoff</h2>
+<p>The key handoff seems simple, but doing it right prevents security issues and lockout headaches.</p>
+<p><strong>Prepare all keys and access items in advance:</strong></p>
+<ul>
+<li>Front door keys (provide at least 2 copies)</li>
+<li>Mailbox keys</li>
+<li>Gate or garage remotes</li>
+<li>Storage unit keys</li>
+<li>Laundry room keys or cards</li>
+<li>Key fob or access codes for secured buildings</li>
+<li>Smart lock codes or app access</li>
+</ul>
+<p><strong>Create a key receipt.</strong> List every key and access device you give the tenant. Have them sign the receipt. This document proves what you provided and ensures the tenant returns everything at move-out.</p>
+<p><strong>Re-key the locks.</strong> For safety, re-key or replace the locks between tenants. This is required by law in some states. Even where it is not required, it is a smart practice. <a href="https://www.nolo.com/legal-encyclopedia/landlord-tenant-law" rel="noopener" target="_blank">Nolo's landlord-tenant legal guides</a> cover lock-change requirements by state. You never know how many copies the previous tenant made.</p>
+<p><strong>Explain access procedures.</strong> Show the tenant how to use any smart locks, key fobs, or gate systems. Walk them through the process so they do not get locked out on their first night.</p>
+<p><strong>Keep a master key.</strong> Maintain a secure master key for emergency access. Store it in a lockbox or key safe, not under a doormat or in an obvious location.</p>
+<h2 id="4-coordinate-utility-transfers">4. Coordinate Utility Transfers</h2>
+<p>Utility transfers are a common source of confusion. Without clear instructions, tenants may move in to find the power off or the water shut down.</p>
+<p><strong>Decide who handles which utilities.</strong> In most single-family rentals, tenants handle their own electric, gas, water, internet, and trash. In multi-family properties, some utilities may stay in the landlord's name. Make this clear in the lease and during move-in.</p>
+<p><strong>Provide a utility contact list.</strong> Give tenants the names, phone numbers, and websites for:</p>
+<ul>
+<li>Electric company</li>
+<li>Gas company</li>
+<li>Water and sewer</li>
+<li>Trash collection</li>
+<li>Internet and cable providers</li>
+<li>Any homeowners association contacts</li>
+</ul>
+<p><strong>Set a transfer date.</strong> Utilities should transfer to the tenant's name on or before the move-in date. If there is a gap, you may end up paying for utilities during a period when the tenant is using them.</p>
+<p><strong>Verify the transfer happened.</strong> A few days after move-in, confirm that utilities have been switched to the tenant's name. A quick email or text is all it takes. This prevents surprise bills showing up in your name weeks later.</p>
+<p><strong>Handle shared utilities clearly.</strong> If any utilities are shared between units, explain exactly how costs are split. Put the arrangement in writing to avoid disputes.</p>
+<h2 id="5-create-a-welcome-packet">5. Create a Welcome Packet</h2>
+<p>A welcome packet makes a great first impression. It shows tenants that you are organized and care about their experience. It also reduces the number of questions you get in the first few weeks.</p>
+<p>Your welcome packet should include:</p>
+<p><strong>Property information:</strong></p>
+<ul>
+<li>Your contact information and preferred communication method</li>
+<li>Emergency contact numbers (for after-hours maintenance issues)</li>
+<li>Property manager contact information (if applicable)</li>
+<li>Building superintendent or on-site manager details</li>
+</ul>
+<p><strong>Practical details:</strong></p>
+<ul>
+<li>Trash pickup schedule and recycling rules</li>
+<li>Parking rules and assigned spots</li>
+<li>Laundry room hours and procedures</li>
+<li>Pool, gym, or common area rules</li>
+<li>Mail delivery information</li>
+<li>Pet rules and designated areas</li>
+</ul>
+<p><strong>Maintenance information:</strong></p>
+<ul>
+<li>How to submit a maintenance request</li>
+<li>What counts as an emergency vs. a routine request</li>
+<li>Tenant maintenance responsibilities (changing air filters, light bulbs, etc.)</li>
+<li>Location of the circuit breaker, water shut-off valve, and furnace filter</li>
+</ul>
+<p><strong>Local information:</strong></p>
+<ul>
+<li>Nearest grocery stores</li>
+<li>Public transportation routes</li>
+<li>Nearby hospitals and urgent care</li>
+<li>Local schools (if the tenant has children)</li>
+</ul>
+<p>You can create this packet once and reuse it for every tenant. Update it when details change. A simple printed folder or a PDF emailed to the tenant works well.</p>
+<h2 id="6-complete-the-property-condition-report-together">6. Complete the Property Condition Report Together</h2>
+<p>The property condition report is different from your pre-move-in inspection. This is a joint walkthrough with the tenant. You both review the property and agree on its condition.</p>
+<p><strong>Schedule the walkthrough on move-in day.</strong> Do it before the tenant unloads their belongings. This way, you can see every surface and corner clearly.</p>
+<p><strong>Use a standard form.</strong> Your form should list every room and every item to inspect. Include space for notes and a condition rating (excellent, good, fair, poor). Many state landlord associations provide free templates.</p>
+<p><strong>Walk through together.</strong> Go room by room with the tenant. Point out any existing damage you noted in your pre-move-in inspection. Let the tenant note anything you missed. Be thorough and honest.</p>
+<p><strong>Both parties sign the report.</strong> Your signature and the tenant's signature on the same document create a strong record. Give the tenant a copy immediately.</p>
+<p><strong>Allow a follow-up period.</strong> Give the tenant 3 to 7 days to add notes about anything they discover after moving in. Small issues like a sticky drawer or a slow drain may not be obvious during a quick walkthrough.</p>
+<p>This report is your primary evidence if there is a dispute about the security deposit at move-out. Do not skip it. A strong move-in process leads to fewer problems at move-out. For more on selecting reliable tenants from the start, read our <a href="/blog/tenant-screening-best-practices">tenant screening best practices guide</a>.</p>
+<h2 id="7-share-emergency-contact-information">7. Share Emergency Contact Information</h2>
+<p>Tenants need to know who to call when something goes wrong. A burst pipe at 2 AM is not the time for a tenant to search through old emails for your phone number.</p>
+<p><strong>Provide clear emergency contacts:</strong></p>
+<ul>
+<li><strong>Your phone number</strong> or the property manager's number for urgent issues</li>
+<li><strong>After-hours emergency line</strong> if you use a property management company</li>
+<li><strong>Local emergency services</strong> (police non-emergency, fire department)</li>
+<li><strong>Utility emergency numbers</strong> (gas leak hotline, power outage reporting)</li>
+<li><strong>Preferred plumber, electrician, and HVAC technician</strong> for emergencies</li>
+</ul>
+<p><strong>Define what counts as an emergency:</strong></p>
+<ul>
+<li>Water leak or flooding</li>
+<li>No heat in winter</li>
+<li>Gas leak or gas smell</li>
+<li>Electrical hazard</li>
+<li>Break-in or security breach</li>
+<li>Fire or smoke</li>
+<li>Sewage backup</li>
+</ul>
+<p><strong>Explain what is not an emergency:</strong></p>
+<ul>
+<li>A dripping faucet</li>
+<li>A broken dishwasher</li>
+<li>A burned-out light bulb</li>
+<li>A running toilet</li>
+<li>A cosmetic issue</li>
+</ul>
+<p>Post emergency contacts in a visible location inside the unit, like on the refrigerator or inside a kitchen cabinet door. Also send them by email so the tenant has a digital copy.</p>
+<h2 id="8-conduct-the-move-in-walkthrough">8. Conduct the Move-In Walkthrough</h2>
+<p>The move-in walkthrough is your chance to teach the tenant how to live in and care for your property. It goes beyond the condition report. This is where you show the tenant how everything works.</p>
+<p><strong>Demonstrate key systems:</strong></p>
+<ul>
+<li><strong>HVAC:</strong> Show the thermostat. Explain how to change the temperature. Show where the air filter is and explain how often to change it.</li>
+<li><strong>Water heater:</strong> Point out its location. Show the temperature setting. Explain what to do if there is no hot water.</li>
+<li><strong>Circuit breaker:</strong> Show the panel location. Label each breaker clearly. Explain how to reset a tripped breaker.</li>
+<li><strong>Water shut-off:</strong> Show the main shut-off valve and any individual fixture shut-offs. Explain when and how to use them.</li>
+<li><strong>Appliances:</strong> Demonstrate any appliances that are not self-explanatory. Show the tenant where to find manuals.</li>
+</ul>
+<p><strong>Cover property-specific details:</strong></p>
+<ul>
+<li>How to lock and unlock all doors and windows</li>
+<li>How the garbage disposal works (and what not to put in it)</li>
+<li>Where to store trash and recycling bins</li>
+<li>How the sprinkler system or irrigation works (if the tenant is responsible for yard care)</li>
+<li>Any quirks of the property (a door that sticks, a light switch that controls an outlet)</li>
+</ul>
+<p><strong>Set expectations:</strong></p>
+<ul>
+<li>How to report maintenance issues</li>
+<li>Expected response times for different types of requests</li>
+<li>What maintenance the tenant is responsible for</li>
+<li>Quiet hours and neighbor courtesy</li>
+<li>How and when you may need to enter the property</li>
+</ul>
+<p>Take your time with this walkthrough. Answer all of the tenant's questions. A well-informed tenant takes better care of your property and contacts you less often with basic questions.</p>
+<p>For tips on maintaining strong communication throughout the tenancy, see our <a href="/blog/tenant-communication-tips">tenant communication tips guide</a>.</p>
+<h2 id="your-complete-move-in-day-checklist">Your Complete Move-In Day Checklist</h2>
+<p>Use this quick-reference checklist on move-in day:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Pre-move-in inspection completed and documented</li>
+<li class="task-list-item"><input type="checkbox" disabled> Lease agreement signed by all parties</li>
+<li class="task-list-item"><input type="checkbox" disabled> Security deposit collected and receipt provided</li>
+<li class="task-list-item"><input type="checkbox" disabled> First month's rent collected</li>
+<li class="task-list-item"><input type="checkbox" disabled> Property condition report reviewed and signed together</li>
+<li class="task-list-item"><input type="checkbox" disabled> All keys and access devices handed over with signed receipt</li>
+<li class="task-list-item"><input type="checkbox" disabled> Locks re-keyed or replaced</li>
+<li class="task-list-item"><input type="checkbox" disabled> Utilities confirmed transferred to tenant's name</li>
+<li class="task-list-item"><input type="checkbox" disabled> Welcome packet provided</li>
+<li class="task-list-item"><input type="checkbox" disabled> Emergency contacts shared</li>
+<li class="task-list-item"><input type="checkbox" disabled> Move-in walkthrough completed</li>
+<li class="task-list-item"><input type="checkbox" disabled> All appliances and systems demonstrated</li>
+<li class="task-list-item"><input type="checkbox" disabled> Maintenance request process explained</li>
+<li class="task-list-item"><input type="checkbox" disabled> Tenant questions answered</li>
+<li class="task-list-item"><input type="checkbox" disabled> Move-in photos and video saved securely</li>
+</ul>
+<p>Print this checklist and use it for every new tenant. It takes about 1 to 2 hours to complete everything on move-in day. That small investment of time prevents countless problems down the road.</p>
+<p>A professional move-in process tells your tenant that you are a serious, organized landlord. It builds mutual respect from day one. And it creates the documentation you need to protect your property and your investment for years to come.</p>
+17:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$1d"}}]
+18:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","tenant management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant management"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","rental operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental operations"}],["$","span","tenant relations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant relations"}],["$","span","tenant move in checklist",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant move in checklist"}]]}]
+19:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Tenant Management"]}],["$","$L10",null,{"href":"/blog/category/tenant-management","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accept-rent-payments-international-tenants",{"children":["$","$L10",null,{"href":"/blog/accept-rent-payments-international-tenants","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Accept Rent Payments from International Tenants"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ach-rent-payments-direct-debit-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ach-rent-payments-direct-debit-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ACH Rent Payments: Setting Up Direct Debit for Your Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-tenant-screening",{"children":["$","$L10",null,{"href":"/blog/akron-tenant-screening","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Tenant Screening in Akron: Best Practices for Landlords"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","albuquerque-tenant-screening-best-practices",{"children":["$","$L10",null,{"href":"/blog/albuquerque-tenant-screening-best-practices","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Albuquerque Tenant Screening Best Practices"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+1a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","tenant-retention-strategies",{"href":"/blog/tenant-retention-strategies","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"12 Proven Tenant Retention Strategies to Keep Great Renters Long-Term"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","handle-difficult-tenants",{"href":"/blog/handle-difficult-tenants","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Handle Difficult Tenants: A Landlord's Complete Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","late-rent-payment-policy",{"href":"/blog/late-rent-payment-policy","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Late Rent Payment Policy: How to Create and Enforce One That Works"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}]]}]]}]
+1b:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","1-complete-the-pre-move-in-inspection",{"className":"","children":["$","a",null,{"href":"#1-complete-the-pre-move-in-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Complete the Pre-Move-In Inspection"}]}],["$","li","2-prepare-all-documentation",{"className":"","children":["$","a",null,{"href":"#2-prepare-all-documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Prepare All Documentation"}]}],["$","li","3-handle-the-key-handoff",{"className":"","children":["$","a",null,{"href":"#3-handle-the-key-handoff","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Handle the Key Handoff"}]}],["$","li","4-coordinate-utility-transfers",{"className":"","children":["$","a",null,{"href":"#4-coordinate-utility-transfers","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Coordinate Utility Transfers"}]}],["$","li","5-create-a-welcome-packet",{"className":"","children":["$","a",null,{"href":"#5-create-a-welcome-packet","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Create a Welcome Packet"}]}],["$","li","6-complete-the-property-condition-report-together",{"className":"","children":["$","a",null,{"href":"#6-complete-the-property-condition-report-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Complete the Property Condition Report Together"}]}],["$","li","7-share-emergency-contact-information",{"className":"","children":["$","a",null,{"href":"#7-share-emergency-contact-information","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Share Emergency Contact Information"}]}],["$","li","8-conduct-the-move-in-walkthrough",{"className":"","children":["$","a",null,{"href":"#8-conduct-the-move-in-walkthrough","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Conduct the Move-In Walkthrough"}]}],["$","li","your-complete-move-in-day-checklist",{"className":"","children":["$","a",null,{"href":"#your-complete-move-in-day-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Your Complete Move-In Day Checklist"}]}]]}]]}]}]
+1c:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Tenant Move-In Checklist: Everything Landlords Need to Prepare | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Use this complete tenant move-in checklist to ensure a smooth transition. Covers inspections, documentation, key handoff, utility transfers, and more."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"tenant management,landlord tips,rental operations,tenant relations,tenant move in checklist"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/tenant-move-in-checklist"}],["$","meta","6",{"property":"og:title","content":"Tenant Move-In Checklist: Everything Landlords Need to Prepare"}],["$","meta","7",{"property":"og:description","content":"Use this complete tenant move-in checklist to ensure a smooth transition. Covers inspections, documentation, key handoff, utility transfers, and more."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/tenant-move-in-checklist"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Tenant Move-In Checklist: Everything Landlords Need to Prepare"}],["$","meta","15",{"name":"twitter:description","content":"Use this complete tenant move-in checklist to ensure a smooth transition. Covers inspections, documentation, key handoff, utility transfers, and more."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

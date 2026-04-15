@@ -1,0 +1,222 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","ev-charging-station-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","ev-charging-station-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","ev-charging-station-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Adding EV Charging Stations to Rental Properties\",\"description\":\"A guide for landlords on adding EV charging stations to rental properties, including costs, electrical requirements, billing options, legal considerations, and ROI.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/ev-charging-station-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Adding EV Charging Stations to Rental Properties\",\"item\":\"https://portfoliorental.com/blog/ev-charging-station-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Adding EV Charging Stations to Rental Properties"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","understanding-ev-charger-levels",{"className":"","children":["$","a",null,{"href":"#understanding-ev-charger-levels","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Understanding EV Charger Levels"}]}],["$","li","level-1-charging",{"className":"ml-4","children":["$","a",null,{"href":"#level-1-charging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Level 1 Charging"}]}],["$","li","level-2-charging",{"className":"ml-4","children":["$","a",null,{"href":"#level-2-charging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Level 2 Charging"}]}],["$","li","level-3-dc-fast-charging",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"]}]}]]}],"$L28","$L29"]}],"$L2a","$L2b"]}],"$L2c"]}]]}],"$L2d"]
+11:["$","a",null,{"href":"#level-3-dc-fast-charging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Level 3 / DC Fast Charging"}]
+12:["$","li","installation-costs",{"className":"","children":["$","a",null,{"href":"#installation-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Installation Costs"}]}]
+13:["$","li","single-family-home",{"className":"ml-4","children":["$","a",null,{"href":"#single-family-home","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Single-Family Home"}]}]
+14:["$","li","multi-family-property",{"className":"ml-4","children":["$","a",null,{"href":"#multi-family-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Multi-Family Property"}]}]
+15:["$","li","electrical-infrastructure-requirements",{"className":"","children":["$","a",null,{"href":"#electrical-infrastructure-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Electrical Infrastructure Requirements"}]}]
+16:["$","li","panel-capacity",{"className":"ml-4","children":["$","a",null,{"href":"#panel-capacity","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Panel Capacity"}]}]
+17:["$","li","load-management-technology",{"className":"ml-4","children":["$","a",null,{"href":"#load-management-technology","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Load Management Technology"}]}]
+18:["$","li","billing-for-ev-charging-in-rental-properties",{"className":"","children":["$","a",null,{"href":"#billing-for-ev-charging-in-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Billing for EV Charging in Rental Properties"}]}]
+19:["$","li","single-family-homes-tenant-pays-directly",{"className":"ml-4","children":["$","a",null,{"href":"#single-family-homes-tenant-pays-directly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Single-Family Homes — Tenant Pays Directly"}]}]
+1a:["$","li","multi-family-properties-networked-billing-systems",{"className":"ml-4","children":["$","a",null,{"href":"#multi-family-properties-networked-billing-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Multi-Family Properties — Networked Billing Systems"}]}]
+1b:["$","li","legal-and-regulatory-considerations",{"className":"","children":["$","a",null,{"href":"#legal-and-regulatory-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Regulatory Considerations"}]}]
+1c:["$","li","right-to-charge-laws",{"className":"ml-4","children":["$","a",null,{"href":"#right-to-charge-laws","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Right to Charge Laws"}]}]
+1d:["$","li","building-code-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#building-code-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Code Requirements"}]}]
+1e:["$","li","permits",{"className":"ml-4","children":["$","a",null,{"href":"#permits","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Permits"}]}]
+1f:["$","li","tax-incentives-and-utility-rebates",{"className":"","children":["$","a",null,{"href":"#tax-incentives-and-utility-rebates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Incentives and Utility Rebates"}]}]
+20:["$","li","federal-tax-credit",{"className":"ml-4","children":["$","a",null,{"href":"#federal-tax-credit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Federal Tax Credit"}]}]
+21:["$","li","state-and-utility-rebates",{"className":"ml-4","children":["$","a",null,{"href":"#state-and-utility-rebates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"State and Utility Rebates"}]}]
+22:["$","li","roi-and-business-case",{"className":"","children":["$","a",null,{"href":"#roi-and-business-case","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ROI and Business Case"}]}]
+23:["$","li","rent-premium",{"className":"ml-4","children":["$","a",null,{"href":"#rent-premium","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rent Premium"}]}]
+24:["$","li","property-value",{"className":"ml-4","children":["$","a",null,{"href":"#property-value","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Value"}]}]
+25:["$","li","revenue-from-charging-multi-family",{"className":"ml-4","children":["$","a",null,{"href":"#revenue-from-charging-multi-family","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Revenue from Charging (Multi-Family)"}]}]
+26:["$","li","recommended-charger-products",{"className":"","children":["$","a",null,{"href":"#recommended-charger-products","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Recommended Charger Products"}]}]
+27:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2e:T300a,<p>Electric vehicle adoption is accelerating rapidly. By 2026, EVs represent a growing share of new car sales, and EV owners need a reliable place to charge — ideally at home overnight. For rental property owners, EV charging is rapidly transitioning from a niche amenity to a mainstream tenant expectation, particularly in urban and suburban markets.</p>
+<p>Adding EV charging to your rental property can <a href="/blog/increase-rental-property-value">increase rental property value</a>, justify higher rents, and in some markets is now being required by local zoning and building codes for new construction and significant renovations. This guide covers everything a landlord needs to know: charger types, installation costs, electrical requirements, billing options, legal considerations, and ROI expectations.</p>
+<hr>
+<h2 id="understanding-ev-charger-levels">Understanding EV Charger Levels</h2>
+<h3 id="level-1-charging">Level 1 Charging</h3>
+<p>Level 1 uses a standard 120-volt household outlet. It delivers approximately 3-5 miles of range per hour of charging. While it requires no special installation beyond a properly grounded outlet, Level 1 is often too slow for practical daily charging (a 60 kWh battery takes 24+ hours to fully charge from empty).</p>
+<p><strong>Best for:</strong> Tenants with short daily commutes who can leave the car charging overnight; properties where electrical upgrades are cost-prohibitive.</p>
+<h3 id="level-2-charging">Level 2 Charging</h3>
+<p>Level 2 uses a 240-volt circuit (like a dryer outlet). It delivers approximately 20-30 miles of range per hour — enough to fully charge most EVs overnight.</p>
+<p><strong>This is the standard for residential EV charging and the appropriate choice for most rental property installations.</strong></p>
+<p>Level 2 chargers (also called EVSE — Electric Vehicle Supply Equipment) require:</p>
+<ul>
+<li>A dedicated 240V, 40-50A circuit (50A is recommended for future-proofing)</li>
+<li>A licensed electrician for installation</li>
+<li>A NEMA 14-50 outlet or hardwired charger unit</li>
+</ul>
+<h3 id="level-3-dc-fast-charging">Level 3 / DC Fast Charging</h3>
+<p>DC fast charging is commercial-grade equipment found at highway charging stations. It is not appropriate for residential rental property installation due to extremely high cost ($30,000-$150,000) and utility infrastructure requirements.</p>
+<hr>
+<h2 id="installation-costs">Installation Costs</h2>
+<h3 id="single-family-home">Single-Family Home</h3>
+<p>For a single-family rental with attached garage:</p>
+<ul>
+<li><strong>Electrician installation</strong> (dedicated 240V circuit from panel): $300-$800</li>
+<li><strong>Level 2 charger unit</strong>: $400-$800 (e.g., ChargePoint Home Flex, JuiceBox 40, Emporia EV charger)</li>
+<li><strong>Panel upgrade (if needed)</strong>: $1,500-$4,000</li>
+<li><strong>Total typical cost</strong>: $700-$1,600 without panel upgrade; $2,200-$5,600 with panel upgrade</li>
+</ul>
+<h3 id="multi-family-property">Multi-Family Property</h3>
+<p>For multi-family properties, EV charging installation is more complex:</p>
+<ul>
+<li><strong>Parking structure or surface lot</strong> charger installation: $1,500-$4,000 per station including trenching, conduit, and panel work</li>
+<li><strong>Networked management system</strong> (needed for billing tenants): $1,000-$3,000 setup plus monthly subscription</li>
+<li><strong>Multiple chargers</strong>: Economies of scale; installing 6-10 chargers at once is significantly more cost-efficient per unit than individual installations</li>
+</ul>
+<hr>
+<h2 id="electrical-infrastructure-requirements">Electrical Infrastructure Requirements</h2>
+<p>Before installing EV chargers, assess your electrical infrastructure:</p>
+<h3 id="panel-capacity">Panel Capacity</h3>
+<p>A typical Level 2 charger draws 30-50 amps at 240V. For a single-family home, verify that the existing electrical panel has:</p>
+<ul>
+<li>Sufficient amperage capacity (200A panel is preferred; 100A panels may require upgrade)</li>
+<li>Available breaker slots for a new 50A double-pole breaker</li>
+</ul>
+<p>For multi-family properties with multiple chargers planned, consult with a licensed electrician about load management to avoid costly service upgrades.</p>
+<h3 id="load-management-technology">Load Management Technology</h3>
+<p>Smart EV chargers with load management (dynamic power sharing) can distribute available electrical capacity across multiple vehicles, maximizing the number of cars that can charge simultaneously without requiring a full electrical service upgrade. This is a key technology for multi-family EV charging.</p>
+<p>Products like ChargePoint Home Flex and JuiceBox Pro support load management when combined with compatible energy management systems.</p>
+<hr>
+<h2 id="billing-for-ev-charging-in-rental-properties">Billing for EV Charging in Rental Properties</h2>
+<p>How tenants pay for EV charging electricity is one of the most important operational decisions:</p>
+<h3 id="single-family-homes-tenant-pays-directly">Single-Family Homes — Tenant Pays Directly</h3>
+<p>The simplest approach: install the charger and include it in the lease that the tenant is responsible for electricity costs (which they are already paying if utilities are in their name). The landlord provides the hardware; the tenant pays for usage.</p>
+<h3 id="multi-family-properties-networked-billing-systems">Multi-Family Properties — Networked Billing Systems</h3>
+<p>In multi-family buildings where electricity is in the landlord's name (or billed back), you need a way to track and bill each tenant for their EV charging usage. Options:</p>
+<p><strong>Networked Charger with Per-Session Billing</strong></p>
+<p>Smart chargers from ChargePoint, Blink, or Enel X support tenant billing through an app or RFID card system. Each charging session is tracked and billed to the tenant's account. The landlord pays the electricity cost and bills tenants at a per-kWh rate.</p>
+<p><strong>Sub-Metering</strong></p>
+<p>Install a sub-meter on the EV charging circuit and read it monthly; bill tenants accordingly. More manual but works with any charger.</p>
+<p><strong>Flat Fee Add-On</strong></p>
+<p>Some landlords add a flat monthly EV charging fee to rent for any tenant with a registered EV. This is simple to administer but may not accurately reflect usage.</p>
+<hr>
+<h2 id="legal-and-regulatory-considerations">Legal and Regulatory Considerations</h2>
+<h3 id="right-to-charge-laws">Right to Charge Laws</h3>
+<p>Several states have enacted "right to charge" laws that require landlords to allow tenants to install their own EV charging equipment (at the tenant's expense, typically), provided certain conditions are met:</p>
+<ul>
+<li><strong>California</strong> — Civil Code 1947.6 gives tenants in multi-family buildings the right to install EV charging equipment in their designated parking space, with conditions. Landlords cannot unreasonably withhold consent.</li>
+<li><strong>Florida</strong> — Condominiums are required to allow EV charging installation in parking spaces with certain conditions.</li>
+<li><strong>Other states</strong> — Oregon, Colorado, Hawaii, and others have similar provisions.</li>
+</ul>
+<p>Even if you do not proactively install chargers, you may be required to permit tenant installations. Review your state's law before refusing a tenant request.</p>
+<h3 id="building-code-requirements">Building Code Requirements</h3>
+<p>Many jurisdictions now require EV-ready infrastructure (conduit, panel capacity) in:</p>
+<ul>
+<li>New multi-family construction</li>
+<li>Significant renovations triggering code compliance</li>
+<li>New parking structures</li>
+</ul>
+<p>California, Oregon, and many cities have adopted EV-ready requirements. Even where not required, installing conduit during construction or renovation is significantly less expensive than retrofitting later.</p>
+<h3 id="permits">Permits</h3>
+<p>EV charger installation typically requires proper permits. Learn about <a href="/blog/contractor-insurance-verification">contractor insurance verification</a> before hiring.</p>
+<ul>
+<li>Electrical permit from the local building department</li>
+<li>Licensed electrician to perform the work</li>
+<li>Inspection before energizing the circuit</li>
+</ul>
+<hr>
+<h2 id="tax-incentives-and-utility-rebates">Tax Incentives and Utility Rebates</h2>
+<p>EV charging infrastructure may qualify for significant incentives. Review <a href="/blog/rental-property-tax-deductions">rental property tax deductions</a> for details.</p>
+<h3 id="federal-tax-credit">Federal Tax Credit</h3>
+<p>The Alternative Fuel Vehicle Refueling Property Credit (IRS Form 8911) provides a credit of 30% of the cost of EV charging equipment installation, up to $1,000 for residential property and $100,000 per single item for commercial property. Multi-family properties used for rental income may qualify under the commercial rates.</p>
+<h3 id="state-and-utility-rebates">State and Utility Rebates</h3>
+<p>Many states and utilities offer rebates for EV charger installations:</p>
+<ul>
+<li>Pacific Gas &#x26; Electric, Consolidated Edison, and many other utilities offer rebates of $250-$500 per Level 2 charger</li>
+<li>California's EVSE rebate programs have offered up to $5,000 per multi-family charger installation</li>
+</ul>
+<p>Check the AFDC (Alternative Fuels Data Center) database at <a href="https://afdc.energy.gov" rel="noopener" target="_blank">afdc.energy.gov</a> for current incentives in your state.</p>
+<hr>
+<h2 id="roi-and-business-case">ROI and Business Case</h2>
+<h3 id="rent-premium">Rent Premium</h3>
+<p>Studies suggest EV-capable parking commands a premium in rental markets:</p>
+<ul>
+<li>Single-family homes with garage EV charger: $50-$150/month premium in EV-heavy markets (California, Pacific Northwest, Northeast metro areas)</li>
+<li>Multi-family buildings with EV charging: Faster leasing, competitive advantage, and ability to charge parking premiums</li>
+</ul>
+<h3 id="property-value">Property Value</h3>
+<p>EV charging infrastructure contributes to property value, particularly in markets with high EV ownership rates. As EV adoption continues growing, properties without charging capability will increasingly be at a competitive disadvantage.</p>
+<h3 id="revenue-from-charging-multi-family">Revenue from Charging (Multi-Family)</h3>
+<p>At a per-kWh billing rate of $0.25-$0.40 (typical for commercial billing), a Level 2 charger providing 20 kWh per session generates $5-$8 per session. At 2-3 sessions per day in a shared charger environment, that is $300-$700 per month per charger in revenue — potentially providing a positive cash flow on the charger investment within 2-3 years.</p>
+<hr>
+<h2 id="recommended-charger-products">Recommended Charger Products</h2>
+<table>
+<thead>
+<tr>
+<th>Product</th>
+<th>Type</th>
+<th>Best For</th>
+<th>Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ChargePoint Home Flex</td>
+<td>Level 2, Wi-Fi</td>
+<td>Single-family, adjustable power</td>
+<td>$699</td>
+</tr>
+<tr>
+<td>JuiceBox 40</td>
+<td>Level 2, Wi-Fi</td>
+<td>Single-family, smart scheduling</td>
+<td>$649</td>
+</tr>
+<tr>
+<td>Emporia EV Charger</td>
+<td>Level 2, Wi-Fi</td>
+<td>Budget, energy monitoring</td>
+<td>$399</td>
+</tr>
+<tr>
+<td>Enel X JuiceBox Pro 40</td>
+<td>Level 2, networked</td>
+<td>Multi-family billing</td>
+<td>$699+</td>
+</tr>
+<tr>
+<td>Blink IQ 200</td>
+<td>Level 2, networked</td>
+<td>Multi-family, public use</td>
+<td>Contact</td>
+</tr>
+<tr>
+<td>ChargePoint CPF25</td>
+<td>Level 2, networked</td>
+<td>Multi-family commercial</td>
+<td>Contact</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>EV charging is quickly moving from a premium amenity to a standard expectation in competitive rental markets. Landlords who install Level 2 chargers — especially in single-family homes and multi-family buildings in EV-dense markets — gain a competitive advantage in tenant attraction, can justify rent premiums, and position their properties for the long-term shift toward electric vehicle ownership.</p>
+<p>For related technology upgrades, see our articles on <a href="/blog/solar-panels-rental-property">solar panels for rental properties</a> and <a href="/blog/smart-thermostat-rental-property">smart thermostats for rental units</a>.</p>
+28:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2e"}}]
+29:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","EV charging",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"EV charging"}],["$","span","property technology",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property technology"}],["$","span","sustainability",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"sustainability"}],["$","span","property upgrades",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property upgrades"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}]]}]
+2a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+2b:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","smart-thermostat-rental-property",{"href":"/blog/smart-thermostat-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Installing Smart Thermostats in Rental Units"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","smart-locks-rental-property",{"href":"/blog/smart-locks-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Smart Locks for Rental Properties: Best Options"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","solar-panels-rental-property",{"href":"/blog/solar-panels-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Solar Panels for Rental Properties: Cost and ROI"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+2c:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","understanding-ev-charger-levels",{"className":"","children":["$","a",null,{"href":"#understanding-ev-charger-levels","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Understanding EV Charger Levels"}]}],["$","li","level-1-charging",{"className":"ml-4","children":["$","a",null,{"href":"#level-1-charging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Level 1 Charging"}]}],["$","li","level-2-charging",{"className":"ml-4","children":["$","a",null,{"href":"#level-2-charging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Level 2 Charging"}]}],["$","li","level-3-dc-fast-charging",{"className":"ml-4","children":["$","a",null,{"href":"#level-3-dc-fast-charging","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Level 3 / DC Fast Charging"}]}],["$","li","installation-costs",{"className":"","children":["$","a",null,{"href":"#installation-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Installation Costs"}]}],["$","li","single-family-home",{"className":"ml-4","children":["$","a",null,{"href":"#single-family-home","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Single-Family Home"}]}],["$","li","multi-family-property",{"className":"ml-4","children":["$","a",null,{"href":"#multi-family-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Multi-Family Property"}]}],["$","li","electrical-infrastructure-requirements",{"className":"","children":["$","a",null,{"href":"#electrical-infrastructure-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Electrical Infrastructure Requirements"}]}],["$","li","panel-capacity",{"className":"ml-4","children":["$","a",null,{"href":"#panel-capacity","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Panel Capacity"}]}],["$","li","load-management-technology",{"className":"ml-4","children":["$","a",null,{"href":"#load-management-technology","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Load Management Technology"}]}],["$","li","billing-for-ev-charging-in-rental-properties",{"className":"","children":["$","a",null,{"href":"#billing-for-ev-charging-in-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Billing for EV Charging in Rental Properties"}]}],["$","li","single-family-homes-tenant-pays-directly",{"className":"ml-4","children":["$","a",null,{"href":"#single-family-homes-tenant-pays-directly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Single-Family Homes — Tenant Pays Directly"}]}],["$","li","multi-family-properties-networked-billing-systems",{"className":"ml-4","children":["$","a",null,{"href":"#multi-family-properties-networked-billing-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Multi-Family Properties — Networked Billing Systems"}]}],["$","li","legal-and-regulatory-considerations",{"className":"","children":["$","a",null,{"href":"#legal-and-regulatory-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Regulatory Considerations"}]}],["$","li","right-to-charge-laws",{"className":"ml-4","children":["$","a",null,{"href":"#right-to-charge-laws","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Right to Charge Laws"}]}],"$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39"]}]]}]}]
+2d:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2f:["$","li","building-code-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#building-code-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Code Requirements"}]}]
+30:["$","li","permits",{"className":"ml-4","children":["$","a",null,{"href":"#permits","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Permits"}]}]
+31:["$","li","tax-incentives-and-utility-rebates",{"className":"","children":["$","a",null,{"href":"#tax-incentives-and-utility-rebates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Incentives and Utility Rebates"}]}]
+32:["$","li","federal-tax-credit",{"className":"ml-4","children":["$","a",null,{"href":"#federal-tax-credit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Federal Tax Credit"}]}]
+33:["$","li","state-and-utility-rebates",{"className":"ml-4","children":["$","a",null,{"href":"#state-and-utility-rebates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"State and Utility Rebates"}]}]
+34:["$","li","roi-and-business-case",{"className":"","children":["$","a",null,{"href":"#roi-and-business-case","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ROI and Business Case"}]}]
+35:["$","li","rent-premium",{"className":"ml-4","children":["$","a",null,{"href":"#rent-premium","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rent Premium"}]}]
+36:["$","li","property-value",{"className":"ml-4","children":["$","a",null,{"href":"#property-value","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Value"}]}]
+37:["$","li","revenue-from-charging-multi-family",{"className":"ml-4","children":["$","a",null,{"href":"#revenue-from-charging-multi-family","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Revenue from Charging (Multi-Family)"}]}]
+38:["$","li","recommended-charger-products",{"className":"","children":["$","a",null,{"href":"#recommended-charger-products","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Recommended Charger Products"}]}]
+39:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Adding EV Charging Stations to Rental Properties | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A guide for landlords on adding EV charging stations to rental properties, including costs, electrical requirements, billing options, legal considerations, and ROI."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"EV charging,property technology,sustainability,property upgrades,landlord tips"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/ev-charging-station-rental"}],["$","meta","6",{"property":"og:title","content":"Adding EV Charging Stations to Rental Properties"}],["$","meta","7",{"property":"og:description","content":"A guide for landlords on adding EV charging stations to rental properties, including costs, electrical requirements, billing options, legal considerations, and ROI."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/ev-charging-station-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Adding EV Charging Stations to Rental Properties"}],["$","meta","15",{"name":"twitter:description","content":"A guide for landlords on adding EV charging stations to rental properties, including costs, electrical requirements, billing options, legal considerations, and ROI."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

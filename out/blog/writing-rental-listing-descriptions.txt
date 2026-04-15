@@ -1,0 +1,350 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","writing-rental-listing-descriptions"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","writing-rental-listing-descriptions","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","writing-rental-listing-descriptions","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Writing Rental Listing Descriptions That Attract Quality Tenants\",\"description\":\"Learn how to write rental listing descriptions that get clicks, attract quality tenants, and fill vacancies fast. Includes headline formulas, templates, and fair housing tips.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/writing-rental-listing-descriptions\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Marketing & Leasing\",\"item\":\"https://portfoliorental.com/blog/category/marketing-and-leasing\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Writing Rental Listing Descriptions That Attract Quality Tenants\",\"item\":\"https://portfoliorental.com/blog/writing-rental-listing-descriptions\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/marketing-and-leasing","className":"hover:text-blue-600","children":"Marketing & Leasing"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Marketing & Leasing"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Writing Rental Listing Descriptions That Attract Quality Tenants"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[11," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-your-listing-description-matters",{"className":"","children":["$","a",null,{"href":"#why-your-listing-description-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Your Listing Description Matters"}]}],["$","li","headline-formulas-that-get-clicks",{"className":"","children":["$","a",null,{"href":"#headline-formulas-that-get-clicks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Headline Formulas That Get Clicks"}]}],["$","li","how-to-highlight-features-effectively",{"className":"","children":["$","a",null,{"href":"#how-to-highlight-features-effectively","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Highlight Features Effectively"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]}]]}],"$L24","$L25"]}],"$L26","$L27"]}],"$L28"]}]]}],"$L29"]
+11:["$","li","selling-the-neighborhood",{"className":"","children":["$","a",null,{"href":"#selling-the-neighborhood","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Selling the Neighborhood"}]}]
+12:["$","li","describing-amenities-that-matter-most",{"className":"","children":["$","a",null,{"href":"#describing-amenities-that-matter-most","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Describing Amenities That Matter Most"}]}]
+13:["$","li","fair-housing-language-what-you-can-and-cannot-say",{"className":"","children":["$","a",null,{"href":"#fair-housing-language-what-you-can-and-cannot-say","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fair Housing Language: What You Can and Cannot Say"}]}]
+14:["$","li","crafting-a-strong-call-to-action",{"className":"","children":["$","a",null,{"href":"#crafting-a-strong-call-to-action","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Crafting a Strong Call to Action"}]}]
+15:["$","li","seo-for-rental-listings",{"className":"","children":["$","a",null,{"href":"#seo-for-rental-listings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"SEO for Rental Listings"}]}]
+16:["$","li","common-listing-description-mistakes",{"className":"","children":["$","a",null,{"href":"#common-listing-description-mistakes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Listing Description Mistakes"}]}]
+17:["$","li","1-being-too-vague",{"className":"ml-4","children":["$","a",null,{"href":"#1-being-too-vague","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Being Too Vague"}]}]
+18:["$","li","2-writing-a-novel",{"className":"ml-4","children":["$","a",null,{"href":"#2-writing-a-novel","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Writing a Novel"}]}]
+19:["$","li","3-hiding-important-details",{"className":"ml-4","children":["$","a",null,{"href":"#3-hiding-important-details","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Hiding Important Details"}]}]
+1a:["$","li","4-using-all-caps-or-excessive-punctuation",{"className":"ml-4","children":["$","a",null,{"href":"#4-using-all-caps-or-excessive-punctuation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Using All Caps or Excessive Punctuation"}]}]
+1b:["$","li","5-forgetting-to-proofread",{"className":"ml-4","children":["$","a",null,{"href":"#5-forgetting-to-proofread","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Forgetting to Proofread"}]}]
+1c:["$","li","6-copy-pasting-the-same-description",{"className":"ml-4","children":["$","a",null,{"href":"#6-copy-pasting-the-same-description","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Copy-Pasting the Same Description"}]}]
+1d:["$","li","template-examples",{"className":"","children":["$","a",null,{"href":"#template-examples","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Template Examples"}]}]
+1e:["$","li","template-1-single-family-home",{"className":"ml-4","children":["$","a",null,{"href":"#template-1-single-family-home","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Template 1: Single-Family Home"}]}]
+1f:["$","li","template-2-urban-apartment",{"className":"ml-4","children":["$","a",null,{"href":"#template-2-urban-apartment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Template 2: Urban Apartment"}]}]
+20:["$","li","template-3-multi-family-unit",{"className":"ml-4","children":["$","a",null,{"href":"#template-3-multi-family-unit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Template 3: Multi-Family Unit"}]}]
+21:["$","li","character-limits-by-platform",{"className":"","children":["$","a",null,{"href":"#character-limits-by-platform","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Character Limits by Platform"}]}]
+22:["$","li","a-step-by-step-writing-process",{"className":"","children":["$","a",null,{"href":"#a-step-by-step-writing-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"A Step-by-Step Writing Process"}]}]
+23:["$","li","putting-it-all-together",{"className":"","children":["$","a",null,{"href":"#putting-it-all-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Putting It All Together"}]}]
+2a:T4998,<p>Your listing description is your sales pitch. It works alongside your photos to convince renters that your property is worth their time and money. A great description turns casual browsers into eager applicants. A poor one sends them scrolling to the next listing.</p>
+<p>Yet many landlords treat the description as an afterthought. They write a few lines, list some features, and call it done. That is a missed opportunity.</p>
+<p>This guide teaches you how to write rental listing descriptions that get clicks, attract quality tenants, and help you fill vacancies faster. We cover headline formulas, feature highlights, neighborhood selling points, fair housing rules, and templates you can use right away.</p>
+<h2 id="why-your-listing-description-matters">Why Your Listing Description Matters</h2>
+<p>Renters look at photos first. That is true. But photos alone do not close the deal. The description answers the questions that photos cannot:</p>
+<ul>
+<li>What is the rent and deposit?</li>
+<li>Are pets allowed?</li>
+<li>What utilities are included?</li>
+<li>How close is it to work, school, or transit?</li>
+<li>What makes this property better than the others?</li>
+</ul>
+<p>A good description also filters out renters who are not a fit. When you clearly state your requirements and policies, you spend less time on unqualified inquiries and more time with serious applicants.</p>
+<p>Your description is part of your overall <a href="/blog/rental-property-marketing-strategies">rental property marketing strategy</a>. When done well, it works with your <a href="/blog/rental-property-photography-tips">rental property photography</a> and listing distribution to create a powerful marketing system.</p>
+<h2 id="headline-formulas-that-get-clicks">Headline Formulas That Get Clicks</h2>
+<p>Your headline is the most important line in your listing. It shows up in search results and determines whether renters click on your listing or skip it.</p>
+<p><strong>The best headlines follow a simple formula:</strong></p>
+<p><strong>[Adjective] + [Bedrooms/Type] + [Best Feature] + [Location]</strong></p>
+<p>Here are examples:</p>
+<ul>
+<li>"Bright 2BR with Updated Kitchen Near Downtown"</li>
+<li>"Spacious 3-Bed Townhome with Fenced Yard in Oak Park"</li>
+<li>"Modern Studio with In-Unit Laundry Steps from Metro"</li>
+<li>"Charming 1BR with Hardwood Floors in Historic District"</li>
+<li>"Pet-Friendly 2BR with Garage and Private Patio"</li>
+</ul>
+<p><strong>Headline tips:</strong></p>
+<ul>
+<li>Lead with the most appealing feature</li>
+<li>Include the number of bedrooms</li>
+<li>Mention the neighborhood or landmark</li>
+<li>Keep it under 80 characters for full display on most platforms</li>
+<li>Use descriptive adjectives like "updated," "spacious," "bright," or "move-in ready"</li>
+</ul>
+<p><strong>Words that attract clicks:</strong></p>
+<ul>
+<li>Updated, renovated, remodeled</li>
+<li>Spacious, open, bright, sunny</li>
+<li>Move-in ready, available now</li>
+<li>Pet-friendly, washer/dryer included</li>
+<li>Near [popular landmark or area]</li>
+</ul>
+<p><strong>Words to avoid:</strong></p>
+<ul>
+<li>"Cozy" (renters read this as "small")</li>
+<li>"Unique" (vague and meaningless)</li>
+<li>"Must see" (every listing says this)</li>
+<li>"TLC needed" (signals problems)</li>
+<li>ALL CAPS or excessive exclamation marks!!!</li>
+</ul>
+<h2 id="how-to-highlight-features-effectively">How to Highlight Features Effectively</h2>
+<p>Most landlords list features like a grocery list. That is better than nothing, but it does not sell. The best descriptions turn features into benefits.</p>
+<p><strong>Feature vs. benefit:</strong></p>
+<ul>
+<li>Feature: "Granite countertops" --> Benefit: "Cook in style on beautiful granite countertops"</li>
+<li>Feature: "In-unit washer/dryer" --> Benefit: "Skip the laundromat with your own in-unit washer and dryer"</li>
+<li>Feature: "Walk-in closet" --> Benefit: "A generous walk-in closet gives you room for all your clothes and shoes"</li>
+<li>Feature: "Central air" --> Benefit: "Stay cool all summer with central air conditioning"</li>
+</ul>
+<p>You do not need to do this for every feature. Pick your top three to five features and give them the benefit treatment. List the rest in a clean bulleted format.</p>
+<p><strong>Organize features by category for easy scanning:</strong></p>
+<p><strong>Interior:</strong></p>
+<ul>
+<li>Hardwood floors throughout</li>
+<li>Stainless steel appliances</li>
+<li>Quartz countertops</li>
+<li>In-unit washer and dryer</li>
+</ul>
+<p><strong>Building Amenities:</strong></p>
+<ul>
+<li>Fitness center</li>
+<li>Rooftop deck</li>
+<li>Package lockers</li>
+<li>Bike storage</li>
+</ul>
+<p><strong>Parking and Access:</strong></p>
+<ul>
+<li>One reserved parking spot included</li>
+<li>EV charging station available</li>
+<li>Elevator building with key fob entry</li>
+</ul>
+<h2 id="selling-the-neighborhood">Selling the Neighborhood</h2>
+<p>Many renters choose a neighborhood before they choose a property. Your description should sell the location as much as the unit itself.</p>
+<p><strong>What to include about the neighborhood:</strong></p>
+<ul>
+<li><strong>Distance to popular spots:</strong> "Just a five-minute walk to Main Street shops and restaurants"</li>
+<li><strong>Transit access:</strong> "Two blocks from the Blue Line stop for an easy commute downtown"</li>
+<li><strong>Schools:</strong> "In the Lincoln Elementary school district, rated 8 out of 10"</li>
+<li><strong>Parks and recreation:</strong> "Back yard leads directly to the Riverwalk trail"</li>
+<li><strong>Safety:</strong> "Quiet, tree-lined street in a well-maintained neighborhood"</li>
+<li><strong>Walkability:</strong> "Walk score of 85 with groceries, pharmacy, and coffee within three blocks"</li>
+</ul>
+<p>Do not just list distances. Paint a picture of what daily life looks like. "Grab your morning coffee at Blue Door Cafe around the corner, then hop on the express bus that stops right at your door."</p>
+<h2 id="describing-amenities-that-matter-most">Describing Amenities That Matter Most</h2>
+<p>Not all amenities carry the same weight. Research shows that renters care most about these features, in order:</p>
+<ol>
+<li><strong>In-unit laundry</strong> (the number one most searched feature)</li>
+<li><strong>Air conditioning</strong></li>
+<li><strong>Parking</strong> (especially in urban areas)</li>
+<li><strong>Pet-friendliness</strong></li>
+<li><strong>Dishwasher</strong></li>
+<li><strong>Storage space</strong></li>
+<li><strong>Outdoor space</strong> (balcony, patio, yard)</li>
+<li><strong>Updated kitchen and bathrooms</strong></li>
+</ol>
+<p>If your property has any of these, mention them prominently. If your property lacks popular features, do not draw attention to it. Focus on what you do have.</p>
+<p><strong>Pet policy details that renters want:</strong></p>
+<ul>
+<li>Which pets are allowed (dogs, cats, both, size limits)</li>
+<li>Pet deposit or monthly pet rent amount</li>
+<li>Breed restrictions, if any</li>
+<li>Nearby dog parks or pet-friendly areas</li>
+</ul>
+<h2 id="fair-housing-language-what-you-can-and-cannot-say">Fair Housing Language: What You Can and Cannot Say</h2>
+<p>Fair housing laws protect renters from discrimination. Your listing description must follow these rules, or you risk legal trouble.</p>
+<p><strong>You CANNOT reference or suggest preferences about:</strong></p>
+<ul>
+<li>Race, color, or national origin</li>
+<li>Religion</li>
+<li>Sex or gender</li>
+<li>Familial status (children, pregnant women)</li>
+<li>Disability</li>
+<li>Age (in some states)</li>
+<li>Sexual orientation (in many states and cities)</li>
+</ul>
+<p><strong>Examples of violations:</strong></p>
+<ul>
+<li>"Perfect for young professionals" (age and familial status)</li>
+<li>"Great for singles or couples" (familial status)</li>
+<li>"Close to [specific church or temple]" (religion)</li>
+<li>"No children" (familial status)</li>
+<li>"Walk-up, no elevator" without mentioning accessibility options (disability)</li>
+</ul>
+<p><strong>What to do instead:</strong></p>
+<ul>
+<li>Describe the property, not the ideal tenant</li>
+<li>"One-bedroom apartment" instead of "perfect for singles"</li>
+<li>"Near shops and restaurants" instead of "near nightlife" (which implies a preference for younger renters)</li>
+<li>Mention objective features like square footage, bedrooms, and floor level</li>
+</ul>
+<p>For a complete overview of compliance requirements, see our guide on <a href="/blog/fair-housing-compliance-rental">fair housing compliance for rentals</a>.</p>
+<h2 id="crafting-a-strong-call-to-action">Crafting a Strong Call to Action</h2>
+<p>Every listing description should end with a clear call to action. Tell renters exactly what to do next.</p>
+<p><strong>Effective calls to action:</strong></p>
+<ul>
+<li>"Schedule a showing today by calling 555-123-4567 or clicking the Schedule Tour button above."</li>
+<li>"Apply online at [link]. Showings available seven days a week."</li>
+<li>"Text TOUR to 55555 for immediate showing availability."</li>
+<li>"Attend our open house this Saturday from 11 AM to 2 PM. No appointment needed."</li>
+</ul>
+<p><strong>Make the next step easy:</strong></p>
+<ul>
+<li>Provide multiple contact methods (phone, email, text, online form)</li>
+<li>State your showing availability (weekdays, evenings, weekends)</li>
+<li>Mention if same-day showings are available</li>
+<li>Include the application link directly in the listing</li>
+</ul>
+<h2 id="seo-for-rental-listings">SEO for Rental Listings</h2>
+<p>Search engine optimization applies to rental listings too. Many renters search Google directly rather than going to a listing site first. If your listing is optimized, it can show up in Google search results.</p>
+<p><strong>SEO tips for rental listings:</strong></p>
+<ul>
+<li>Include the neighborhood, city, and state in your headline and description</li>
+<li>Use natural language that renters would search for, like "2 bedroom apartment in [city name]"</li>
+<li>Mention nearby landmarks, streets, and points of interest</li>
+<li>Use specific terms like "hardwood floors" and "stainless steel appliances" rather than vague words like "nice" and "updated"</li>
+<li>Fill out every available field on the listing platform (square footage, amenities checkboxes, pet policy)</li>
+</ul>
+<p>Search-optimized listings get found by renters who might not otherwise see your property. According to the <a href="https://www.nar.realtor" rel="noopener" target="_blank">National Association of Realtors</a>, the majority of renters begin their search online, making SEO a critical part of your listing strategy. Platforms like <a href="https://www.apartments.com" rel="noopener" target="_blank">Apartments.com</a> also provide data on the most searched terms and features that can inform your keyword choices.</p>
+<h2 id="common-listing-description-mistakes">Common Listing Description Mistakes</h2>
+<p>Avoid these errors that make your listing less effective:</p>
+<h3 id="1-being-too-vague">1. Being Too Vague</h3>
+<p><strong>Bad:</strong> "Nice apartment in a great location."
+<strong>Good:</strong> "Bright, updated 2-bedroom apartment with hardwood floors and a private balcony in the heart of Wicker Park."</p>
+<h3 id="2-writing-a-novel">2. Writing a Novel</h3>
+<p>Keep your description between 150 and 300 words. Renters skim listings. If your description is 800 words, nobody will read it all.</p>
+<h3 id="3-hiding-important-details">3. Hiding Important Details</h3>
+<p>Do not bury the rent, pet policy, or available date. Put essential information near the top where renters can find it immediately.</p>
+<h3 id="4-using-all-caps-or-excessive-punctuation">4. Using All Caps or Excessive Punctuation</h3>
+<p>"AMAZING APARTMENT!!! MUST SEE!!!" reads as desperate and unprofessional. Use normal capitalization and punctuation.</p>
+<h3 id="5-forgetting-to-proofread">5. Forgetting to Proofread</h3>
+<p>Spelling and grammar errors make you look careless. If you cannot bother to spell-check your listing, renters wonder what else you neglect.</p>
+<h3 id="6-copy-pasting-the-same-description">6. Copy-Pasting the Same Description</h3>
+<p>If you manage multiple units, customize each description. Renters can tell when a description is generic, and it signals that you do not care about the property.</p>
+<h2 id="template-examples">Template Examples</h2>
+<p>Here are three templates you can customize for your own listings.</p>
+<h3 id="template-1-single-family-home">Template 1: Single-Family Home</h3>
+<blockquote>
+<p><strong>Move-In Ready 3BR Home with Fenced Yard in [Neighborhood]</strong></p>
+<p>Welcome to this charming three-bedroom, two-bathroom home in the heart of [Neighborhood]. Enjoy an open floor plan with hardwood floors, a bright living room with large windows, and an updated kitchen with granite countertops and stainless steel appliances.</p>
+<p>The primary suite features a walk-in closet and private bathroom. Two additional bedrooms share a full hall bathroom. In-unit laundry keeps things convenient.</p>
+<p>Step outside to a spacious fenced backyard, perfect for pets, gardening, or weekend barbecues. The attached two-car garage offers plenty of storage.</p>
+<p>Located just minutes from [landmark], [school district], and [transit option]. Walk to [nearby shops or restaurants] for dining and shopping.</p>
+<p><strong>Details:</strong></p>
+<ul>
+<li>Rent: $X,XXX/month</li>
+<li>Deposit: $X,XXX</li>
+<li>Available: [Date]</li>
+<li>Lease: 12 months</li>
+<li>Pets: Dogs and cats welcome (deposit required)</li>
+<li>Parking: 2-car garage</li>
+</ul>
+<p>Schedule a showing today. Call [phone] or apply online at [link].</p>
+</blockquote>
+<h3 id="template-2-urban-apartment">Template 2: Urban Apartment</h3>
+<blockquote>
+<p><strong>Bright 1BR with Skyline Views Steps from [Transit]</strong></p>
+<p>This stunning one-bedroom apartment puts you in the center of [Neighborhood]. Floor-to-ceiling windows flood the space with natural light and offer gorgeous skyline views.</p>
+<p>The modern kitchen features quartz countertops, a dishwasher, and a breakfast bar. The spacious bedroom fits a king-size bed with room to spare, and the walk-in closet has built-in organizers.</p>
+<p>Building amenities include a rooftop deck, fitness center, package lockers, and a resident lounge. In-unit washer and dryer included.</p>
+<p>Walk to dozens of restaurants, cafes, and shops on [Street Name]. The [Transit Line] stop is one block away for a quick commute anywhere in the city.</p>
+<p><strong>Details:</strong></p>
+<ul>
+<li>Rent: $X,XXX/month</li>
+<li>Deposit: $X,XXX</li>
+<li>Available: [Date]</li>
+<li>Lease: 12 months</li>
+<li>Pets: Cats welcome</li>
+<li>Parking: Available for additional $XXX/month</li>
+</ul>
+<p>Tour this apartment today. Book a showing at [link] or call [phone].</p>
+</blockquote>
+<h3 id="template-3-multi-family-unit">Template 3: Multi-Family Unit</h3>
+<blockquote>
+<p><strong>Updated 2BR in Quiet Fourplex Near [Landmark]</strong></p>
+<p>Freshly renovated two-bedroom, one-bathroom apartment on the second floor of a well-maintained fourplex. New paint, new flooring, and a fully remodeled kitchen with all new appliances.</p>
+<p>Both bedrooms are generously sized with large closets. The updated bathroom features new tile and fixtures. Shared laundry on-site. One dedicated parking spot included.</p>
+<p>Located on a quiet residential street just two blocks from [Park] and five minutes from [Highway]. Grocery, pharmacy, and restaurants are all within walking distance.</p>
+<p><strong>Details:</strong></p>
+<ul>
+<li>Rent: $X,XXX/month</li>
+<li>Deposit: $X,XXX</li>
+<li>Available: [Date]</li>
+<li>Lease: 12 months</li>
+<li>Pets: No pets</li>
+<li>Utilities: Water and trash included</li>
+</ul>
+<p>Apply today at [link]. Showings available daily including evenings and weekends. Call [phone] to schedule.</p>
+</blockquote>
+<h2 id="character-limits-by-platform">Character Limits by Platform</h2>
+<p>Different listing sites have different character limits. Keep these in mind when writing your descriptions:</p>
+<table>
+<thead>
+<tr>
+<th>Platform</th>
+<th>Headline Limit</th>
+<th>Description Limit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Zillow</td>
+<td>100 characters</td>
+<td>5,000 characters</td>
+</tr>
+<tr>
+<td>Apartments.com</td>
+<td>100 characters</td>
+<td>10,000 characters</td>
+</tr>
+<tr>
+<td>Facebook Marketplace</td>
+<td>100 characters</td>
+<td>1,000 characters</td>
+</tr>
+<tr>
+<td>Craigslist</td>
+<td>70 characters</td>
+<td>No hard limit</td>
+</tr>
+<tr>
+<td>Zumper</td>
+<td>80 characters</td>
+<td>5,000 characters</td>
+</tr>
+<tr>
+<td>Realtor.com</td>
+<td>95 characters</td>
+<td>5,000 characters</td>
+</tr>
+</tbody>
+</table>
+<p>Write your full description first, then create shorter versions for platforms with tighter limits. Always keep the most important information at the top.</p>
+<p>For help choosing which platforms to post on, see our guide to the <a href="/blog/best-rental-listing-sites">best rental listing sites</a>.</p>
+<h2 id="a-step-by-step-writing-process">A Step-by-Step Writing Process</h2>
+<p>Follow this process to write a great listing description in 15 minutes or less:</p>
+<ol>
+<li><strong>List your top five features.</strong> What makes this property stand out?</li>
+<li><strong>Write the headline.</strong> Use the formula: adjective + bedrooms + best feature + location.</li>
+<li><strong>Write the opening line.</strong> Hook the reader with the best thing about the property.</li>
+<li><strong>Describe the interior.</strong> Walk through the property room by room in two to three sentences.</li>
+<li><strong>Sell the neighborhood.</strong> One to two sentences about location and lifestyle.</li>
+<li><strong>List the details.</strong> Rent, deposit, availability, lease term, pet policy, parking, utilities.</li>
+<li><strong>Add a call to action.</strong> Tell them how to schedule a showing or apply.</li>
+<li><strong>Proofread.</strong> Check for typos, missing info, and fair housing compliance.</li>
+</ol>
+<h2 id="putting-it-all-together">Putting It All Together</h2>
+<p>Writing great rental listing descriptions is a learnable skill. Start with a proven headline formula, highlight your best features as benefits, sell the neighborhood, include every important detail, and end with a clear call to action.</p>
+<p>A well-written description does more than fill a vacancy. It attracts the right type of tenant, one who values the property, pays fair rent, and plans to stay. That is the kind of tenant every landlord wants. Pair your polished descriptions with <a href="/blog/rental-property-staging-tips">rental property staging</a> to make your units look as good in person as they read on screen.</p>
+<p>Take 15 minutes to rewrite your current listing using the tips and templates in this guide. The improvement in inquiries and applicant quality will be worth every minute you invest.</p>
+24:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2a"}}]
+25:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","marketing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"marketing"}],["$","span","vacancy reduction",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacancy reduction"}],["$","span","rental listings",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental listings"}],["$","span","writing rental listing descriptions",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"writing rental listing descriptions"}]]}]
+26:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Marketing & Leasing"]}],["$","$L10",null,{"href":"/blog/category/marketing-and-leasing","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","lease-up-strategy-new-rental-properties",{"children":["$","$L10",null,{"href":"/blog/lease-up-strategy-new-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Lease-Up Strategy for New Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","market-luxury-rental-properties-affluent",{"children":["$","$L10",null,{"href":"/blog/market-luxury-rental-properties-affluent","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Market Luxury Rental Properties to High-Net-Worth Tenants"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","rental-property-showing-schedule-efficiency",{"children":["$","$L10",null,{"href":"/blog/rental-property-showing-schedule-efficiency","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Set Up a Rental Property Showing Schedule That Maximizes Efficiency"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","run-rental-property-showing-converts",{"children":["$","$L10",null,{"href":"/blog/run-rental-property-showing-converts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Run a Rental Property Showing That Converts"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+27:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","best-rental-listing-sites",{"href":"/blog/best-rental-listing-sites","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Best Rental Listing Sites to Advertise Your Property in 2026"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","reduce-days-on-market-rental",{"href":"/blog/reduce-days-on-market-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Reduce Days on Market for Your Rental Property"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","rental-property-branding",{"href":"/blog/rental-property-branding","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Rental Property Branding: How to Build a Brand That Attracts and Retains Tenants"}],["$","p",null,{"className":"text-sm text-gray-500","children":[12," min read"]}]]}]]}]]}]
+28:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-your-listing-description-matters",{"className":"","children":["$","a",null,{"href":"#why-your-listing-description-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Your Listing Description Matters"}]}],["$","li","headline-formulas-that-get-clicks",{"className":"","children":["$","a",null,{"href":"#headline-formulas-that-get-clicks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Headline Formulas That Get Clicks"}]}],["$","li","how-to-highlight-features-effectively",{"className":"","children":["$","a",null,{"href":"#how-to-highlight-features-effectively","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Highlight Features Effectively"}]}],["$","li","selling-the-neighborhood",{"className":"","children":["$","a",null,{"href":"#selling-the-neighborhood","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Selling the Neighborhood"}]}],["$","li","describing-amenities-that-matter-most",{"className":"","children":["$","a",null,{"href":"#describing-amenities-that-matter-most","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Describing Amenities That Matter Most"}]}],["$","li","fair-housing-language-what-you-can-and-cannot-say",{"className":"","children":["$","a",null,{"href":"#fair-housing-language-what-you-can-and-cannot-say","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fair Housing Language: What You Can and Cannot Say"}]}],["$","li","crafting-a-strong-call-to-action",{"className":"","children":["$","a",null,{"href":"#crafting-a-strong-call-to-action","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Crafting a Strong Call to Action"}]}],["$","li","seo-for-rental-listings",{"className":"","children":["$","a",null,{"href":"#seo-for-rental-listings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"SEO for Rental Listings"}]}],["$","li","common-listing-description-mistakes",{"className":"","children":["$","a",null,{"href":"#common-listing-description-mistakes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Listing Description Mistakes"}]}],["$","li","1-being-too-vague",{"className":"ml-4","children":["$","a",null,{"href":"#1-being-too-vague","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Being Too Vague"}]}],["$","li","2-writing-a-novel",{"className":"ml-4","children":["$","a",null,{"href":"#2-writing-a-novel","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Writing a Novel"}]}],["$","li","3-hiding-important-details",{"className":"ml-4","children":["$","a",null,{"href":"#3-hiding-important-details","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Hiding Important Details"}]}],["$","li","4-using-all-caps-or-excessive-punctuation",{"className":"ml-4","children":["$","a",null,{"href":"#4-using-all-caps-or-excessive-punctuation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Using All Caps or Excessive Punctuation"}]}],["$","li","5-forgetting-to-proofread",{"className":"ml-4","children":["$","a",null,{"href":"#5-forgetting-to-proofread","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Forgetting to Proofread"}]}],["$","li","6-copy-pasting-the-same-description",{"className":"ml-4","children":"$L2b"}],"$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32"]}]]}]}]
+29:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2b:["$","a",null,{"href":"#6-copy-pasting-the-same-description","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Copy-Pasting the Same Description"}]
+2c:["$","li","template-examples",{"className":"","children":["$","a",null,{"href":"#template-examples","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Template Examples"}]}]
+2d:["$","li","template-1-single-family-home",{"className":"ml-4","children":["$","a",null,{"href":"#template-1-single-family-home","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Template 1: Single-Family Home"}]}]
+2e:["$","li","template-2-urban-apartment",{"className":"ml-4","children":["$","a",null,{"href":"#template-2-urban-apartment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Template 2: Urban Apartment"}]}]
+2f:["$","li","template-3-multi-family-unit",{"className":"ml-4","children":["$","a",null,{"href":"#template-3-multi-family-unit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Template 3: Multi-Family Unit"}]}]
+30:["$","li","character-limits-by-platform",{"className":"","children":["$","a",null,{"href":"#character-limits-by-platform","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Character Limits by Platform"}]}]
+31:["$","li","a-step-by-step-writing-process",{"className":"","children":["$","a",null,{"href":"#a-step-by-step-writing-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"A Step-by-Step Writing Process"}]}]
+32:["$","li","putting-it-all-together",{"className":"","children":["$","a",null,{"href":"#putting-it-all-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Putting It All Together"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Writing Rental Listing Descriptions That Attract Quality Tenants | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn how to write rental listing descriptions that get clicks, attract quality tenants, and fill vacancies fast. Includes headline formulas, templates, and fair housing tips."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"marketing,vacancy reduction,rental listings,writing rental listing descriptions"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/writing-rental-listing-descriptions"}],["$","meta","6",{"property":"og:title","content":"Writing Rental Listing Descriptions That Attract Quality Tenants"}],["$","meta","7",{"property":"og:description","content":"Learn how to write rental listing descriptions that get clicks, attract quality tenants, and fill vacancies fast. Includes headline formulas, templates, and fair housing tips."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/writing-rental-listing-descriptions"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Writing Rental Listing Descriptions That Attract Quality Tenants"}],["$","meta","15",{"name":"twitter:description","content":"Learn how to write rental listing descriptions that get clicks, attract quality tenants, and fill vacancies fast. Includes headline formulas, templates, and fair housing tips."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

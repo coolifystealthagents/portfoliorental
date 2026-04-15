@@ -1,0 +1,196 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","premises-liability-landlord"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","premises-liability-landlord","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","premises-liability-landlord","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Premises Liability for Landlords: Reducing Risk\",\"description\":\"Understand premises liability for landlords, including common claims, duty of care standards, high-risk areas, and practical strategies to reduce your exposure to tenant and visitor injury lawsuits.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/premises-liability-landlord\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Legal & Compliance\",\"item\":\"https://portfoliorental.com/blog/category/legal-and-compliance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Premises Liability for Landlords: Reducing Risk\",\"item\":\"https://portfoliorental.com/blog/premises-liability-landlord\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"hover:text-blue-600","children":"Legal & Compliance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Legal & Compliance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Premises Liability for Landlords: Reducing Risk"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[5," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-premises-liability",{"className":"","children":["$","a",null,{"href":"#what-is-premises-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Premises Liability?"}]}],["$","li","the-duty-of-care",{"className":"ml-4","children":["$","a",null,{"href":"#the-duty-of-care","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Duty of Care"}]}],["$","li","most-common-premises-liability-claims",{"className":"","children":["$","a",null,{"href":"#most-common-premises-liability-claims","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Most Common Premises Liability Claims"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]}]]}],"$L23","$L24"]}],"$L25","$L26"]}],"$L27"]}]]}],"$L28"]
+11:["$","li","slip-trip-and-fall",{"className":"ml-4","children":["$","a",null,{"href":"#slip-trip-and-fall","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Slip, Trip, and Fall"}]}]
+12:["$","li","inadequate-security",{"className":"ml-4","children":["$","a",null,{"href":"#inadequate-security","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Inadequate Security"}]}]
+13:["$","li","structural-defects",{"className":"ml-4","children":["$","a",null,{"href":"#structural-defects","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Structural Defects"}]}]
+14:["$","li","environmental-hazards",{"className":"ml-4","children":["$","a",null,{"href":"#environmental-hazards","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Environmental Hazards"}]}]
+15:["$","li","defective-conditions-in-common-areas",{"className":"ml-4","children":["$","a",null,{"href":"#defective-conditions-in-common-areas","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Defective Conditions in Common Areas"}]}]
+16:["$","li","high-risk-areas-on-rental-properties",{"className":"","children":["$","a",null,{"href":"#high-risk-areas-on-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"High-Risk Areas on Rental Properties"}]}]
+17:["$","li","stairways-and-walkways",{"className":"ml-4","children":["$","a",null,{"href":"#stairways-and-walkways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Stairways and Walkways"}]}]
+18:["$","li","parking-lots",{"className":"ml-4","children":["$","a",null,{"href":"#parking-lots","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Parking Lots"}]}]
+19:["$","li","common-area-entries",{"className":"ml-4","children":["$","a",null,{"href":"#common-area-entries","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Area Entries"}]}]
+1a:["$","li","outdoor-amenities",{"className":"ml-4","children":["$","a",null,{"href":"#outdoor-amenities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Outdoor Amenities"}]}]
+1b:["$","li","reducing-your-liability-exposure",{"className":"","children":["$","a",null,{"href":"#reducing-your-liability-exposure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reducing Your Liability Exposure"}]}]
+1c:["$","li","proactive-maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#proactive-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Proactive Maintenance"}]}]
+1d:["$","li","regular-inspections",{"className":"ml-4","children":["$","a",null,{"href":"#regular-inspections","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Regular Inspections"}]}]
+1e:["$","li","prompt-hazard-response",{"className":"ml-4","children":["$","a",null,{"href":"#prompt-hazard-response","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Prompt Hazard Response"}]}]
+1f:["$","li","insurance-protection",{"className":"ml-4","children":["$","a",null,{"href":"#insurance-protection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance Protection"}]}]
+20:["$","li","documentation",{"className":"ml-4","children":["$","a",null,{"href":"#documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documentation"}]}]
+21:["$","li","when-you-are-sued",{"className":"","children":["$","a",null,{"href":"#when-you-are-sued","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When You Are Sued"}]}]
+22:["$","li","key-takeaways",{"className":"","children":["$","a",null,{"href":"#key-takeaways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Takeaways"}]}]
+29:T21c3,<p>Premises liability holds property owners responsible for injuries that occur on their property due to unsafe conditions. For landlords, this means you can be sued when a tenant, guest, or visitor is injured because of a hazard you knew about or should have known about. Premises liability claims are among the most common and costly lawsuits landlords face.</p>
+<p>This guide explains your duty of care, the most common claims, and practical strategies to reduce your exposure.</p>
+<h2 id="what-is-premises-liability">What Is Premises Liability?</h2>
+<p>Premises liability is a legal theory under <a href="https://www.law.cornell.edu/wex/landlord-tenant_law">landlord-tenant law</a> that holds property owners and managers responsible for injuries caused by dangerous conditions on their property. To win a premises liability claim against a landlord, the injured party typically must prove:</p>
+<ol>
+<li><strong>You owned or controlled the property</strong> where the injury occurred</li>
+<li><strong>A dangerous condition existed</strong> on the property</li>
+<li><strong>You knew or should have known</strong> about the dangerous condition</li>
+<li><strong>You failed to fix the condition</strong> or warn about it within a reasonable time</li>
+<li><strong>The condition caused the injury</strong></li>
+</ol>
+<h3 id="the-duty-of-care">The Duty of Care</h3>
+<p>Your duty of care depends on who is on the property:</p>
+<ul>
+<li><strong>Tenants (invitees)</strong> — You owe the highest duty of care. You must regularly inspect, maintain, and repair the property to keep it reasonably safe.</li>
+<li><strong>Tenant guests (invitees)</strong> — Same high duty of care as tenants</li>
+<li><strong>Trespassers</strong> — Lowest duty of care, but you still cannot create intentional hazards (except limited "attractive nuisance" obligations toward children in some states)</li>
+</ul>
+<h2 id="most-common-premises-liability-claims">Most Common Premises Liability Claims</h2>
+<h3 id="slip-trip-and-fall">Slip, Trip, and Fall</h3>
+<p>The most frequent claim type. Common causes include:</p>
+<ul>
+<li>Ice and snow on walkways and stairs</li>
+<li>Wet floors in lobbies and laundry rooms</li>
+<li>Uneven sidewalks, parking lots, or steps</li>
+<li>Poor lighting in hallways, stairwells, and parking areas</li>
+<li>Loose handrails or missing stair treads</li>
+<li>Torn carpet or uneven flooring</li>
+<li>Debris in common areas</li>
+</ul>
+<h3 id="inadequate-security">Inadequate Security</h3>
+<p>Claims that the landlord failed to provide reasonable security, leading to criminal activity:</p>
+<ul>
+<li>Broken locks on exterior doors or gates</li>
+<li>Non-functioning security cameras or lighting</li>
+<li>Failure to address known criminal activity</li>
+<li>Broken or missing locks on individual units</li>
+<li>Unrestricted access to common areas</li>
+</ul>
+<h3 id="structural-defects">Structural Defects</h3>
+<p>Claims arising from building defects:</p>
+<ul>
+<li>Collapsing decks, balconies, or stairways</li>
+<li>Falling ceiling tiles or fixtures</li>
+<li>Broken windows or doors</li>
+<li>Defective elevators</li>
+<li>Collapsing retaining walls</li>
+</ul>
+<h3 id="environmental-hazards">Environmental Hazards</h3>
+<ul>
+<li><a href="https://www.epa.gov/lead">Lead paint exposure</a> (especially dangerous for children)</li>
+<li>Mold from unaddressed water intrusion</li>
+<li>Carbon monoxide from faulty heating systems</li>
+<li>Asbestos exposure during renovations</li>
+<li>Pest infestations causing health issues</li>
+</ul>
+<h3 id="defective-conditions-in-common-areas">Defective Conditions in Common Areas</h3>
+<ul>
+<li>Playground equipment failures</li>
+<li>Swimming pool hazards (missing fences, broken drains)</li>
+<li>Laundry room equipment malfunctions</li>
+<li>Fitness room equipment failures</li>
+<li>Mailroom or entry area hazards</li>
+</ul>
+<h2 id="high-risk-areas-on-rental-properties">High-Risk Areas on Rental Properties</h2>
+<p>Focus your maintenance and inspection efforts on these areas:</p>
+<h3 id="stairways-and-walkways">Stairways and Walkways</h3>
+<ul>
+<li>Inspect weekly during winter for ice</li>
+<li>Repair uneven surfaces promptly</li>
+<li>Ensure handrails are secure and code-compliant</li>
+<li>Maintain adequate lighting</li>
+</ul>
+<h3 id="parking-lots">Parking Lots</h3>
+<ul>
+<li>Fill potholes and repair cracked pavement</li>
+<li>Maintain lighting to prevent dark areas</li>
+<li>Mark speed bumps and curbs clearly</li>
+<li>Remove snow and ice promptly</li>
+</ul>
+<h3 id="common-area-entries">Common Area Entries</h3>
+<ul>
+<li>Ensure doors close and lock properly</li>
+<li>Keep floors clean and dry</li>
+<li>Maintain working lighting</li>
+<li>Remove tripping hazards</li>
+</ul>
+<h3 id="outdoor-amenities">Outdoor Amenities</h3>
+<ul>
+<li>Fence swimming pools to code</li>
+<li>Inspect playground equipment regularly</li>
+<li>Maintain BBQ and patio areas</li>
+<li>Trim trees and address dead branches</li>
+</ul>
+<h2 id="reducing-your-liability-exposure">Reducing Your Liability Exposure</h2>
+<h3 id="proactive-maintenance">Proactive Maintenance</h3>
+<p>The single most effective strategy. Most premises liability claims arise from conditions that existed for long enough that you should have discovered and fixed them.</p>
+<ul>
+<li>Follow a rigorous <a href="/blog/preventive-maintenance-schedule-rental">preventive maintenance schedule</a></li>
+<li>Inspect common areas weekly</li>
+<li>Address reported hazards within 24 hours</li>
+<li>Document all inspections and repairs</li>
+</ul>
+<h3 id="regular-inspections">Regular Inspections</h3>
+<p>Create a documented inspection program:</p>
+<ul>
+<li>Weekly common area walkthroughs</li>
+<li>Monthly safety system checks (lighting, locks, fire equipment)</li>
+<li>Seasonal hazard inspections (ice, drainage, HVAC)</li>
+<li>Annual comprehensive property inspections</li>
+</ul>
+<p>See our <a href="/blog/property-inspection-requirements">property inspection requirements guide</a> for detailed checklists.</p>
+<h3 id="prompt-hazard-response">Prompt Hazard Response</h3>
+<p>When you become aware of a hazard:</p>
+<ol>
+<li>Address it immediately if possible (remove the debris, salt the ice)</li>
+<li>If immediate repair is not possible, warn people (post signs, block access)</li>
+<li>Schedule the repair as quickly as possible</li>
+<li>Document the hazard, the warning measures, and the repair</li>
+</ol>
+<h3 id="insurance-protection">Insurance Protection</h3>
+<ul>
+<li>Maintain adequate <a href="/blog/landlord-insurance-requirements">landlord insurance</a> with at least $500,000 liability coverage</li>
+<li>Carry <a href="/blog/umbrella-insurance-landlord">umbrella insurance</a> for catastrophic claims</li>
+<li>Require <a href="/blog/renters-insurance-requirement">renters insurance</a> from tenants</li>
+<li>Verify <a href="/blog/contractor-insurance-verification">contractor insurance</a> before any work begins</li>
+</ul>
+<h3 id="documentation">Documentation</h3>
+<p>Document everything related to property safety:</p>
+<ul>
+<li>Inspection dates and findings</li>
+<li>Maintenance requests and completion dates</li>
+<li>Hazard reports and response actions</li>
+<li>Safety improvements and upgrades</li>
+<li>Incident reports for any injuries on the property</li>
+</ul>
+<p>This documentation is your defense if a claim is filed. It demonstrates that you met your duty of care.</p>
+<h2 id="when-you-are-sued">When You Are Sued</h2>
+<p>If a premises liability claim is filed:</p>
+<ol>
+<li><strong>Notify your insurance company immediately</strong> — Most policies require prompt notification</li>
+<li><strong>Preserve all evidence</strong> — Do not destroy or alter anything related to the claim</li>
+<li><strong>Do not admit fault</strong> — Do not apologize or accept responsibility (your insurer handles this)</li>
+<li><strong>Cooperate with your insurer's investigation</strong> — Provide documentation and access</li>
+<li><strong>Consult with your attorney</strong> — Especially for claims exceeding your insurance limits</li>
+</ol>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<p>Premises liability is an inherent risk of owning rental property. You cannot eliminate it, but you can significantly reduce it through proactive maintenance, regular inspections, prompt hazard response, and thorough documentation. When combined with proper insurance coverage, these practices protect both your tenants and your financial assets.</p>
+<p>For the complete risk management framework, see our <a href="/blog/landlord-liability-protection">landlord liability protection guide</a> and <a href="/blog/landlord-insurance-requirements">landlord insurance requirements</a>.</p>
+23:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$29"}}]
+24:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","liability",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"liability"}],["$","span","risk management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"risk management"}],["$","span","landlord laws",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord laws"}],["$","span","property safety",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property safety"}],["$","span","insurance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"insurance"}]]}]
+25:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Legal & Compliance"]}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-legal-structures-and-asset-protection",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-legal-structures-and-asset-protection","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Legal Structures and Asset Protection"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ada-compliance-for-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ada-compliance-for-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ADA Compliance for Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-eviction-process",{"children":["$","$L10",null,{"href":"/blog/akron-eviction-process","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Eviction Process in Akron: Step-by-Step Guide"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-rent-increase",{"children":["$","$L10",null,{"href":"/blog/akron-rent-increase","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Issue a Rent Increase Notice in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+26:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","landlord-liability-waiver",{"href":"/blog/landlord-liability-waiver","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Can Landlords Use Liability Waivers?"}],["$","p",null,{"className":"text-sm text-gray-500","children":[5," min read"]}]]}],["$","$L10","landlord-liability-insurance-coverage-amount",{"href":"/blog/landlord-liability-insurance-coverage-amount","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Landlord Liability Insurance: How Much Coverage Do You Need?"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","landlord-liability-common-lawsuits-protection",{"href":"/blog/landlord-liability-common-lawsuits-protection","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Landlord Liability: Common Lawsuits and How to Protect Yourself"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+27:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-premises-liability",{"className":"","children":["$","a",null,{"href":"#what-is-premises-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Premises Liability?"}]}],["$","li","the-duty-of-care",{"className":"ml-4","children":["$","a",null,{"href":"#the-duty-of-care","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Duty of Care"}]}],["$","li","most-common-premises-liability-claims",{"className":"","children":["$","a",null,{"href":"#most-common-premises-liability-claims","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Most Common Premises Liability Claims"}]}],["$","li","slip-trip-and-fall",{"className":"ml-4","children":["$","a",null,{"href":"#slip-trip-and-fall","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Slip, Trip, and Fall"}]}],["$","li","inadequate-security",{"className":"ml-4","children":["$","a",null,{"href":"#inadequate-security","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Inadequate Security"}]}],["$","li","structural-defects",{"className":"ml-4","children":["$","a",null,{"href":"#structural-defects","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Structural Defects"}]}],["$","li","environmental-hazards",{"className":"ml-4","children":["$","a",null,{"href":"#environmental-hazards","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Environmental Hazards"}]}],["$","li","defective-conditions-in-common-areas",{"className":"ml-4","children":["$","a",null,{"href":"#defective-conditions-in-common-areas","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Defective Conditions in Common Areas"}]}],["$","li","high-risk-areas-on-rental-properties",{"className":"","children":["$","a",null,{"href":"#high-risk-areas-on-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"High-Risk Areas on Rental Properties"}]}],["$","li","stairways-and-walkways",{"className":"ml-4","children":["$","a",null,{"href":"#stairways-and-walkways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Stairways and Walkways"}]}],["$","li","parking-lots",{"className":"ml-4","children":["$","a",null,{"href":"#parking-lots","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Parking Lots"}]}],["$","li","common-area-entries",{"className":"ml-4","children":["$","a",null,{"href":"#common-area-entries","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Area Entries"}]}],["$","li","outdoor-amenities",{"className":"ml-4","children":["$","a",null,{"href":"#outdoor-amenities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Outdoor Amenities"}]}],["$","li","reducing-your-liability-exposure",{"className":"","children":["$","a",null,{"href":"#reducing-your-liability-exposure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reducing Your Liability Exposure"}]}],["$","li","proactive-maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#proactive-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Proactive Maintenance"}]}],["$","li","regular-inspections",{"className":"ml-4","children":["$","a",null,{"href":"#regular-inspections","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Regular Inspections"}]}],"$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}]}]
+28:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2a:["$","li","prompt-hazard-response",{"className":"ml-4","children":["$","a",null,{"href":"#prompt-hazard-response","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Prompt Hazard Response"}]}]
+2b:["$","li","insurance-protection",{"className":"ml-4","children":["$","a",null,{"href":"#insurance-protection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance Protection"}]}]
+2c:["$","li","documentation",{"className":"ml-4","children":["$","a",null,{"href":"#documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documentation"}]}]
+2d:["$","li","when-you-are-sued",{"className":"","children":["$","a",null,{"href":"#when-you-are-sued","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When You Are Sued"}]}]
+2e:["$","li","key-takeaways",{"className":"","children":["$","a",null,{"href":"#key-takeaways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Takeaways"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Premises Liability for Landlords: Reducing Risk | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Understand premises liability for landlords, including common claims, duty of care standards, high-risk areas, and practical strategies to reduce your exposure to tenant and visitor injury lawsuits."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"liability,risk management,landlord laws,property safety,insurance"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/premises-liability-landlord"}],["$","meta","6",{"property":"og:title","content":"Premises Liability for Landlords: Reducing Risk"}],["$","meta","7",{"property":"og:description","content":"Understand premises liability for landlords, including common claims, duty of care standards, high-risk areas, and practical strategies to reduce your exposure to tenant and visitor injury lawsuits."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/premises-liability-landlord"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Premises Liability for Landlords: Reducing Risk"}],["$","meta","15",{"name":"twitter:description","content":"Understand premises liability for landlords, including common claims, duty of care standards, high-risk areas, and practical strategies to reduce your exposure to tenant and visitor injury lawsuits."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

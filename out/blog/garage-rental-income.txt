@@ -1,0 +1,251 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","garage-rental-income"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","garage-rental-income","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","garage-rental-income","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Earning Extra Income From Garage Rentals\",\"description\":\"Discover how to earn extra garage rental income by renting out parking, storage, or workshop space. Learn pricing, legal considerations, and how to maximize this side revenue.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/garage-rental-income\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Pricing\",\"item\":\"https://portfoliorental.com/blog/category/pricing\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Earning Extra Income From Garage Rentals\",\"item\":\"https://portfoliorental.com/blog/garage-rental-income\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/pricing","className":"hover:text-blue-600","children":"Pricing"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Pricing"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Earning Extra Income From Garage Rentals"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-can-you-rent-a-garage-for",{"className":"","children":["$","a",null,{"href":"#what-can-you-rent-a-garage-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Can You Rent a Garage For?"}]}],["$","li","1-vehicle-parking",{"className":"ml-4","children":["$","a",null,{"href":"#1-vehicle-parking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Vehicle Parking"}]}],["$","li","2-storage-space",{"className":"ml-4","children":["$","a",null,{"href":"#2-storage-space","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Storage Space"}]}],["$","li","3-workshop-or-hobby-space",{"className":"ml-4","children":["$","a",null,{"href":"#3-workshop-or-hobby-space","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Workshop or Hobby Space"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"]}]}]]}],"$L28","$L29"]}],"$L2a","$L2b"]}],"$L2c"]}]]}],"$L2d"]
+11:["$","li","4-commercial-business-use",{"className":"ml-4","children":["$","a",null,{"href":"#4-commercial-business-use","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Commercial/Business Use"}]}]
+12:["$","li","garage-rental-income-pricing-guide-by-market",{"className":"","children":["$","a",null,{"href":"#garage-rental-income-pricing-guide-by-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Garage Rental Income: Pricing Guide by Market"}]}]
+13:["$","li","calculating-your-annual-garage-rental-income",{"className":"","children":["$","a",null,{"href":"#calculating-your-annual-garage-rental-income","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Calculating Your Annual Garage Rental Income"}]}]
+14:["$","li","legal-and-zoning-considerations",{"className":"","children":["$","a",null,{"href":"#legal-and-zoning-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Zoning Considerations"}]}]
+15:["$","li","zoning-laws",{"className":"ml-4","children":["$","a",null,{"href":"#zoning-laws","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Zoning Laws"}]}]
+16:["$","li","hoa-and-condo-rules",{"className":"ml-4","children":["$","a",null,{"href":"#hoa-and-condo-rules","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HOA and Condo Rules"}]}]
+17:["$","li","insurance",{"className":"ml-4","children":["$","a",null,{"href":"#insurance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance"}]}]
+18:["$","li","building-code",{"className":"ml-4","children":["$","a",null,{"href":"#building-code","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Code"}]}]
+19:["$","li","business-use-considerations",{"className":"ml-4","children":["$","a",null,{"href":"#business-use-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Business Use Considerations"}]}]
+1a:["$","li","how-to-rent-out-your-garage",{"className":"","children":["$","a",null,{"href":"#how-to-rent-out-your-garage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Rent Out Your Garage"}]}]
+1b:["$","li","step-1-determine-use-and-set-pricing",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-determine-use-and-set-pricing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Determine Use and Set Pricing"}]}]
+1c:["$","li","step-2-prepare-the-space",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-prepare-the-space","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Prepare the Space"}]}]
+1d:["$","li","step-3-market-the-space",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-market-the-space","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Market the Space"}]}]
+1e:["$","li","step-4-create-a-simple-lease-addendum",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-create-a-simple-lease-addendum","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Create a Simple Lease Addendum"}]}]
+1f:["$","li","step-5-screen-tenants-for-garage-use",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-screen-tenants-for-garage-use","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Screen Tenants for Garage Use"}]}]
+20:["$","li","maximizing-garage-rental-income",{"className":"","children":["$","a",null,{"href":"#maximizing-garage-rental-income","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maximizing Garage Rental Income"}]}]
+21:["$","li","upgrade-to-command-a-premium",{"className":"ml-4","children":["$","a",null,{"href":"#upgrade-to-command-a-premium","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Upgrade to Command a Premium"}]}]
+22:["$","li","offer-monthly-vs-daily-parking",{"className":"ml-4","children":["$","a",null,{"href":"#offer-monthly-vs-daily-parking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Offer Monthly vs. Daily Parking"}]}]
+23:["$","li","rent-to-multiple-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#rent-to-multiple-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rent to Multiple Tenants"}]}]
+24:["$","li","bundle-with-unit-rental-at-a-premium",{"className":"ml-4","children":["$","a",null,{"href":"#bundle-with-unit-rental-at-a-premium","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bundle With Unit Rental at a Premium"}]}]
+25:["$","li","garage-rental-income-vs-adu-conversion",{"className":"","children":["$","a",null,{"href":"#garage-rental-income-vs-adu-conversion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Garage Rental Income vs. ADU Conversion"}]}]
+26:["$","li","taxes-on-garage-rental-income",{"className":"","children":["$","a",null,{"href":"#taxes-on-garage-rental-income","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Taxes on Garage Rental Income"}]}]
+27:["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]
+2e:T3076,<p>An unused garage or parking space is one of the most overlooked income sources in real estate. Whether you have excess parking at a multifamily property, a detached garage you're not using, or even a driveway in a high-demand urban area, there's likely money sitting idle.</p>
+<p>Garage rental income can add hundreds to thousands of dollars annually to your rental property revenue with minimal ongoing management. Here's how to do it right.</p>
+<h2 id="what-can-you-rent-a-garage-for">What Can You Rent a Garage For?</h2>
+<p>The use case significantly affects both pricing and tenant dynamics:</p>
+<h3 id="1-vehicle-parking">1. Vehicle Parking</h3>
+<p>The most common garage rental use. Options include:</p>
+<ul>
+<li>Single car parking (enclosed garage)</li>
+<li>Open-air parking space or driveway spot</li>
+<li>RV/boat/motorcycle parking</li>
+<li>Overnight or monthly parking in urban areas</li>
+</ul>
+<h3 id="2-storage-space">2. Storage Space</h3>
+<p>Many tenants or local residents need extra storage beyond what their units provide:</p>
+<ul>
+<li>Furniture storage</li>
+<li>Seasonal items (holiday decorations, winter gear)</li>
+<li>Business inventory</li>
+<li>General overflow storage</li>
+</ul>
+<h3 id="3-workshop-or-hobby-space">3. Workshop or Hobby Space</h3>
+<p>Some tenants or locals will pay a premium for a clean, functional workspace:</p>
+<ul>
+<li>Woodworking or metalworking shop</li>
+<li>Auto repair space</li>
+<li>Artist studio</li>
+<li>Home gym setup</li>
+</ul>
+<h3 id="4-commercial-business-use">4. Commercial/Business Use</h3>
+<p>In commercial or mixed-use areas, garage space can be rented to small businesses:</p>
+<ul>
+<li>Small contractor/trades operations</li>
+<li>E-commerce fulfillment</li>
+<li>Equipment storage</li>
+</ul>
+<h2 id="garage-rental-income-pricing-guide-by-market">Garage Rental Income: Pricing Guide by Market</h2>
+<p><strong>Urban parking (cities with parking scarcity):</strong></p>
+<ul>
+<li>Covered, enclosed garage spot in NYC/SF/Chicago/Boston: $200–$600+/month</li>
+<li>Uncovered parking space in same markets: $100–$350/month</li>
+<li>Monthly parking near transit hub: $75–$250/month</li>
+</ul>
+<p><strong>Suburban parking:</strong></p>
+<ul>
+<li>Enclosed single-car garage: $80–$200/month</li>
+<li>Outdoor parking/driveway space: $40–$100/month</li>
+<li>RV/boat storage spot (if large enough): $75–$200/month depending on size</li>
+</ul>
+<p><strong>Storage use:</strong></p>
+<ul>
+<li>Standard one-car garage for storage: $75–$175/month</li>
+<li>Two-car garage for storage: $125–$300/month</li>
+<li>Climate-controlled storage garage: 20–30% premium over standard</li>
+</ul>
+<p><strong>Workshop/hobby space:</strong></p>
+<ul>
+<li>Basic garage workshop: $150–$400/month</li>
+<li>Premium workshop with 240V outlet, good lighting, insulation: $250–$600/month</li>
+</ul>
+<p>Compare your local rates by searching Craigslist, Facebook Marketplace, and SpotHero in your area.</p>
+<h2 id="calculating-your-annual-garage-rental-income">Calculating Your Annual Garage Rental Income</h2>
+<p><strong>Example 1: Urban parking, Chicago</strong></p>
+<ul>
+<li>Enclosed parking spot: $225/month</li>
+<li>Vacancy (parking spaces tend to have low vacancy once occupied): 5%</li>
+<li>Annual income: $225 × 12 × 0.95 = <strong>$2,565/year</strong></li>
+</ul>
+<p><strong>Example 2: Suburban two-car garage split into storage</strong></p>
+<ul>
+<li>Storage rental: $150/month</li>
+<li>Vacancy: 8%</li>
+<li>Annual income: $150 × 12 × 0.92 = <strong>$1,656/year</strong></li>
+</ul>
+<p><strong>Example 3: Workshop space</strong></p>
+<ul>
+<li>Monthly rent: $350/month</li>
+<li>Vacancy: 10%</li>
+<li>Annual income: $350 × 12 × 0.90 = <strong>$3,780/year</strong></li>
+</ul>
+<p>These amounts seem modest individually, but add them to your property's NOI and the impact on value at a 6.5% cap rate is significant:</p>
+<ul>
+<li>$2,565/year ÷ 0.065 = <strong>$39,461 in additional property value</strong></li>
+<li>$3,780/year ÷ 0.065 = <strong>$58,154 in additional property value</strong></li>
+</ul>
+<p>This is genuine value creation from space that was otherwise generating nothing. For more on this principle, see our guide on <a href="/blog/net-operating-income-rental">net operating income</a> and how ancillary income affects property value.</p>
+<h2 id="legal-and-zoning-considerations">Legal and Zoning Considerations</h2>
+<p>Before renting out garage space, check the following:</p>
+<h3 id="zoning-laws">Zoning Laws</h3>
+<p>Most residential zones allow parking rentals to tenants in the building. Renting to the general public (non-tenants) may require a different zoning classification or permit. Check <a href="https://www.census.gov/housing">Census housing data</a> for local market context. Commercial use (workshop, business storage) may also trigger zoning issues in residential zones.</p>
+<h3 id="hoa-and-condo-rules">HOA and Condo Rules</h3>
+<p>If your property is in an HOA, read the CC&#x26;Rs carefully. Many HOAs restrict rentals of common parking areas or garages to non-residents.</p>
+<h3 id="insurance">Insurance</h3>
+<p>Contact your insurance carrier before renting garage space for commercial use or workshops. Standard residential landlord policies may not cover injuries that occur in workshop spaces or commercial storage situations. A commercial rider or umbrella policy may be needed.</p>
+<h3 id="building-code">Building Code</h3>
+<p>For workshop use, ensure adequate electrical capacity, ventilation, and any required fire separation from the main structure. Garages rented as living spaces require full habitability improvements including egress windows, insulation, HVAC, and bathroom access—check local ADU regulations.</p>
+<h3 id="business-use-considerations">Business Use Considerations</h3>
+<p>If a tenant uses your garage for business operations, consider whether you need a commercial lease rather than a standard residential addendum.</p>
+<h2 id="how-to-rent-out-your-garage">How to Rent Out Your Garage</h2>
+<h3 id="step-1-determine-use-and-set-pricing">Step 1: Determine Use and Set Pricing</h3>
+<p>Decide what use you're permitting (parking, storage, workshop) and price based on local market research.</p>
+<h3 id="step-2-prepare-the-space">Step 2: Prepare the Space</h3>
+<p>For storage/parking: clean thoroughly, check for structural issues, ensure good lighting and secure lock.
+For workshop: add 240V outlet if needed, improve lighting, ensure ventilation.</p>
+<h3 id="step-3-market-the-space">Step 3: Market the Space</h3>
+<p>Platforms that work well for garage rentals:</p>
+<ul>
+<li><strong>Craigslist:</strong> Best for local general audience</li>
+<li><strong>Facebook Marketplace:</strong> Strong for local community</li>
+<li><strong>Neighbor.com:</strong> Specifically for storage space rentals</li>
+<li><strong>SpotHero / ParkWhiz:</strong> Specifically for parking</li>
+<li><strong>Your existing tenant pool:</strong> Always offer to existing tenants first—easiest transaction</li>
+</ul>
+<h3 id="step-4-create-a-simple-lease-addendum">Step 4: Create a Simple Lease Addendum</h3>
+<p>For tenants already renting your main unit, add a parking/storage addendum to their existing lease. For outside renters, use a simple month-to-month parking or storage agreement.</p>
+<p>Key terms to include:</p>
+<ul>
+<li>Permitted use (parking only / storage only / specific items allowed)</li>
+<li>Monthly rental amount and payment due date</li>
+<li>Access terms (key, code, or PIN)</li>
+<li>Landlord access rights for maintenance/inspection</li>
+<li>Prohibited items (flammable materials, hazardous chemicals, etc.)</li>
+<li>Liability disclaimer (tenant stores at own risk)</li>
+<li>Termination provisions (typically 30-day notice either party)</li>
+</ul>
+<h3 id="step-5-screen-tenants-for-garage-use">Step 5: Screen Tenants for Garage Use</h3>
+<p>For large storage or workshop tenants (especially commercial), basic screening is worthwhile:</p>
+<ul>
+<li>Verify identity</li>
+<li>Check references for commercial tenants</li>
+<li>Review what items/equipment they plan to store</li>
+</ul>
+<h2 id="maximizing-garage-rental-income">Maximizing Garage Rental Income</h2>
+<h3 id="upgrade-to-command-a-premium">Upgrade to Command a Premium</h3>
+<p>Small improvements can significantly increase rental rates:</p>
+<ul>
+<li>Good LED lighting: $200–$500 investment → $25–$50/month premium</li>
+<li>Insulated garage door: $800–$1,500 investment → worth it for climate-controlled storage or workshop premium</li>
+<li>Epoxy floor coating: $1,000–$2,500 investment → strong appeal for workshop and nice storage tenants</li>
+<li>Security camera + keypad entry: $300–$600 investment → substantial appeal and justifies premium pricing</li>
+</ul>
+<h3 id="offer-monthly-vs-daily-parking">Offer Monthly vs. Daily Parking</h3>
+<p>If you're in an urban area near offices, restaurants, or entertainment, consider whether daily or evening parking might generate more than monthly rental. A $15/day parking space used 15 days/month generates $225—same as a $225/month monthly tenant, but with more flexibility and potentially higher peak-day revenue.</p>
+<h3 id="rent-to-multiple-tenants">Rent to Multiple Tenants</h3>
+<p>A large 2-car garage can sometimes be partitioned for two separate tenants paying separate fees. $150/month × 2 = $300/month vs. $200/month for one tenant.</p>
+<h3 id="bundle-with-unit-rental-at-a-premium">Bundle With Unit Rental at a Premium</h3>
+<p>Offering a parking space as a bundle with the main unit (at a premium for "parking included") can be more valuable than separating them. Tenants who need parking and can get it bundled often pay a higher total premium than if parking were offered separately.</p>
+<h2 id="garage-rental-income-vs-adu-conversion">Garage Rental Income vs. ADU Conversion</h2>
+<p>An important strategic decision: convert the garage to an ADU for maximum income, or rent it as-is for lower income with minimal investment?</p>
+<table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Monthly Income</th>
+<th>Upfront Cost</th>
+<th>Cash-on-Cash Return</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Garage parking rental</td>
+<td>$100–$200</td>
+<td>$0–$500</td>
+<td>Very high (low cost)</td>
+</tr>
+<tr>
+<td>Garage storage rental</td>
+<td>$100–$200</td>
+<td>$200–$1,000</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Garage ADU conversion</td>
+<td>$800–$2,500</td>
+<td>$60,000–$150,000</td>
+<td>8–15%</td>
+</tr>
+</tbody>
+</table>
+<p>If your market supports strong ADU rents and construction costs are reasonable, ADU conversion provides dramatically higher absolute income. If your market has modest rents, renting the garage as-is may provide a better return on your marginal dollar.</p>
+<p>Learn more in our <a href="/blog/adu-rental-income">ADU rental income guide</a> to run the full comparison for your specific market.</p>
+<h2 id="taxes-on-garage-rental-income">Taxes on Garage Rental Income</h2>
+<p>Garage rental income is taxable and must be reported as <a href="https://www.irs.gov/taxtopics/tc414">rental income per IRS rules</a>. Keep records of:</p>
+<ul>
+<li>Monthly rental income received</li>
+<li>Maintenance and improvement costs</li>
+<li>Proportion of property taxes and insurance attributable to the garage</li>
+<li>Depreciation on the garage structure (if separately tracked)</li>
+</ul>
+<p>If the garage is an appurtenant part of your rental property, expenses are typically handled as part of your overall rental property deductions. See our <a href="/blog/rental-property-tax-deductions">rental property tax deductions guide</a> for the complete framework.</p>
+<h2 id="summary">Summary</h2>
+<p>Garage rental income is one of the simplest, highest-ROI income strategies available to property owners. You're monetizing space that already exists—no construction, minimal capital, just a simple lease agreement and basic marketing.</p>
+<p>Start by assessing your garage or parking assets, research comparable rates in your market, and implement a simple month-to-month agreement. Even $150/month in additional garage income adds $27,692 in property value at a 6.5% cap rate.</p>
+<p>For more ancillary income ideas that maximize your total rental property returns, see our <a href="/blog/maximize-rental-income-strategies">guide to maximizing rental income strategies</a> and explore <a href="/blog/storage-unit-rental-income">storage unit rental income</a> as a companion strategy.</p>
+28:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2e"}}]
+29:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","pricing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"pricing"}],["$","span","ancillary income",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"ancillary income"}],["$","span","garage rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"garage rental"}]]}]
+2a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Pricing"]}],["$","$L10",null,{"href":"/blog/category/pricing","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","adjust-rent-pricing-inflation-2026",{"children":["$","$L10",null,{"href":"/blog/adjust-rent-pricing-inflation-2026","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Adjust Rent Pricing for Inflation in 2026"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","albuquerque-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/albuquerque-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Albuquerque Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","anaheim-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/anaheim-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Anaheim Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}],["$","li","anchorage-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/anchorage-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Anchorage Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}]]}]]}]
+2b:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","laundry-room-revenue-rental",{"href":"/blog/laundry-room-revenue-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Adding Laundry Room Revenue to Your Rental"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","storage-unit-rental-income",{"href":"/blog/storage-unit-rental-income","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Storage Rental Income as a Side Revenue Stream"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","adu-rental-income",{"href":"/blog/adu-rental-income","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"ADU Rental Income: How Much Can You Earn?"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+2c:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-can-you-rent-a-garage-for",{"className":"","children":["$","a",null,{"href":"#what-can-you-rent-a-garage-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Can You Rent a Garage For?"}]}],["$","li","1-vehicle-parking",{"className":"ml-4","children":["$","a",null,{"href":"#1-vehicle-parking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Vehicle Parking"}]}],["$","li","2-storage-space",{"className":"ml-4","children":["$","a",null,{"href":"#2-storage-space","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Storage Space"}]}],["$","li","3-workshop-or-hobby-space",{"className":"ml-4","children":["$","a",null,{"href":"#3-workshop-or-hobby-space","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Workshop or Hobby Space"}]}],["$","li","4-commercial-business-use",{"className":"ml-4","children":["$","a",null,{"href":"#4-commercial-business-use","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Commercial/Business Use"}]}],["$","li","garage-rental-income-pricing-guide-by-market",{"className":"","children":["$","a",null,{"href":"#garage-rental-income-pricing-guide-by-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Garage Rental Income: Pricing Guide by Market"}]}],["$","li","calculating-your-annual-garage-rental-income",{"className":"","children":["$","a",null,{"href":"#calculating-your-annual-garage-rental-income","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Calculating Your Annual Garage Rental Income"}]}],["$","li","legal-and-zoning-considerations",{"className":"","children":["$","a",null,{"href":"#legal-and-zoning-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Zoning Considerations"}]}],["$","li","zoning-laws",{"className":"ml-4","children":["$","a",null,{"href":"#zoning-laws","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Zoning Laws"}]}],["$","li","hoa-and-condo-rules",{"className":"ml-4","children":["$","a",null,{"href":"#hoa-and-condo-rules","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HOA and Condo Rules"}]}],["$","li","insurance",{"className":"ml-4","children":["$","a",null,{"href":"#insurance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance"}]}],["$","li","building-code",{"className":"ml-4","children":["$","a",null,{"href":"#building-code","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Code"}]}],["$","li","business-use-considerations",{"className":"ml-4","children":["$","a",null,{"href":"#business-use-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Business Use Considerations"}]}],["$","li","how-to-rent-out-your-garage",{"className":"","children":["$","a",null,{"href":"#how-to-rent-out-your-garage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Rent Out Your Garage"}]}],["$","li","step-1-determine-use-and-set-pricing",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-determine-use-and-set-pricing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Determine Use and Set Pricing"}]}],["$","li","step-2-prepare-the-space",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-prepare-the-space","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Prepare the Space"}]}],"$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39"]}]]}]}]
+2d:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2f:["$","li","step-3-market-the-space",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-market-the-space","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Market the Space"}]}]
+30:["$","li","step-4-create-a-simple-lease-addendum",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-create-a-simple-lease-addendum","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Create a Simple Lease Addendum"}]}]
+31:["$","li","step-5-screen-tenants-for-garage-use",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-screen-tenants-for-garage-use","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Screen Tenants for Garage Use"}]}]
+32:["$","li","maximizing-garage-rental-income",{"className":"","children":["$","a",null,{"href":"#maximizing-garage-rental-income","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maximizing Garage Rental Income"}]}]
+33:["$","li","upgrade-to-command-a-premium",{"className":"ml-4","children":["$","a",null,{"href":"#upgrade-to-command-a-premium","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Upgrade to Command a Premium"}]}]
+34:["$","li","offer-monthly-vs-daily-parking",{"className":"ml-4","children":["$","a",null,{"href":"#offer-monthly-vs-daily-parking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Offer Monthly vs. Daily Parking"}]}]
+35:["$","li","rent-to-multiple-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#rent-to-multiple-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rent to Multiple Tenants"}]}]
+36:["$","li","bundle-with-unit-rental-at-a-premium",{"className":"ml-4","children":["$","a",null,{"href":"#bundle-with-unit-rental-at-a-premium","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bundle With Unit Rental at a Premium"}]}]
+37:["$","li","garage-rental-income-vs-adu-conversion",{"className":"","children":["$","a",null,{"href":"#garage-rental-income-vs-adu-conversion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Garage Rental Income vs. ADU Conversion"}]}]
+38:["$","li","taxes-on-garage-rental-income",{"className":"","children":["$","a",null,{"href":"#taxes-on-garage-rental-income","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Taxes on Garage Rental Income"}]}]
+39:["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Earning Extra Income From Garage Rentals | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Discover how to earn extra garage rental income by renting out parking, storage, or workshop space. Learn pricing, legal considerations, and how to maximize this side revenue."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"pricing,ancillary income,garage rental"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/garage-rental-income"}],["$","meta","6",{"property":"og:title","content":"Earning Extra Income From Garage Rentals"}],["$","meta","7",{"property":"og:description","content":"Discover how to earn extra garage rental income by renting out parking, storage, or workshop space. Learn pricing, legal considerations, and how to maximize this side revenue."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/garage-rental-income"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Earning Extra Income From Garage Rentals"}],["$","meta","15",{"name":"twitter:description","content":"Discover how to earn extra garage rental income by renting out parking, storage, or workshop space. Learn pricing, legal considerations, and how to maximize this side revenue."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

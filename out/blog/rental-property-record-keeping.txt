@@ -1,0 +1,420 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","rental-property-record-keeping"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","rental-property-record-keeping","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rental-property-record-keeping","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Rental Property Record Keeping: The Complete System for Landlords\",\"description\":\"Master rental property record keeping with this complete guide. Learn which documents to keep, how long to store them, digital vs paper systems, and how to prepare for tax time and audits.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/rental-property-record-keeping\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Legal & Compliance\",\"item\":\"https://portfoliorental.com/blog/category/legal-and-compliance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Rental Property Record Keeping: The Complete System for Landlords\",\"item\":\"https://portfoliorental.com/blog/rental-property-record-keeping\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"hover:text-blue-600","children":"Legal & Compliance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Legal & Compliance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Rental Property Record Keeping: The Complete System for Landlords"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[12," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-record-keeping-matters",{"className":"","children":["$","a",null,{"href":"#why-record-keeping-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Record Keeping Matters"}]}],["$","li","tax-savings",{"className":"ml-4","children":["$","a",null,{"href":"#tax-savings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Savings"}]}],["$","li","legal-protection",{"className":"ml-4","children":["$","a",null,{"href":"#legal-protection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal Protection"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b"]}]}]]}],"$L3c","$L3d"]}],"$L3e","$L3f"]}],"$L40"]}]]}],"$L41"]
+11:["$","li","business-decisions",{"className":"ml-4","children":["$","a",null,{"href":"#business-decisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Business Decisions"}]}]
+12:["$","li","audit-readiness",{"className":"ml-4","children":["$","a",null,{"href":"#audit-readiness","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Audit Readiness"}]}]
+13:["$","li","required-documents-for-every-property",{"className":"","children":["$","a",null,{"href":"#required-documents-for-every-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Required Documents for Every Property"}]}]
+14:["$","li","purchase-and-ownership-documents",{"className":"ml-4","children":["$","a",null,{"href":"#purchase-and-ownership-documents","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Purchase and Ownership Documents"}]}]
+15:["$","li","lease-files",{"className":"ml-4","children":["$","a",null,{"href":"#lease-files","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lease Files"}]}]
+16:["$","li","financial-records",{"className":"ml-4","children":["$","a",null,{"href":"#financial-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Financial Records"}]}]
+17:["$","li","income-records",{"className":"ml-4","children":["$","a",null,{"href":"#income-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Income Records"}]}]
+18:["$","li","expense-records",{"className":"ml-4","children":["$","a",null,{"href":"#expense-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Expense Records"}]}]
+19:["$","li","maintenance-logs",{"className":"ml-4","children":["$","a",null,{"href":"#maintenance-logs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance Logs"}]}]
+1a:["$","li","communication-records",{"className":"ml-4","children":["$","a",null,{"href":"#communication-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Communication Records"}]}]
+1b:["$","li","insurance-records",{"className":"ml-4","children":["$","a",null,{"href":"#insurance-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance Records"}]}]
+1c:["$","li","digital-vs-paper-record-keeping",{"className":"","children":["$","a",null,{"href":"#digital-vs-paper-record-keeping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Digital vs Paper Record Keeping"}]}]
+1d:["$","li","paper-records",{"className":"ml-4","children":["$","a",null,{"href":"#paper-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Paper Records"}]}]
+1e:["$","li","digital-records",{"className":"ml-4","children":["$","a",null,{"href":"#digital-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Digital Records"}]}]
+1f:["$","li","the-best-approach-digital-first",{"className":"ml-4","children":["$","a",null,{"href":"#the-best-approach-digital-first","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Best Approach: Digital First"}]}]
+20:["$","li","backup-your-records",{"className":"ml-4","children":["$","a",null,{"href":"#backup-your-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Backup Your Records"}]}]
+21:["$","li","retention-periods-how-long-to-keep-records",{"className":"","children":["$","a",null,{"href":"#retention-periods-how-long-to-keep-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Retention Periods: How Long to Keep Records"}]}]
+22:["$","li","keep-indefinitely",{"className":"ml-4","children":["$","a",null,{"href":"#keep-indefinitely","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep Indefinitely"}]}]
+23:["$","li","keep-for-7-years-after-filing",{"className":"ml-4","children":["$","a",null,{"href":"#keep-for-7-years-after-filing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep for 7 Years After Filing"}]}]
+24:["$","li","keep-for-7-years-after-tenancy-ends",{"className":"ml-4","children":["$","a",null,{"href":"#keep-for-7-years-after-tenancy-ends","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep for 7 Years After Tenancy Ends"}]}]
+25:["$","li","keep-for-7-years-after-the-claim-or-repair",{"className":"ml-4","children":["$","a",null,{"href":"#keep-for-7-years-after-the-claim-or-repair","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep for 7 Years After the Claim or Repair"}]}]
+26:["$","li","keep-while-active-plus-3-years",{"className":"ml-4","children":["$","a",null,{"href":"#keep-while-active-plus-3-years","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep While Active Plus 3 Years"}]}]
+27:["$","li","tax-preparation-made-easier",{"className":"","children":["$","a",null,{"href":"#tax-preparation-made-easier","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Preparation Made Easier"}]}]
+28:["$","li","track-income-and-expenses-monthly",{"className":"ml-4","children":["$","a",null,{"href":"#track-income-and-expenses-monthly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Track Income and Expenses Monthly"}]}]
+29:["$","li","use-accounting-software",{"className":"ml-4","children":["$","a",null,{"href":"#use-accounting-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Accounting Software"}]}]
+2a:["$","li","organize-by-category",{"className":"ml-4","children":["$","a",null,{"href":"#organize-by-category","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Organize by Category"}]}]
+2b:["$","li","separate-accounts-for-each-property",{"className":"ml-4","children":["$","a",null,{"href":"#separate-accounts-for-each-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Separate Accounts for Each Property"}]}]
+2c:["$","li","audit-readiness",{"className":"","children":["$","a",null,{"href":"#audit-readiness","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Audit Readiness"}]}]
+2d:["$","li","what-the-irs-looks-for",{"className":"ml-4","children":["$","a",null,{"href":"#what-the-irs-looks-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What the IRS Looks For"}]}]
+2e:["$","li","how-to-prepare",{"className":"ml-4","children":["$","a",null,{"href":"#how-to-prepare","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Prepare"}]}]
+2f:["$","li","if-you-get-audited",{"className":"ml-4","children":["$","a",null,{"href":"#if-you-get-audited","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"If You Get Audited"}]}]
+30:["$","li","tools-and-systems-for-record-keeping",{"className":"","children":["$","a",null,{"href":"#tools-and-systems-for-record-keeping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tools and Systems for Record Keeping"}]}]
+31:["$","li","receipt-scanning-apps",{"className":"ml-4","children":["$","a",null,{"href":"#receipt-scanning-apps","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Receipt Scanning Apps"}]}]
+32:["$","li","property-management-software",{"className":"ml-4","children":["$","a",null,{"href":"#property-management-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Management Software"}]}]
+33:["$","li","cloud-storage",{"className":"ml-4","children":["$","a",null,{"href":"#cloud-storage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cloud Storage"}]}]
+34:["$","li","spreadsheet-templates",{"className":"ml-4","children":["$","a",null,{"href":"#spreadsheet-templates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spreadsheet Templates"}]}]
+35:["$","li","common-record-keeping-mistakes",{"className":"","children":["$","a",null,{"href":"#common-record-keeping-mistakes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Record Keeping Mistakes"}]}]
+36:["$","li","getting-started-your-action-plan",{"className":"","children":["$","a",null,{"href":"#getting-started-your-action-plan","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Getting Started: Your Action Plan"}]}]
+37:["$","li","week-1-set-up-your-system",{"className":"ml-4","children":["$","a",null,{"href":"#week-1-set-up-your-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Week 1: Set Up Your System"}]}]
+38:["$","li","week-2-gather-existing-documents",{"className":"ml-4","children":["$","a",null,{"href":"#week-2-gather-existing-documents","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Week 2: Gather Existing Documents"}]}]
+39:["$","li","week-3-start-fresh-tracking",{"className":"ml-4","children":["$","a",null,{"href":"#week-3-start-fresh-tracking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Week 3: Start Fresh Tracking"}]}]
+3a:["$","li","week-4-create-a-routine",{"className":"ml-4","children":["$","a",null,{"href":"#week-4-create-a-routine","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Week 4: Create a Routine"}]}]
+3b:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+42:T52c7,<p>Good record keeping is one of the most boring parts of being a landlord. It is also one of the most important. Without organized records, you risk losing tax deductions, losing legal disputes, and losing sleep when the IRS comes knocking.</p>
+<p>The truth is that keeping good records does not have to be hard. You just need a system. Record-keeping requirements vary by jurisdiction, so understanding <a href="/blog/landlord-tenant-law-by-state">landlord-tenant law by state</a> helps you know exactly what your state requires. This guide shows you exactly what records to keep, how long to keep them, and how to organize them so you can find anything in minutes.</p>
+<h2 id="why-record-keeping-matters">Why Record Keeping Matters</h2>
+<p>Before we get into the details, let us talk about why this matters so much.</p>
+<h3 id="tax-savings">Tax Savings</h3>
+<p>Rental property owners can deduct dozens of expenses from their rental income. But the IRS does not take your word for it. You need receipts, invoices, and records to prove every deduction. Without proof, you lose the deduction. Over a year, that can add up to thousands of dollars in extra taxes.</p>
+<p>For a full list of deductions you can claim, check out our guide on <a href="/blog/rental-property-tax-deductions">rental property tax deductions</a>.</p>
+<h3 id="legal-protection">Legal Protection</h3>
+<p>When a tenant disputes a security deposit deduction, your records tell the story. When a tenant claims you never fixed a leaky faucet, your maintenance log says otherwise. When a former tenant sues you for negligence, your inspection reports show you were diligent.</p>
+<p>In court, the person with better records usually wins. Be that person.</p>
+<h3 id="business-decisions">Business Decisions</h3>
+<p>Good records help you make smarter decisions. They show you which properties are profitable and which ones drain your cash. They reveal trends in maintenance costs. They help you decide when to raise rent and when to sell.</p>
+<h3 id="audit-readiness">Audit Readiness</h3>
+<p>If the IRS audits your rental income, they will ask for years of records. If you cannot produce them, you could face penalties, disallowed deductions, and additional taxes. Being audit-ready at all times is not paranoia. It is professional.</p>
+<h2 id="required-documents-for-every-property">Required Documents for Every Property</h2>
+<p>Here is a complete list of the records you should keep for each rental property.</p>
+<h3 id="purchase-and-ownership-documents">Purchase and Ownership Documents</h3>
+<p>These documents establish your ownership and form the basis for depreciation and capital gains calculations.</p>
+<ul>
+<li><strong>Purchase agreement and closing documents:</strong> The original contract, settlement statement (HUD-1 or closing disclosure), and title insurance policy</li>
+<li><strong>Deed:</strong> The document that proves you own the property</li>
+<li><strong>Survey:</strong> The property survey from when you purchased</li>
+<li><strong>Appraisal:</strong> The appraisal report from your purchase</li>
+<li><strong>Improvement records:</strong> Receipts and invoices for any capital improvements made to the property</li>
+<li><strong>Depreciation schedule:</strong> Your calculation of annual depreciation</li>
+</ul>
+<p>Keep these for as long as you own the property and for at least three years after you sell it. Some tax advisors recommend keeping them for seven years after the sale.</p>
+<h3 id="lease-files">Lease Files</h3>
+<p>Every tenant should have their own file with these documents:</p>
+<ul>
+<li><strong>Signed lease agreement:</strong> The current lease and any amendments</li>
+<li><strong>Lease renewal agreements:</strong> Records of every renewal</li>
+<li><strong>Move-in inspection report:</strong> The condition of the property at move-in, with photos</li>
+<li><strong>Move-out inspection report:</strong> The condition at move-out, with photos</li>
+<li><strong>Security deposit records:</strong> Amount collected, where it is held, interest paid (if required), and itemized deductions at move-out</li>
+<li><strong>Tenant application:</strong> The original rental application</li>
+<li><strong>Screening reports:</strong> Credit check, background check, and reference checks</li>
+<li><strong>Correspondence:</strong> Important emails, letters, and notices between you and the tenant</li>
+</ul>
+<h3 id="financial-records">Financial Records</h3>
+<p>Financial records are the backbone of your tax preparation and business analysis.</p>
+<h3 id="income-records">Income Records</h3>
+<ul>
+<li><strong>Rent payments:</strong> Date, amount, and method of every rent payment received</li>
+<li><strong>Late fees collected:</strong> Date and amount of any late fees</li>
+<li><strong>Security deposits:</strong> Amounts received and returned</li>
+<li><strong>Other income:</strong> Application fees, pet fees, parking fees, laundry income</li>
+</ul>
+<h3 id="expense-records">Expense Records</h3>
+<p>Keep receipts and invoices for every expense related to your rental properties:</p>
+<ul>
+<li><strong>Mortgage statements:</strong> Monthly statements showing principal, interest, and escrow</li>
+<li><strong>Property tax bills and payment receipts:</strong> Annual or semi-annual tax payments</li>
+<li><strong>Insurance premiums:</strong> Landlord insurance, umbrella insurance, flood insurance</li>
+<li><strong>Repairs and maintenance:</strong> Every repair, no matter how small, with date, cost, and description</li>
+<li><strong>Property management fees:</strong> Monthly statements from your property manager</li>
+<li><strong>Utilities:</strong> Any utilities you pay for the property</li>
+<li><strong>Advertising costs:</strong> Listing fees, sign costs, photography</li>
+<li><strong>Legal and professional fees:</strong> Attorney fees, accountant fees, eviction costs</li>
+<li><strong>Travel expenses:</strong> Mileage logs for trips to your rental properties</li>
+<li><strong>Supplies:</strong> Cleaning supplies, tools, hardware, landscaping supplies</li>
+<li><strong>HOA fees:</strong> Monthly or quarterly association dues</li>
+</ul>
+<p>For help tracking all of these expenses, read our guide on <a href="/blog/rental-property-expense-tracking">rental property expense tracking</a>.</p>
+<h3 id="maintenance-logs">Maintenance Logs</h3>
+<p>A maintenance log is a running record of every repair, service call, and improvement made to the property. Each entry should include:</p>
+<ul>
+<li>Date of the request or discovery</li>
+<li>Description of the problem</li>
+<li>Date the repair was started</li>
+<li>Date the repair was completed</li>
+<li>Who performed the repair (you, a tenant, or a contractor)</li>
+<li>Cost of the repair</li>
+<li>Receipts or invoices</li>
+<li>Photos before and after the repair</li>
+</ul>
+<p>Maintenance logs serve three purposes. They prove you maintained the property for liability protection. They help you budget for future repairs. And they document expenses for tax deductions.</p>
+<h3 id="communication-records">Communication Records</h3>
+<p>Keep records of important communications with tenants, contractors, and government agencies.</p>
+<ul>
+<li><strong>Notices:</strong> Rent increase notices, lease violation notices, entry notices, eviction notices</li>
+<li><strong>Emails and texts:</strong> Save important messages. Use a system that makes them easy to find.</li>
+<li><strong>Certified mail receipts:</strong> Proof that you sent and the tenant received important documents</li>
+<li><strong>Phone call notes:</strong> Write a brief summary after any important phone call with a tenant</li>
+<li><strong>Complaint records:</strong> Document every complaint received and how you responded</li>
+</ul>
+<h3 id="insurance-records">Insurance Records</h3>
+<ul>
+<li><strong>Current policies:</strong> Keep copies of all active insurance policies</li>
+<li><strong>Claims history:</strong> Records of every insurance claim you have filed</li>
+<li><strong>Certificates of insurance:</strong> Proof of coverage from contractors working on your property</li>
+<li><strong>Tenant renter's insurance:</strong> Copies of tenant policies if you require renter's insurance</li>
+</ul>
+<h2 id="digital-vs-paper-record-keeping">Digital vs Paper Record Keeping</h2>
+<p>The days of filing cabinets full of paper are fading. Digital record keeping is faster, safer, and more convenient. But each approach has its pros and cons.</p>
+<h3 id="paper-records">Paper Records</h3>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>No technology required</li>
+<li>Easy to understand</li>
+<li>Some documents are only available in paper form</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Takes up physical space</li>
+<li>Vulnerable to fire, flood, and theft</li>
+<li>Hard to search through</li>
+<li>Difficult to share with accountants or attorneys</li>
+<li>Easy to lose or misfile</li>
+</ul>
+<h3 id="digital-records">Digital Records</h3>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Easy to search and organize</li>
+<li>Can be backed up to the cloud for safety</li>
+<li>Takes no physical space</li>
+<li>Easy to share with accountants, attorneys, and property managers</li>
+<li>Accessible from anywhere</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Requires some technical comfort</li>
+<li>Need reliable backup systems</li>
+<li>Risk of data breach if not secured properly</li>
+</ul>
+<h3 id="the-best-approach-digital-first">The Best Approach: Digital First</h3>
+<p>We recommend going digital first. Scan paper documents and store them in the cloud. Use apps to photograph receipts immediately after receiving them. Keep your digital files organized in a clear folder structure.</p>
+<p>Here is a recommended folder structure:</p>
+<pre><code>Rental Properties/
+  123 Main Street/
+    Purchase Documents/
+    Leases/
+      Current Tenant - Smith/
+      Past Tenants/
+    Financial Records/
+      2024/
+      2025/
+      2026/
+    Maintenance/
+    Inspections/
+    Insurance/
+    Correspondence/
+  456 Oak Avenue/
+    (same structure)
+</code></pre>
+<h3 id="backup-your-records">Backup Your Records</h3>
+<p>Whatever system you use, back it up. Use at least two backup methods:</p>
+<ol>
+<li><strong>Cloud storage:</strong> Google Drive, Dropbox, or OneDrive</li>
+<li><strong>External hard drive:</strong> A physical backup stored in a different location than your computer</li>
+</ol>
+<p>Back up your files at least monthly. Better yet, use a cloud system that syncs automatically so you never have to think about it.</p>
+<h2 id="retention-periods-how-long-to-keep-records">Retention Periods: How Long to Keep Records</h2>
+<p>Different records need to be kept for different amounts of time. Here are the general guidelines.</p>
+<h3 id="keep-indefinitely">Keep Indefinitely</h3>
+<ul>
+<li>Purchase documents and closing statements</li>
+<li>Deeds and title insurance</li>
+<li>Capital improvement records</li>
+<li>Depreciation schedules</li>
+</ul>
+<h3 id="keep-for-7-years-after-filing">Keep for 7 Years After Filing</h3>
+<ul>
+<li>Tax returns and supporting documents</li>
+<li>Income and expense records</li>
+<li>Bank statements and cancelled checks</li>
+<li>1099 forms</li>
+</ul>
+<h3 id="keep-for-7-years-after-tenancy-ends">Keep for 7 Years After Tenancy Ends</h3>
+<ul>
+<li>Lease agreements</li>
+<li>Tenant applications and screening reports</li>
+<li>Security deposit records</li>
+<li>Move-in and move-out inspection reports</li>
+<li>Correspondence with tenants</li>
+</ul>
+<h3 id="keep-for-7-years-after-the-claim-or-repair">Keep for 7 Years After the Claim or Repair</h3>
+<ul>
+<li>Insurance claims</li>
+<li>Maintenance and repair records</li>
+<li>Contractor invoices</li>
+</ul>
+<h3 id="keep-while-active-plus-3-years">Keep While Active Plus 3 Years</h3>
+<ul>
+<li>Current insurance policies</li>
+<li>Property management agreements</li>
+<li>Vendor contracts</li>
+</ul>
+<p>The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/how-long-should-i-keep-records" rel="noopener" target="_blank">IRS record retention guidelines</a> specify that you can be audited for up to three years after you file a return, or six years if they suspect significant underreporting. Keeping records for seven years gives you a comfortable buffer.</p>
+<h2 id="tax-preparation-made-easier">Tax Preparation Made Easier</h2>
+<p>Good record keeping makes tax season much less stressful. Here is how to set yourself up for easy tax preparation.</p>
+<h3 id="track-income-and-expenses-monthly">Track Income and Expenses Monthly</h3>
+<p>Do not wait until December to organize a year's worth of receipts. Set aside 30 minutes each month to:</p>
+<ul>
+<li>Record all income received</li>
+<li>Enter all expenses</li>
+<li>Scan and file receipts</li>
+<li>Reconcile your bank statements</li>
+</ul>
+<h3 id="use-accounting-software">Use Accounting Software</h3>
+<p>Property management and accounting software can automate much of this work. Popular options include:</p>
+<ul>
+<li><strong>QuickBooks:</strong> Good for general accounting with rental property features</li>
+<li><strong>Stessa:</strong> Designed specifically for rental property owners, free for basic use</li>
+<li><strong>Buildium:</strong> Full property management platform with accounting features</li>
+<li><strong>AppFolio:</strong> Comprehensive platform for larger portfolios</li>
+<li><strong>Spreadsheets:</strong> Simple and free, good for small portfolios</li>
+</ul>
+<h3 id="organize-by-category">Organize by Category</h3>
+<p>When tax time comes, your accountant will need expenses organized by category. The main categories on Schedule E (the IRS form for rental income) are:</p>
+<ul>
+<li>Advertising</li>
+<li>Auto and travel</li>
+<li>Cleaning and maintenance</li>
+<li>Commissions</li>
+<li>Insurance</li>
+<li>Legal and professional fees</li>
+<li>Management fees</li>
+<li>Mortgage interest</li>
+<li>Other interest</li>
+<li>Repairs</li>
+<li>Supplies</li>
+<li>Taxes</li>
+<li>Utilities</li>
+<li>Depreciation</li>
+</ul>
+<p>If you organize your records by these categories throughout the year, filing your taxes takes a fraction of the time.</p>
+<h3 id="separate-accounts-for-each-property">Separate Accounts for Each Property</h3>
+<p>If you own multiple properties, consider separate bank accounts or at least separate tracking for each one. Schedule E requires you to report income and expenses for each property individually. Mixing everything into one account makes it much harder to sort out at tax time.</p>
+<h2 id="audit-readiness">Audit Readiness</h2>
+<p>Nobody wants to be audited. But if it happens, being prepared makes all the difference.</p>
+<h3 id="what-the-irs-looks-for">What the IRS Looks For</h3>
+<p>The IRS pays special attention to rental property owners who:</p>
+<ul>
+<li>Report losses year after year</li>
+<li>Claim the real estate professional tax status</li>
+<li>Have high expense-to-income ratios</li>
+<li>Deduct personal expenses as business expenses</li>
+<li>Fail to report all rental income</li>
+</ul>
+<h3 id="how-to-prepare">How to Prepare</h3>
+<ul>
+<li><strong>Keep all receipts.</strong> Every single one.</li>
+<li><strong>Separate personal and business expenses.</strong> Never use your rental property bank account for personal expenses.</li>
+<li><strong>Document your time.</strong> If you claim real estate professional status, keep a detailed log of hours spent on rental activities.</li>
+<li><strong>Be accurate.</strong> Do not round numbers or estimate expenses. Use actual figures.</li>
+<li><strong>File on time.</strong> Late filings increase audit risk.</li>
+</ul>
+<h3 id="if-you-get-audited">If You Get Audited</h3>
+<p>Stay calm. An audit is not an accusation of wrongdoing. It is a request for proof.</p>
+<ol>
+<li>Gather all requested documents</li>
+<li>Organize them clearly</li>
+<li>Hire a tax professional to represent you</li>
+<li>Respond promptly to all requests</li>
+<li>Do not volunteer information beyond what is asked</li>
+</ol>
+<p>If you have been keeping good records all along, an audit should be nothing more than an inconvenience.</p>
+<h2 id="tools-and-systems-for-record-keeping">Tools and Systems for Record Keeping</h2>
+<p>Here are some tools that make record keeping easier.</p>
+<h3 id="receipt-scanning-apps">Receipt Scanning Apps</h3>
+<ul>
+<li><strong>Dext (formerly Receipt Bank):</strong> Scan receipts with your phone, and the app extracts the data</li>
+<li><strong>Expensify:</strong> Scan receipts and track expenses on the go</li>
+<li><strong>Phone camera:</strong> At minimum, photograph every receipt as soon as you get it</li>
+</ul>
+<h3 id="property-management-software">Property Management Software</h3>
+<p>For landlords who want an all-in-one solution, property management software handles rent collection, maintenance tracking, tenant communication, and financial reporting. For help choosing the right platform, see our guide on <a href="/blog/property-management-services-complete-guide">property management services</a>.</p>
+<h3 id="cloud-storage">Cloud Storage</h3>
+<ul>
+<li><strong>Google Drive:</strong> Free up to 15 GB, easy to organize and share</li>
+<li><strong>Dropbox:</strong> Reliable with good search features</li>
+<li><strong>Microsoft OneDrive:</strong> Integrates well with Windows and Office</li>
+</ul>
+<h3 id="spreadsheet-templates">Spreadsheet Templates</h3>
+<p>If you prefer simplicity, a well-organized spreadsheet can work well for small portfolios. Create tabs for:</p>
+<ul>
+<li>Income tracking (one row per payment received)</li>
+<li>Expense tracking (one row per expense with date, category, amount, and notes)</li>
+<li>Maintenance log (one row per repair with dates and costs)</li>
+<li>Mileage log (one row per trip with date, destination, miles, and purpose)</li>
+</ul>
+<h2 id="common-record-keeping-mistakes">Common Record Keeping Mistakes</h2>
+<p>Avoid these common pitfalls:</p>
+<ol>
+<li><strong>Throwing away receipts.</strong> Keep them all, even for small purchases. A $15 box of screws is still a deductible expense.</li>
+<li><strong>Mixing personal and business expenses.</strong> This creates confusion at tax time and weakens your LLC protection. If you hold properties in an LLC, keeping separate records is critical; see our guide on <a href="/blog/rental-property-llc-benefits">rental property LLC benefits</a>.</li>
+<li><strong>Not tracking mileage.</strong> Trips to your rental property, the hardware store, and your accountant are all deductible. But you need a mileage log to prove it.</li>
+<li><strong>Waiting until tax time to organize.</strong> A year's worth of disorganized records is overwhelming. Do a little each month.</li>
+<li><strong>Not backing up digital files.</strong> A computer crash without a backup means losing everything.</li>
+<li><strong>Keeping poor maintenance records.</strong> Vague entries like "fixed stuff" are useless. Be specific: "Replaced leaking kitchen faucet. Parts: $45. Labor: $120. Completed 3/15/2026."</li>
+<li><strong>Forgetting to document communication.</strong> A verbal agreement means nothing in court. Get it in writing.</li>
+</ol>
+<h2 id="getting-started-your-action-plan">Getting Started: Your Action Plan</h2>
+<p>If your record keeping needs work, here is a simple plan to get organized.</p>
+<h3 id="week-1-set-up-your-system">Week 1: Set Up Your System</h3>
+<ul>
+<li>Choose your tools (cloud storage, spreadsheet or software, receipt scanner)</li>
+<li>Create your folder structure</li>
+<li>Set up a dedicated email address for rental business communication</li>
+</ul>
+<h3 id="week-2-gather-existing-documents">Week 2: Gather Existing Documents</h3>
+<ul>
+<li>Collect all purchase documents, leases, and insurance policies</li>
+<li>Scan paper documents and save them in your digital system</li>
+<li>Organize historical financial records by year</li>
+</ul>
+<h3 id="week-3-start-fresh-tracking">Week 3: Start Fresh Tracking</h3>
+<ul>
+<li>Begin logging income and expenses daily or weekly</li>
+<li>Start scanning receipts as you receive them</li>
+<li>Create a maintenance log for each property</li>
+</ul>
+<h3 id="week-4-create-a-routine">Week 4: Create a Routine</h3>
+<ul>
+<li>Schedule 30 minutes per month for record keeping review</li>
+<li>Set up automatic backups</li>
+<li>Share access with your accountant or property manager as needed</li>
+</ul>
+<p>The <a href="https://www.sba.gov/business-guide/manage-your-business/manage-your-finances" rel="noopener" target="_blank">SBA financial management resources</a> offer additional guidance on setting up record-keeping systems for small rental businesses.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Record keeping is not exciting. But it is the foundation of a well-run rental business. Good records save you money on taxes, protect you in legal disputes, help you make better decisions, and keep you ready for anything.</p>
+<p>Start with the basics. Track your income and expenses. Keep your receipts. Document your maintenance. Store everything digitally with backups.</p>
+<p>Once your system is in place, keeping it up takes just a few minutes per week. That small investment of time pays for itself many times over. Every tax season, every dispute, and every business decision becomes easier when your records are in order.</p>
+3c:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$42"}}]
+3d:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","legal compliance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"legal compliance"}],["$","span","landlord laws",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord laws"}],["$","span","rental regulations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental regulations"}],["$","span","compliance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"compliance"}],["$","span","rental property record keeping",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental property record keeping"}]]}]
+3e:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Legal & Compliance"]}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-legal-structures-and-asset-protection",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-legal-structures-and-asset-protection","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Legal Structures and Asset Protection"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ada-compliance-for-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ada-compliance-for-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ADA Compliance for Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-eviction-process",{"children":["$","$L10",null,{"href":"/blog/akron-eviction-process","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Eviction Process in Akron: Step-by-Step Guide"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-rent-increase",{"children":["$","$L10",null,{"href":"/blog/akron-rent-increase","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Issue a Rent Increase Notice in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+3f:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","fair-housing-compliance-rental",{"href":"/blog/fair-housing-compliance-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Fair Housing Compliance for Rental Properties: What Every Landlord Must Know"}],["$","p",null,{"className":"text-sm text-gray-500","children":[12," min read"]}]]}],["$","$L10","landlord-insurance-requirements",{"href":"/blog/landlord-insurance-requirements","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Landlord Insurance Requirements: What Coverage You Need for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[12," min read"]}]]}],["$","$L10","landlord-liability-protection",{"href":"/blog/landlord-liability-protection","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Landlord Liability Protection: How to Shield Yourself From Lawsuits"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}]]}]]}]
+40:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-record-keeping-matters",{"className":"","children":["$","a",null,{"href":"#why-record-keeping-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Record Keeping Matters"}]}],["$","li","tax-savings",{"className":"ml-4","children":["$","a",null,{"href":"#tax-savings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Savings"}]}],["$","li","legal-protection",{"className":"ml-4","children":["$","a",null,{"href":"#legal-protection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal Protection"}]}],["$","li","business-decisions",{"className":"ml-4","children":["$","a",null,{"href":"#business-decisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Business Decisions"}]}],["$","li","audit-readiness",{"className":"ml-4","children":["$","a",null,{"href":"#audit-readiness","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Audit Readiness"}]}],["$","li","required-documents-for-every-property",{"className":"","children":["$","a",null,{"href":"#required-documents-for-every-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Required Documents for Every Property"}]}],["$","li","purchase-and-ownership-documents",{"className":"ml-4","children":["$","a",null,{"href":"#purchase-and-ownership-documents","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Purchase and Ownership Documents"}]}],["$","li","lease-files",{"className":"ml-4","children":["$","a",null,{"href":"#lease-files","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lease Files"}]}],["$","li","financial-records",{"className":"ml-4","children":["$","a",null,{"href":"#financial-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Financial Records"}]}],["$","li","income-records",{"className":"ml-4","children":["$","a",null,{"href":"#income-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Income Records"}]}],["$","li","expense-records",{"className":"ml-4","children":["$","a",null,{"href":"#expense-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Expense Records"}]}],["$","li","maintenance-logs",{"className":"ml-4","children":["$","a",null,{"href":"#maintenance-logs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance Logs"}]}],["$","li","communication-records",{"className":"ml-4","children":["$","a",null,{"href":"#communication-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Communication Records"}]}],["$","li","insurance-records",{"className":"ml-4","children":["$","a",null,{"href":"#insurance-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance Records"}]}],["$","li","digital-vs-paper-record-keeping",{"className":"","children":["$","a",null,{"href":"#digital-vs-paper-record-keeping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Digital vs Paper Record Keeping"}]}],["$","li","paper-records",{"className":"ml-4","children":["$","a",null,{"href":"#paper-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Paper Records"}]}],["$","li","digital-records",{"className":"ml-4","children":["$","a",null,{"href":"#digital-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Digital Records"}]}],"$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57","$L58","$L59","$L5a","$L5b","$L5c","$L5d","$L5e","$L5f"]}]]}]}]
+41:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+43:["$","li","the-best-approach-digital-first",{"className":"ml-4","children":["$","a",null,{"href":"#the-best-approach-digital-first","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Best Approach: Digital First"}]}]
+44:["$","li","backup-your-records",{"className":"ml-4","children":["$","a",null,{"href":"#backup-your-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Backup Your Records"}]}]
+45:["$","li","retention-periods-how-long-to-keep-records",{"className":"","children":["$","a",null,{"href":"#retention-periods-how-long-to-keep-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Retention Periods: How Long to Keep Records"}]}]
+46:["$","li","keep-indefinitely",{"className":"ml-4","children":["$","a",null,{"href":"#keep-indefinitely","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep Indefinitely"}]}]
+47:["$","li","keep-for-7-years-after-filing",{"className":"ml-4","children":["$","a",null,{"href":"#keep-for-7-years-after-filing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep for 7 Years After Filing"}]}]
+48:["$","li","keep-for-7-years-after-tenancy-ends",{"className":"ml-4","children":["$","a",null,{"href":"#keep-for-7-years-after-tenancy-ends","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep for 7 Years After Tenancy Ends"}]}]
+49:["$","li","keep-for-7-years-after-the-claim-or-repair",{"className":"ml-4","children":["$","a",null,{"href":"#keep-for-7-years-after-the-claim-or-repair","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep for 7 Years After the Claim or Repair"}]}]
+4a:["$","li","keep-while-active-plus-3-years",{"className":"ml-4","children":["$","a",null,{"href":"#keep-while-active-plus-3-years","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep While Active Plus 3 Years"}]}]
+4b:["$","li","tax-preparation-made-easier",{"className":"","children":["$","a",null,{"href":"#tax-preparation-made-easier","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Preparation Made Easier"}]}]
+4c:["$","li","track-income-and-expenses-monthly",{"className":"ml-4","children":["$","a",null,{"href":"#track-income-and-expenses-monthly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Track Income and Expenses Monthly"}]}]
+4d:["$","li","use-accounting-software",{"className":"ml-4","children":["$","a",null,{"href":"#use-accounting-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Accounting Software"}]}]
+4e:["$","li","organize-by-category",{"className":"ml-4","children":["$","a",null,{"href":"#organize-by-category","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Organize by Category"}]}]
+4f:["$","li","separate-accounts-for-each-property",{"className":"ml-4","children":["$","a",null,{"href":"#separate-accounts-for-each-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Separate Accounts for Each Property"}]}]
+50:["$","li","audit-readiness",{"className":"","children":["$","a",null,{"href":"#audit-readiness","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Audit Readiness"}]}]
+51:["$","li","what-the-irs-looks-for",{"className":"ml-4","children":["$","a",null,{"href":"#what-the-irs-looks-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What the IRS Looks For"}]}]
+52:["$","li","how-to-prepare",{"className":"ml-4","children":["$","a",null,{"href":"#how-to-prepare","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Prepare"}]}]
+53:["$","li","if-you-get-audited",{"className":"ml-4","children":["$","a",null,{"href":"#if-you-get-audited","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"If You Get Audited"}]}]
+54:["$","li","tools-and-systems-for-record-keeping",{"className":"","children":["$","a",null,{"href":"#tools-and-systems-for-record-keeping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tools and Systems for Record Keeping"}]}]
+55:["$","li","receipt-scanning-apps",{"className":"ml-4","children":["$","a",null,{"href":"#receipt-scanning-apps","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Receipt Scanning Apps"}]}]
+56:["$","li","property-management-software",{"className":"ml-4","children":["$","a",null,{"href":"#property-management-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Management Software"}]}]
+57:["$","li","cloud-storage",{"className":"ml-4","children":["$","a",null,{"href":"#cloud-storage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cloud Storage"}]}]
+58:["$","li","spreadsheet-templates",{"className":"ml-4","children":["$","a",null,{"href":"#spreadsheet-templates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spreadsheet Templates"}]}]
+59:["$","li","common-record-keeping-mistakes",{"className":"","children":["$","a",null,{"href":"#common-record-keeping-mistakes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Record Keeping Mistakes"}]}]
+5a:["$","li","getting-started-your-action-plan",{"className":"","children":["$","a",null,{"href":"#getting-started-your-action-plan","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Getting Started: Your Action Plan"}]}]
+5b:["$","li","week-1-set-up-your-system",{"className":"ml-4","children":["$","a",null,{"href":"#week-1-set-up-your-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Week 1: Set Up Your System"}]}]
+5c:["$","li","week-2-gather-existing-documents",{"className":"ml-4","children":["$","a",null,{"href":"#week-2-gather-existing-documents","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Week 2: Gather Existing Documents"}]}]
+5d:["$","li","week-3-start-fresh-tracking",{"className":"ml-4","children":["$","a",null,{"href":"#week-3-start-fresh-tracking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Week 3: Start Fresh Tracking"}]}]
+5e:["$","li","week-4-create-a-routine",{"className":"ml-4","children":["$","a",null,{"href":"#week-4-create-a-routine","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Week 4: Create a Routine"}]}]
+5f:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Rental Property Record Keeping: The Complete System for Landlords | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Master rental property record keeping with this complete guide. Learn which documents to keep, how long to store them, digital vs paper systems, and how to prepare for tax time and audits."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"legal compliance,landlord laws,rental regulations,compliance,rental property record keeping"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/rental-property-record-keeping"}],["$","meta","6",{"property":"og:title","content":"Rental Property Record Keeping: The Complete System for Landlords"}],["$","meta","7",{"property":"og:description","content":"Master rental property record keeping with this complete guide. Learn which documents to keep, how long to store them, digital vs paper systems, and how to prepare for tax time and audits."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/rental-property-record-keeping"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Rental Property Record Keeping: The Complete System for Landlords"}],["$","meta","15",{"name":"twitter:description","content":"Master rental property record keeping with this complete guide. Learn which documents to keep, how long to store them, digital vs paper systems, and how to prepare for tax time and audits."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,187 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","utility-billing-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","utility-billing-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","utility-billing-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Utility Billing Options for Rental Properties\",\"description\":\"Explore utility billing rental property options including individual metering, RUBS, submetering, and flat fee structures to reduce costs and improve NOI.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/utility-billing-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Expense Management\",\"item\":\"https://portfoliorental.com/blog/category/expense-management\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Utility Billing Options for Rental Properties\",\"item\":\"https://portfoliorental.com/blog/utility-billing-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/expense-management","className":"hover:text-blue-600","children":"Expense Management"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Expense Management"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Utility Billing Options for Rental Properties"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-utility-billing-structure-matters",{"className":"","children":["$","a",null,{"href":"#why-utility-billing-structure-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Utility Billing Structure Matters"}]}],["$","li","option-1-individual-metering-master-metering",{"className":"","children":["$","a",null,{"href":"#option-1-individual-metering-master-metering","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 1: Individual Metering (Master Metering)"}]}],["$","li","option-2-rubs-ratio-utility-billing-system",{"className":"","children":["$","a",null,{"href":"#option-2-rubs-ratio-utility-billing-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 2: RUBS — Ratio Utility Billing System"}]}],"$L11","$L12","$L13","$L14","$L15","$L16"]}]}]]}],"$L17","$L18"]}],"$L19","$L1a"]}],"$L1b"]}]]}],"$L1c"]
+11:["$","li","option-3-submetering",{"className":"","children":["$","a",null,{"href":"#option-3-submetering","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 3: Submetering"}]}]
+12:["$","li","option-4-flat-fee-or-utility-allowance-inclusion",{"className":"","children":["$","a",null,{"href":"#option-4-flat-fee-or-utility-allowance-inclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 4: Flat Fee or Utility Allowance Inclusion"}]}]
+13:["$","li","option-5-landlord-pays-all-utilities",{"className":"","children":["$","a",null,{"href":"#option-5-landlord-pays-all-utilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 5: Landlord Pays All Utilities"}]}]
+14:["$","li","choosing-the-right-approach-for-your-property",{"className":"","children":["$","a",null,{"href":"#choosing-the-right-approach-for-your-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Choosing the Right Approach for Your Property"}]}]
+15:["$","li","implementing-a-billing-change-tenant-communication",{"className":"","children":["$","a",null,{"href":"#implementing-a-billing-change-tenant-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Implementing a Billing Change: Tenant Communication"}]}]
+16:["$","li","financial-impact-projecting-your-savings",{"className":"","children":["$","a",null,{"href":"#financial-impact-projecting-your-savings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Financial Impact: Projecting Your Savings"}]}]
+1d:T2d54,<p>How you handle utility billing in your rental properties has a direct and measurable impact on your net operating income. Landlords who pay utilities on behalf of tenants — without any cost recovery mechanism — routinely absorb $150 to $400 per unit per month in unnecessary expenses. Implementing the right utility billing structure can recover most or all of that cost, shift consumption incentives to tenants, and add thousands of dollars to your annual NOI.</p>
+<p>This guide covers every major utility billing option for rental properties: individual metering, ratio utility billing systems (RUBS), submetering, flat fee inclusions, and hybrid approaches. We will help you evaluate which structure makes sense for your property type, tenant profile, and local regulations.</p>
+<h2 id="why-utility-billing-structure-matters">Why Utility Billing Structure Matters</h2>
+<p>The baseline comparison is simple:</p>
+<p><strong>Landlord pays all utilities:</strong></p>
+<ul>
+<li>Absorbs 100% of utility costs</li>
+<li>No tenant incentive to conserve</li>
+<li>Utility costs directly reduce NOI</li>
+<li>Rent may be slightly higher but typically not enough to fully compensate</li>
+</ul>
+<p><strong>Tenant pays all utilities:</strong></p>
+<ul>
+<li>Landlord has zero utility expense</li>
+<li>Tenants have incentive to conserve</li>
+<li>Requires individual metering or billing structure</li>
+<li>Rent may need to be slightly lower in some markets</li>
+</ul>
+<p>In practice, many properties — especially older multifamily buildings — were built without individual metering, making direct billing impossible without capital investment. This is where RUBS and submetering come in.</p>
+<h2 id="option-1-individual-metering-master-metering">Option 1: Individual Metering (Master Metering)</h2>
+<p>In properties with individual meters for each unit, utility billing is straightforward: each tenant establishes service in their own name and pays directly. The landlord has no utility expense related to that utility.</p>
+<p><strong>Best for</strong>: Single-family rentals, newer apartment buildings, any property built with individual meters</p>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>Zero landlord exposure to utility cost increases</li>
+<li>Natural conservation incentive for tenants</li>
+<li>Simplest administrative structure</li>
+</ul>
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li>Requires utility cooperation to transfer service between tenants (a logistical consideration at turnover)</li>
+<li>Not feasible for older properties without individual meters</li>
+<li>Common area and exterior utilities remain landlord-paid</li>
+</ul>
+<p>For properties with existing individual meters, ensure your lease clearly states that tenants are responsible for establishing service in their name before move-in. Account for any period between tenancies when the landlord must temporarily hold service.</p>
+<h2 id="option-2-rubs-ratio-utility-billing-system">Option 2: RUBS — Ratio Utility Billing System</h2>
+<p>RUBS is the most common approach for multifamily properties that do not have individual meters. The landlord pays the master utility bill and then allocates costs to tenants based on a formula.</p>
+<p><strong>Common RUBS allocation formulas:</strong></p>
+<ul>
+<li><strong>Per unit</strong>: Each unit pays an equal share (simple but ignores unit size differences)</li>
+<li><strong>By occupancy</strong>: Costs allocated by the number of occupants per unit</li>
+<li><strong>By square footage</strong>: Costs allocated proportionally by unit size</li>
+<li><strong>Hybrid</strong>: Combining occupancy and square footage factors</li>
+</ul>
+<p><strong>Example:</strong> A 12-unit building has a monthly water bill of $900. Under square footage RUBS, a 900 sq ft unit in a building with 10,800 total square feet pays $900 × (900/10,800) = <strong>$75/month</strong>.</p>
+<p><strong>Best for</strong>: Older multifamily properties without individual meters where submetering installation would be expensive</p>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>No capital investment required</li>
+<li>Shifts some utility cost burden to tenants</li>
+<li>Legal in most states (with proper notice and lease provisions)</li>
+<li>Reduces landlord utility expense by 70–90% in typical applications</li>
+</ul>
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li>Not as accurate as submetering — tenants do not pay for their exact usage</li>
+<li>Some states have specific regulations on RUBS administration and billing transparency</li>
+<li>May face tenant resistance without clear communication</li>
+<li>Typically landlords recover 70–90% of utility costs, not 100%, because a small percentage is retained for common areas and building systems</li>
+</ul>
+<p><strong>Legal considerations</strong>: RUBS regulations vary significantly by state. Many states require specific disclosure language, billing format requirements, and prohibit billing tenants more than the actual utility cost. Verify your state's requirements before implementing.</p>
+<h2 id="option-3-submetering">Option 3: Submetering</h2>
+<p>Submetering involves installing individual meters for each unit (even on a property with a single master meter). A third-party billing company reads the submeters and bills tenants directly for their measured usage, usually at the utility's rate plus a small administrative fee.</p>
+<p><strong>Best for</strong>: Larger multifamily properties where the cost of submeter installation is justified by the utility savings; properties with high utility costs or heavy utility usage</p>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>Most accurate billing — tenants pay exactly for what they use</li>
+<li>Maximum conservation incentive</li>
+<li>Can achieve near-100% cost recovery</li>
+</ul>
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li>Significant upfront capital investment (typically $200–$600 per unit for water submeters; more for electric)</li>
+<li>Ongoing third-party billing fees</li>
+<li>Regulatory requirements vary by state</li>
+<li>Some states require landlords to charge only the utility's tariff rate to tenants</li>
+</ul>
+<p><strong>Typical payback period</strong>: 2–5 years on the submeter installation cost, after which utility savings are nearly all recovered.</p>
+<p>Popular third-party submeter billing companies include <a href="https://www.novuswater.com" rel="noopener" target="_blank">Novus Utility Services</a> and other regional providers. These companies handle meter reading, billing, collections, and compliance reporting.</p>
+<h2 id="option-4-flat-fee-or-utility-allowance-inclusion">Option 4: Flat Fee or Utility Allowance Inclusion</h2>
+<p>Some landlords include utilities in the rent but charge a flat monthly fee (sometimes structured as a utility fee separate from base rent, sometimes rolled into the rent price). This approach is common for single-family rentals and smaller multifamily units.</p>
+<p><strong>How it works</strong>: Tenant pays a fixed monthly amount (say, $75) toward utilities regardless of actual usage. The landlord pays the bill and keeps the difference if usage is below the flat fee, or absorbs the excess if usage exceeds it.</p>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>Simple for tenants and landlord</li>
+<li>Predictable income contribution from tenants</li>
+<li>Useful in markets where "utilities included" is a marketing advantage</li>
+</ul>
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li>No conservation incentive for tenants</li>
+<li>Landlord bears the risk of above-average usage</li>
+<li>Needs periodic recalibration as utility rates change</li>
+</ul>
+<h2 id="option-5-landlord-pays-all-utilities">Option 5: Landlord Pays All Utilities</h2>
+<p>In some markets and property types, paying all utilities is standard practice and competitive necessity. Examples include furnished short-term rentals, some upscale apartments in high-demand markets, or properties where metering infrastructure simply does not exist and RUBS would be impractical.</p>
+<p>If you pay all utilities, focus on expense reduction strategies:</p>
+<ul>
+<li><a href="/blog/energy-efficiency-upgrades-rental">Energy efficiency upgrades</a> to reduce consumption</li>
+<li><a href="/blog/water-conservation-rental-property">Water conservation measures</a> to minimize water/sewer costs</li>
+<li><a href="/blog/smart-thermostat-rental-savings">Smart thermostats</a> and other technology to control HVAC costs</li>
+<li>Regular maintenance of appliances and systems to ensure efficient operation</li>
+</ul>
+<h2 id="choosing-the-right-approach-for-your-property">Choosing the Right Approach for Your Property</h2>
+<p>Use this decision framework:</p>
+<table>
+<thead>
+<tr>
+<th>Scenario</th>
+<th>Recommended Approach</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single-family with individual meter</td>
+<td>Tenant pays directly</td>
+</tr>
+<tr>
+<td>New multifamily with individual meters</td>
+<td>Tenant pays directly</td>
+</tr>
+<tr>
+<td>Older multifamily, no individual meters</td>
+<td>RUBS or submetering</td>
+</tr>
+<tr>
+<td>High-volume water users (laundry in units)</td>
+<td>Water submetering</td>
+</tr>
+<tr>
+<td>Short-term rental</td>
+<td>Landlord pays (build into nightly rate)</td>
+</tr>
+<tr>
+<td>Furnished units / student housing</td>
+<td>Flat fee inclusion</td>
+</tr>
+</tbody>
+</table>
+<h2 id="implementing-a-billing-change-tenant-communication">Implementing a Billing Change: Tenant Communication</h2>
+<p>Transitioning from a landlord-paid utility arrangement to RUBS or submetering requires careful tenant communication:</p>
+<ol>
+<li><strong>Review your leases</strong>: You typically cannot change billing arrangements mid-lease. Plan for implementation at lease renewal.</li>
+<li><strong>Provide advance notice</strong>: Most states require 30 days' written notice for any change in rental terms.</li>
+<li><strong>Be transparent</strong>: Explain the allocation methodology clearly. Tenants who understand the formula are less likely to dispute bills.</li>
+<li><strong>Adjust rent if necessary</strong>: If you are adding a utility billing component, a modest rent reduction may reduce tenant resistance and turnover risk.</li>
+<li><strong>Ensure lease compliance</strong>: Your lease must clearly describe the utility billing arrangement and comply with state-specific requirements.</li>
+</ol>
+<h2 id="financial-impact-projecting-your-savings">Financial Impact: Projecting Your Savings</h2>
+<p>For a 20-unit property where the landlord currently pays $400/unit/month in utilities ($96,000/year):</p>
+<ul>
+<li><strong>RUBS (recovering 80%)</strong>: Saves $76,800/year → At a 6% cap rate, adds $1,280,000 to property value</li>
+<li><strong>Submetering (recovering 95%)</strong>: Saves $91,200/year → At a 6% cap rate, adds $1,520,000 to property value</li>
+<li><strong>Minus submeter installation</strong> (20 units × $400): $(8,000) upfront</li>
+</ul>
+<p>The NOI impact of proper utility billing is one of the largest single levers available in multifamily investing. Combined with other <a href="/blog/reducing-rental-operating-expenses">expense reduction strategies</a> and an overall plan to <a href="/blog/maximize-rental-income-strategies">maximize rental income</a>, getting utility billing right can be transformative for your portfolio's financial performance.</p>
+<p>Track all utility expenses carefully in your <a href="/blog/rental-property-expense-tracking">rental property expense tracking</a> system so you have a clear baseline before and after any billing change — and can demonstrate the improvement to lenders and potential buyers.</p>
+17:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$1d"}}]
+18:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","utilities",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"utilities"}],["$","span","expense management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"expense management"}],["$","span","billing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"billing"}]]}]
+19:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Expense Management"]}],["$","$L10",null,{"href":"/blog/category/expense-management","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-capital-expenditure-planning",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-capital-expenditure-planning","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Capital Expenditure Planning"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-utility-management-and-billing",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-utility-management-and-billing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Utility Management and Billing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","co-living-space-capital-expenditure-planning",{"children":["$","$L10",null,{"href":"/blog/co-living-space-capital-expenditure-planning","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Co-Living Space Capital Expenditure Planning"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}],["$","li","co-living-space-utility-management-and-billing",{"children":["$","$L10",null,{"href":"/blog/co-living-space-utility-management-and-billing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Co-Living Space Utility Management and Billing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}]]}]]}]
+1a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","apartment-complex-capital-expenditure-planning",{"href":"/blog/apartment-complex-capital-expenditure-planning","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Expense Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Capital Expenditure Planning"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","apartment-complex-utility-management-and-billing",{"href":"/blog/apartment-complex-utility-management-and-billing","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Expense Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Utility Management and Billing"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","best-receipt-scanning-apps-landlords-2026",{"href":"/blog/best-receipt-scanning-apps-landlords-2026","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Expense Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Best Receipt Scanning Apps for Landlords in 2026"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}]]}]]}]
+1b:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-utility-billing-structure-matters",{"className":"","children":["$","a",null,{"href":"#why-utility-billing-structure-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Utility Billing Structure Matters"}]}],["$","li","option-1-individual-metering-master-metering",{"className":"","children":["$","a",null,{"href":"#option-1-individual-metering-master-metering","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 1: Individual Metering (Master Metering)"}]}],["$","li","option-2-rubs-ratio-utility-billing-system",{"className":"","children":["$","a",null,{"href":"#option-2-rubs-ratio-utility-billing-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 2: RUBS — Ratio Utility Billing System"}]}],["$","li","option-3-submetering",{"className":"","children":["$","a",null,{"href":"#option-3-submetering","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 3: Submetering"}]}],["$","li","option-4-flat-fee-or-utility-allowance-inclusion",{"className":"","children":["$","a",null,{"href":"#option-4-flat-fee-or-utility-allowance-inclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 4: Flat Fee or Utility Allowance Inclusion"}]}],["$","li","option-5-landlord-pays-all-utilities",{"className":"","children":["$","a",null,{"href":"#option-5-landlord-pays-all-utilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option 5: Landlord Pays All Utilities"}]}],["$","li","choosing-the-right-approach-for-your-property",{"className":"","children":["$","a",null,{"href":"#choosing-the-right-approach-for-your-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Choosing the Right Approach for Your Property"}]}],["$","li","implementing-a-billing-change-tenant-communication",{"className":"","children":["$","a",null,{"href":"#implementing-a-billing-change-tenant-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Implementing a Billing Change: Tenant Communication"}]}],["$","li","financial-impact-projecting-your-savings",{"className":"","children":["$","a",null,{"href":"#financial-impact-projecting-your-savings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Financial Impact: Projecting Your Savings"}]}]]}]]}]}]
+1c:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Utility Billing Options for Rental Properties | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Explore utility billing rental property options including individual metering, RUBS, submetering, and flat fee structures to reduce costs and improve NOI."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"utilities,expense management,billing"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/utility-billing-rental-property"}],["$","meta","6",{"property":"og:title","content":"Utility Billing Options for Rental Properties"}],["$","meta","7",{"property":"og:description","content":"Explore utility billing rental property options including individual metering, RUBS, submetering, and flat fee structures to reduce costs and improve NOI."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/utility-billing-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Utility Billing Options for Rental Properties"}],["$","meta","15",{"name":"twitter:description","content":"Explore utility billing rental property options including individual metering, RUBS, submetering, and flat fee structures to reduce costs and improve NOI."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

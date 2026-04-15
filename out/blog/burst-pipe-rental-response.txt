@@ -1,0 +1,251 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","burst-pipe-rental-response"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","burst-pipe-rental-response","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","burst-pipe-rental-response","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Burst Pipe Emergency Response for Landlords\",\"description\":\"A step-by-step burst pipe emergency response guide for landlords, covering immediate actions, tenant communication, water damage mitigation, and insurance claims.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/burst-pipe-rental-response\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Burst Pipe Emergency Response for Landlords\",\"item\":\"https://portfoliorental.com/blog/burst-pipe-rental-response\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Burst Pipe Emergency Response for Landlords"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-pipes-burst",{"className":"","children":["$","a",null,{"href":"#why-pipes-burst","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Pipes Burst"}]}],["$","li","immediate-emergency-response-protocol",{"className":"","children":["$","a",null,{"href":"#immediate-emergency-response-protocol","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Immediate Emergency Response Protocol"}]}],["$","li","step-1-shut-off-water-immediately",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-shut-off-water-immediately","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Shut Off Water Immediately"}]}],["$","li","step-2-turn-off-electricity-to-affected-areas",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}]]}],"$L2a","$L2b"]}],"$L2c","$L2d"]}],"$L2e"]}]]}],"$L2f"]
+11:["$","a",null,{"href":"#step-2-turn-off-electricity-to-affected-areas","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Turn Off Electricity to Affected Areas"}]
+12:["$","li","step-3-call-a-plumber-immediately",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-call-a-plumber-immediately","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Call a Plumber Immediately"}]}]
+13:["$","li","step-4-begin-water-removal",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-begin-water-removal","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Begin Water Removal"}]}]
+14:["$","li","step-5-call-a-water-damage-restoration-company",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-call-a-water-damage-restoration-company","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Call a Water Damage Restoration Company"}]}]
+15:["$","li","tenant-communication-during-a-burst-pipe-emergency",{"className":"","children":["$","a",null,{"href":"#tenant-communication-during-a-burst-pipe-emergency","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Communication During a Burst Pipe Emergency"}]}]
+16:["$","li","immediate-contact",{"className":"ml-4","children":["$","a",null,{"href":"#immediate-contact","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Immediate Contact"}]}]
+17:["$","li","documentation",{"className":"ml-4","children":["$","a",null,{"href":"#documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documentation"}]}]
+18:["$","li","relocation",{"className":"ml-4","children":["$","a",null,{"href":"#relocation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Relocation"}]}]
+19:["$","li","liability-who-pays-for-burst-pipe-damage",{"className":"","children":["$","a",null,{"href":"#liability-who-pays-for-burst-pipe-damage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Liability: Who Pays for Burst Pipe Damage?"}]}]
+1a:["$","li","landlord-liability-most-cases",{"className":"ml-4","children":["$","a",null,{"href":"#landlord-liability-most-cases","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Liability (Most Cases)"}]}]
+1b:["$","li","tenant-liability",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Liability"}]}]
+1c:["$","li","insurance-claims-for-burst-pipes",{"className":"","children":["$","a",null,{"href":"#insurance-claims-for-burst-pipes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance Claims for Burst Pipes"}]}]
+1d:["$","li","landlord-insurance-coverage",{"className":"ml-4","children":["$","a",null,{"href":"#landlord-insurance-coverage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Insurance Coverage"}]}]
+1e:["$","li","what-is-not-covered",{"className":"ml-4","children":["$","a",null,{"href":"#what-is-not-covered","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Not Covered"}]}]
+1f:["$","li","filing-the-claim",{"className":"ml-4","children":["$","a",null,{"href":"#filing-the-claim","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Filing the Claim"}]}]
+20:["$","li","pipe-repair-and-restoration",{"className":"","children":["$","a",null,{"href":"#pipe-repair-and-restoration","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pipe Repair and Restoration"}]}]
+21:["$","li","restoring-the-pipe-system",{"className":"","children":["$","a",null,{"href":"#restoring-the-pipe-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Restoring the Pipe System"}]}]
+22:["$","li","burst-pipe-prevention",{"className":"","children":["$","a",null,{"href":"#burst-pipe-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Burst Pipe Prevention"}]}]
+23:["$","li","winterization",{"className":"ml-4","children":["$","a",null,{"href":"#winterization","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winterization"}]}]
+24:["$","li","water-pressure-management",{"className":"ml-4","children":["$","a",null,{"href":"#water-pressure-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Water Pressure Management"}]}]
+25:["$","li","pipe-age-and-material-assessment",{"className":"ml-4","children":["$","a",null,{"href":"#pipe-age-and-material-assessment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pipe Age and Material Assessment"}]}]
+26:["$","li","water-leak-detection",{"className":"ml-4","children":["$","a",null,{"href":"#water-leak-detection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Water Leak Detection"}]}]
+27:["$","li","tenant-heating-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-heating-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Heating Requirements"}]}]
+28:["$","li","creating-a-burst-pipe-emergency-plan",{"className":"","children":["$","a",null,{"href":"#creating-a-burst-pipe-emergency-plan","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Creating a Burst Pipe Emergency Plan"}]}]
+29:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+30:T34b9,<p>A burst pipe is one of the most time-sensitive emergencies a rental property owner faces. Water escaping from a ruptured supply pipe flows at the full pressure of your building's water system — up to 60-80 PSI — which means even a moderate pipe failure can release hundreds of gallons before it is stopped. A burst pipe that goes undetected for hours can cause damage measured in tens of thousands of dollars.</p>
+<p>The landlords who minimize burst pipe damage are those who respond in minutes, not days. This guide gives you the precise emergency response protocol, the follow-up steps, and the prevention measures that reduce your risk before a pipe ever bursts.</p>
+<hr>
+<h2 id="why-pipes-burst">Why Pipes Burst</h2>
+<p>Understanding the cause helps you respond correctly and prevent recurrence:</p>
+<ul>
+<li><strong>Frozen pipes</strong> — The most common cause in cold climates. Water expands when it freezes and cracks the pipe; the burst typically occurs when the ice thaws, not during freezing.</li>
+<li><strong>Aging pipes</strong> — Galvanized steel and polybutylene pipes are prone to corrosion and failure; copper and PEX are more durable but can still fail at fittings</li>
+<li><strong>High water pressure</strong> — Sustained pressure above 80 PSI strains joints and fittings; a pressure reducing valve (PRV) should maintain pressure at 50-60 PSI</li>
+<li><strong>Physical damage</strong> — Improper drilling or nailing through walls, especially by tenants making repairs or hanging items</li>
+<li><strong>Root intrusion</strong> — Tree roots invading outdoor supply or drain lines can cause failure</li>
+<li><strong>Manufacturing defects</strong> — Recalled polybutylene pipe (a common issue in homes built 1978-1995) is particularly prone to failure. The <a href="https://www.cpsc.gov/Recalls">CPSC tracks product recalls</a> including plumbing components.</li>
+</ul>
+<hr>
+<h2 id="immediate-emergency-response-protocol">Immediate Emergency Response Protocol</h2>
+<h3 id="step-1-shut-off-water-immediately">Step 1: Shut Off Water Immediately</h3>
+<p>The moment you receive a burst pipe report (or discover one yourself):</p>
+<p><strong>Shut off the main water supply</strong> to the property. Every property owner should know the exact location of the main shut-off. Common locations:</p>
+<ul>
+<li>Inside the house near where the main line enters (basement, crawl space, mechanical room)</li>
+<li>In an exterior utility box near the foundation</li>
+<li>At the meter box at the street (requires a meter key)</li>
+</ul>
+<p>If you are not at the property, call the tenant immediately and walk them through shutting off the main supply. Every tenant should be given the location of the main shut-off at move-in — this instruction can save thousands of dollars.</p>
+<p>After shutting off the main supply, <strong>open all faucets</strong> throughout the unit to drain remaining water from the pipes and reduce further discharge.</p>
+<h3 id="step-2-turn-off-electricity-to-affected-areas">Step 2: Turn Off Electricity to Affected Areas</h3>
+<p>Water and electricity are a lethal combination. If water is near electrical outlets, the electrical panel, or any wiring:</p>
+<ul>
+<li>Shut off the circuit breakers to the affected areas</li>
+<li>Do not enter flooded areas with active electricity</li>
+<li>If in doubt, contact an electrician before re-entering the affected space</li>
+</ul>
+<h3 id="step-3-call-a-plumber-immediately">Step 3: Call a Plumber Immediately</h3>
+<p>Do not wait until business hours. Call your emergency plumber contact — you should have 24/7 plumber contacts on file for every property before any emergency occurs.</p>
+<p>Describe the situation including:</p>
+<ul>
+<li>The location of the burst (which pipe, which area of the house)</li>
+<li>Whether the water is shut off</li>
+<li>The extent of visible flooding</li>
+</ul>
+<h3 id="step-4-begin-water-removal">Step 4: Begin Water Removal</h3>
+<p>While waiting for the plumber, begin removing standing water:</p>
+<ul>
+<li>Use a wet/dry vacuum to extract water from hard floors</li>
+<li>Place buckets or containers under active drips</li>
+<li>Use mops and towels to remove water from surfaces</li>
+<li>Move furniture and belongings off wet floors if it is safe to do so</li>
+</ul>
+<h3 id="step-5-call-a-water-damage-restoration-company">Step 5: Call a Water Damage Restoration Company</h3>
+<p>For significant flooding (more than 50 square feet affected or water has penetrated walls or floors), call a professional water damage restoration service immediately. Companies like SERVPRO and ServiceMaster operate 24/7 and can begin extraction and drying within hours. Early professional drying dramatically reduces total repair costs and mold risk.</p>
+<hr>
+<h2 id="tenant-communication-during-a-burst-pipe-emergency">Tenant Communication During a Burst Pipe Emergency</h2>
+<h3 id="immediate-contact">Immediate Contact</h3>
+<p>If the tenant discovered the burst pipe:</p>
+<ul>
+<li>Thank them for reporting immediately</li>
+<li>Walk them through shutting off the main water supply if they have not done so</li>
+<li>Advise them on immediate safety precautions (electricity, slip hazards)</li>
+<li>Give them an estimated timeline for your arrival or the plumber's arrival</li>
+</ul>
+<h3 id="documentation">Documentation</h3>
+<p>Ask the tenant to:</p>
+<ul>
+<li>Leave the area as is for documentation before cleanup (if safe)</li>
+<li>Photograph everything they can see</li>
+<li>List any personal items that were damaged</li>
+</ul>
+<p>Remind them to file a claim with their renter's insurance for their personal property — your insurance covers the building, not their belongings. <a href="https://www.fema.gov/assistance/individual">FEMA offers disaster recovery</a> resources for severe water damage.</p>
+<h3 id="relocation">Relocation</h3>
+<p>If the unit is uninhabitable due to the burst pipe:</p>
+<ul>
+<li>Arrange alternative housing promptly (contact local hotels or extended-stay options)</li>
+<li>Provide a rent abatement for each day the unit is not habitable</li>
+<li>Communicate regularly about the repair and restoration timeline</li>
+</ul>
+<hr>
+<h2 id="liability-who-pays-for-burst-pipe-damage">Liability: Who Pays for Burst Pipe Damage?</h2>
+<p>Liability depends on the cause:</p>
+<h3 id="landlord-liability-most-cases">Landlord Liability (Most Cases)</h3>
+<p>Landlords are typically responsible when:</p>
+<ul>
+<li>The pipe burst due to aging, deferred maintenance, or pre-existing condition</li>
+<li>The landlord failed to properly winterize the property (failed to insulate exposed pipes)</li>
+<li>A pipe in an unheated space burst because the building was not properly configured for cold weather</li>
+</ul>
+<h3 id="tenant-liability">Tenant Liability</h3>
+<p>Tenants may bear responsibility when:</p>
+<ul>
+<li>The lease required the tenant to maintain heat at a minimum temperature (typically 55°F) and the tenant failed to do so</li>
+<li>The tenant disabled the heat while away for an extended period</li>
+<li>The tenant caused physical damage to the pipe through misuse (drilling, hammering)</li>
+</ul>
+<p>Even when the tenant is at fault, the landlord typically must arrange and fund repairs first, then pursue the tenant for reimbursement through the security deposit or civil action.</p>
+<hr>
+<h2 id="insurance-claims-for-burst-pipes">Insurance Claims for Burst Pipes</h2>
+<h3 id="landlord-insurance-coverage">Landlord Insurance Coverage</h3>
+<p>Most landlord insurance policies cover sudden and accidental water damage from burst pipes. Coverage typically includes:</p>
+<ul>
+<li>Repair of damaged pipes</li>
+<li>Water damage to building structure (flooring, walls, ceilings, insulation)</li>
+<li>Contents owned by the landlord</li>
+<li>Potentially, loss of rental income during repairs (if you have rental income coverage)</li>
+</ul>
+<h3 id="what-is-not-covered">What Is Not Covered</h3>
+<ul>
+<li>Gradual leaks (known for weeks without reporting or repair)</li>
+<li>Damage from neglected maintenance</li>
+<li>Tenant's personal property (covered by renter's insurance)</li>
+<li>Flooding from external water sources (requires separate <a href="https://www.floodsmart.gov/">flood insurance from NFIP</a>)</li>
+</ul>
+<h3 id="filing-the-claim">Filing the Claim</h3>
+<ol>
+<li>Document everything with photographs and video before cleanup begins</li>
+<li>Contact your insurer as soon as possible after stabilizing the emergency</li>
+<li>Request an adjuster visit before significant demolition or repair work</li>
+<li>Retain all receipts for emergency services, temporary housing, and repairs</li>
+<li>Get multiple contractor bids for repair work</li>
+</ol>
+<hr>
+<h2 id="pipe-repair-and-restoration">Pipe Repair and Restoration</h2>
+<p>After the plumber repairs the burst pipe and the water restoration company has completed drying:</p>
+<p><strong>Typical repairs after a significant burst pipe event:</strong></p>
+<ul>
+<li>Drywall replacement in affected walls and ceilings</li>
+<li>Flooring replacement (wet carpet, padding, laminate, or hardwood)</li>
+<li>Insulation replacement</li>
+<li>Painting</li>
+<li>Plumbing repair or replacement of affected section</li>
+</ul>
+<p><strong>Timeline:</strong> A significant burst pipe event typically requires 2-4 weeks for full restoration, depending on the extent of the damage and contractor availability.</p>
+<hr>
+<h2 id="restoring-the-pipe-system">Restoring the Pipe System</h2>
+<p>After the burst is repaired:</p>
+<ul>
+<li>Have a plumber inspect all pipes in unheated spaces for additional vulnerability</li>
+<li>Test water pressure — high pressure (above 80 PSI) accelerates future failures; install a PRV if pressure is excessive</li>
+<li>Insulate any pipes in unheated spaces that were not previously insulated</li>
+<li>Consider replacing any aging pipe runs identified during the repair work</li>
+</ul>
+<hr>
+<h2 id="burst-pipe-prevention">Burst Pipe Prevention</h2>
+<p>The best burst pipe response is the one you never have to execute. Prevention measures:</p>
+<h3 id="winterization">Winterization</h3>
+<ul>
+<li>Insulate all pipes in unheated spaces (attic, crawl space, garage, exterior walls)</li>
+<li>Shut off and drain exterior hose bibs before freezing temperatures</li>
+<li>Install heat tape on pipes at particular risk in extreme cold</li>
+<li>Verify heating systems are operational before the cold season</li>
+</ul>
+<p>For a comprehensive winterization approach, see our guide on <a href="/blog/winterizing-rental-property">winterizing your rental property</a>.</p>
+<h3 id="water-pressure-management">Water Pressure Management</h3>
+<ul>
+<li>Test water pressure at the main supply connection; should be 50-60 PSI</li>
+<li>Install a pressure reducing valve (PRV) if pressure exceeds 80 PSI; cost is $200-$400 installed</li>
+</ul>
+<h3 id="pipe-age-and-material-assessment">Pipe Age and Material Assessment</h3>
+<ul>
+<li>Identify any remaining polybutylene pipe (gray flexible plastic piping, common in homes built 1978-1995) and plan for replacement</li>
+<li>Galvanized steel pipes (found in older homes) corrode from the inside and should be replaced with copper or PEX when encountered during renovation</li>
+</ul>
+<h3 id="water-leak-detection">Water Leak Detection</h3>
+<p>Install water sensors near the highest-risk locations:</p>
+<ul>
+<li>Water heater</li>
+<li>Washing machine</li>
+<li>Under kitchen and bathroom sinks</li>
+<li>In the basement or crawl space</li>
+</ul>
+<p>Smart water sensors connect to Wi-Fi and send immediate alerts when they detect water — giving you minutes rather than hours to respond. Some systems can automatically shut off the water supply when a leak is detected. See our guide on <a href="/blog/water-leak-detection-rental">water leak detection systems for landlords</a> for options.</p>
+<h3 id="tenant-heating-requirements">Tenant Heating Requirements</h3>
+<p>Include in your lease:</p>
+<ul>
+<li>Minimum indoor temperature requirement (typically 55°F at all times, even when tenant is away)</li>
+<li>Requirement to notify landlord if heat is lost</li>
+<li>Responsibility allocation for damage caused by failure to maintain minimum temperature</li>
+</ul>
+<hr>
+<h2 id="creating-a-burst-pipe-emergency-plan">Creating a Burst Pipe Emergency Plan</h2>
+<p>Before any emergency occurs, prepare:</p>
+<ol>
+<li><strong>Document main shut-off locations</strong> for every property in a format accessible from your phone</li>
+<li><strong>Save emergency contacts</strong>: licensed 24/7 plumber, water damage restoration company</li>
+<li><strong>Provide tenant emergency instructions</strong> at move-in, including main shut-off location</li>
+<li><strong>Review your insurance policy</strong> so you understand coverage, deductibles, and claim procedures</li>
+</ol>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Burst pipe emergencies are won or lost in the first hour. Knowing your main shut-off locations, having plumber and restoration company contacts saved in your phone, and being able to guide tenants through immediate response steps before you arrive can mean the difference between a $3,000 repair and a $30,000 renovation. Prevention through proper winterization and water sensor installation eliminates most burst pipe events before they ever occur.</p>
+<p>For related guidance, see our articles on <a href="/blog/water-damage-rental-property">handling water damage in a rental property</a> and <a href="/blog/plumbing-maintenance-rental-property">plumbing maintenance for landlords</a>.</p>
+2a:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$30"}}]
+2b:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","burst pipe",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"burst pipe"}],["$","span","emergency maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"emergency maintenance"}],["$","span","water damage",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"water damage"}],["$","span","plumbing emergency",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"plumbing emergency"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}]]}]
+2c:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+2d:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","water-damage-rental-property",{"href":"/blog/water-damage-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Handling Water Damage in a Rental Property"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","foundation-issues-rental-property",{"href":"/blog/foundation-issues-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Identifying Foundation Issues in Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","ev-charging-station-rental",{"href":"/blog/ev-charging-station-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Adding EV Charging Stations to Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+2e:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-pipes-burst",{"className":"","children":["$","a",null,{"href":"#why-pipes-burst","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Pipes Burst"}]}],["$","li","immediate-emergency-response-protocol",{"className":"","children":["$","a",null,{"href":"#immediate-emergency-response-protocol","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Immediate Emergency Response Protocol"}]}],["$","li","step-1-shut-off-water-immediately",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-shut-off-water-immediately","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Shut Off Water Immediately"}]}],["$","li","step-2-turn-off-electricity-to-affected-areas",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-turn-off-electricity-to-affected-areas","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Turn Off Electricity to Affected Areas"}]}],["$","li","step-3-call-a-plumber-immediately",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-call-a-plumber-immediately","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Call a Plumber Immediately"}]}],["$","li","step-4-begin-water-removal",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-begin-water-removal","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Begin Water Removal"}]}],["$","li","step-5-call-a-water-damage-restoration-company",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-call-a-water-damage-restoration-company","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Call a Water Damage Restoration Company"}]}],["$","li","tenant-communication-during-a-burst-pipe-emergency",{"className":"","children":["$","a",null,{"href":"#tenant-communication-during-a-burst-pipe-emergency","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Communication During a Burst Pipe Emergency"}]}],["$","li","immediate-contact",{"className":"ml-4","children":["$","a",null,{"href":"#immediate-contact","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Immediate Contact"}]}],["$","li","documentation",{"className":"ml-4","children":["$","a",null,{"href":"#documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documentation"}]}],["$","li","relocation",{"className":"ml-4","children":["$","a",null,{"href":"#relocation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Relocation"}]}],["$","li","liability-who-pays-for-burst-pipe-damage",{"className":"","children":["$","a",null,{"href":"#liability-who-pays-for-burst-pipe-damage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Liability: Who Pays for Burst Pipe Damage?"}]}],["$","li","landlord-liability-most-cases",{"className":"ml-4","children":["$","a",null,{"href":"#landlord-liability-most-cases","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Liability (Most Cases)"}]}],["$","li","tenant-liability",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Liability"}]}],["$","li","insurance-claims-for-burst-pipes",{"className":"","children":["$","a",null,{"href":"#insurance-claims-for-burst-pipes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance Claims for Burst Pipes"}]}],"$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d"]}]]}]}]
+2f:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+31:["$","li","landlord-insurance-coverage",{"className":"ml-4","children":["$","a",null,{"href":"#landlord-insurance-coverage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Insurance Coverage"}]}]
+32:["$","li","what-is-not-covered",{"className":"ml-4","children":["$","a",null,{"href":"#what-is-not-covered","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Not Covered"}]}]
+33:["$","li","filing-the-claim",{"className":"ml-4","children":["$","a",null,{"href":"#filing-the-claim","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Filing the Claim"}]}]
+34:["$","li","pipe-repair-and-restoration",{"className":"","children":["$","a",null,{"href":"#pipe-repair-and-restoration","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pipe Repair and Restoration"}]}]
+35:["$","li","restoring-the-pipe-system",{"className":"","children":["$","a",null,{"href":"#restoring-the-pipe-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Restoring the Pipe System"}]}]
+36:["$","li","burst-pipe-prevention",{"className":"","children":["$","a",null,{"href":"#burst-pipe-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Burst Pipe Prevention"}]}]
+37:["$","li","winterization",{"className":"ml-4","children":["$","a",null,{"href":"#winterization","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winterization"}]}]
+38:["$","li","water-pressure-management",{"className":"ml-4","children":["$","a",null,{"href":"#water-pressure-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Water Pressure Management"}]}]
+39:["$","li","pipe-age-and-material-assessment",{"className":"ml-4","children":["$","a",null,{"href":"#pipe-age-and-material-assessment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pipe Age and Material Assessment"}]}]
+3a:["$","li","water-leak-detection",{"className":"ml-4","children":["$","a",null,{"href":"#water-leak-detection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Water Leak Detection"}]}]
+3b:["$","li","tenant-heating-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-heating-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Heating Requirements"}]}]
+3c:["$","li","creating-a-burst-pipe-emergency-plan",{"className":"","children":["$","a",null,{"href":"#creating-a-burst-pipe-emergency-plan","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Creating a Burst Pipe Emergency Plan"}]}]
+3d:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Burst Pipe Emergency Response for Landlords | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A step-by-step burst pipe emergency response guide for landlords, covering immediate actions, tenant communication, water damage mitigation, and insurance claims."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"burst pipe,emergency maintenance,water damage,plumbing emergency,landlord tips"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/burst-pipe-rental-response"}],["$","meta","6",{"property":"og:title","content":"Burst Pipe Emergency Response for Landlords"}],["$","meta","7",{"property":"og:description","content":"A step-by-step burst pipe emergency response guide for landlords, covering immediate actions, tenant communication, water damage mitigation, and insurance claims."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/burst-pipe-rental-response"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Burst Pipe Emergency Response for Landlords"}],["$","meta","15",{"name":"twitter:description","content":"A step-by-step burst pipe emergency response guide for landlords, covering immediate actions, tenant communication, water damage mitigation, and insurance claims."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

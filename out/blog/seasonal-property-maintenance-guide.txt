@@ -1,0 +1,421 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","seasonal-property-maintenance-guide"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","seasonal-property-maintenance-guide","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","seasonal-property-maintenance-guide","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Seasonal Property Maintenance Guide: Your Year-Round Checklist for Rental Properties\",\"description\":\"Keep your rental properties in top shape all year with this seasonal property maintenance guide. Covers spring, summer, fall, and winter tasks including.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/seasonal-property-maintenance-guide\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Seasonal Property Maintenance Guide: Your Year-Round Checklist for Rental Properties\",\"item\":\"https://portfoliorental.com/blog/seasonal-property-maintenance-guide\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Seasonal Property Maintenance Guide: Your Year-Round Checklist for Rental Properties"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[12," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","spring-maintenance-tasks-march-through-may",{"className":"","children":["$","a",null,{"href":"#spring-maintenance-tasks-march-through-may","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring Maintenance Tasks (March through May)"}]}],["$","li","exterior-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Inspection"}]}],["$","li","landscaping-kickoff",{"className":"ml-4","children":["$","a",null,{"href":"#landscaping-kickoff","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landscaping Kickoff"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32"]}]}]]}],"$L33","$L34"]}],"$L35","$L36"]}],"$L37"]}]]}],"$L38"]
+11:["$","li","spring-hvac-prep",{"className":"ml-4","children":["$","a",null,{"href":"#spring-hvac-prep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring HVAC Prep"}]}]
+12:["$","li","plumbing-checks",{"className":"ml-4","children":["$","a",null,{"href":"#plumbing-checks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing Checks"}]}]
+13:["$","li","pest-control",{"className":"ml-4","children":["$","a",null,{"href":"#pest-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pest Control"}]}]
+14:["$","li","summer-maintenance-tasks-june-through-august",{"className":"","children":["$","a",null,{"href":"#summer-maintenance-tasks-june-through-august","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summer Maintenance Tasks (June through August)"}]}]
+15:["$","li","exterior-maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Maintenance"}]}]
+16:["$","li","landscaping-upkeep",{"className":"ml-4","children":["$","a",null,{"href":"#landscaping-upkeep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landscaping Upkeep"}]}]
+17:["$","li","summer-hvac-management",{"className":"ml-4","children":["$","a",null,{"href":"#summer-hvac-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summer HVAC Management"}]}]
+18:["$","li","safety-checks",{"className":"ml-4","children":["$","a",null,{"href":"#safety-checks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Safety Checks"}]}]
+19:["$","li","pest-control",{"className":"ml-4","children":["$","a",null,{"href":"#pest-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pest Control"}]}]
+1a:["$","li","fall-maintenance-tasks-september-through-november",{"className":"","children":["$","a",null,{"href":"#fall-maintenance-tasks-september-through-november","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall Maintenance Tasks (September through November)"}]}]
+1b:["$","li","winterization-prep",{"className":"ml-4","children":["$","a",null,{"href":"#winterization-prep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winterization Prep"}]}]
+1c:["$","li","gutter-cleaning",{"className":"ml-4","children":["$","a",null,{"href":"#gutter-cleaning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Cleaning"}]}]
+1d:["$","li","fall-hvac-prep",{"className":"ml-4","children":["$","a",null,{"href":"#fall-hvac-prep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall HVAC Prep"}]}]
+1e:["$","li","roof-and-exterior",{"className":"ml-4","children":["$","a",null,{"href":"#roof-and-exterior","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Roof and Exterior"}]}]
+1f:["$","li","landscaping-wind-down",{"className":"ml-4","children":["$","a",null,{"href":"#landscaping-wind-down","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landscaping Wind-Down"}]}]
+20:["$","li","pest-control",{"className":"ml-4","children":["$","a",null,{"href":"#pest-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pest Control"}]}]
+21:["$","li","winter-maintenance-tasks-december-through-february",{"className":"","children":["$","a",null,{"href":"#winter-maintenance-tasks-december-through-february","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter Maintenance Tasks (December through February)"}]}]
+22:["$","li","snow-and-ice-management",{"className":"ml-4","children":["$","a",null,{"href":"#snow-and-ice-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Snow and Ice Management"}]}]
+23:["$","li","freeze-prevention",{"className":"ml-4","children":["$","a",null,{"href":"#freeze-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Freeze Prevention"}]}]
+24:["$","li","winter-hvac-monitoring",{"className":"ml-4","children":["$","a",null,{"href":"#winter-hvac-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter HVAC Monitoring"}]}]
+25:["$","li","interior-checks",{"className":"ml-4","children":["$","a",null,{"href":"#interior-checks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interior Checks"}]}]
+26:["$","li","winter-landscaping",{"className":"ml-4","children":["$","a",null,{"href":"#winter-landscaping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter Landscaping"}]}]
+27:["$","li","hvac-seasonal-prep-a-deeper-dive",{"className":"","children":["$","a",null,{"href":"#hvac-seasonal-prep-a-deeper-dive","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC Seasonal Prep: A Deeper Dive"}]}]
+28:["$","li","spring-and-summer-cooling",{"className":"ml-4","children":["$","a",null,{"href":"#spring-and-summer-cooling","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring and Summer (Cooling)"}]}]
+29:["$","li","fall-and-winter-heating",{"className":"ml-4","children":["$","a",null,{"href":"#fall-and-winter-heating","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall and Winter (Heating)"}]}]
+2a:["$","li","hvac-maintenance-costs",{"className":"ml-4","children":["$","a",null,{"href":"#hvac-maintenance-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC Maintenance Costs"}]}]
+2b:["$","li","tenant-communication-throughout-the-year",{"className":"","children":["$","a",null,{"href":"#tenant-communication-throughout-the-year","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Communication Throughout the Year"}]}]
+2c:["$","li","seasonal-newsletters-or-emails",{"className":"ml-4","children":["$","a",null,{"href":"#seasonal-newsletters-or-emails","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Seasonal Newsletters or Emails"}]}]
+2d:["$","li","give-advance-notice",{"className":"ml-4","children":["$","a",null,{"href":"#give-advance-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Give Advance Notice"}]}]
+2e:["$","li","empower-tenants-to-help",{"className":"ml-4","children":["$","a",null,{"href":"#empower-tenants-to-help","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Empower Tenants to Help"}]}]
+2f:["$","li","document-everything",{"className":"ml-4","children":["$","a",null,{"href":"#document-everything","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Document Everything"}]}]
+30:["$","li","creating-your-seasonal-maintenance-calendar",{"className":"","children":["$","a",null,{"href":"#creating-your-seasonal-maintenance-calendar","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Creating Your Seasonal Maintenance Calendar"}]}]
+31:["$","li","the-cost-of-skipping-seasonal-maintenance",{"className":"","children":["$","a",null,{"href":"#the-cost-of-skipping-seasonal-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Cost of Skipping Seasonal Maintenance"}]}]
+32:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+39:T50b5,<p>Rental properties need attention all year long. Each season brings different challenges, from frozen pipes in winter to overgrown landscaping in summer. A seasonal property maintenance guide helps you stay ahead of problems, protect your investment, and keep your tenants happy.</p>
+<p>The cost of preventive maintenance is always lower than the cost of emergency repairs. A $150 HVAC tune-up in the fall prevents a $3,000 furnace replacement in January. Cleaning gutters for $100 in the spring prevents $5,000 in water damage by summer. The math is clear: seasonal maintenance saves you money.</p>
+<p>This guide gives you a complete checklist for every season, plus tips on HVAC prep, landscaping, pest control, and tenant communication throughout the year.</p>
+<h2 id="spring-maintenance-tasks-march-through-may">Spring Maintenance Tasks (March through May)</h2>
+<p>Spring is the season for recovery and preparation. Winter takes a toll on buildings, and spring is your chance to assess the damage and get everything ready for the warmer months.</p>
+<h3 id="exterior-inspection">Exterior Inspection</h3>
+<p>Start with a full walk-around of the property:</p>
+<ul>
+<li><strong>Roof</strong>: Look for missing, cracked, or curled shingles. Check flashing around chimneys, vents, and skylights. Note any areas where ice dams may have caused damage.</li>
+<li><strong>Gutters and downspouts</strong>: Clean out leaves, debris, and ice damage. Make sure downspouts direct water at least 4 feet away from the foundation.</li>
+<li><strong>Siding</strong>: Check for cracks, holes, or loose panels. Look for signs of moisture damage or pest entry points.</li>
+<li><strong>Foundation</strong>: Walk the perimeter and look for new cracks or shifting. Check that the ground slopes away from the foundation for proper drainage.</li>
+<li><strong>Windows and doors</strong>: Inspect caulking and weatherstripping. Replace anything that is cracked, peeling, or missing.</li>
+<li><strong>Walkways and driveways</strong>: Repair cracks caused by freeze-thaw cycles. Fill potholes. Reseal asphalt if needed.</li>
+<li><strong>Decks and porches</strong>: Check for loose boards, rusted nails, and structural issues. Clean and reseal wood surfaces.</li>
+</ul>
+<h3 id="landscaping-kickoff">Landscaping Kickoff</h3>
+<p>Spring is when your landscaping comes back to life:</p>
+<ul>
+<li>Clean up fallen branches and winter debris</li>
+<li>Prune trees and shrubs before new growth starts</li>
+<li>Edge sidewalks and garden beds</li>
+<li>Apply pre-emergent weed control</li>
+<li>Reseed bare patches in the lawn</li>
+<li>Mulch garden beds (2 to 3 inches deep)</li>
+<li>Start regular mowing once grass begins growing</li>
+<li>Check irrigation systems and repair any winter damage</li>
+<li>Trim tree branches that hang over the roof or touch the building</li>
+</ul>
+<h3 id="spring-hvac-prep">Spring HVAC Prep</h3>
+<p>Get the cooling system ready before the first hot day:</p>
+<ul>
+<li>Schedule a professional AC tune-up ($75 to $150)</li>
+<li>Replace or clean all HVAC filters</li>
+<li>Clean AC condenser coils and clear debris from around outdoor units</li>
+<li>Test the AC system and check refrigerant levels</li>
+<li>Clean or replace humidifier pads if applicable</li>
+<li>Open and clean supply vents throughout the unit</li>
+</ul>
+<h3 id="plumbing-checks">Plumbing Checks</h3>
+<ul>
+<li>Inspect outdoor faucets for freeze damage (turn them on and check for leaks)</li>
+<li>Check hose bibs and exterior pipes</li>
+<li>Test sump pumps (pour water in the pit to trigger the pump)</li>
+<li>Inspect water heater for signs of corrosion or leaks</li>
+<li>Check all interior faucets, toilets, and drains for slow leaks</li>
+</ul>
+<h3 id="pest-control">Pest Control</h3>
+<p>Spring is when pests wake up and start looking for homes:</p>
+<ul>
+<li>Inspect the foundation for entry points and seal them</li>
+<li>Check for signs of carpenter ants, termites, or other wood-destroying insects</li>
+<li>Clear standing water to prevent mosquitoes</li>
+<li>Move woodpiles and mulch away from the foundation</li>
+<li>Schedule a professional pest inspection if needed</li>
+<li>Set out ant baits and traps in common areas</li>
+</ul>
+<p>Refer to your <a href="/blog/rental-property-maintenance-checklist">rental property maintenance checklist</a> to make sure nothing gets missed.</p>
+<h2 id="summer-maintenance-tasks-june-through-august">Summer Maintenance Tasks (June through August)</h2>
+<p>Summer is about keeping things running smoothly and tackling outdoor projects while the weather is good.</p>
+<h3 id="exterior-maintenance">Exterior Maintenance</h3>
+<ul>
+<li><strong>Paint and stain</strong>: Summer is the best time for exterior painting and staining. Tackle any peeling or fading surfaces.</li>
+<li><strong>Power washing</strong>: Clean siding, walkways, patios, and driveways. This is a low-cost task that makes a big visual impact.</li>
+<li><strong>Fence repair</strong>: Fix leaning posts, broken boards, and rusted hardware.</li>
+<li><strong>Parking lot maintenance</strong>: Seal cracks, repaint lines, and repair potholes.</li>
+<li><strong>Window cleaning</strong>: Clean exterior windows for better curb appeal and natural light.</li>
+</ul>
+<h3 id="landscaping-upkeep">Landscaping Upkeep</h3>
+<p>Summer landscaping requires consistent attention:</p>
+<ul>
+<li>Mow lawns weekly (never cut more than one-third of the grass height at once)</li>
+<li>Water deeply but infrequently (1 inch per week for most lawns)</li>
+<li>Weed regularly to prevent spreading</li>
+<li>Trim hedges and shrubs as needed</li>
+<li>Deadhead flowers to keep them blooming</li>
+<li>Monitor irrigation systems for leaks or broken heads</li>
+<li>Watch for brown patches that may indicate grub damage or disease</li>
+</ul>
+<h3 id="summer-hvac-management">Summer HVAC Management</h3>
+<p>Your AC system works hardest in summer:</p>
+<ul>
+<li>Check filters monthly and replace as needed</li>
+<li>Keep outdoor units clear of debris, plants, and obstructions (2 feet of clearance minimum)</li>
+<li>Monitor energy bills for sudden spikes (which may indicate a problem)</li>
+<li>Make sure all vents are open and unblocked inside the unit</li>
+<li>Address any tenant complaints about cooling quickly, as small problems become big ones fast in summer heat</li>
+</ul>
+<h3 id="safety-checks">Safety Checks</h3>
+<ul>
+<li>Test all smoke detectors and carbon monoxide detectors</li>
+<li>Check fire extinguishers (replace if expired)</li>
+<li>Inspect outdoor lighting for burned-out bulbs and damaged fixtures</li>
+<li>Ensure all railings and stairs are sturdy and safe</li>
+<li>Check that address numbers are visible from the street (important for emergency responders)</li>
+</ul>
+<h3 id="pest-control">Pest Control</h3>
+<p>Summer brings its own pest challenges:</p>
+<ul>
+<li>Monitor for wasps, hornets, and yellow jackets (especially around eaves and decks)</li>
+<li>Check for ant trails and treat as needed</li>
+<li>Look for signs of rodents around trash areas and entry points</li>
+<li>Keep grass short and bushes trimmed to reduce hiding spots for pests</li>
+<li>Ensure trash cans have tight-fitting lids</li>
+</ul>
+<h2 id="fall-maintenance-tasks-september-through-november">Fall Maintenance Tasks (September through November)</h2>
+<p>Fall is all about preparing for winter. The work you do now prevents expensive problems when temperatures drop.</p>
+<h3 id="winterization-prep">Winterization Prep</h3>
+<ul>
+<li><strong>Drain and shut off exterior water lines</strong>: Disconnect garden hoses. Shut off and drain outdoor faucet supply lines. Blow out irrigation systems.</li>
+<li><strong>Insulate pipes</strong>: Add insulation to pipes in unheated areas like crawl spaces, attics, and garages.</li>
+<li><strong>Check weatherstripping</strong>: Replace worn weatherstripping on all doors and windows. The <a href="https://www.energy.gov/" rel="noopener" target="_blank">U.S. Department of Energy's weatherization guidelines</a> recommend sealing all air leaks before adding insulation for maximum energy efficiency.</li>
+<li><strong>Caulk gaps</strong>: Seal any gaps around windows, doors, pipes, and wires entering the building.</li>
+<li><strong>Inspect insulation</strong>: Check attic insulation levels. Add more if needed (R-38 to R-60 for most climates).</li>
+<li><strong>Storm windows</strong>: Install storm windows if your property has them. Make sure they seal properly.</li>
+</ul>
+<h3 id="gutter-cleaning">Gutter Cleaning</h3>
+<p>Fall gutter cleaning is one of the most important seasonal tasks:</p>
+<ul>
+<li>Clean all gutters and downspouts after the leaves have fallen</li>
+<li>Check for proper pitch (gutters should slope toward downspouts)</li>
+<li>Repair any leaking joints or damaged sections</li>
+<li>Make sure downspouts direct water well away from the foundation</li>
+<li>Consider installing gutter guards to reduce future cleaning</li>
+</ul>
+<p>Clogged gutters cause ice dams, foundation damage, and roof leaks. This $100 to $200 cleaning can save you thousands in repairs.</p>
+<h3 id="fall-hvac-prep">Fall HVAC Prep</h3>
+<p>Get the heating system ready before cold weather arrives:</p>
+<ul>
+<li>Schedule a professional furnace or boiler tune-up ($80 to $150)</li>
+<li>Replace all HVAC filters</li>
+<li>Bleed radiators if you have a hot water heating system</li>
+<li>Test the thermostat to make sure it switches to heating mode</li>
+<li>Clean and inspect the chimney and fireplace if applicable</li>
+<li>Check carbon monoxide detectors near all fuel-burning appliances</li>
+<li>Stock up on furnace filters for the winter months</li>
+</ul>
+<p>Set up a <a href="/blog/preventive-maintenance-schedule-rental">preventive maintenance schedule</a> so these tasks happen automatically each year.</p>
+<h3 id="roof-and-exterior">Roof and Exterior</h3>
+<ul>
+<li>Inspect the roof one more time before winter</li>
+<li>Clear all debris from the roof surface</li>
+<li>Check flashing and sealant around penetrations</li>
+<li>Trim any tree branches hanging over the roof</li>
+<li>Inspect and repair mortar joints on brick buildings</li>
+<li>Check and repair any exterior cracks that could let water in and freeze</li>
+</ul>
+<h3 id="landscaping-wind-down">Landscaping Wind-Down</h3>
+<ul>
+<li>Rake and remove fallen leaves from lawns and garden beds</li>
+<li>Apply fall fertilizer to lawns</li>
+<li>Plant spring-blooming bulbs</li>
+<li>Cut back perennials after first frost</li>
+<li>Protect tender plants with burlap or mulch</li>
+<li>Drain and store garden hoses</li>
+<li>Winterize lawn mowers and outdoor equipment</li>
+</ul>
+<h3 id="pest-control">Pest Control</h3>
+<p>Fall is when mice and other rodents look for warm winter shelter:</p>
+<ul>
+<li>Seal all entry points larger than a quarter inch (mice can squeeze through surprisingly small gaps)</li>
+<li>Set traps in basements, attics, and crawl spaces</li>
+<li>Remove food sources (bird feeders near buildings, fallen fruit, accessible trash)</li>
+<li>Trim vegetation away from the building</li>
+<li>Inspect for stink bugs and ladybeetles, which seek indoor shelter in fall</li>
+</ul>
+<h2 id="winter-maintenance-tasks-december-through-february">Winter Maintenance Tasks (December through February)</h2>
+<p>Winter maintenance focuses on keeping systems running, preventing weather damage, and responding quickly to cold-weather emergencies.</p>
+<h3 id="snow-and-ice-management">Snow and Ice Management</h3>
+<ul>
+<li><strong>Snow removal</strong>: Keep walkways, driveways, and parking areas clear. Know your local ordinances for snow removal timelines.</li>
+<li><strong>Ice treatment</strong>: Apply salt or ice melt to prevent slips and falls. Use sand for traction on steep areas.</li>
+<li><strong>Roof snow</strong>: Monitor snow accumulation on roofs. Remove if it exceeds safe load limits (typically 20 to 25 pounds per square foot).</li>
+<li><strong>Ice dams</strong>: Watch for ice dams along roof edges. Address them quickly to prevent water intrusion.</li>
+<li><strong>Liability</strong>: Document your snow and ice removal efforts in case of slip-and-fall claims.</li>
+</ul>
+<h3 id="freeze-prevention">Freeze Prevention</h3>
+<p>Frozen pipes are one of the most common and expensive winter emergencies:</p>
+<ul>
+<li>Keep building heat at a minimum of 55 degrees Fahrenheit, even in vacant units</li>
+<li>Open cabinet doors under sinks on exterior walls during extreme cold</li>
+<li>Let faucets drip during severe freezes (a slow drip prevents freezing)</li>
+<li>Monitor weather forecasts and take extra precautions when temperatures drop below 20 degrees</li>
+<li>Know where the main water shutoff is in every property</li>
+</ul>
+<h3 id="winter-hvac-monitoring">Winter HVAC Monitoring</h3>
+<ul>
+<li>Check filters monthly (heating systems push more air, so filters clog faster)</li>
+<li>Monitor heating bills for unexpected increases</li>
+<li>Respond immediately to any heating complaints from tenants</li>
+<li>Keep a backup plan (space heaters, portable radiators) in case the primary system fails</li>
+<li>Schedule emergency heating repair contacts before you need them</li>
+</ul>
+<h3 id="interior-checks">Interior Checks</h3>
+<ul>
+<li>Check for drafts around windows and doors</li>
+<li>Look for condensation on windows (a sign of humidity problems)</li>
+<li>Inspect attics for ice dam-related leaks</li>
+<li>Monitor for signs of frozen pipes (reduced water flow, frost on pipes)</li>
+<li>Test all safety devices (smoke detectors, CO detectors)</li>
+</ul>
+<h3 id="winter-landscaping">Winter Landscaping</h3>
+<p>Even though growth has stopped, there are still tasks to handle:</p>
+<ul>
+<li>Protect exposed plants and shrubs from heavy snow</li>
+<li>Prune dead branches that could fall under snow or ice weight</li>
+<li>Plan spring landscaping projects during the slow season</li>
+<li>Order materials and schedule vendors for spring work</li>
+</ul>
+<p>For detailed cost planning across all seasons, check our guide on <a href="/blog/property-maintenance-cost-budgeting">property maintenance cost budgeting</a>.</p>
+<h2 id="hvac-seasonal-prep-a-deeper-dive">HVAC Seasonal Prep: A Deeper Dive</h2>
+<p>HVAC systems are your biggest maintenance expense and your tenants' top comfort concern. Here is a more detailed look at seasonal HVAC care.</p>
+<h3 id="spring-and-summer-cooling">Spring and Summer (Cooling)</h3>
+<ol>
+<li>Replace air filters (do this monthly during heavy use)</li>
+<li>Clean evaporator and condenser coils</li>
+<li>Check refrigerant levels</li>
+<li>Inspect and clean condensate drain lines</li>
+<li>Test thermostat accuracy</li>
+<li>Lubricate moving parts</li>
+<li>Check electrical connections and voltage</li>
+<li>Inspect ductwork for leaks</li>
+</ol>
+<h3 id="fall-and-winter-heating">Fall and Winter (Heating)</h3>
+<ol>
+<li>Replace air filters</li>
+<li>Clean or replace the furnace igniter</li>
+<li>Inspect the heat exchanger for cracks (critical safety issue)</li>
+<li>Check the gas valve and connections</li>
+<li>Test safety controls</li>
+<li>Clean the blower assembly</li>
+<li>Inspect exhaust flue for blockages</li>
+<li>Test carbon monoxide levels</li>
+</ol>
+<h3 id="hvac-maintenance-costs">HVAC Maintenance Costs</h3>
+<p>Budget for these annual HVAC maintenance costs:</p>
+<ul>
+<li>Spring AC tune-up: $75 to $150</li>
+<li>Fall furnace tune-up: $80 to $150</li>
+<li>Filters (replaced 4 to 6 times per year): $40 to $120</li>
+<li>Minor repairs and adjustments: $100 to $300</li>
+</ul>
+<p>Total annual HVAC maintenance: $295 to $720 per unit. This is far less than the $3,000 to $8,000 cost of replacing a system that failed due to neglect.</p>
+<h2 id="tenant-communication-throughout-the-year">Tenant Communication Throughout the Year</h2>
+<p>Good seasonal maintenance requires cooperation from your tenants. Keep them informed and involved.</p>
+<h3 id="seasonal-newsletters-or-emails">Seasonal Newsletters or Emails</h3>
+<p>Send tenants a brief note at the start of each season covering:</p>
+<ul>
+<li>What maintenance you will be doing (and when)</li>
+<li>What you need from them (access for inspections, moving items away from vents)</li>
+<li>Seasonal tips for their unit (how to report ice, when to change their own filters)</li>
+<li>Contact information for maintenance requests</li>
+</ul>
+<h3 id="give-advance-notice">Give Advance Notice</h3>
+<p>For any maintenance that requires property access, give tenants proper notice (usually 24 to 48 hours, depending on your state). Include:</p>
+<ul>
+<li>Date and time window</li>
+<li>What work will be done</li>
+<li>How long it will take</li>
+<li>Whether they need to be home</li>
+</ul>
+<h3 id="empower-tenants-to-help">Empower Tenants to Help</h3>
+<p>Teach tenants simple tasks that prevent big problems:</p>
+<ul>
+<li>How to change HVAC filters (if this is their responsibility per the lease)</li>
+<li>How to shut off the main water valve in an emergency</li>
+<li>When and how to report maintenance issues</li>
+<li>How to prevent frozen pipes during cold snaps</li>
+<li>When to clean dryer vents</li>
+</ul>
+<h3 id="document-everything">Document Everything</h3>
+<p>Keep records of all seasonal maintenance:</p>
+<ul>
+<li>What was done and when</li>
+<li>Who performed the work</li>
+<li>What it cost</li>
+<li>Any issues found and follow-up needed</li>
+<li>Photos of completed work</li>
+</ul>
+<p>This documentation protects you in liability cases, helps with insurance claims, and makes <a href="/blog/property-maintenance-cost-budgeting">budgeting for maintenance</a> more accurate over time.</p>
+<h2 id="creating-your-seasonal-maintenance-calendar">Creating Your Seasonal Maintenance Calendar</h2>
+<p>Put it all together in a simple calendar. Here is a month-by-month overview:</p>
+<p>Use resources like <a href="https://www.weather.gov/" rel="noopener" target="_blank">the National Weather Service</a> to track seasonal weather patterns and time your maintenance tasks accordingly.</p>
+<p><strong>January</strong>: Winter inspection, check heating systems, monitor for ice dams
+<strong>February</strong>: Plan spring projects, order materials, schedule vendors
+<strong>March</strong>: Begin spring exterior inspection, clean gutters, test sump pumps
+<strong>April</strong>: HVAC spring tune-up, landscaping kickoff, pest inspection
+<strong>May</strong>: Exterior repairs, painting prep, irrigation system startup
+<strong>June</strong>: Exterior painting and staining, power washing, safety checks
+<strong>July</strong>: Mid-summer landscaping check, HVAC filter replacement, pest monitoring
+<strong>August</strong>: Pre-fall planning, schedule fall HVAC tune-up, roof inspection
+<strong>September</strong>: Begin winterization, gutter cleaning, seal gaps and cracks
+<strong>October</strong>: Furnace tune-up, final landscaping tasks, drain exterior water lines
+<strong>November</strong>: Final winterization, storm window installation, freeze prevention
+<strong>December</strong>: Winter monitoring, snow and ice management, interior checks</p>
+<h2 id="the-cost-of-skipping-seasonal-maintenance">The Cost of Skipping Seasonal Maintenance</h2>
+<p>To drive the point home, here is what neglecting seasonal tasks can cost:</p>
+<table>
+<thead>
+<tr>
+<th>Skipped Task</th>
+<th>Cost of Task</th>
+<th>Cost of Resulting Repair</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gutter cleaning</td>
+<td>$100 to $200</td>
+<td>$2,000 to $10,000 (water damage)</td>
+</tr>
+<tr>
+<td>HVAC tune-up</td>
+<td>$75 to $150</td>
+<td>$3,000 to $8,000 (system replacement)</td>
+</tr>
+<tr>
+<td>Pipe insulation</td>
+<td>$50 to $200</td>
+<td>$1,000 to $10,000 (burst pipe damage)</td>
+</tr>
+<tr>
+<td>Roof inspection</td>
+<td>$100 to $300</td>
+<td>$5,000 to $15,000 (major roof repair)</td>
+</tr>
+<tr>
+<td>Pest prevention</td>
+<td>$100 to $200</td>
+<td>$2,000 to $20,000 (termite damage)</td>
+</tr>
+<tr>
+<td>Caulking and sealing</td>
+<td>$50 to $100</td>
+<td>$1,000 to $5,000 (water intrusion)</td>
+</tr>
+</tbody>
+</table>
+<p>The pattern is clear. Every dollar you spend on preventive maintenance saves $10 to $50 in emergency repairs.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>A seasonal property maintenance guide is not just a nice-to-have. It is essential for protecting your investment, keeping your tenants happy, and controlling your costs. Print out this checklist, customize it for your properties and climate, and follow it faithfully. Your future self (and your bank account) will thank you.</p>
+<p>Pair this guide with a solid <a href="/blog/rental-property-maintenance-checklist">maintenance checklist</a> and a <a href="/blog/preventive-maintenance-schedule-rental">preventive maintenance schedule</a>, and you will have a complete system that keeps your properties in excellent condition all year long.</p>
+33:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$39"}}]
+34:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","rental operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental operations"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","maintenance operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"maintenance operations"}],["$","span","seasonal property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"seasonal property maintenance"}]]}]
+35:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+36:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","emergency-maintenance-rental-property",{"href":"/blog/emergency-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Emergency Maintenance for Rental Properties: A Landlord's Response Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}],["$","$L10","reduce-maintenance-costs-rental",{"href":"/blog/reduce-maintenance-costs-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Reduce Maintenance Costs on Rental Properties Without Cutting Corners"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","preventive-maintenance-schedule-rental",{"href":"/blog/preventive-maintenance-schedule-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Preventive Maintenance Schedule for Rental Properties: A Landlord's Year-Round Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}]]}]]}]
+37:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","spring-maintenance-tasks-march-through-may",{"className":"","children":["$","a",null,{"href":"#spring-maintenance-tasks-march-through-may","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring Maintenance Tasks (March through May)"}]}],["$","li","exterior-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Inspection"}]}],["$","li","landscaping-kickoff",{"className":"ml-4","children":["$","a",null,{"href":"#landscaping-kickoff","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landscaping Kickoff"}]}],["$","li","spring-hvac-prep",{"className":"ml-4","children":["$","a",null,{"href":"#spring-hvac-prep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring HVAC Prep"}]}],["$","li","plumbing-checks",{"className":"ml-4","children":["$","a",null,{"href":"#plumbing-checks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing Checks"}]}],["$","li","pest-control",{"className":"ml-4","children":["$","a",null,{"href":"#pest-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pest Control"}]}],["$","li","summer-maintenance-tasks-june-through-august",{"className":"","children":["$","a",null,{"href":"#summer-maintenance-tasks-june-through-august","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summer Maintenance Tasks (June through August)"}]}],["$","li","exterior-maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Maintenance"}]}],["$","li","landscaping-upkeep",{"className":"ml-4","children":["$","a",null,{"href":"#landscaping-upkeep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landscaping Upkeep"}]}],["$","li","summer-hvac-management",{"className":"ml-4","children":["$","a",null,{"href":"#summer-hvac-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summer HVAC Management"}]}],["$","li","safety-checks",{"className":"ml-4","children":["$","a",null,{"href":"#safety-checks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Safety Checks"}]}],["$","li","pest-control",{"className":"ml-4","children":["$","a",null,{"href":"#pest-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pest Control"}]}],["$","li","fall-maintenance-tasks-september-through-november",{"className":"","children":["$","a",null,{"href":"#fall-maintenance-tasks-september-through-november","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall Maintenance Tasks (September through November)"}]}],["$","li","winterization-prep",{"className":"ml-4","children":["$","a",null,{"href":"#winterization-prep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winterization Prep"}]}],["$","li","gutter-cleaning",{"className":"ml-4","children":["$","a",null,{"href":"#gutter-cleaning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Cleaning"}]}],["$","li","fall-hvac-prep",{"className":"ml-4","children":["$","a",null,{"href":"#fall-hvac-prep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall HVAC Prep"}]}],["$","li","roof-and-exterior",{"className":"ml-4","children":"$L3a"}],"$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e"]}]]}]}]
+38:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+3a:["$","a",null,{"href":"#roof-and-exterior","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Roof and Exterior"}]
+3b:["$","li","landscaping-wind-down",{"className":"ml-4","children":["$","a",null,{"href":"#landscaping-wind-down","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landscaping Wind-Down"}]}]
+3c:["$","li","pest-control",{"className":"ml-4","children":["$","a",null,{"href":"#pest-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pest Control"}]}]
+3d:["$","li","winter-maintenance-tasks-december-through-february",{"className":"","children":["$","a",null,{"href":"#winter-maintenance-tasks-december-through-february","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter Maintenance Tasks (December through February)"}]}]
+3e:["$","li","snow-and-ice-management",{"className":"ml-4","children":["$","a",null,{"href":"#snow-and-ice-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Snow and Ice Management"}]}]
+3f:["$","li","freeze-prevention",{"className":"ml-4","children":["$","a",null,{"href":"#freeze-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Freeze Prevention"}]}]
+40:["$","li","winter-hvac-monitoring",{"className":"ml-4","children":["$","a",null,{"href":"#winter-hvac-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter HVAC Monitoring"}]}]
+41:["$","li","interior-checks",{"className":"ml-4","children":["$","a",null,{"href":"#interior-checks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interior Checks"}]}]
+42:["$","li","winter-landscaping",{"className":"ml-4","children":["$","a",null,{"href":"#winter-landscaping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter Landscaping"}]}]
+43:["$","li","hvac-seasonal-prep-a-deeper-dive",{"className":"","children":["$","a",null,{"href":"#hvac-seasonal-prep-a-deeper-dive","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC Seasonal Prep: A Deeper Dive"}]}]
+44:["$","li","spring-and-summer-cooling",{"className":"ml-4","children":["$","a",null,{"href":"#spring-and-summer-cooling","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring and Summer (Cooling)"}]}]
+45:["$","li","fall-and-winter-heating",{"className":"ml-4","children":["$","a",null,{"href":"#fall-and-winter-heating","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall and Winter (Heating)"}]}]
+46:["$","li","hvac-maintenance-costs",{"className":"ml-4","children":["$","a",null,{"href":"#hvac-maintenance-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC Maintenance Costs"}]}]
+47:["$","li","tenant-communication-throughout-the-year",{"className":"","children":["$","a",null,{"href":"#tenant-communication-throughout-the-year","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Communication Throughout the Year"}]}]
+48:["$","li","seasonal-newsletters-or-emails",{"className":"ml-4","children":["$","a",null,{"href":"#seasonal-newsletters-or-emails","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Seasonal Newsletters or Emails"}]}]
+49:["$","li","give-advance-notice",{"className":"ml-4","children":["$","a",null,{"href":"#give-advance-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Give Advance Notice"}]}]
+4a:["$","li","empower-tenants-to-help",{"className":"ml-4","children":["$","a",null,{"href":"#empower-tenants-to-help","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Empower Tenants to Help"}]}]
+4b:["$","li","document-everything",{"className":"ml-4","children":["$","a",null,{"href":"#document-everything","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Document Everything"}]}]
+4c:["$","li","creating-your-seasonal-maintenance-calendar",{"className":"","children":["$","a",null,{"href":"#creating-your-seasonal-maintenance-calendar","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Creating Your Seasonal Maintenance Calendar"}]}]
+4d:["$","li","the-cost-of-skipping-seasonal-maintenance",{"className":"","children":["$","a",null,{"href":"#the-cost-of-skipping-seasonal-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Cost of Skipping Seasonal Maintenance"}]}]
+4e:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Seasonal Property Maintenance Guide: Your Year-Round Checklist for Rental Properties | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Keep your rental properties in top shape all year with this seasonal property maintenance guide. Covers spring, summer, fall, and winter tasks including."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"property maintenance,rental operations,landlord tips,maintenance operations,seasonal property maintenance"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/seasonal-property-maintenance-guide"}],["$","meta","6",{"property":"og:title","content":"Seasonal Property Maintenance Guide: Your Year-Round Checklist for Rental Properties"}],["$","meta","7",{"property":"og:description","content":"Keep your rental properties in top shape all year with this seasonal property maintenance guide. Covers spring, summer, fall, and winter tasks including."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/seasonal-property-maintenance-guide"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Seasonal Property Maintenance Guide: Your Year-Round Checklist for Rental Properties"}],["$","meta","15",{"name":"twitter:description","content":"Keep your rental properties in top shape all year with this seasonal property maintenance guide. Covers spring, summer, fall, and winter tasks including."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,234 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","pet-friendly-vacation-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","pet-friendly-vacation-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pet-friendly-vacation-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Making Your Vacation Rental Pet-Friendly\",\"description\":\"Complete guide to making your vacation rental pet-friendly. Cover pet fees, damage prevention, must-have amenities, and marketing tips to attract pet-owner guests.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/pet-friendly-vacation-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Making Your Vacation Rental Pet-Friendly\",\"item\":\"https://portfoliorental.com/blog/pet-friendly-vacation-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Making Your Vacation Rental Pet-Friendly"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","should-you-accept-pets-the-business-case",{"className":"","children":["$","a",null,{"href":"#should-you-accept-pets-the-business-case","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Should You Accept Pets? The Business Case"}]}],["$","li","setting-up-your-pet-policy",{"className":"","children":["$","a",null,{"href":"#setting-up-your-pet-policy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Up Your Pet Policy"}]}],["$","li","key-policy-decisions",{"className":"ml-4","children":["$","a",null,{"href":"#key-policy-decisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Policy Decisions"}]}],["$","li","sample-pet-policy-language-for-your-listing",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]}]]}],"$L22","$L23"]}],"$L24","$L25"]}],"$L26"]}]]}],"$L27"]
+11:["$","a",null,{"href":"#sample-pet-policy-language-for-your-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sample Pet Policy Language (for Your Listing)"}]
+12:["$","li","protecting-your-property-from-pet-damage",{"className":"","children":["$","a",null,{"href":"#protecting-your-property-from-pet-damage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Protecting Your Property from Pet Damage"}]}]
+13:["$","li","flooring",{"className":"ml-4","children":["$","a",null,{"href":"#flooring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Flooring"}]}]
+14:["$","li","furniture",{"className":"ml-4","children":["$","a",null,{"href":"#furniture","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furniture"}]}]
+15:["$","li","bedding-and-linens",{"className":"ml-4","children":["$","a",null,{"href":"#bedding-and-linens","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedding and Linens"}]}]
+16:["$","li","odor-management",{"className":"ml-4","children":["$","a",null,{"href":"#odor-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Odor Management"}]}]
+17:["$","li","pet-friendly-amenities-to-include",{"className":"","children":["$","a",null,{"href":"#pet-friendly-amenities-to-include","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pet-Friendly Amenities to Include"}]}]
+18:["$","li","the-pet-welcome-kit",{"className":"ml-4","children":["$","a",null,{"href":"#the-pet-welcome-kit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Pet Welcome Kit"}]}]
+19:["$","li","outdoor-pet-amenities",{"className":"ml-4","children":["$","a",null,{"href":"#outdoor-pet-amenities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Outdoor Pet Amenities"}]}]
+1a:["$","li","property-features-to-highlight-in-your-listing",{"className":"ml-4","children":["$","a",null,{"href":"#property-features-to-highlight-in-your-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Features to Highlight in Your Listing"}]}]
+1b:["$","li","marketing-your-pet-friendly-property",{"className":"","children":["$","a",null,{"href":"#marketing-your-pet-friendly-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Marketing Your Pet-Friendly Property"}]}]
+1c:["$","li","optimize-your-listing-on-platforms",{"className":"ml-4","children":["$","a",null,{"href":"#optimize-your-listing-on-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Optimize Your Listing on Platforms"}]}]
+1d:["$","li","write-a-pet-specific-listing-description",{"className":"ml-4","children":["$","a",null,{"href":"#write-a-pet-specific-listing-description","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Write a Pet-Specific Listing Description"}]}]
+1e:["$","li","leverage-pet-focused-marketing-channels",{"className":"ml-4","children":["$","a",null,{"href":"#leverage-pet-focused-marketing-channels","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Leverage Pet-Focused Marketing Channels"}]}]
+1f:["$","li","cleaning-protocol-for-pet-stays",{"className":"","children":["$","a",null,{"href":"#cleaning-protocol-for-pet-stays","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cleaning Protocol for Pet Stays"}]}]
+20:["$","li","handling-pet-damage",{"className":"","children":["$","a",null,{"href":"#handling-pet-damage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handling Pet Damage"}]}]
+21:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+28:T37cd,<p>Pet-friendly vacation rentals represent one of the most underserved and high-demand niches in the short-term rental market. According to <a href="https://www.americanpetproducts.org/pubs_survey.asp">APPA industry research</a>, nearly 70% of US households own at least one pet — and those pet owners face significant challenges finding quality accommodation that welcomes their animals.</p>
+<p>The result: pet-friendly properties earn premium nightly rates (typically 10-25% more), command higher occupancy, and build intensely loyal repeat guest bases. Guests traveling with pets are often willing to pay more and book further in advance to secure a confirmed pet-friendly property.</p>
+<p>This complete guide covers how to make your <strong>vacation rental pet-friendly</strong> in a way that maximizes revenue while protecting your property.</p>
+<hr>
+<h2 id="should-you-accept-pets-the-business-case">Should You Accept Pets? The Business Case</h2>
+<p>Many hosts default to "no pets" out of concern about damage and allergies. It's worth examining whether that default is leaving significant money on the table.</p>
+<p><strong>The case for accepting pets:</strong></p>
+<ul>
+<li><strong>Higher nightly rates:</strong> Pet-friendly listings command a measurable premium in most markets</li>
+<li><strong>Reduced vacancy:</strong> Pet owners often struggle to find options, filling your calendar during slower periods</li>
+<li><strong>Guest loyalty:</strong> Pet owners who find a host who genuinely welcomes their animals return again and again</li>
+<li><strong>Competitive differentiation:</strong> In markets where most hosts don't accept pets, being pet-friendly immediately stands out</li>
+</ul>
+<p><strong>The case for caution:</strong></p>
+<ul>
+<li>Pets do cause more wear and tear (primarily: pet hair, odors, scratches)</li>
+<li>Some guests have pet allergies (your property can't be marketed to both pet-allergic and pet-friendly guests effectively)</li>
+<li>Noise (barking) can create neighbor issues in certain property types</li>
+</ul>
+<p><strong>General recommendation:</strong> Most hosts with single-family homes or vacation properties in non-attached settings benefit significantly from going pet-friendly. Hosts in attached buildings (apartments, condos) face more constraints.</p>
+<p>For the complete framework on optimizing your STR, see our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="setting-up-your-pet-policy">Setting Up Your Pet Policy</h2>
+<p>A clear, fair pet policy protects your property and sets appropriate expectations with guests.</p>
+<h3 id="key-policy-decisions">Key Policy Decisions</h3>
+<p><strong>Pet types:</strong></p>
+<ul>
+<li>Dogs only (most common)</li>
+<li>Cats allowed</li>
+<li>Small pets only (under 25 lbs is a common threshold)</li>
+<li>No weight limit</li>
+<li>Limited to 1-2 pets</li>
+</ul>
+<p><strong>Pet fee structure:</strong></p>
+<ul>
+<li><strong>Per-stay fee:</strong> Most common; typically $25-75 per stay for 1-2 pets</li>
+<li><strong>Per-night fee:</strong> Better for longer stays; $10-20/night</li>
+<li><strong>Per-pet fee:</strong> Useful when allowing multiple pets</li>
+<li><strong>Refundable pet deposit:</strong> Less common but option for higher-end properties</li>
+</ul>
+<p><strong>Pet-specific rules:</strong></p>
+<ul>
+<li>Pets must not be left unattended at the property (or define conditions under which they can be)</li>
+<li>Pets must not be on the furniture (or explicitly state which furniture is OK)</li>
+<li>Pet owners must clean up after their pets outdoors</li>
+<li>Pets must be crated at night if they have a history of destructive behavior</li>
+<li>Any pet damage must be disclosed at checkout</li>
+</ul>
+<h3 id="sample-pet-policy-language-for-your-listing">Sample Pet Policy Language (for Your Listing)</h3>
+<blockquote>
+<p>"We love dogs! We welcome up to [2] dogs of any size for a per-stay pet fee of $[X]. We ask that:</p>
+<ul>
+<li>Pets not be left unattended inside the property for more than [4] hours</li>
+<li>Pets not be allowed on upholstered furniture (we provide a washable pet blanket)</li>
+<li>All outdoor pet waste be cleaned up and disposed of properly</li>
+<li>Any pet damage be disclosed at checkout</li>
+</ul>
+<p>We keep a pet kit stocked with food/water bowls, waste bags, and a pet towel for post-walk paw cleaning. We want this to be a great stay for the whole family!"</p>
+</blockquote>
+<hr>
+<h2 id="protecting-your-property-from-pet-damage">Protecting Your Property from Pet Damage</h2>
+<p>Going pet-friendly doesn't mean accepting unlimited damage. Smart property management significantly limits the risk.</p>
+<h3 id="flooring">Flooring</h3>
+<p>Carpet and pets are a problematic combination. Pet-friendly properties should prioritize:</p>
+<ul>
+<li><strong>Luxury vinyl plank (LVP):</strong> Scratch-resistant, waterproof, easy to clean — the gold standard for pet-friendly STRs</li>
+<li><strong>Tile:</strong> Durable but cold; pair with washable area rugs</li>
+<li><strong>Hardwood:</strong> Use a matte or satin finish that hides scratches better; avoid glossy finishes</li>
+</ul>
+<p>For area rugs, choose washable options (RUGGABLE is popular for exactly this use case) in patterns that don't show hair and minor staining.</p>
+<p>See our <a href="/blog/damage-prevention-short-term-rental">damage prevention guide</a> for comprehensive property protection strategies.</p>
+<h3 id="furniture">Furniture</h3>
+<ul>
+<li>Use performance fabrics (Crypton, Sunbrella) that resist pet hair, scratches, and odors</li>
+<li>Place a washable slipcover or designated pet blanket on sofas and chairs where pets are permitted</li>
+<li>Avoid upholstered pieces with texture that traps pet hair (boucle, velvet loops)</li>
+<li>Consider a dog crate or bed station in a visible corner as an invitation for pets to have their own space</li>
+</ul>
+<h3 id="bedding-and-linens">Bedding and Linens</h3>
+<ul>
+<li>Use waterproof mattress protectors (critical for pet-friendly properties)</li>
+<li>Keep a separate set of designated "pet bedding" (a dog bed, old blanket, or washable cover) for guests to use instead of your nice linens</li>
+<li>Explicitly note in your pet policy (and welcome book) that pets are not permitted on the main beds, unless you've decided to allow it</li>
+</ul>
+<h3 id="odor-management">Odor Management</h3>
+<p>Pet odor is the primary concern after cleaning. Build odor management into your standard cleaning protocol:</p>
+<ul>
+<li>Use <a href="https://www.epa.gov/saferchoice">enzyme-based cleaners</a> on pet accidents (simple neutralizing sprays don't work on pet odors)</li>
+<li>Wash all soft furnishings after every pet stay (throws, decorative pillows, pet blankets)</li>
+<li>Air the property before new guests arrive (open windows during cleaning)</li>
+<li>Use air purifiers in primary living areas</li>
+<li>Consider pet-safe scent diffusers as a backup (ensure they're non-toxic to animals for the pet guests, too)</li>
+</ul>
+<hr>
+<h2 id="pet-friendly-amenities-to-include">Pet-Friendly Amenities to Include</h2>
+<p>The hosts who earn the best reviews from pet-owning guests are those who genuinely think through what makes the stay easier for pet owners.</p>
+<h3 id="the-pet-welcome-kit">The Pet Welcome Kit</h3>
+<p>Create a small basket or kit with:</p>
+<ul>
+<li><strong>Food and water bowls</strong> (stainless steel, easy to clean)</li>
+<li><strong>Dog towel</strong> or chamois for paw cleaning at the door</li>
+<li><strong>Pet waste bags</strong> (stock generously)</li>
+<li><strong>List of nearby dog-friendly parks, trails, and beaches</strong></li>
+<li><strong>Dog bed or washable floor pad</strong> in a designated pet sleeping area</li>
+<li><strong>Treats</strong> (optional but memorable — guests love this)</li>
+<li><strong>Local vet and <a href="https://www.avma.org/resources/pet-owners/emergencycare">emergency vet information</a></strong> (for anxious pet parents)</li>
+</ul>
+<p>Add a note: "Welcome, [Dog's Name]!" — guests almost always mention this in reviews.</p>
+<h3 id="outdoor-pet-amenities">Outdoor Pet Amenities</h3>
+<ul>
+<li>A <strong>fenced yard or outdoor space</strong> is the single biggest upgrade for pet-friendly properties; market it prominently</li>
+<li>A <strong>hose or outdoor shower</strong> for washing muddy paws</li>
+<li><strong>Waste bag dispenser</strong> at the back door or yard entrance</li>
+<li>A <strong>dog tie-out stake or cable</strong> in the yard for guests who want to let their dog be outside supervised</li>
+</ul>
+<h3 id="property-features-to-highlight-in-your-listing">Property Features to Highlight in Your Listing</h3>
+<p>If your property has any of these features, lead with them in your marketing:</p>
+<ul>
+<li>Fenced yard ("fully fenced yard — safe for dogs to run")</li>
+<li>Doggy door (if applicable)</li>
+<li>Proximity to dog-friendly parks, beaches, or trails</li>
+<li>First-floor or step-free entry (easier for large dogs)</li>
+<li>No stairs required for any bedroom (accessibility for senior dogs)</li>
+</ul>
+<hr>
+<h2 id="marketing-your-pet-friendly-property">Marketing Your Pet-Friendly Property</h2>
+<p>Going pet-friendly only pays off if pet-owner guests can find you. Use these tactics to maximize visibility.</p>
+<h3 id="optimize-your-listing-on-platforms">Optimize Your Listing on Platforms</h3>
+<p><strong>On Airbnb:</strong></p>
+<ul>
+<li>Enable the "Pets Allowed" amenity toggle (this adds you to pet filter searches)</li>
+<li>Add "pet-friendly," "dog-friendly," and "fenced yard" to your title or listing description where appropriate</li>
+<li>Include photos of your pet amenities and yard/outdoor space</li>
+</ul>
+<p><strong>On VRBO:</strong></p>
+<ul>
+<li>VRBO has dedicated pet-friendly filter options; ensure all relevant boxes are checked</li>
+<li>VRBO's pet-owner audience is especially active, as the platform is popular with family and group travelers who often include dogs</li>
+</ul>
+<p><strong>On your direct booking site:</strong></p>
+<ul>
+<li>Create a dedicated landing page or section for pet-owner guests</li>
+<li>Include photos of the yard, the pet kit, and nearby dog-friendly spots</li>
+</ul>
+<p>According to VRBO's host resources, pet-friendly listings receive significantly more searches and higher average booking values than non-pet listings in most leisure destinations.</p>
+<h3 id="write-a-pet-specific-listing-description">Write a Pet-Specific Listing Description</h3>
+<p>Include a paragraph specifically addressing pet-owner guests:</p>
+<blockquote>
+<p>"Traveling with your four-legged family member? [Property Name] is a true dog-friendly home. We have a fully fenced half-acre yard, a pet welcome kit with bowls and waste bags, and a list of the best local dog parks and pet-friendly trails. The neighborhood is quiet and walkable, and [Coffee Shop] on the corner has a dog-friendly patio. We love dogs and it shows."</p>
+</blockquote>
+<h3 id="leverage-pet-focused-marketing-channels">Leverage Pet-Focused Marketing Channels</h3>
+<ul>
+<li><strong>BringFido.com:</strong> A dedicated pet travel platform where you can list your property</li>
+<li><strong>GoPetFriendly.com:</strong> Another pet travel directory</li>
+<li><strong>Petswelcome.com:</strong> Long-established pet travel resource</li>
+<li><strong>Pet owner Facebook groups</strong> in your target market (families traveling with pets)</li>
+</ul>
+<p>For broader listing marketing strategies, see our <a href="/blog/rental-property-marketing-strategies">rental property marketing strategies guide</a>.</p>
+<hr>
+<h2 id="cleaning-protocol-for-pet-stays">Cleaning Protocol for Pet Stays</h2>
+<p>Your standard turnover protocol needs adjustments for pet stays:</p>
+<p><strong>Additional cleaning steps:</strong></p>
+<ol>
+<li>Vacuum all upholstered surfaces, rugs, and floors with a pet hair attachment</li>
+<li>Inspect all mattress protectors and pillow protectors for any pet contact</li>
+<li>Wash any designated pet blankets and throws</li>
+<li>Use an enzyme cleaner on any identified accident spots (whether visible or not — pets sometimes have accidents in non-obvious spots; inspect systematically)</li>
+<li>Check under furniture for pet hair accumulation</li>
+<li>Inspect the yard for pet waste</li>
+<li>Air the property with open windows during cleaning</li>
+</ol>
+<p><strong>Communicate pet stay additions to your cleaner:</strong> Your <a href="/blog/cleaning-service-short-term-rental">cleaning service</a> should know when a pet stay has occurred and understand the additional protocol. Build a modest additional fee into your pet charge to cover the extra cleaning time.</p>
+<hr>
+<h2 id="handling-pet-damage">Handling Pet Damage</h2>
+<p>Despite best precautions, damage from pets will occasionally occur. Your approach:</p>
+<ol>
+<li><strong>Document at checkout</strong> — photograph any damage during your standard post-checkout inspection</li>
+<li><strong>Communicate with the guest</strong> — most pet-owning guests are mortified by damage and respond well to direct, calm communication</li>
+<li><strong>File a claim</strong> — both Airbnb's AirCover and VRBO's damage protection cover documented pet damage</li>
+<li><strong>Keep receipts</strong> — for carpet cleaning, furniture repair, or replacement</li>
+</ol>
+<p>Being transparent about your pet damage policy in your listing (and your welcome book) sets expectations and makes it easier to have these conversations when necessary.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Going pet-friendly is one of the most effective niche strategies in short-term rental hosting. The combination of higher rates, improved occupancy, and loyal repeat guests makes it a compelling choice for most property types.</p>
+<p>The key is doing it thoughtfully: a clear pet policy, a durable and pet-tolerant property setup, a genuine pet welcome kit, and a cleaning protocol that maintains your property's condition across pet stays.</p>
+<p>Guests who travel with pets are some of the most appreciative and loyal guests in the STR market. Earn their trust, and they'll come back every year.</p>
+<p>For the full guide to running a high-performing short-term rental, visit our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+22:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$28"}}]
+23:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","pet friendly",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"pet friendly"}],["$","span","vacation rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacation rental"}],["$","span","airbnb pets",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb pets"}],["$","span","short-term rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rental"}],["$","span","guest experience",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"guest experience"}]]}]
+24:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+25:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","local-area-guide-vacation-rental",{"href":"/blog/local-area-guide-vacation-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Creating a Local Area Guide for Vacation Rental Guests"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","airbnb-review-response-template",{"href":"/blog/airbnb-review-response-template","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb Review Response Templates That Work"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","guest-communication-short-term-rental",{"href":"/blog/guest-communication-short-term-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Guest Communication Templates for Short-Term Rentals"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+26:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","should-you-accept-pets-the-business-case",{"className":"","children":["$","a",null,{"href":"#should-you-accept-pets-the-business-case","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Should You Accept Pets? The Business Case"}]}],["$","li","setting-up-your-pet-policy",{"className":"","children":["$","a",null,{"href":"#setting-up-your-pet-policy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Up Your Pet Policy"}]}],["$","li","key-policy-decisions",{"className":"ml-4","children":["$","a",null,{"href":"#key-policy-decisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Policy Decisions"}]}],["$","li","sample-pet-policy-language-for-your-listing",{"className":"ml-4","children":["$","a",null,{"href":"#sample-pet-policy-language-for-your-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sample Pet Policy Language (for Your Listing)"}]}],["$","li","protecting-your-property-from-pet-damage",{"className":"","children":["$","a",null,{"href":"#protecting-your-property-from-pet-damage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Protecting Your Property from Pet Damage"}]}],["$","li","flooring",{"className":"ml-4","children":["$","a",null,{"href":"#flooring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Flooring"}]}],["$","li","furniture",{"className":"ml-4","children":["$","a",null,{"href":"#furniture","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furniture"}]}],["$","li","bedding-and-linens",{"className":"ml-4","children":["$","a",null,{"href":"#bedding-and-linens","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedding and Linens"}]}],["$","li","odor-management",{"className":"ml-4","children":["$","a",null,{"href":"#odor-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Odor Management"}]}],["$","li","pet-friendly-amenities-to-include",{"className":"","children":["$","a",null,{"href":"#pet-friendly-amenities-to-include","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pet-Friendly Amenities to Include"}]}],["$","li","the-pet-welcome-kit",{"className":"ml-4","children":["$","a",null,{"href":"#the-pet-welcome-kit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Pet Welcome Kit"}]}],["$","li","outdoor-pet-amenities",{"className":"ml-4","children":["$","a",null,{"href":"#outdoor-pet-amenities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Outdoor Pet Amenities"}]}],["$","li","property-features-to-highlight-in-your-listing",{"className":"ml-4","children":["$","a",null,{"href":"#property-features-to-highlight-in-your-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Features to Highlight in Your Listing"}]}],["$","li","marketing-your-pet-friendly-property",{"className":"","children":["$","a",null,{"href":"#marketing-your-pet-friendly-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Marketing Your Pet-Friendly Property"}]}],["$","li","optimize-your-listing-on-platforms",{"className":"ml-4","children":["$","a",null,{"href":"#optimize-your-listing-on-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Optimize Your Listing on Platforms"}]}],"$L29","$L2a","$L2b","$L2c","$L2d"]}]]}]}]
+27:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+29:["$","li","write-a-pet-specific-listing-description",{"className":"ml-4","children":["$","a",null,{"href":"#write-a-pet-specific-listing-description","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Write a Pet-Specific Listing Description"}]}]
+2a:["$","li","leverage-pet-focused-marketing-channels",{"className":"ml-4","children":["$","a",null,{"href":"#leverage-pet-focused-marketing-channels","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Leverage Pet-Focused Marketing Channels"}]}]
+2b:["$","li","cleaning-protocol-for-pet-stays",{"className":"","children":["$","a",null,{"href":"#cleaning-protocol-for-pet-stays","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cleaning Protocol for Pet Stays"}]}]
+2c:["$","li","handling-pet-damage",{"className":"","children":["$","a",null,{"href":"#handling-pet-damage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handling Pet Damage"}]}]
+2d:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Making Your Vacation Rental Pet-Friendly | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Complete guide to making your vacation rental pet-friendly. Cover pet fees, damage prevention, must-have amenities, and marketing tips to attract pet-owner guests."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"pet friendly,vacation rental,airbnb pets,short-term rental,guest experience"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/pet-friendly-vacation-rental"}],["$","meta","6",{"property":"og:title","content":"Making Your Vacation Rental Pet-Friendly"}],["$","meta","7",{"property":"og:description","content":"Complete guide to making your vacation rental pet-friendly. Cover pet fees, damage prevention, must-have amenities, and marketing tips to attract pet-owner guests."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/pet-friendly-vacation-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Making Your Vacation Rental Pet-Friendly"}],["$","meta","15",{"name":"twitter:description","content":"Complete guide to making your vacation rental pet-friendly. Cover pet fees, damage prevention, must-have amenities, and marketing tips to attract pet-owner guests."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

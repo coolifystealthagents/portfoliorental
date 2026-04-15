@@ -1,0 +1,272 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","irr-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","irr-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","irr-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Internal Rate of Return (IRR) for Rental Properties\",\"description\":\"Master IRR for rental property analysis. Learn the formula, how to calculate it, what makes a good IRR, and why it beats simpler metrics for long-term decisions.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/irr-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Financial Analysis\",\"item\":\"https://portfoliorental.com/blog/category/financial-analysis\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Internal Rate of Return (IRR) for Rental Properties\",\"item\":\"https://portfoliorental.com/blog/irr-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/financial-analysis","className":"hover:text-blue-600","children":"Financial Analysis"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Financial Analysis"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Internal Rate of Return (IRR) for Rental Properties"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-irr-in-real-estate",{"className":"","children":["$","a",null,{"href":"#what-is-irr-in-real-estate","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is IRR in Real Estate?"}]}],["$","li","the-irr-formula-and-why-it-needs-a-calculator",{"className":"","children":["$","a",null,{"href":"#the-irr-formula-and-why-it-needs-a-calculator","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The IRR Formula (and Why It Needs a Calculator)"}]}],["$","li","step-by-step-irr-calculation-example",{"className":"","children":["$","a",null,{"href":"#step-by-step-irr-calculation-example","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step-by-Step IRR Calculation Example"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]}]]}],"$L24","$L25"]}],"$L26","$L27"]}],"$L28"]}]]}],"$L29"]
+11:["$","li","why-irr-is-better-than-simpler-metrics",{"className":"","children":["$","a",null,{"href":"#why-irr-is-better-than-simpler-metrics","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why IRR Is Better Than Simpler Metrics"}]}]
+12:["$","li","cash-on-cash-return-is-too-shortsighted",{"className":"ml-4","children":["$","a",null,{"href":"#cash-on-cash-return-is-too-shortsighted","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cash-on-Cash Return Is Too Shortsighted"}]}]
+13:["$","li","cap-rate-ignores-financing-and-exit",{"className":"ml-4","children":["$","a",null,{"href":"#cap-rate-ignores-financing-and-exit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cap Rate Ignores Financing and Exit"}]}]
+14:["$","li","irr-accounts-for-the-time-value-of-money",{"className":"ml-4","children":["$","a",null,{"href":"#irr-accounts-for-the-time-value-of-money","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"IRR Accounts for the Time Value of Money"}]}]
+15:["$","li","what-is-a-good-irr-for-rental-properties",{"className":"","children":["$","a",null,{"href":"#what-is-a-good-irr-for-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is a Good IRR for Rental Properties?"}]}]
+16:["$","li","factors-that-most-impact-irr-in-rental-properties",{"className":"","children":["$","a",null,{"href":"#factors-that-most-impact-irr-in-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Factors That Most Impact IRR in Rental Properties"}]}]
+17:["$","li","1-exit-price-appreciation",{"className":"ml-4","children":["$","a",null,{"href":"#1-exit-price-appreciation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Exit Price (Appreciation)"}]}]
+18:["$","li","2-hold-period",{"className":"ml-4","children":["$","a",null,{"href":"#2-hold-period","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Hold Period"}]}]
+19:["$","li","3-leverage",{"className":"ml-4","children":["$","a",null,{"href":"#3-leverage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Leverage"}]}]
+1a:["$","li","4-annual-cash-flow",{"className":"ml-4","children":["$","a",null,{"href":"#4-annual-cash-flow","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Annual Cash Flow"}]}]
+1b:["$","li","5-timing-of-capital-improvements",{"className":"ml-4","children":["$","a",null,{"href":"#5-timing-of-capital-improvements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Timing of Capital Improvements"}]}]
+1c:["$","li","how-to-calculate-irr-in-excel-or-google-sheets",{"className":"","children":["$","a",null,{"href":"#how-to-calculate-irr-in-excel-or-google-sheets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Calculate IRR in Excel or Google Sheets"}]}]
+1d:["$","li","irr-vs-equity-multiple-using-both-together",{"className":"","children":["$","a",null,{"href":"#irr-vs-equity-multiple-using-both-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"IRR vs. Equity Multiple: Using Both Together"}]}]
+1e:["$","li","irr-limitations-to-understand",{"className":"","children":["$","a",null,{"href":"#irr-limitations-to-understand","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"IRR Limitations to Understand"}]}]
+1f:["$","li","reinvestment-assumption",{"className":"ml-4","children":["$","a",null,{"href":"#reinvestment-assumption","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reinvestment Assumption"}]}]
+20:["$","li","garbage-in-garbage-out",{"className":"ml-4","children":["$","a",null,{"href":"#garbage-in-garbage-out","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Garbage In, Garbage Out"}]}]
+21:["$","li","ignores-taxes",{"className":"ml-4","children":["$","a",null,{"href":"#ignores-taxes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ignores Taxes"}]}]
+22:["$","li","putting-irr-to-work-in-your-investment-analysis",{"className":"","children":["$","a",null,{"href":"#putting-irr-to-work-in-your-investment-analysis","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Putting IRR to Work in Your Investment Analysis"}]}]
+23:["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]
+2a:T3302,<p>Most landlords evaluate deals using cap rate or cash-on-cash return. These are useful tools—but they only capture part of the picture. <strong>Internal Rate of Return (IRR)</strong> is the metric that sophisticated investors and real estate private equity firms rely on to evaluate the full lifetime return of a rental property investment.</p>
+<p>If you've ever wanted to know which of two investments truly performs better over a 5- or 10-year hold—accounting for cash flow, appreciation, loan paydown, and sale proceeds—IRR gives you the answer.</p>
+<h2 id="what-is-irr-in-real-estate">What Is IRR in Real Estate?</h2>
+<p><strong>IRR (Internal Rate of Return)</strong> is the annualized rate of return that makes the net present value (NPV) of all cash flows from an investment equal to zero. In plain English: it's the compound annual growth rate your investment earns over its entire hold period, accounting for both the timing and magnitude of every dollar in and out.</p>
+<p>Unlike cash-on-cash return (which only measures current-year income) or cap rate (which ignores financing), IRR captures:</p>
+<ul>
+<li>Your initial investment (down payment + closing costs)</li>
+<li>Annual cash flow from rents (after all expenses and debt service)</li>
+<li>Net sale proceeds at exit (after paying off the mortgage and selling costs)</li>
+<li><strong>When</strong> each dollar is received (earlier cash flows are worth more)</li>
+</ul>
+<p>This makes IRR the most comprehensive single-number measure of rental property performance.</p>
+<h2 id="the-irr-formula-and-why-it-needs-a-calculator">The IRR Formula (and Why It Needs a Calculator)</h2>
+<p>IRR is technically defined as the discount rate (r) that satisfies:</p>
+<pre><code>0 = CF₀ + CF₁/(1+r) + CF₂/(1+r)² + CF₃/(1+r)³ + ... + CFₙ/(1+r)ⁿ
+</code></pre>
+<p>Where:</p>
+<ul>
+<li>CF₀ = Initial investment (negative, since it's cash out)</li>
+<li>CF₁ through CFₙ = Annual cash flows</li>
+<li>CFₙ = Final year cash flow + net sale proceeds</li>
+</ul>
+<p>There's no algebraic shortcut—IRR must be solved iteratively. Use Excel's <code>=IRR()</code> function, Google Sheets, or a real estate financial model. You input your cash flow series, and the tool finds the rate.</p>
+<h2 id="step-by-step-irr-calculation-example">Step-by-Step IRR Calculation Example</h2>
+<p>Let's walk through a realistic example.</p>
+<p><strong>Property Details:</strong></p>
+<ul>
+<li>Purchase price: $350,000</li>
+<li>Down payment (25%): $87,500</li>
+<li>Closing costs: $5,500</li>
+<li><strong>Total initial investment: $93,000</strong></li>
+<li>Mortgage: $262,500 at 7.0% for 30 years → ~$1,747/month ($20,964/year)</li>
+</ul>
+<p><strong>Annual Operating Assumptions:</strong></p>
+<ul>
+<li>Gross rents: $36,000/year</li>
+<li>Operating expenses (35% ratio): $12,600/year</li>
+<li>NOI: $23,400/year</li>
+<li>Annual cash flow: $23,400 - $20,964 = $2,436/year</li>
+</ul>
+<p><strong>Assumptions for 7-Year Hold:</strong></p>
+<ul>
+<li>Rent growth: 3% per year</li>
+<li>Expense growth: 2.5% per year</li>
+<li>Property appreciation: 4% per year</li>
+<li>Sale at Year 7: $350,000 × (1.04)^7 = $460,700</li>
+<li>Remaining mortgage balance at Year 7: ~$237,000</li>
+<li>Selling costs (6%): $27,642</li>
+<li>Net sale proceeds: $460,700 - $237,000 - $27,642 = <strong>$196,058</strong></li>
+</ul>
+<p><strong>Cash Flow Stream:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Year</th>
+<th>Cash Flow</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>-$93,000</td>
+</tr>
+<tr>
+<td>1</td>
+<td>$2,436</td>
+</tr>
+<tr>
+<td>2</td>
+<td>$3,190</td>
+</tr>
+<tr>
+<td>3</td>
+<td>$3,972</td>
+</tr>
+<tr>
+<td>4</td>
+<td>$4,783</td>
+</tr>
+<tr>
+<td>5</td>
+<td>$5,622</td>
+</tr>
+<tr>
+<td>6</td>
+<td>$6,491</td>
+</tr>
+<tr>
+<td>7</td>
+<td>$7,390 + $196,058 = $203,448</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Result: IRR = approximately 14.8%</strong></p>
+<p>This is your true annualized return on invested capital over the 7-year hold.</p>
+<h2 id="why-irr-is-better-than-simpler-metrics">Why IRR Is Better Than Simpler Metrics</h2>
+<h3 id="cash-on-cash-return-is-too-shortsighted">Cash-on-Cash Return Is Too Shortsighted</h3>
+<p>In Year 1 of the example above, cash-on-cash return = $2,436 ÷ $93,000 = <strong>2.6%</strong>. That looks terrible. But the IRR of 14.8% tells a completely different story once you factor in equity growth from appreciation and loan paydown over 7 years.</p>
+<p>Many investors would pass on this deal based on Year-1 CoC return alone—and leave strong long-term returns on the table.</p>
+<h3 id="cap-rate-ignores-financing-and-exit">Cap Rate Ignores Financing and Exit</h3>
+<p>Cap rate for this property = $23,400 ÷ $350,000 = <strong>6.7%</strong>. That's a reasonable return metric, but it tells you nothing about:</p>
+<ul>
+<li>How your mortgage amplifies (or diminishes) returns</li>
+<li>What you'll actually net when you sell</li>
+<li>The compounding effect of rent growth over time</li>
+</ul>
+<p>Learn more about <a href="/blog/cap-rate-vs-cash-on-cash-return">cap rate vs cash-on-cash return</a> to understand when each metric applies.</p>
+<h3 id="irr-accounts-for-the-time-value-of-money">IRR Accounts for the Time Value of Money</h3>
+<p>A dollar received in Year 1 is worth more than a dollar received in Year 7. IRR explicitly accounts for this by discounting future cash flows. This makes it the only metric that lets you accurately compare:</p>
+<ul>
+<li>A high-cash-flow, low-appreciation deal vs. a low-cash-flow, high-appreciation deal</li>
+<li>Short hold periods vs. long hold periods</li>
+<li>Properties in different markets with different growth trajectories</li>
+</ul>
+<h2 id="what-is-a-good-irr-for-rental-properties">What Is a Good IRR for Rental Properties?</h2>
+<p>IRR benchmarks depend on property type, market, and risk:</p>
+<table>
+<thead>
+<tr>
+<th>Investment Type</th>
+<th>Target IRR Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Core stabilized multifamily</td>
+<td>8–12%</td>
+</tr>
+<tr>
+<td>Value-add single-family</td>
+<td>12–18%</td>
+</tr>
+<tr>
+<td>Short-term rental / Airbnb</td>
+<td>15–25%</td>
+</tr>
+<tr>
+<td>Ground-up development</td>
+<td>20%+</td>
+</tr>
+</tbody>
+</table>
+<p>As a rule of thumb, <strong>most buy-and-hold rental investors target 12–18% unlevered IRR</strong> on residential properties. If your IRR falls below your hurdle rate (the minimum return you require to justify the investment's risk), the deal doesn't pencil.</p>
+<p><a href="https://www.ncreif.org/" rel="noopener" target="_blank">NCREIF data</a> shows that institutional-grade real estate historically produces 8–11% IRR over long hold periods, providing a useful benchmark for private investors.</p>
+<h2 id="factors-that-most-impact-irr-in-rental-properties">Factors That Most Impact IRR in Rental Properties</h2>
+<h3 id="1-exit-price-appreciation">1. Exit Price (Appreciation)</h3>
+<p>The sale proceeds typically dominate IRR because they're a large cash flow received at the end. A property that appreciates 3% per year vs. 5% per year can shift IRR by 3–4 percentage points—more than almost any operating improvement.</p>
+<p>This makes <a href="/blog/rental-property-appreciation-rate">understanding rental property appreciation rates</a> critical to projecting accurate IRR.</p>
+<h3 id="2-hold-period">2. Hold Period</h3>
+<p>IRR is highly sensitive to the hold period:</p>
+<ul>
+<li>Shorter holds magnify the impact of selling costs and reduce time for appreciation to compound</li>
+<li>Longer holds allow compounding to work, but require more accurate long-term projections</li>
+<li>Generally, 5–10 years is the sweet spot for buy-and-hold residential</li>
+</ul>
+<h3 id="3-leverage">3. Leverage</h3>
+<p>A higher loan-to-value ratio amplifies IRR when appreciation exceeds the mortgage rate. In a rising market, leverage can transform an 8% IRR all-cash deal into a 15%+ IRR deal with 25% down.</p>
+<p>The flip side: leverage amplifies losses in flat or declining markets.</p>
+<h3 id="4-annual-cash-flow">4. Annual Cash Flow</h3>
+<p>While appreciation dominates IRR, cash flow matters too—especially in Year 1-3 when the time-value penalty is highest. Even modest positive cash flow in early years meaningfully improves IRR compared to break-even or negative cash flow scenarios.</p>
+<p>See our analysis of <a href="/blog/negative-cash-flow-rental-property">negative cash flow rental properties</a> to understand when the math still works despite early losses.</p>
+<h3 id="5-timing-of-capital-improvements">5. Timing of Capital Improvements</h3>
+<p>Large capital expenditures (new roof, HVAC, renovation) are negative cash flows that reduce IRR. Timing these strategically—deferring them when possible or front-loading them to boost rents faster—can meaningfully move your IRR.</p>
+<h2 id="how-to-calculate-irr-in-excel-or-google-sheets">How to Calculate IRR in Excel or Google Sheets</h2>
+<ol>
+<li>List your cash flows in a column (Year 0 as negative, subsequent years as positive or negative)</li>
+<li>In an empty cell, type: <code>=IRR(A1:A8)</code> where A1:A8 contains your cash flow series</li>
+<li>Excel/Sheets will return the IRR as a decimal—format as percentage</li>
+</ol>
+<p><strong>Pro tip:</strong> If your cash flows don't occur at exactly year-end intervals, use <code>=XIRR()</code> with actual dates for more precision.</p>
+<h2 id="irr-vs-equity-multiple-using-both-together">IRR vs. Equity Multiple: Using Both Together</h2>
+<p>Investors often pair IRR with <strong>equity multiple</strong> (also called MOIC—multiple on invested capital):</p>
+<pre><code>Equity Multiple = Total Cash Received ÷ Total Cash Invested
+</code></pre>
+<p>In our example: ($2,436 + $3,190 + $3,972 + $4,783 + $5,622 + $6,491 + $203,448) ÷ $93,000 = <strong>$229,942 ÷ $93,000 = 2.47x equity multiple</strong></p>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Our Example</th>
+<th>What It Shows</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IRR</td>
+<td>14.8%</td>
+<td>Annualized compound return</td>
+</tr>
+<tr>
+<td>Equity Multiple</td>
+<td>2.47x</td>
+<td>Total wealth multiplication</td>
+</tr>
+<tr>
+<td>Cash-on-Cash (Yr 1)</td>
+<td>2.6%</td>
+<td>Current annual yield</td>
+</tr>
+</tbody>
+</table>
+<p>A high IRR over a short period might produce a low equity multiple. A long hold with modest IRR might produce an impressive equity multiple. Smart investors use both.</p>
+<h2 id="irr-limitations-to-understand">IRR Limitations to Understand</h2>
+<h3 id="reinvestment-assumption">Reinvestment Assumption</h3>
+<p>IRR implicitly assumes that all cash flows are reinvested at the same IRR rate. If your IRR is 15% but you can only reinvest cash flows at 7%, your actual wealth accumulation will fall short of projections. <strong>Modified IRR (MIRR)</strong> corrects for this by letting you specify a reinvestment rate.</p>
+<h3 id="garbage-in-garbage-out">Garbage In, Garbage Out</h3>
+<p>IRR is only as accurate as your assumptions about rent growth, appreciation, expenses, and exit cap rates. Small changes in appreciation assumptions can swing IRR by 5+ percentage points. Build conservative base cases and stress-test your model.</p>
+<h3 id="ignores-taxes">Ignores Taxes</h3>
+<p>Pre-tax IRR doesn't account for depreciation benefits, capital gains taxes, or 1031 exchange opportunities. After-tax IRR can be significantly higher for investors in high tax brackets who use depreciation effectively. See our guide on <a href="/blog/rental-property-depreciation-guide">rental property depreciation</a> for context.</p>
+<h2 id="putting-irr-to-work-in-your-investment-analysis">Putting IRR to Work in Your Investment Analysis</h2>
+<p>IRR works best as a <strong>comparison tool</strong> and <strong>go/no-go screen</strong>:</p>
+<ol>
+<li><strong>Set a minimum IRR hurdle</strong> (e.g., 12%) based on your risk tolerance and opportunity cost</li>
+<li><strong>Model base, bull, and bear cases</strong> with different appreciation and rent growth assumptions</li>
+<li><strong>Compare IRR across competing deals</strong> to rank opportunities objectively</li>
+<li><strong>Use IRR alongside cash-on-cash return</strong> to make sure you're not sacrificing too much current income for future appreciation</li>
+</ol>
+<p>For a complete picture of rental property financial performance, combine IRR analysis with our <a href="/blog/rental-property-cash-flow-analysis">rental property cash flow analysis</a> framework.</p>
+<h2 id="summary">Summary</h2>
+<p>IRR is the gold standard for evaluating rental property returns because it captures every dollar—cash flow, appreciation, and equity paydown—and weights earlier returns more heavily than later ones. While it requires a spreadsheet to calculate, the insight it provides is unmatched.</p>
+<p>For long-term investors building wealth through real estate, understanding IRR transforms how you screen deals, compare markets, and make hold vs. sell decisions. Pair it with <a href="/blog/maximize-rental-income-strategies">strategies to maximize rental income</a> and you'll have a complete financial framework for building a high-performing portfolio.</p>
+24:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2a"}}]
+25:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","financial analysis",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"financial analysis"}],["$","span","irr",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"irr"}],["$","span","rental property investing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental property investing"}]]}]
+26:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Financial Analysis"]}],["$","$L10",null,{"href":"/blog/category/financial-analysis","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-budgeting-and-financial-planning",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-budgeting-and-financial-planning","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Budgeting and Financial Planning"}],["$","span",null,{"className":"text-xs text-gray-400","children":[5," min"]}]]}]}],["$","li","albuquerque-rent-to-price-ratio-and-cash-flow-map",{"children":["$","$L10",null,{"href":"/blog/albuquerque-rent-to-price-ratio-and-cash-flow-map","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Albuquerque Rent-to-Price Ratio and Cash Flow Map"}],["$","span",null,{"className":"text-xs text-gray-400","children":[5," min"]}]]}]}],["$","li","anaheim-rent-to-price-ratio-and-cash-flow-map",{"children":["$","$L10",null,{"href":"/blog/anaheim-rent-to-price-ratio-and-cash-flow-map","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Anaheim Rent-to-Price Ratio and Cash Flow Map"}],["$","span",null,{"className":"text-xs text-gray-400","children":[5," min"]}]]}]}],["$","li","anchorage-rent-to-price-ratio-and-cash-flow-map",{"children":["$","$L10",null,{"href":"/blog/anchorage-rent-to-price-ratio-and-cash-flow-map","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Anchorage Rent-to-Price Ratio and Cash Flow Map"}],["$","span",null,{"className":"text-xs text-gray-400","children":[5," min"]}]]}]}]]}]]}]
+27:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","cap-rate-vs-cash-on-cash-return",{"href":"/blog/cap-rate-vs-cash-on-cash-return","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Financial Analysis"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Cap Rate vs Cash-on-Cash Return: Key Differences"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","rental-property-appreciation-rate",{"href":"/blog/rental-property-appreciation-rate","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Financial Analysis"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Estimate Rental Property Appreciation"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","accidental-landlord-budgeting-and-financial-planning",{"href":"/blog/accidental-landlord-budgeting-and-financial-planning","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Financial Analysis"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Budgeting and Financial Planning"}],["$","p",null,{"className":"text-sm text-gray-500","children":[5," min read"]}]]}]]}]]}]
+28:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-irr-in-real-estate",{"className":"","children":["$","a",null,{"href":"#what-is-irr-in-real-estate","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is IRR in Real Estate?"}]}],["$","li","the-irr-formula-and-why-it-needs-a-calculator",{"className":"","children":["$","a",null,{"href":"#the-irr-formula-and-why-it-needs-a-calculator","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The IRR Formula (and Why It Needs a Calculator)"}]}],["$","li","step-by-step-irr-calculation-example",{"className":"","children":["$","a",null,{"href":"#step-by-step-irr-calculation-example","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step-by-Step IRR Calculation Example"}]}],["$","li","why-irr-is-better-than-simpler-metrics",{"className":"","children":["$","a",null,{"href":"#why-irr-is-better-than-simpler-metrics","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why IRR Is Better Than Simpler Metrics"}]}],["$","li","cash-on-cash-return-is-too-shortsighted",{"className":"ml-4","children":["$","a",null,{"href":"#cash-on-cash-return-is-too-shortsighted","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cash-on-Cash Return Is Too Shortsighted"}]}],["$","li","cap-rate-ignores-financing-and-exit",{"className":"ml-4","children":["$","a",null,{"href":"#cap-rate-ignores-financing-and-exit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cap Rate Ignores Financing and Exit"}]}],["$","li","irr-accounts-for-the-time-value-of-money",{"className":"ml-4","children":["$","a",null,{"href":"#irr-accounts-for-the-time-value-of-money","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"IRR Accounts for the Time Value of Money"}]}],["$","li","what-is-a-good-irr-for-rental-properties",{"className":"","children":["$","a",null,{"href":"#what-is-a-good-irr-for-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is a Good IRR for Rental Properties?"}]}],["$","li","factors-that-most-impact-irr-in-rental-properties",{"className":"","children":["$","a",null,{"href":"#factors-that-most-impact-irr-in-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Factors That Most Impact IRR in Rental Properties"}]}],["$","li","1-exit-price-appreciation",{"className":"ml-4","children":["$","a",null,{"href":"#1-exit-price-appreciation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Exit Price (Appreciation)"}]}],["$","li","2-hold-period",{"className":"ml-4","children":["$","a",null,{"href":"#2-hold-period","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Hold Period"}]}],["$","li","3-leverage",{"className":"ml-4","children":["$","a",null,{"href":"#3-leverage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Leverage"}]}],["$","li","4-annual-cash-flow",{"className":"ml-4","children":["$","a",null,{"href":"#4-annual-cash-flow","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Annual Cash Flow"}]}],["$","li","5-timing-of-capital-improvements",{"className":"ml-4","children":["$","a",null,{"href":"#5-timing-of-capital-improvements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Timing of Capital Improvements"}]}],"$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32"]}]]}]}]
+29:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2b:["$","li","how-to-calculate-irr-in-excel-or-google-sheets",{"className":"","children":["$","a",null,{"href":"#how-to-calculate-irr-in-excel-or-google-sheets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Calculate IRR in Excel or Google Sheets"}]}]
+2c:["$","li","irr-vs-equity-multiple-using-both-together",{"className":"","children":["$","a",null,{"href":"#irr-vs-equity-multiple-using-both-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"IRR vs. Equity Multiple: Using Both Together"}]}]
+2d:["$","li","irr-limitations-to-understand",{"className":"","children":["$","a",null,{"href":"#irr-limitations-to-understand","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"IRR Limitations to Understand"}]}]
+2e:["$","li","reinvestment-assumption",{"className":"ml-4","children":["$","a",null,{"href":"#reinvestment-assumption","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reinvestment Assumption"}]}]
+2f:["$","li","garbage-in-garbage-out",{"className":"ml-4","children":["$","a",null,{"href":"#garbage-in-garbage-out","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Garbage In, Garbage Out"}]}]
+30:["$","li","ignores-taxes",{"className":"ml-4","children":["$","a",null,{"href":"#ignores-taxes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ignores Taxes"}]}]
+31:["$","li","putting-irr-to-work-in-your-investment-analysis",{"className":"","children":["$","a",null,{"href":"#putting-irr-to-work-in-your-investment-analysis","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Putting IRR to Work in Your Investment Analysis"}]}]
+32:["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Internal Rate of Return (IRR) for Rental Properties | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Master IRR for rental property analysis. Learn the formula, how to calculate it, what makes a good IRR, and why it beats simpler metrics for long-term decisions."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"financial analysis,irr,rental property investing"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/irr-rental-property"}],["$","meta","6",{"property":"og:title","content":"Internal Rate of Return (IRR) for Rental Properties"}],["$","meta","7",{"property":"og:description","content":"Master IRR for rental property analysis. Learn the formula, how to calculate it, what makes a good IRR, and why it beats simpler metrics for long-term decisions."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/irr-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Internal Rate of Return (IRR) for Rental Properties"}],["$","meta","15",{"name":"twitter:description","content":"Master IRR for rental property analysis. Learn the formula, how to calculate it, what makes a good IRR, and why it beats simpler metrics for long-term decisions."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

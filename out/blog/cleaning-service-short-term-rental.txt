@@ -1,0 +1,243 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","cleaning-service-short-term-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","cleaning-service-short-term-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","cleaning-service-short-term-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Finding a Cleaning Service for Your Short-Term Rental\",\"description\":\"How to find, hire, and manage a reliable cleaning service for your short-term rental. Includes interview questions, pricing benchmarks, and turnover checklists.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/cleaning-service-short-term-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Finding a Cleaning Service for Your Short-Term Rental\",\"item\":\"https://portfoliorental.com/blog/cleaning-service-short-term-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Finding a Cleaning Service for Your Short-Term Rental"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-str-cleaning-is-different-from-regular-house-cleaning",{"className":"","children":["$","a",null,{"href":"#why-str-cleaning-is-different-from-regular-house-cleaning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why STR Cleaning Is Different from Regular House Cleaning"}]}],["$","li","where-to-find-str-cleaning-services",{"className":"","children":["$","a",null,{"href":"#where-to-find-str-cleaning-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Find STR Cleaning Services"}]}],["$","li","1-str-specific-platforms",{"className":"ml-4","children":["$","a",null,{"href":"#1-str-specific-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. STR-Specific Platforms"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]}]]}],"$L22","$L23"]}],"$L24","$L25"]}],"$L26"]}]]}],"$L27"]
+11:["$","li","2-local-referrals",{"className":"ml-4","children":["$","a",null,{"href":"#2-local-referrals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Local Referrals"}]}]
+12:["$","li","3-cleaning-company-directories",{"className":"ml-4","children":["$","a",null,{"href":"#3-cleaning-company-directories","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Cleaning Company Directories"}]}]
+13:["$","li","4-direct-outreach",{"className":"ml-4","children":["$","a",null,{"href":"#4-direct-outreach","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Direct Outreach"}]}]
+14:["$","li","what-to-look-for-in-an-str-cleaner",{"className":"","children":["$","a",null,{"href":"#what-to-look-for-in-an-str-cleaner","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Look for in an STR Cleaner"}]}]
+15:["$","li","interview-questions-for-prospective-cleaners",{"className":"","children":["$","a",null,{"href":"#interview-questions-for-prospective-cleaners","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interview Questions for Prospective Cleaners"}]}]
+16:["$","li","pricing-what-to-expect-for-str-cleaning",{"className":"","children":["$","a",null,{"href":"#pricing-what-to-expect-for-str-cleaning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pricing: What to Expect for STR Cleaning"}]}]
+17:["$","li","setting-up-your-cleaning-system",{"className":"","children":["$","a",null,{"href":"#setting-up-your-cleaning-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Up Your Cleaning System"}]}]
+18:["$","li","create-a-master-turnover-checklist",{"className":"ml-4","children":["$","a",null,{"href":"#create-a-master-turnover-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create a Master Turnover Checklist"}]}]
+19:["$","li","set-up-photo-documentation",{"className":"ml-4","children":["$","a",null,{"href":"#set-up-photo-documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Set Up Photo Documentation"}]}]
+1a:["$","li","sync-scheduling-with-your-booking-calendar",{"className":"ml-4","children":["$","a",null,{"href":"#sync-scheduling-with-your-booking-calendar","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sync Scheduling with Your Booking Calendar"}]}]
+1b:["$","li","managing-linen-in-unit-vs-linen-service",{"className":"","children":["$","a",null,{"href":"#managing-linen-in-unit-vs-linen-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Managing Linen: In-Unit vs. Linen Service"}]}]
+1c:["$","li","option-a-in-unit-laundry",{"className":"ml-4","children":["$","a",null,{"href":"#option-a-in-unit-laundry","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option A: In-Unit Laundry"}]}]
+1d:["$","li","option-b-linen-service",{"className":"ml-4","children":["$","a",null,{"href":"#option-b-linen-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option B: Linen Service"}]}]
+1e:["$","li","option-c-par-level-system",{"className":"ml-4","children":["$","a",null,{"href":"#option-c-par-level-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option C: Par Level System"}]}]
+1f:["$","li","handling-issues-when-a-clean-doesn-t-meet-standards",{"className":"","children":["$","a",null,{"href":"#handling-issues-when-a-clean-doesn-t-meet-standards","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handling Issues: When a Clean Doesn't Meet Standards"}]}]
+20:["$","li","building-your-cleaner-relationship-for-long-term-success",{"className":"","children":["$","a",null,{"href":"#building-your-cleaner-relationship-for-long-term-success","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Your Cleaner Relationship for Long-Term Success"}]}]
+21:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+28:T35ae,<p>Cleanliness is the single most cited factor in short-term rental reviews — for better or worse. A sparkling clean property gets mentioned in five-star reviews. A missed toilet or dusty ceiling fan shows up in three-star ones. For STR hosts, finding a reliable, professional cleaning service isn't optional — it's foundational.</p>
+<p>This guide walks you through the complete process of finding, vetting, hiring, and managing a <strong>cleaning service for your short-term rental</strong>: from knowing what to look for in a cleaner to setting up a system that runs smoothly whether you're on-site or across the country.</p>
+<hr>
+<h2 id="why-str-cleaning-is-different-from-regular-house-cleaning">Why STR Cleaning Is Different from Regular House Cleaning</h2>
+<p>Cleaning a vacation rental between guests is fundamentally different from weekly house cleaning. Understanding those differences helps you find the right service.</p>
+<p><strong>Key differences:</strong></p>
+<ul>
+<li><strong>Turnover speed</strong> — cleaners often have 2-4 hour windows between checkout and check-in</li>
+<li><strong>Hotel-level standards</strong> — guests expect pristine conditions, not just "tidied up"</li>
+<li><strong>Restocking duties</strong> — cleaners often also restock consumables (toilet paper, shampoo, coffee)</li>
+<li><strong>Linen management</strong> — stripping, laundering, and remaking beds is standard</li>
+<li><strong>Inspection role</strong> — a great STR cleaner also checks for damage and missing items</li>
+<li><strong>Variable timing</strong> — stays vary in length and guest count, affecting workload each time</li>
+</ul>
+<p>Regular residential cleaners may not be equipped for this — which is why finding cleaners experienced in <strong>STR or vacation rental turnover</strong> is so important.</p>
+<p>For the full framework of managing your STR operations, see our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="where-to-find-str-cleaning-services">Where to Find STR Cleaning Services</h2>
+<h3 id="1-str-specific-platforms">1. STR-Specific Platforms</h3>
+<p>Several platforms specialize in connecting hosts with vacation rental cleaning services:</p>
+<ul>
+<li><strong>TurnoverBnB</strong> — purpose-built marketplace connecting hosts with vetted STR cleaners; handles scheduling, payment, and syncs with your calendar</li>
+<li><strong>Properly</strong> — photo-based task management and cleaner coordination; strong for portfolio hosts</li>
+<li><strong>Handy for Pros</strong> — general cleaning platform with STR experience in major markets</li>
+<li><strong>TaskRabbit</strong> — flexible for individual cleaners, though STR experience varies</li>
+</ul>
+<h3 id="2-local-referrals">2. Local Referrals</h3>
+<p>Ask in local STR host communities:</p>
+<ul>
+<li>Airbnb host Facebook groups for your city</li>
+<li>Nextdoor neighborhood groups</li>
+<li>Local real estate investor meetups</li>
+<li>Your property manager (if you have one) — they often have preferred cleaner contacts</li>
+</ul>
+<h3 id="3-cleaning-company-directories">3. Cleaning Company Directories</h3>
+<p>Search for local companies with vacation rental experience:</p>
+<ul>
+<li>Google: "[Your City] vacation rental cleaning service"</li>
+<li>Yelp reviews filtered by commercial cleaning</li>
+<li>HomeAdvisor and Thumbtack for vetted local services</li>
+</ul>
+<h3 id="4-direct-outreach">4. Direct Outreach</h3>
+<p>If there's a hospitality professional in your area whose work you admire — a hotel housekeeper, a resort staffer — they may be available for freelance STR cleaning on their days off.</p>
+<hr>
+<h2 id="what-to-look-for-in-an-str-cleaner">What to Look for in an STR Cleaner</h2>
+<p>Not all cleaners are equal. Here are the qualities that separate a great STR cleaner from an average one:</p>
+<p><strong>Non-negotiables:</strong></p>
+<ul>
+<li>Experience with vacation rental or hotel turnover</li>
+<li>Reliable transportation and punctuality</li>
+<li>Strong attention to detail (test with a trial clean)</li>
+<li>Willingness to follow a checklist</li>
+<li>Ability to communicate about issues (damage, missing items, low supplies)</li>
+</ul>
+<p><strong>Strong positives:</strong></p>
+<ul>
+<li>Brings their own supplies and equipment</li>
+<li>Comfortable with smart lock access</li>
+<li>Has backup support if they're sick or unavailable</li>
+<li>Can handle laundry on-site or coordinates linen service</li>
+<li>Available on short notice for last-minute bookings</li>
+</ul>
+<hr>
+<h2 id="interview-questions-for-prospective-cleaners">Interview Questions for Prospective Cleaners</h2>
+<p>Before hiring anyone, conduct a brief phone or in-person interview. Key questions:</p>
+<ol>
+<li>"Do you have experience cleaning Airbnb or vacation rental properties specifically?"</li>
+<li>"How do you handle a situation where you find damage or a missing item?"</li>
+<li>"What is your process if you're sick and can't make a scheduled turnover?"</li>
+<li>"Do you bring your own supplies, or do we provide them?"</li>
+<li>"Are you comfortable using a checklist and sending photo confirmation when done?"</li>
+<li>"What is your pricing structure — by the hour, or flat per turnover?"</li>
+<li>"How do you handle linen changes — do you wash on-site, or use a linen service?"</li>
+<li>"Are you available for same-day bookings or last-minute scheduling changes?"</li>
+</ol>
+<p>A cleaner who has clear, confident answers to all of these is far more likely to perform consistently.</p>
+<hr>
+<h2 id="pricing-what-to-expect-for-str-cleaning">Pricing: What to Expect for STR Cleaning</h2>
+<p>STR cleaning costs vary significantly by market, property size, and service level. General benchmarks:</p>
+<table>
+<thead>
+<tr>
+<th>Property Size</th>
+<th>Typical Turnover Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Studio / 1 BR</td>
+<td>$60–$100</td>
+</tr>
+<tr>
+<td>2 BR / 1,000–1,400 sq ft</td>
+<td>$100–$160</td>
+</tr>
+<tr>
+<td>3 BR / 1,400–2,000 sq ft</td>
+<td>$150–$250</td>
+</tr>
+<tr>
+<td>4+ BR / Large properties</td>
+<td>$250–$500+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pricing models:</strong></p>
+<ul>
+<li><strong>Flat per turnover:</strong> Most predictable; best for hosts</li>
+<li><strong>Hourly:</strong> Risk of cost overrun on messier stays</li>
+<li><strong>Subscription/retainer:</strong> Works well for high-frequency hosts with consistent schedules</li>
+</ul>
+<p><strong>Who pays the cleaning fee?</strong>
+Most hosts pass the cleaning cost directly to guests via a cleaning fee on the listing. Factor in:</p>
+<ul>
+<li>Actual cleaning cost</li>
+<li>Linen service (if outsourced)</li>
+<li>Consumable restocking (if cleaner handles this)</li>
+<li>A small buffer for supplies and wear</li>
+</ul>
+<p>Cleaning fees may be <a href="https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses">deductible as business expenses</a>. They are also a component of your overall pricing strategy — see our <a href="/blog/short-term-rental-pricing-strategy">short-term rental pricing strategy guide</a> for how to structure them competitively.</p>
+<hr>
+<h2 id="setting-up-your-cleaning-system">Setting Up Your Cleaning System</h2>
+<h3 id="create-a-master-turnover-checklist">Create a Master Turnover Checklist</h3>
+<p>Your cleaner should follow a detailed checklist for every turnover. This removes ambiguity and ensures consistency regardless of who cleans. See our <a href="/blog/vacation-rental-turnover-checklist">vacation rental turnover checklist</a> for a complete room-by-room template you can adapt.</p>
+<p><strong>At minimum, the checklist should cover:</strong></p>
+<ul>
+<li>Bathroom deep clean (toilet, shower, sink, mirror, floor)</li>
+<li>Kitchen clean (appliances, counters, inside microwave, stovetop)</li>
+<li>Bedroom strip, launder, and remake (military-tight or hotel-style)</li>
+<li>Vacuuming/mopping all floors</li>
+<li>Dusting surfaces, fans, baseboards</li>
+<li>Wiping down door handles, light switches, remotes. The <a href="https://www.cdc.gov/hygiene/about/when-and-how-to-clean-surfaces.html">CDC recommends disinfecting</a> high-touch surfaces regularly.</li>
+<li>Taking out all trash</li>
+<li>Restocking consumables to defined minimums</li>
+<li>Checking for guest left items and damage</li>
+<li>Locking up and reporting status</li>
+</ul>
+<h3 id="set-up-photo-documentation">Set Up Photo Documentation</h3>
+<p>Require your cleaner to send timestamped photos of key areas after each clean. This serves two purposes:</p>
+<ol>
+<li>It confirms the property is ready for the next guest</li>
+<li>It creates a record showing condition before each new guest checks in (useful for damage claims)</li>
+</ol>
+<p>Apps like Properly and TurnoverBnB have built-in photo workflows. For independent cleaners, a simple WhatsApp or text photo will do.</p>
+<h3 id="sync-scheduling-with-your-booking-calendar">Sync Scheduling with Your Booking Calendar</h3>
+<p>Manual scheduling is a recipe for missed cleans. Use a tool that syncs your cleaner's schedule with your booking calendar automatically. Options:</p>
+<ul>
+<li><strong>TurnoverBnB</strong> — syncs directly with Airbnb, VRBO, and most major OTAs</li>
+<li><strong>Your PMS calendar</strong> — if you use Hostaway, Guesty, or similar, set up cleaner access</li>
+<li><strong>Google Calendar sharing</strong> — low-tech option for single-property hosts with one cleaner</li>
+</ul>
+<p>For broader automation tools that can integrate with cleaning scheduling, see our <a href="/blog/airbnb-automation-tools">Airbnb automation tools guide</a>.</p>
+<hr>
+<h2 id="managing-linen-in-unit-vs-linen-service">Managing Linen: In-Unit vs. Linen Service</h2>
+<p>One of the biggest operational decisions for STR cleaning is how to handle linens.</p>
+<h3 id="option-a-in-unit-laundry">Option A: In-Unit Laundry</h3>
+<p>The cleaner strips and washes linens on-site using the property's washer/dryer.</p>
+<p><strong>Pros:</strong> Lower cost, no logistics
+<strong>Cons:</strong> Adds 1-2 hours to turnover time, limits back-to-back same-day bookings</p>
+<h3 id="option-b-linen-service">Option B: Linen Service</h3>
+<p>A commercial laundry service collects used linens and delivers fresh ones, hotel-style.</p>
+<p><strong>Pros:</strong> Faster turnovers, professional results, backup supply available
+<strong>Cons:</strong> Additional cost ($20-60 per set), requires coordination and logistics</p>
+<p><strong>Best for:</strong> Hosts with frequent bookings, same-day turnovers, or large properties with many beds</p>
+<h3 id="option-c-par-level-system">Option C: Par Level System</h3>
+<p>Stock enough linens for 2-3 complete sets per bed. Cleaners use clean sets from storage, send used ones to the laundry, and the cycle rotates.</p>
+<p>This is the most professional and scalable approach for growing STR portfolios.</p>
+<hr>
+<h2 id="handling-issues-when-a-clean-doesn-t-meet-standards">Handling Issues: When a Clean Doesn't Meet Standards</h2>
+<p>Even great cleaners have off days. Build a feedback system that makes it easy to address quality issues without damaging the relationship.</p>
+<p><strong>Best practices:</strong></p>
+<ul>
+<li>Review photos before approving payment when possible</li>
+<li>Communicate issues within 24 hours of the clean</li>
+<li>Be specific ("the stovetop burners weren't wiped down") not general ("the kitchen wasn't clean")</li>
+<li>Have the cleaner return to fix major issues rather than letting them slide</li>
+<li>Track patterns — occasional misses are human; recurring issues signal a systemic problem</li>
+</ul>
+<p>Document recurring issues and set clear expectations about what constitutes an unacceptable clean. After two or three unaddressed quality issues, it's time to find a backup.</p>
+<hr>
+<h2 id="building-your-cleaner-relationship-for-long-term-success">Building Your Cleaner Relationship for Long-Term Success</h2>
+<p>Your cleaner is one of the most important people in your STR business. Treat the relationship accordingly.</p>
+<p><strong>Invest in the relationship:</strong></p>
+<ul>
+<li>Pay promptly and fairly (tip for excellent work or especially difficult cleans)</li>
+<li>Give advance notice of schedule changes whenever possible</li>
+<li>Communicate guest counts so they know what to expect</li>
+<li>Ask for their input — experienced STR cleaners often notice issues before anyone else</li>
+<li>Send a thank-you or bonus during busy seasons</li>
+</ul>
+<p>A great, reliable cleaner who knows your property is worth far more than constantly searching for someone cheaper. The <a href="https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees">SBA offers hiring guidance</a> for small business contractors.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Finding the right cleaning service for your short-term rental is one of the highest-impact operational decisions you'll make. Cleanliness drives reviews, reviews drive bookings, and bookings drive revenue. The investment in finding a reliable, experienced STR cleaner — and building a system that supports them — pays off immediately in guest satisfaction and long-term in your property's rating.</p>
+<p>Start with a referral from your local STR community, conduct a thorough interview, run a test clean with your checklist, and build from there. Combined with a solid <a href="/blog/vacation-rental-turnover-checklist">vacation rental turnover checklist</a> and smart <a href="/blog/airbnb-automation-tools">Airbnb automation</a>, your cleaning operation can run like clockwork.</p>
+<p>For the complete guide to running a successful short-term rental, visit our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+22:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$28"}}]
+23:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","cleaning service",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"cleaning service"}],["$","span","STR turnover",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"STR turnover"}],["$","span","airbnb cleaning",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb cleaning"}],["$","span","vacation rental operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacation rental operations"}],["$","span","short-term rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rental"}]]}]
+24:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+25:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","airbnb-arbitrage-how-to-profit-without-owning-property",{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","airbnb-for-business-how-to-attract-corporate-travelers",{"href":"/blog/airbnb-for-business-how-to-attract-corporate-travelers","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb for Business: How to Attract Corporate Travelers"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","airbnb-id-verification-for-hosts-everything-to-know",{"href":"/blog/airbnb-id-verification-for-hosts-everything-to-know","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb ID Verification for Hosts: Everything to Know"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+26:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-str-cleaning-is-different-from-regular-house-cleaning",{"className":"","children":["$","a",null,{"href":"#why-str-cleaning-is-different-from-regular-house-cleaning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why STR Cleaning Is Different from Regular House Cleaning"}]}],["$","li","where-to-find-str-cleaning-services",{"className":"","children":["$","a",null,{"href":"#where-to-find-str-cleaning-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Find STR Cleaning Services"}]}],["$","li","1-str-specific-platforms",{"className":"ml-4","children":["$","a",null,{"href":"#1-str-specific-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. STR-Specific Platforms"}]}],["$","li","2-local-referrals",{"className":"ml-4","children":["$","a",null,{"href":"#2-local-referrals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Local Referrals"}]}],["$","li","3-cleaning-company-directories",{"className":"ml-4","children":["$","a",null,{"href":"#3-cleaning-company-directories","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Cleaning Company Directories"}]}],["$","li","4-direct-outreach",{"className":"ml-4","children":["$","a",null,{"href":"#4-direct-outreach","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Direct Outreach"}]}],["$","li","what-to-look-for-in-an-str-cleaner",{"className":"","children":["$","a",null,{"href":"#what-to-look-for-in-an-str-cleaner","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Look for in an STR Cleaner"}]}],["$","li","interview-questions-for-prospective-cleaners",{"className":"","children":["$","a",null,{"href":"#interview-questions-for-prospective-cleaners","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interview Questions for Prospective Cleaners"}]}],["$","li","pricing-what-to-expect-for-str-cleaning",{"className":"","children":["$","a",null,{"href":"#pricing-what-to-expect-for-str-cleaning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pricing: What to Expect for STR Cleaning"}]}],["$","li","setting-up-your-cleaning-system",{"className":"","children":["$","a",null,{"href":"#setting-up-your-cleaning-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Up Your Cleaning System"}]}],["$","li","create-a-master-turnover-checklist",{"className":"ml-4","children":["$","a",null,{"href":"#create-a-master-turnover-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create a Master Turnover Checklist"}]}],["$","li","set-up-photo-documentation",{"className":"ml-4","children":["$","a",null,{"href":"#set-up-photo-documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Set Up Photo Documentation"}]}],["$","li","sync-scheduling-with-your-booking-calendar",{"className":"ml-4","children":["$","a",null,{"href":"#sync-scheduling-with-your-booking-calendar","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sync Scheduling with Your Booking Calendar"}]}],["$","li","managing-linen-in-unit-vs-linen-service",{"className":"","children":["$","a",null,{"href":"#managing-linen-in-unit-vs-linen-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Managing Linen: In-Unit vs. Linen Service"}]}],"$L29","$L2a","$L2b","$L2c","$L2d","$L2e"]}]]}]}]
+27:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+29:["$","li","option-a-in-unit-laundry",{"className":"ml-4","children":["$","a",null,{"href":"#option-a-in-unit-laundry","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option A: In-Unit Laundry"}]}]
+2a:["$","li","option-b-linen-service",{"className":"ml-4","children":["$","a",null,{"href":"#option-b-linen-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option B: Linen Service"}]}]
+2b:["$","li","option-c-par-level-system",{"className":"ml-4","children":["$","a",null,{"href":"#option-c-par-level-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Option C: Par Level System"}]}]
+2c:["$","li","handling-issues-when-a-clean-doesn-t-meet-standards",{"className":"","children":["$","a",null,{"href":"#handling-issues-when-a-clean-doesn-t-meet-standards","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handling Issues: When a Clean Doesn't Meet Standards"}]}]
+2d:["$","li","building-your-cleaner-relationship-for-long-term-success",{"className":"","children":["$","a",null,{"href":"#building-your-cleaner-relationship-for-long-term-success","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Your Cleaner Relationship for Long-Term Success"}]}]
+2e:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Finding a Cleaning Service for Your Short-Term Rental | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"How to find, hire, and manage a reliable cleaning service for your short-term rental. Includes interview questions, pricing benchmarks, and turnover checklists."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"cleaning service,STR turnover,airbnb cleaning,vacation rental operations,short-term rental"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/cleaning-service-short-term-rental"}],["$","meta","6",{"property":"og:title","content":"Finding a Cleaning Service for Your Short-Term Rental"}],["$","meta","7",{"property":"og:description","content":"How to find, hire, and manage a reliable cleaning service for your short-term rental. Includes interview questions, pricing benchmarks, and turnover checklists."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/cleaning-service-short-term-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Finding a Cleaning Service for Your Short-Term Rental"}],["$","meta","15",{"name":"twitter:description","content":"How to find, hire, and manage a reliable cleaning service for your short-term rental. Includes interview questions, pricing benchmarks, and turnover checklists."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

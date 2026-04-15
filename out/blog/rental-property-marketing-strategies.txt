@@ -1,0 +1,251 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","rental-property-marketing-strategies"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","rental-property-marketing-strategies","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rental-property-marketing-strategies","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Rental Property Marketing Strategies That Fill Vacancies Fast\",\"description\":\"Learn proven rental property marketing strategies to attract quality tenants and fill vacancies faster. Covers online listings, social media, photography, open houses, and more.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/rental-property-marketing-strategies\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Marketing & Leasing\",\"item\":\"https://portfoliorental.com/blog/category/marketing-and-leasing\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Rental Property Marketing Strategies That Fill Vacancies Fast\",\"item\":\"https://portfoliorental.com/blog/rental-property-marketing-strategies\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/marketing-and-leasing","className":"hover:text-blue-600","children":"Marketing & Leasing"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Marketing & Leasing"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Rental Property Marketing Strategies That Fill Vacancies Fast"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[10," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-marketing-your-rental-property-matters",{"className":"","children":["$","a",null,{"href":"#why-marketing-your-rental-property-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Marketing Your Rental Property Matters"}]}],["$","li","1-optimize-your-online-listings",{"className":"","children":["$","a",null,{"href":"#1-optimize-your-online-listings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Optimize Your Online Listings"}]}],["$","li","2-use-social-media-to-your-advantage",{"className":"","children":["$","a",null,{"href":"#2-use-social-media-to-your-advantage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Use Social Media to Your Advantage"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]}]]}],"$L1d","$L1e"]}],"$L1f","$L20"]}],"$L21"]}]]}],"$L22"]
+11:["$","li","3-invest-in-professional-photography",{"className":"","children":["$","a",null,{"href":"#3-invest-in-professional-photography","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Invest in Professional Photography"}]}]
+12:["$","li","4-offer-virtual-tours",{"className":"","children":["$","a",null,{"href":"#4-offer-virtual-tours","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Offer Virtual Tours"}]}]
+13:["$","li","5-use-yard-signs-and-local-signage",{"className":"","children":["$","a",null,{"href":"#5-use-yard-signs-and-local-signage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Use Yard Signs and Local Signage"}]}]
+14:["$","li","6-build-a-referral-program",{"className":"","children":["$","a",null,{"href":"#6-build-a-referral-program","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Build a Referral Program"}]}]
+15:["$","li","7-host-open-houses-and-showings",{"className":"","children":["$","a",null,{"href":"#7-host-open-houses-and-showings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Host Open Houses and Showings"}]}]
+16:["$","li","8-time-your-marketing-right",{"className":"","children":["$","a",null,{"href":"#8-time-your-marketing-right","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Time Your Marketing Right"}]}]
+17:["$","li","9-target-the-right-demographics",{"className":"","children":["$","a",null,{"href":"#9-target-the-right-demographics","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"9. Target the Right Demographics"}]}]
+18:["$","li","10-set-a-marketing-budget-and-track-results",{"className":"","children":["$","a",null,{"href":"#10-set-a-marketing-budget-and-track-results","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"10. Set a Marketing Budget and Track Results"}]}]
+19:["$","li","writing-listings-that-convert",{"className":"","children":["$","a",null,{"href":"#writing-listings-that-convert","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Writing Listings That Convert"}]}]
+1a:["$","li","create-a-marketing-timeline",{"className":"","children":["$","a",null,{"href":"#create-a-marketing-timeline","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create a Marketing Timeline"}]}]
+1b:["$","li","common-marketing-mistakes-to-avoid",{"className":"","children":["$","a",null,{"href":"#common-marketing-mistakes-to-avoid","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Marketing Mistakes to Avoid"}]}]
+1c:["$","li","putting-it-all-together",{"className":"","children":["$","a",null,{"href":"#putting-it-all-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Putting It All Together"}]}]
+23:T3f60,<p>Every day your rental sits empty, you lose money. A vacant unit does not just mean zero rent. It also means you still pay the mortgage, taxes, insurance, and upkeep. That is why strong rental property marketing strategies matter so much.</p>
+<p>The good news? You do not need a huge budget to market your rental well. You just need a clear plan and the right mix of tactics. This guide walks you through ten proven strategies to attract quality tenants and fill your units faster.</p>
+<h2 id="why-marketing-your-rental-property-matters">Why Marketing Your Rental Property Matters</h2>
+<p>Many landlords think marketing means putting a "For Rent" sign in the yard. That worked 20 years ago. Today, over 80 percent of renters start their search online, according to <a href="https://www.nar.realtor/research-and-statistics/research-reports/real-estate-in-a-digital-age" rel="noopener" target="_blank">NAR research</a>. If you are not meeting them where they look, you miss out on the best tenants.</p>
+<p>Good marketing does more than fill vacancies. It helps you:</p>
+<ul>
+<li><strong>Find better tenants</strong> who pay on time and take care of your property</li>
+<li><strong>Reduce vacancy periods</strong> from weeks to days</li>
+<li><strong>Command higher rents</strong> by showing your property in the best light</li>
+<li><strong>Build your brand</strong> as a professional landlord — see our <a href="/blog/rental-property-branding">rental property branding guide</a></li>
+</ul>
+<p>Let us dig into the strategies that work best right now.</p>
+<h2 id="1-optimize-your-online-listings">1. Optimize Your Online Listings</h2>
+<p>Your online listing is your most powerful marketing tool. Most renters will see your property online before they ever visit in person. That means your listing needs to grab attention and give them all the details they want.</p>
+<p>Here is what a great online listing includes:</p>
+<ul>
+<li><strong>A strong headline</strong> that mentions the best feature (like "Spacious 3-Bed with Updated Kitchen Near Downtown")</li>
+<li><strong>High-quality photos</strong> showing every room and outdoor space</li>
+<li><strong>Complete details</strong> about rent, deposit, square footage, bedrooms, bathrooms, and pet policy</li>
+<li><strong>Neighborhood highlights</strong> like nearby schools, parks, shops, and transit</li>
+<li><strong>A clear call to action</strong> telling them how to schedule a showing or apply</li>
+</ul>
+<p>Post your listing on multiple sites to reach the widest audience. The <a href="/blog/best-rental-listing-sites">best rental listing sites</a> each attract different types of renters. Casting a wide net helps you find the right tenant faster.</p>
+<h2 id="2-use-social-media-to-your-advantage">2. Use Social Media to Your Advantage</h2>
+<p>Social media is free and reaches thousands of people in your area. You do not need to be a social media expert to use it well.</p>
+<p><strong>Facebook</strong> is the top platform for rental marketing. You can:</p>
+<ul>
+<li>Post in local buy/sell/rent groups</li>
+<li>Use Facebook Marketplace to list your property</li>
+<li>Share your listing on your personal page and ask friends to share it</li>
+<li>Run low-cost targeted ads to reach renters in your area</li>
+</ul>
+<p><strong>Instagram</strong> works well for properties with great visual appeal. Post photos and short video tours with relevant hashtags like #ForRent, #ApartmentHunting, and your city name.</p>
+<p><strong>Nextdoor</strong> connects you with people in specific neighborhoods. Many renters search there first because they want to stay in their current area.</p>
+<p>For a complete social media playbook, read our <a href="/blog/social-media-marketing-rental-property">social media marketing guide</a>. The key to social media marketing is consistency. Post regularly, respond to comments quickly, and update your listings as things change.</p>
+<h2 id="3-invest-in-professional-photography">3. Invest in Professional Photography</h2>
+<p>Photos are the first thing renters look at. Bad photos make even a great property look terrible. Good photos make a good property look amazing.</p>
+<p>You have two options:</p>
+<ul>
+<li><strong>Hire a professional photographer</strong> who specializes in real estate. This costs between 100 and 300 dollars and is worth every penny for higher-end units.</li>
+<li><strong>Take great photos yourself</strong> using a smartphone with a wide-angle lens. Follow our <a href="/blog/rental-property-photography-tips">rental property photography tips</a> to get professional-looking results on a budget.</li>
+</ul>
+<p>Either way, make sure you:</p>
+<ul>
+<li>Shoot during the day with natural light</li>
+<li>Clean and declutter every room first</li>
+<li>Take photos from room corners to show the full space</li>
+<li>Include exterior shots, common areas, and neighborhood features</li>
+<li>Use at least 15 to 20 photos per listing</li>
+</ul>
+<p>Great photos do more than attract clicks. They attract serious renters who already like what they see. That means fewer wasted showings and faster lease signings.</p>
+<h2 id="4-offer-virtual-tours">4. Offer Virtual Tours</h2>
+<p>Virtual tours became popular during the pandemic, and renters now expect them. A virtual tour lets people "walk through" your property from their phone or computer.</p>
+<p>There are several ways to create virtual tours:</p>
+<ul>
+<li><strong>Video walkthrough</strong> recorded on your smartphone (free and easy)</li>
+<li><strong>3D tours</strong> using a Matterport camera or similar tool (more professional)</li>
+<li><strong>Live video showings</strong> through FaceTime or Zoom for out-of-town renters</li>
+</ul>
+<p>For a complete walkthrough on creating tours, see our guide on <a href="/blog/virtual-tours-rental-property">virtual tours for rental property</a>. Virtual tours save you time by filtering out renters who would not be interested after seeing the property. They also attract out-of-town renters who cannot visit in person before signing a lease.</p>
+<h2 id="5-use-yard-signs-and-local-signage">5. Use Yard Signs and Local Signage</h2>
+<p>Do not underestimate the power of a simple yard sign. Many great tenants find rentals by driving through neighborhoods they want to live in.</p>
+<p>A good rental sign should be:</p>
+<ul>
+<li><strong>Large enough to read from the road</strong> (at least 18 by 24 inches)</li>
+<li><strong>Professional looking</strong> with clean fonts and your contact info</li>
+<li><strong>Placed in a visible spot</strong> facing traffic from both directions</li>
+</ul>
+<p>Include your phone number, website, and a text code for more details. Some landlords use signs with QR codes that link directly to the online listing.</p>
+<p>For multi-unit buildings or properties on busy streets, banners and window signs can also work well.</p>
+<h2 id="6-build-a-referral-program">6. Build a Referral Program</h2>
+<p>Your current tenants know people who would make great neighbors. A referral program gives them a reason to help you find your next tenant.</p>
+<p>Here is how a simple referral program works:</p>
+<ul>
+<li>Offer your current tenants a reward for referring a qualified tenant who signs a lease</li>
+<li>Common rewards include 100 to 500 dollars off rent, a gift card, or a small cash bonus</li>
+<li>Make sure the referred tenant passes your normal screening process</li>
+<li>Pay the reward after the new tenant moves in and pays first month rent</li>
+</ul>
+<p>Referral programs work because tenants tend to refer people like themselves. If you have great tenants, their friends and coworkers are likely great tenants too.</p>
+<p>You can also ask local businesses to refer renters your way. Real estate agents, relocation companies, and employers who hire people from out of town are all good referral partners.</p>
+<h2 id="7-host-open-houses-and-showings">7. Host Open Houses and Showings</h2>
+<p>Open houses let you show the property to multiple interested renters at once. This saves time compared to scheduling individual showings.</p>
+<p>Tips for a successful open house:</p>
+<ul>
+<li><strong>Schedule on weekends</strong> when most renters are free</li>
+<li><strong>Advertise it</strong> on your online listings and social media</li>
+<li><strong>Make the property shine</strong> with a deep clean, fresh flowers, and good lighting. Our <a href="/blog/rental-property-staging-tips">rental property staging tips</a> can help</li>
+<li><strong>Prepare printed materials</strong> with floor plans, pricing, and application info</li>
+<li><strong>Collect contact information</strong> from every visitor for follow-up</li>
+</ul>
+<p>For individual showings, respond to inquiries within one hour. Fast response times matter. Studies show that landlords who respond within 30 minutes are far more likely to secure a quality tenant than those who wait a day or more.</p>
+<h2 id="8-time-your-marketing-right">8. Time Your Marketing Right</h2>
+<p>When you list your property matters almost as much as how you list it. Rental demand follows seasonal patterns in most markets.</p>
+<p><strong>Peak rental season</strong> runs from April through September. During these months:</p>
+<ul>
+<li>More renters are searching</li>
+<li>You can often command higher rents</li>
+<li>Properties rent faster</li>
+</ul>
+<p><strong>Off-peak season</strong> runs from October through March. During these months:</p>
+<ul>
+<li>Fewer renters are looking</li>
+<li>You may need to be more competitive on price</li>
+<li>Marketing effort needs to increase</li>
+</ul>
+<p>If you can control your lease timing, aim for leases that end in spring or early summer. This way, if a tenant moves out, you are marketing during peak season.</p>
+<p>To learn more about reducing empty periods, check out our guide on <a href="/blog/reduce-vacancy-rate-rental-property">how to reduce your vacancy rate</a>.</p>
+<h2 id="9-target-the-right-demographics">9. Target the Right Demographics</h2>
+<p>Not all renters are the same. The best marketing speaks directly to the type of tenant you want to attract.</p>
+<p>Think about who your ideal tenant is:</p>
+<ul>
+<li><strong>Young professionals</strong> care about nightlife, coffee shops, and short commutes</li>
+<li><strong>Families</strong> care about schools, parks, safety, and space</li>
+<li><strong>Students</strong> care about price, proximity to campus, and furnished options</li>
+<li><strong>Retirees</strong> care about accessibility, quiet neighborhoods, and low maintenance</li>
+</ul>
+<p>Once you know your target renter, you can tailor your listing language, photos, and advertising channels to appeal to them. For example, if you are marketing to young professionals, highlight the walkability score, nearby restaurants, and modern finishes.</p>
+<p>Claim and optimize your <a href="https://support.google.com/business/answer/10515606" rel="noopener" target="_blank">Google Business Profile</a> to improve local visibility. Make sure your marketing complies with fair housing laws. You cannot discriminate based on race, color, religion, sex, national origin, disability, or familial status. Focus on describing the property and neighborhood, not the type of person you want.</p>
+<h2 id="10-set-a-marketing-budget-and-track-results">10. Set a Marketing Budget and Track Results</h2>
+<p>Even a small marketing budget can go a long way if you spend it wisely. Here is a sample budget for marketing a single rental unit:</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Professional photos</td>
+<td>$150-300</td>
+</tr>
+<tr>
+<td>Featured listing upgrades</td>
+<td>$50-100</td>
+</tr>
+<tr>
+<td>Facebook/Instagram ads</td>
+<td>$50-150</td>
+</tr>
+<tr>
+<td>Yard sign</td>
+<td>$20-50</td>
+</tr>
+<tr>
+<td>Referral reward</td>
+<td>$200-500</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td><strong>$470-1,100</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Compare this to the cost of one month of vacancy. If your rent is 1,500 dollars per month, spending 500 dollars on marketing to fill the unit two weeks sooner saves you 750 dollars.</p>
+<p>Track which marketing channels bring you the most inquiries and the best tenants. Over time, you will learn where to focus your budget for the best return.</p>
+<h2 id="writing-listings-that-convert">Writing Listings That Convert</h2>
+<p>Your listing description is just as important as your photos. A well-written listing description answers every question a renter might have and makes them want to schedule a showing right away.</p>
+<p>The best descriptions are:</p>
+<ul>
+<li><strong>Specific</strong> rather than vague ("granite countertops" beats "nice kitchen")</li>
+<li><strong>Benefit-focused</strong> rather than feature-focused ("save time with in-unit laundry" beats "washer/dryer included")</li>
+<li><strong>Honest</strong> about what the property offers and does not offer</li>
+</ul>
+<p>For a deep dive into crafting listings that attract quality tenants, read our guide on <a href="/blog/writing-rental-listing-descriptions">writing rental listing descriptions</a>.</p>
+<h2 id="create-a-marketing-timeline">Create a Marketing Timeline</h2>
+<p>Effective marketing follows a timeline. Here is a simple plan for filling a vacancy:</p>
+<p><strong>60 days before move-out:</strong></p>
+<ul>
+<li>Decide if you will renew the current tenant's lease</li>
+<li>Begin planning any repairs or updates</li>
+</ul>
+<p><strong>45 days before move-out:</strong></p>
+<ul>
+<li>Take new photos if needed</li>
+<li>Write your listing description</li>
+<li>Set your asking rent based on market research</li>
+</ul>
+<p><strong>30 days before move-out:</strong></p>
+<ul>
+<li>Post your listing on all major sites</li>
+<li>Share on social media</li>
+<li>Put up yard signs</li>
+<li>Notify your referral network</li>
+</ul>
+<p><strong>14 days before move-out:</strong></p>
+<ul>
+<li>Host open houses and showings</li>
+<li>Begin collecting applications</li>
+<li>Follow up with interested renters</li>
+</ul>
+<p><strong>7 days before move-out:</strong></p>
+<ul>
+<li>Screen your top applicants</li>
+<li>Make your selection and sign the lease</li>
+<li>Schedule the move-in inspection</li>
+</ul>
+<p>Starting early gives you the best chance of having a new tenant ready to move in the day after the old one leaves.</p>
+<h2 id="common-marketing-mistakes-to-avoid">Common Marketing Mistakes to Avoid</h2>
+<p>Even experienced landlords make these mistakes:</p>
+<ol>
+<li><strong>Listing on only one site.</strong> Spread your listing across multiple platforms for maximum reach.</li>
+<li><strong>Using dark or blurry photos.</strong> Bad photos turn renters away before they read a word.</li>
+<li><strong>Overpricing the rent.</strong> An overpriced unit sits vacant, costing you more than a small rent reduction would.</li>
+<li><strong>Slow response times.</strong> Renters contact multiple landlords. The first one to respond often wins.</li>
+<li><strong>Skipping the description.</strong> A listing with photos but no description looks lazy and unprofessional.</li>
+<li><strong>Ignoring mobile users.</strong> Most renters search on their phones. Make sure your listing looks great on small screens.</li>
+</ol>
+<h2 id="putting-it-all-together">Putting It All Together</h2>
+<p>The best rental property marketing strategies combine multiple channels and tactics. No single approach works on its own. But when you combine great photos, well-written descriptions, broad online distribution, social media promotion, and fast response times, you create a system that fills vacancies quickly with quality tenants.</p>
+<p>Start with the strategies that cost the least and have the biggest impact. Online listings, social media, and good photography give you the most bang for your buck. Then layer in referral programs, open houses, and targeted advertising as your budget allows.</p>
+<p>Remember, the goal is not just to fill the unit. It is to fill it with a great tenant who pays on time, takes care of the property, and stays for years. Good marketing attracts that kind of tenant.</p>
+<p>Take action today. Review your current marketing plan, identify gaps, and start implementing these strategies. Your next great tenant is out there looking for a place just like yours.</p>
+1d:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$23"}}]
+1e:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","marketing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"marketing"}],["$","span","vacancy reduction",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacancy reduction"}],["$","span","rental listings",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental listings"}],["$","span","rental property marketing strategies",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental property marketing strategies"}]]}]
+1f:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Marketing & Leasing"]}],["$","$L10",null,{"href":"/blog/category/marketing-and-leasing","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","lease-up-strategy-new-rental-properties",{"children":["$","$L10",null,{"href":"/blog/lease-up-strategy-new-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Lease-Up Strategy for New Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","market-luxury-rental-properties-affluent",{"children":["$","$L10",null,{"href":"/blog/market-luxury-rental-properties-affluent","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Market Luxury Rental Properties to High-Net-Worth Tenants"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","rental-property-showing-schedule-efficiency",{"children":["$","$L10",null,{"href":"/blog/rental-property-showing-schedule-efficiency","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Set Up a Rental Property Showing Schedule That Maximizes Efficiency"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","run-rental-property-showing-converts",{"children":["$","$L10",null,{"href":"/blog/run-rental-property-showing-converts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Run a Rental Property Showing That Converts"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+20:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","best-rental-listing-sites",{"href":"/blog/best-rental-listing-sites","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Best Rental Listing Sites to Advertise Your Property in 2026"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","reduce-days-on-market-rental",{"href":"/blog/reduce-days-on-market-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Reduce Days on Market for Your Rental Property"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","rental-property-branding",{"href":"/blog/rental-property-branding","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Rental Property Branding: How to Build a Brand That Attracts and Retains Tenants"}],["$","p",null,{"className":"text-sm text-gray-500","children":[12," min read"]}]]}]]}]]}]
+21:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-marketing-your-rental-property-matters",{"className":"","children":["$","a",null,{"href":"#why-marketing-your-rental-property-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Marketing Your Rental Property Matters"}]}],["$","li","1-optimize-your-online-listings",{"className":"","children":["$","a",null,{"href":"#1-optimize-your-online-listings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Optimize Your Online Listings"}]}],["$","li","2-use-social-media-to-your-advantage",{"className":"","children":["$","a",null,{"href":"#2-use-social-media-to-your-advantage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Use Social Media to Your Advantage"}]}],["$","li","3-invest-in-professional-photography",{"className":"","children":["$","a",null,{"href":"#3-invest-in-professional-photography","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Invest in Professional Photography"}]}],["$","li","4-offer-virtual-tours",{"className":"","children":["$","a",null,{"href":"#4-offer-virtual-tours","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Offer Virtual Tours"}]}],["$","li","5-use-yard-signs-and-local-signage",{"className":"","children":["$","a",null,{"href":"#5-use-yard-signs-and-local-signage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Use Yard Signs and Local Signage"}]}],["$","li","6-build-a-referral-program",{"className":"","children":["$","a",null,{"href":"#6-build-a-referral-program","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Build a Referral Program"}]}],["$","li","7-host-open-houses-and-showings",{"className":"","children":["$","a",null,{"href":"#7-host-open-houses-and-showings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Host Open Houses and Showings"}]}],["$","li","8-time-your-marketing-right",{"className":"","children":["$","a",null,{"href":"#8-time-your-marketing-right","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Time Your Marketing Right"}]}],["$","li","9-target-the-right-demographics",{"className":"","children":["$","a",null,{"href":"#9-target-the-right-demographics","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"9. Target the Right Demographics"}]}],["$","li","10-set-a-marketing-budget-and-track-results",{"className":"","children":["$","a",null,{"href":"#10-set-a-marketing-budget-and-track-results","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"10. Set a Marketing Budget and Track Results"}]}],["$","li","writing-listings-that-convert",{"className":"","children":["$","a",null,{"href":"#writing-listings-that-convert","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Writing Listings That Convert"}]}],["$","li","create-a-marketing-timeline",{"className":"","children":["$","a",null,{"href":"#create-a-marketing-timeline","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create a Marketing Timeline"}]}],["$","li","common-marketing-mistakes-to-avoid",{"className":"","children":["$","a",null,{"href":"#common-marketing-mistakes-to-avoid","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Marketing Mistakes to Avoid"}]}],"$L24"]}]]}]}]
+22:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+24:["$","li","putting-it-all-together",{"className":"","children":["$","a",null,{"href":"#putting-it-all-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Putting It All Together"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Rental Property Marketing Strategies That Fill Vacancies Fast | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn proven rental property marketing strategies to attract quality tenants and fill vacancies faster. Covers online listings, social media, photography, open houses, and more."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"marketing,vacancy reduction,rental listings,rental property marketing strategies"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/rental-property-marketing-strategies"}],["$","meta","6",{"property":"og:title","content":"Rental Property Marketing Strategies That Fill Vacancies Fast"}],["$","meta","7",{"property":"og:description","content":"Learn proven rental property marketing strategies to attract quality tenants and fill vacancies faster. Covers online listings, social media, photography, open houses, and more."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/rental-property-marketing-strategies"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Rental Property Marketing Strategies That Fill Vacancies Fast"}],["$","meta","15",{"name":"twitter:description","content":"Learn proven rental property marketing strategies to attract quality tenants and fill vacancies faster. Covers online listings, social media, photography, open houses, and more."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

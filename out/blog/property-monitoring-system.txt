@@ -1,0 +1,240 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","property-monitoring-system"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","property-monitoring-system","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","property-monitoring-system","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Remote Property Monitoring Systems for Landlords\",\"description\":\"A guide to remote property monitoring systems for landlords, covering sensors, IoT devices, temperature monitoring, utility tracking, and platforms for managing multiple rentals remotely.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/property-monitoring-system\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Remote Property Monitoring Systems for Landlords\",\"item\":\"https://portfoliorental.com/blog/property-monitoring-system\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Remote Property Monitoring Systems for Landlords"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-remote-property-monitoring-can-detect",{"className":"","children":["$","a",null,{"href":"#what-remote-property-monitoring-can-detect","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Remote Property Monitoring Can Detect"}]}],["$","li","building-blocks-of-a-remote-monitoring-system",{"className":"","children":["$","a",null,{"href":"#building-blocks-of-a-remote-monitoring-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Blocks of a Remote Monitoring System"}]}],["$","li","1-smart-thermostats-temperature-monitoring",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}]]}],"$L2a","$L2b"]}],"$L2c","$L2d"]}],"$L2e"]}]]}],"$L2f"]
+11:["$","a",null,{"href":"#1-smart-thermostats-temperature-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Smart Thermostats (Temperature Monitoring)"}]
+12:["$","li","2-water-leak-sensors",{"className":"ml-4","children":["$","a",null,{"href":"#2-water-leak-sensors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Water Leak Sensors"}]}]
+13:["$","li","3-smoke-and-co-detectors-with-remote-alerts",{"className":"ml-4","children":["$","a",null,{"href":"#3-smoke-and-co-detectors-with-remote-alerts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Smoke and CO Detectors with Remote Alerts"}]}]
+14:["$","li","4-smart-electrical-monitoring",{"className":"ml-4","children":["$","a",null,{"href":"#4-smart-electrical-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Smart Electrical Monitoring"}]}]
+15:["$","li","5-motion-sensors-vacant-properties",{"className":"ml-4","children":["$","a",null,{"href":"#5-motion-sensors-vacant-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Motion Sensors (Vacant Properties)"}]}]
+16:["$","li","6-door-and-window-sensors",{"className":"ml-4","children":["$","a",null,{"href":"#6-door-and-window-sensors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Door and Window Sensors"}]}]
+17:["$","li","7-wi-fi-connected-cameras",{"className":"ml-4","children":["$","a",null,{"href":"#7-wi-fi-connected-cameras","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Wi-Fi Connected Cameras"}]}]
+18:["$","li","hub-based-vs-cloud-based-systems",{"className":"","children":["$","a",null,{"href":"#hub-based-vs-cloud-based-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hub-Based vs Cloud-Based Systems"}]}]
+19:["$","li","cloud-based-wi-fi-direct",{"className":"ml-4","children":["$","a",null,{"href":"#cloud-based-wi-fi-direct","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cloud-Based (Wi-Fi Direct)"}]}]
+1a:["$","li","hub-based-z-wave-or-zigbee",{"className":"ml-4","children":["$","a",null,{"href":"#hub-based-z-wave-or-zigbee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hub-Based (Z-Wave or Zigbee)"}]}]
+1b:["$","li","monitoring-platforms-for-multi-property-landlords",{"className":"","children":["$","a",null,{"href":"#monitoring-platforms-for-multi-property-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monitoring Platforms for Multi-Property Landlords"}]}]
+1c:["$","li","smartrent",{"className":"ml-4","children":["$","a",null,{"href":"#smartrent","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"SmartRent"}]}]
+1d:["$","li","dwelo",{"className":"ml-4","children":["$","a",null,{"href":"#dwelo","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Dwelo"}]}]
+1e:["$","li","alertify-formerly-party-squasher",{"className":"ml-4","children":["$","a",null,{"href":"#alertify-formerly-party-squasher","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Alertify (formerly Party Squasher)"}]}]
+1f:["$","li","self-managed-dashboard",{"className":"ml-4","children":["$","a",null,{"href":"#self-managed-dashboard","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Self-Managed Dashboard"}]}]
+20:["$","li","telecommunications-infrastructure",{"className":"","children":["$","a",null,{"href":"#telecommunications-infrastructure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Telecommunications Infrastructure"}]}]
+21:["$","li","reliable-wi-fi",{"className":"ml-4","children":["$","a",null,{"href":"#reliable-wi-fi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reliable Wi-Fi"}]}]
+22:["$","li","cellular-backup",{"className":"ml-4","children":["$","a",null,{"href":"#cellular-backup","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cellular Backup"}]}]
+23:["$","li","power-backup",{"className":"ml-4","children":["$","a",null,{"href":"#power-backup","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Power Backup"}]}]
+24:["$","li","privacy-and-tenant-communication",{"className":"","children":["$","a",null,{"href":"#privacy-and-tenant-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Privacy and Tenant Communication"}]}]
+25:["$","li","disclosure",{"className":"ml-4","children":["$","a",null,{"href":"#disclosure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Disclosure"}]}]
+26:["$","li","tenant-consent",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-consent","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Consent"}]}]
+27:["$","li","during-tenancy",{"className":"ml-4","children":["$","a",null,{"href":"#during-tenancy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"During Tenancy"}]}]
+28:["$","li","building-a-monitoring-rollout-plan",{"className":"","children":["$","a",null,{"href":"#building-a-monitoring-rollout-plan","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Monitoring Rollout Plan"}]}]
+29:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+30:T3406,<p>One of the most significant challenges for rental property owners — particularly those managing properties across multiple locations — is maintaining awareness of what is happening at each property between visits. A pipe leaks for three days before anyone notices. A heating system fails during a cold snap. A vacant unit gets broken into. These scenarios share a common thread: if the landlord had known sooner, the outcome would have been far less costly.</p>
+<p>Remote property monitoring systems address this gap by deploying sensors and smart devices that continuously monitor property conditions and send alerts when something needs attention — without requiring the landlord to be physically present.</p>
+<p>This guide covers the components of a comprehensive remote monitoring system, recommended technology, and how to build a monitoring infrastructure that scales across a rental portfolio.</p>
+<hr>
+<h2 id="what-remote-property-monitoring-can-detect">What Remote Property Monitoring Can Detect</h2>
+<p>A well-designed monitoring system can alert you to:</p>
+<ul>
+<li><strong>Water leaks</strong> — At water heaters, supply lines, under sinks, from HVAC drain pans</li>
+<li><strong>Freeze conditions</strong> — Temperature drops that put pipes at risk</li>
+<li><strong>HVAC failure</strong> — Loss of heat or cooling, suggesting a system malfunction</li>
+<li><strong>Power outages</strong> — Loss of power to the property</li>
+<li><strong>Unauthorized access</strong> — Motion detection or access alerts in vacant properties</li>
+<li><strong>Smoke or fire</strong> — Smoke detector alerts per <a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fire-Safety">CPSC fire safety guidelines</a></li>
+<li><strong>Carbon monoxide</strong> — CO detector alerts with remote notification</li>
+<li><strong>Basement flooding</strong> — Water level detection in basement areas</li>
+<li><strong>High humidity</strong> — Conditions that could lead to <a href="https://www.epa.gov/mold">mold growth</a></li>
+<li><strong>Energy usage anomalies</strong> — Unusually high consumption suggesting HVAC issues or unauthorized occupancy</li>
+</ul>
+<hr>
+<h2 id="building-blocks-of-a-remote-monitoring-system">Building Blocks of a Remote Monitoring System</h2>
+<h3 id="1-smart-thermostats-temperature-monitoring">1. Smart Thermostats (Temperature Monitoring)</h3>
+<p>A smart thermostat provides continuous temperature monitoring — alerting you when the unit temperature drops below a set threshold (important for freeze protection) or when the HVAC system is unable to maintain the set temperature (suggesting failure).</p>
+<p><strong>Best options:</strong> Google Nest, ecobee, Honeywell Home T6</p>
+<p>A smart thermostat is typically the first monitoring device to install at any rental property. See our detailed guide on <a href="/blog/smart-thermostat-rental-property">smart thermostats for rental units</a>.</p>
+<h3 id="2-water-leak-sensors">2. Water Leak Sensors</h3>
+<p>Water sensors placed near high-risk appliances detect leaks before they cause significant damage. They are inexpensive, easy to install, and provide alerts within seconds of detecting moisture.</p>
+<p><strong>Best options:</strong> Moen Flo sensors, Govee WiFi sensors, SmartThings Water sensors</p>
+<p>For detailed guidance on water sensor selection and placement, see our guide on <a href="/blog/water-leak-detection-rental">water leak detection for landlords</a>.</p>
+<h3 id="3-smoke-and-co-detectors-with-remote-alerts">3. Smoke and CO Detectors with Remote Alerts</h3>
+<p>Traditional smoke and CO detectors alarm audibly but do not notify the landlord. Smart connected detectors (or adapters for existing detectors) can send push notifications to your phone:</p>
+<ul>
+<li><strong>Nest Protect</strong> — Combination smoke/CO detector with mobile alerts; excellent for rental properties</li>
+<li><strong>First Alert OneLink Safe &#x26; Sound</strong> — Combination smoke/CO with Alexa integration and mobile alerts</li>
+<li><strong>Roost Smart Battery</strong> — A smart battery that fits many existing smoke detectors and adds Wi-Fi notification capability without replacing the detector</li>
+</ul>
+<h3 id="4-smart-electrical-monitoring">4. Smart Electrical Monitoring</h3>
+<p>Smart electrical monitors track power usage at the circuit or whole-home level:</p>
+<ul>
+<li><strong>Sense Energy Monitor</strong> — Installs in the electrical panel; tracks whole-home energy usage, identifies individual appliance signatures, and alerts you to power anomalies</li>
+<li><strong>Emporia Energy Monitor</strong> — Monitors individual circuits; useful for tracking HVAC usage, identifying failing appliances, and detecting unusual power draw</li>
+</ul>
+<p><strong>Use cases for landlords:</strong></p>
+<ul>
+<li>Detect HVAC systems running continuously (can indicate thermostat failure or refrigerant issue)</li>
+<li>Monitor vacant properties for unauthorized occupancy (power usage without known tenants)</li>
+<li>Track utility expenses for utility-paid properties</li>
+</ul>
+<h3 id="5-motion-sensors-vacant-properties">5. Motion Sensors (Vacant Properties)</h3>
+<p>For vacant units, motion sensors alert you to unauthorized entry or occupancy:</p>
+<ul>
+<li><strong>SimpliSafe sensors</strong> — Wireless, easy to deploy temporarily during vacancy</li>
+<li><strong>Wyze Motion Sensor</strong> — Inexpensive, Wi-Fi connected, good for basic intrusion detection</li>
+<li><strong>Ring Alarm Motion Detector</strong> — Integrates with Ring ecosystem and Amazon monitoring</li>
+</ul>
+<p>Configure motion sensors to send alerts only during periods when the unit should be vacant. Remove or reconfigure before new tenant move-in.</p>
+<h3 id="6-door-and-window-sensors">6. Door and Window Sensors</h3>
+<p>Contact sensors on entry doors and accessible windows alert you when they open:</p>
+<ul>
+<li>Useful for vacant properties to detect unauthorized entry</li>
+<li>Can be used to confirm contractor entry at a specific time</li>
+<li>Work in conjunction with smart locks for complete entry monitoring</li>
+</ul>
+<h3 id="7-wi-fi-connected-cameras">7. Wi-Fi Connected Cameras</h3>
+<p>For vacant properties or common areas, cameras provide visual verification when other sensors trigger:</p>
+<ul>
+<li><strong>Arlo Pro 4</strong> — Outdoor-rated, solar-powered option available</li>
+<li><strong>Ring Stick Up Cam</strong> — Easy installation, battery or wired options</li>
+<li><strong>Wyze Cam Outdoor</strong> — Budget-friendly</li>
+</ul>
+<p>Note: Camera placement must comply with tenant privacy requirements. See our guide on <a href="/blog/security-cameras-rental-property">security camera rules for rental properties</a>.</p>
+<hr>
+<h2 id="hub-based-vs-cloud-based-systems">Hub-Based vs Cloud-Based Systems</h2>
+<h3 id="cloud-based-wi-fi-direct">Cloud-Based (Wi-Fi Direct)</h3>
+<p>Many modern smart devices connect directly to Wi-Fi and communicate via the manufacturer's cloud service. Pros:</p>
+<ul>
+<li>Simple setup — no hub required</li>
+<li>Each device has its own app</li>
+<li>Widely available</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Requires a reliable Wi-Fi signal at each device location</li>
+<li>Multiple apps for different devices</li>
+<li>Cloud service dependency (if manufacturer discontinues service, device may become non-functional)</li>
+</ul>
+<h3 id="hub-based-z-wave-or-zigbee">Hub-Based (Z-Wave or Zigbee)</h3>
+<p>A smart home hub (SmartThings, Hubitat) acts as a central controller for Z-Wave and Zigbee devices. Pros:</p>
+<ul>
+<li>Works without internet (local processing)</li>
+<li>Single platform for all devices regardless of brand</li>
+<li>More reliable for critical applications like leak detection</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Requires hub installation at each property</li>
+<li>More complex initial setup</li>
+</ul>
+<p><strong>For landlords with multiple properties:</strong> A hub-based system offers more reliable and consistent monitoring. Hubitat is particularly popular with landlords because it processes automation locally without cloud dependency.</p>
+<hr>
+<h2 id="monitoring-platforms-for-multi-property-landlords">Monitoring Platforms for Multi-Property Landlords</h2>
+<p>Several platforms are designed specifically for landlords managing monitoring across multiple properties:</p>
+<h3 id="smartrent">SmartRent</h3>
+<p>SmartRent is a proptech platform designed for institutional and professional landlords:</p>
+<ul>
+<li>Smart thermostat, smart lock, water sensor, and leak detection integration</li>
+<li>Single dashboard for all properties</li>
+<li>Designed for multi-family buildings (20+ units)</li>
+<li>Integration with major property management software (Yardi, RealPage, AppFolio)</li>
+<li>White-label resident app</li>
+</ul>
+<h3 id="dwelo">Dwelo</h3>
+<p>Similar to SmartRent; comprehensive smart home platform designed for multi-family rentals with centralized monitoring and management.</p>
+<h3 id="alertify-formerly-party-squasher">Alertify (formerly Party Squasher)</h3>
+<p>Alertify is designed for short-term rental operators:</p>
+<ul>
+<li>Noise monitoring</li>
+<li>Occupancy detection</li>
+<li>Smoking detection (cigarette smoke sensors)</li>
+<li>Integration with Airbnb and VRBO platforms</li>
+</ul>
+<h3 id="self-managed-dashboard">Self-Managed Dashboard</h3>
+<p>For smaller portfolios (2-20 properties), a self-managed approach works well:</p>
+<ul>
+<li>Choose a smart home platform (SmartThings, Apple Home, or Google Home)</li>
+<li>Add compatible sensors from major manufacturers</li>
+<li>Configure automated alerts for all critical conditions</li>
+<li>Monitor from a single app</li>
+</ul>
+<hr>
+<h2 id="telecommunications-infrastructure">Telecommunications Infrastructure</h2>
+<p>For monitoring systems to work, each property needs:</p>
+<h3 id="reliable-wi-fi">Reliable Wi-Fi</h3>
+<p>At minimum, a reliable broadband connection and router at each monitored property. Consider:</p>
+<ul>
+<li><strong>Eero</strong> or <strong>Google Nest WiFi</strong> — Mesh Wi-Fi systems that provide whole-property coverage reliably</li>
+<li>Dedicated router (separate from tenant's service) for landlord monitoring devices</li>
+</ul>
+<h3 id="cellular-backup">Cellular Backup</h3>
+<p>For critical monitoring (vacant properties, high-risk units), cellular backup ensures monitoring continues during internet outages. Devices like the SimpliSafe cellular communicator or LTE backup modems provide this capability.</p>
+<h3 id="power-backup">Power Backup</h3>
+<p>Smart home hubs and routers lose function during power outages unless backed up. A small UPS (uninterruptible power supply) for your router and hub ensures monitoring continues during short power outages.</p>
+<hr>
+<h2 id="privacy-and-tenant-communication">Privacy and Tenant Communication</h2>
+<h3 id="disclosure">Disclosure</h3>
+<p>Disclose all monitoring devices in your lease. Specifically describe:</p>
+<ul>
+<li>What devices are installed (thermostats, smoke/CO detectors, water sensors, motion sensors)</li>
+<li>What each monitors</li>
+<li>How alerts are handled</li>
+<li>That cameras (if any) are located only in exterior/common areas</li>
+</ul>
+<h3 id="tenant-consent">Tenant Consent</h3>
+<p>Include a technology addendum per <a href="https://www.ftc.gov/business-guidance/privacy-security">FTC privacy guidelines</a> that tenants sign. This protects you legally and ensures tenants are not surprised.</p>
+<h3 id="during-tenancy">During Tenancy</h3>
+<p>Remove or disable motion sensors and cameras in occupied units (they are only appropriate for vacant properties). Thermostats, water sensors, and smoke/CO detectors can operate throughout the tenancy as they monitor property conditions, not tenant behavior.</p>
+<hr>
+<h2 id="building-a-monitoring-rollout-plan">Building a Monitoring Rollout Plan</h2>
+<p>For landlords with existing portfolios who want to add monitoring:</p>
+<p><strong>Phase 1 (Immediate protection — $100-$200 per unit):</strong></p>
+<ul>
+<li>Smart thermostat at each unit</li>
+<li>Water sensor at water heater and washing machine location</li>
+</ul>
+<p><strong>Phase 2 (Expanded coverage — $100-$200 per unit additional):</strong></p>
+<ul>
+<li>Water sensors at all remaining high-risk locations</li>
+<li>Connected smoke/CO detector</li>
+</ul>
+<p><strong>Phase 3 (Full monitoring — $200-$400 per unit additional):</strong></p>
+<ul>
+<li>Smart electrical monitoring</li>
+<li>Hub-based system for reliability</li>
+<li>Motion sensors for vacant unit periods</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Remote property monitoring systems are no longer futuristic technology — they are practical, affordable, and increasingly essential for landlords who want to protect their assets between visits. Starting with the highest-value sensors (smart thermostat and water leak sensors) provides immediate protection at modest cost. Building out to a comprehensive monitoring platform over time creates a robust early-warning system that dramatically reduces emergency repairs, tenant disruption, and insurance claims.</p>
+<p>For related technology guidance, see our articles on <a href="/blog/water-leak-detection-rental">water leak detection systems for landlords</a> and <a href="/blog/smart-thermostat-rental-property">smart thermostats for rental units</a>.</p>
+2a:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$30"}}]
+2b:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","property monitoring",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property monitoring"}],["$","span","property technology",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property technology"}],["$","span","IoT",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"IoT"}],["$","span","remote management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"remote management"}],["$","span","smart home",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"smart home"}]]}]
+2c:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+2d:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","smart-thermostat-rental-property",{"href":"/blog/smart-thermostat-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Installing Smart Thermostats in Rental Units"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","keyless-entry-rental-property",{"href":"/blog/keyless-entry-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Keyless Entry Systems for Multi-Family Rentals"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","smart-locks-rental-property",{"href":"/blog/smart-locks-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Smart Locks for Rental Properties: Best Options"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+2e:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-remote-property-monitoring-can-detect",{"className":"","children":["$","a",null,{"href":"#what-remote-property-monitoring-can-detect","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Remote Property Monitoring Can Detect"}]}],["$","li","building-blocks-of-a-remote-monitoring-system",{"className":"","children":["$","a",null,{"href":"#building-blocks-of-a-remote-monitoring-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Blocks of a Remote Monitoring System"}]}],["$","li","1-smart-thermostats-temperature-monitoring",{"className":"ml-4","children":["$","a",null,{"href":"#1-smart-thermostats-temperature-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Smart Thermostats (Temperature Monitoring)"}]}],["$","li","2-water-leak-sensors",{"className":"ml-4","children":["$","a",null,{"href":"#2-water-leak-sensors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Water Leak Sensors"}]}],["$","li","3-smoke-and-co-detectors-with-remote-alerts",{"className":"ml-4","children":["$","a",null,{"href":"#3-smoke-and-co-detectors-with-remote-alerts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Smoke and CO Detectors with Remote Alerts"}]}],["$","li","4-smart-electrical-monitoring",{"className":"ml-4","children":["$","a",null,{"href":"#4-smart-electrical-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Smart Electrical Monitoring"}]}],["$","li","5-motion-sensors-vacant-properties",{"className":"ml-4","children":["$","a",null,{"href":"#5-motion-sensors-vacant-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Motion Sensors (Vacant Properties)"}]}],["$","li","6-door-and-window-sensors",{"className":"ml-4","children":["$","a",null,{"href":"#6-door-and-window-sensors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Door and Window Sensors"}]}],["$","li","7-wi-fi-connected-cameras",{"className":"ml-4","children":["$","a",null,{"href":"#7-wi-fi-connected-cameras","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Wi-Fi Connected Cameras"}]}],["$","li","hub-based-vs-cloud-based-systems",{"className":"","children":["$","a",null,{"href":"#hub-based-vs-cloud-based-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hub-Based vs Cloud-Based Systems"}]}],["$","li","cloud-based-wi-fi-direct",{"className":"ml-4","children":["$","a",null,{"href":"#cloud-based-wi-fi-direct","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cloud-Based (Wi-Fi Direct)"}]}],["$","li","hub-based-z-wave-or-zigbee",{"className":"ml-4","children":["$","a",null,{"href":"#hub-based-z-wave-or-zigbee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hub-Based (Z-Wave or Zigbee)"}]}],["$","li","monitoring-platforms-for-multi-property-landlords",{"className":"","children":["$","a",null,{"href":"#monitoring-platforms-for-multi-property-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monitoring Platforms for Multi-Property Landlords"}]}],["$","li","smartrent",{"className":"ml-4","children":["$","a",null,{"href":"#smartrent","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"SmartRent"}]}],"$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d"]}]]}]}]
+2f:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+31:["$","li","dwelo",{"className":"ml-4","children":["$","a",null,{"href":"#dwelo","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Dwelo"}]}]
+32:["$","li","alertify-formerly-party-squasher",{"className":"ml-4","children":["$","a",null,{"href":"#alertify-formerly-party-squasher","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Alertify (formerly Party Squasher)"}]}]
+33:["$","li","self-managed-dashboard",{"className":"ml-4","children":["$","a",null,{"href":"#self-managed-dashboard","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Self-Managed Dashboard"}]}]
+34:["$","li","telecommunications-infrastructure",{"className":"","children":["$","a",null,{"href":"#telecommunications-infrastructure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Telecommunications Infrastructure"}]}]
+35:["$","li","reliable-wi-fi",{"className":"ml-4","children":["$","a",null,{"href":"#reliable-wi-fi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reliable Wi-Fi"}]}]
+36:["$","li","cellular-backup",{"className":"ml-4","children":["$","a",null,{"href":"#cellular-backup","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cellular Backup"}]}]
+37:["$","li","power-backup",{"className":"ml-4","children":["$","a",null,{"href":"#power-backup","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Power Backup"}]}]
+38:["$","li","privacy-and-tenant-communication",{"className":"","children":["$","a",null,{"href":"#privacy-and-tenant-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Privacy and Tenant Communication"}]}]
+39:["$","li","disclosure",{"className":"ml-4","children":["$","a",null,{"href":"#disclosure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Disclosure"}]}]
+3a:["$","li","tenant-consent",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-consent","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Consent"}]}]
+3b:["$","li","during-tenancy",{"className":"ml-4","children":["$","a",null,{"href":"#during-tenancy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"During Tenancy"}]}]
+3c:["$","li","building-a-monitoring-rollout-plan",{"className":"","children":["$","a",null,{"href":"#building-a-monitoring-rollout-plan","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Monitoring Rollout Plan"}]}]
+3d:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Remote Property Monitoring Systems for Landlords | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A guide to remote property monitoring systems for landlords, covering sensors, IoT devices, temperature monitoring, utility tracking, and platforms for managing multiple rentals remotely."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"property monitoring,property technology,IoT,remote management,smart home"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/property-monitoring-system"}],["$","meta","6",{"property":"og:title","content":"Remote Property Monitoring Systems for Landlords"}],["$","meta","7",{"property":"og:description","content":"A guide to remote property monitoring systems for landlords, covering sensors, IoT devices, temperature monitoring, utility tracking, and platforms for managing multiple rentals remotely."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/property-monitoring-system"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Remote Property Monitoring Systems for Landlords"}],["$","meta","15",{"name":"twitter:description","content":"A guide to remote property monitoring systems for landlords, covering sensors, IoT devices, temperature monitoring, utility tracking, and platforms for managing multiple rentals remotely."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,235 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","spring-maintenance-checklist-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","spring-maintenance-checklist-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","spring-maintenance-checklist-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Spring Maintenance Checklist for Rental Properties\",\"description\":\"A complete spring maintenance checklist for rental properties covering interior, exterior, mechanical systems, and safety items to protect your investment after winter.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/spring-maintenance-checklist-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Spring Maintenance Checklist for Rental Properties\",\"item\":\"https://portfoliorental.com/blog/spring-maintenance-checklist-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Spring Maintenance Checklist for Rental Properties"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-spring-maintenance-matters",{"className":"","children":["$","a",null,{"href":"#why-spring-maintenance-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Spring Maintenance Matters"}]}],["$","li","roof-and-attic",{"className":"","children":["$","a",null,{"href":"#roof-and-attic","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Roof and Attic"}]}],["$","li","roof-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#roof-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Roof Inspection"}]}],["$","li","attic",{"className":"ml-4","children":["$","a",null,{"href":"#attic","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Attic"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d"]}]}]]}],"$L1e","$L1f"]}],"$L20","$L21"]}],"$L22"]}]]}],"$L23"]
+11:["$","li","gutters-and-drainage",{"className":"","children":["$","a",null,{"href":"#gutters-and-drainage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutters and Drainage"}]}]
+12:["$","li","exterior-foundation-and-drainage",{"className":"","children":["$","a",null,{"href":"#exterior-foundation-and-drainage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior: Foundation and Drainage"}]}]
+13:["$","li","exterior-walls-windows-and-doors",{"className":"","children":["$","a",null,{"href":"#exterior-walls-windows-and-doors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior: Walls, Windows, and Doors"}]}]
+14:["$","li","concrete-masonry-and-hardscape",{"className":"","children":["$","a",null,{"href":"#concrete-masonry-and-hardscape","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Concrete, Masonry, and Hardscape"}]}]
+15:["$","li","hvac-and-mechanical-systems",{"className":"","children":["$","a",null,{"href":"#hvac-and-mechanical-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC and Mechanical Systems"}]}]
+16:["$","li","plumbing",{"className":"","children":["$","a",null,{"href":"#plumbing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing"}]}]
+17:["$","li","interior-general",{"className":"","children":["$","a",null,{"href":"#interior-general","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interior: General"}]}]
+18:["$","li","landscaping-and-exterior-grounds",{"className":"","children":["$","a",null,{"href":"#landscaping-and-exterior-grounds","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landscaping and Exterior Grounds"}]}]
+19:["$","li","safety-equipment",{"className":"","children":["$","a",null,{"href":"#safety-equipment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Safety Equipment"}]}]
+1a:["$","li","communicating-with-tenants",{"className":"","children":["$","a",null,{"href":"#communicating-with-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Communicating With Tenants"}]}]
+1b:["$","li","creating-a-spring-maintenance-budget",{"className":"","children":["$","a",null,{"href":"#creating-a-spring-maintenance-budget","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Creating a Spring Maintenance Budget"}]}]
+1c:["$","li","building-a-spring-maintenance-routine",{"className":"","children":["$","a",null,{"href":"#building-a-spring-maintenance-routine","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Spring Maintenance Routine"}]}]
+1d:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+24:T3fb1,<p>Spring is the most important maintenance season for rental property owners. After months of freeze-thaw cycles, ice, snow loads, and brutal temperature swings, properties emerge from winter with accumulated wear that needs to be addressed before it becomes costly damage. A systematic spring inspection also sets up your property for a reliable, comfortable summer for tenants.</p>
+<p>This comprehensive spring maintenance checklist covers every major area of a rental property — from the roof and gutters to mechanical systems, interior spaces, and safety equipment. Work through it methodically in late March through May, adjusting for your climate.</p>
+<hr>
+<h2 id="why-spring-maintenance-matters">Why Spring Maintenance Matters</h2>
+<p>Winter is uniquely destructive to buildings:</p>
+<ul>
+<li>Freeze-thaw cycles crack concrete, masonry, and sealants</li>
+<li>Ice dams and heavy snow loads stress roofing systems</li>
+<li>Heating system overuse reveals maintenance deferred from the prior fall</li>
+<li>Moisture infiltration over winter begins the cycle of rot and mold</li>
+</ul>
+<p>A comprehensive spring inspection identifies these issues while they are still manageable. A cracked foundation joint caught in April costs a few hundred dollars to seal; left through another winter, it becomes a $5,000 waterproofing project.</p>
+<hr>
+<h2 id="roof-and-attic">Roof and Attic</h2>
+<h3 id="roof-inspection">Roof Inspection</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Inspect for missing, cracked, or curling shingles</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check roof valleys for debris accumulation or damaged flashing</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect chimney flashing and reapply roofing caulk where cracked</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check pipe boot flashings — rubber boots crack with age and are a common leak source</li>
+<li class="task-list-item"><input type="checkbox" disabled> Look for any lifted or buckled sections</li>
+</ul>
+<h3 id="attic">Attic</h3>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Check attic for signs of winter moisture: water stains on decking, mold or mildew on rafters</li>
+<li class="task-list-item"><input type="checkbox" disabled> Verify attic insulation is intact and adequately deep</li>
+<li class="task-list-item"><input type="checkbox" disabled> Confirm attic vents (soffit and ridge vents) are open and clear — winter can block them with ice or debris</li>
+<li class="task-list-item"><input type="checkbox" disabled> Look for any daylight showing through the decking</li>
+</ul>
+<p>For a complete roof maintenance approach, see our guide on <a href="/blog/roof-maintenance-rental">roof maintenance for rental properties</a>.</p>
+<hr>
+<h2 id="gutters-and-drainage">Gutters and Drainage</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Clean gutters thoroughly — remove all debris from winter</li>
+<li class="task-list-item"><input type="checkbox" disabled> Flush gutters and downspouts with water to confirm free flow</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect gutter hangers — straighten or replace any that are bent or missing</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check for separation at gutter joints — reseal with gutter sealant</li>
+<li class="task-list-item"><input type="checkbox" disabled> Verify downspout extensions direct water at least 3-5 feet from the foundation</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect splash blocks under downspouts and reposition as needed</li>
+<li class="task-list-item"><input type="checkbox" disabled> Clean out any leaf guards or gutter screens</li>
+</ul>
+<hr>
+<h2 id="exterior-foundation-and-drainage">Exterior: Foundation and Drainage</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Walk the perimeter and inspect the foundation for new cracks or open joints</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check that soil grades away from the foundation (minimum 6-inch drop over 10 feet)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect window wells — clear any accumulated leaves, debris, and standing water</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check basement walls for new staining, efflorescence (white mineral deposits), or dampness that could indicate water infiltration</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect sump pump if present: confirm it activates when float is lifted, discharge line is clear, and battery backup is charged</li>
+</ul>
+<hr>
+<h2 id="exterior-walls-windows-and-doors">Exterior: Walls, Windows, and Doors</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Walk all exterior walls and inspect for damaged, missing, or cracked siding</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check caulking around windows, doors, and any penetrations through the exterior wall</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect window frames for rot (wood) or cracks (vinyl/aluminum)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Test all exterior doors for smooth operation, secure latching, and intact weatherstripping</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect exterior paint condition — peeling or blistering paint indicates moisture infiltration and needs attention before it progresses to rot</li>
+<li class="task-list-item"><input type="checkbox" disabled> Clean window tracks and lubricate sliding door tracks</li>
+<li class="task-list-item"><input type="checkbox" disabled> Wash exterior windows (improves tenant satisfaction and allows visual inspection of frame condition)</li>
+</ul>
+<hr>
+<h2 id="concrete-masonry-and-hardscape">Concrete, Masonry, and Hardscape</h2>
+<p>Freeze-thaw cycles are particularly hard on concrete and masonry:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Inspect driveway and parking areas for new cracks — seal cracks to prevent water infiltration that will worsen next winter</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect sidewalks and walkways for heaving, cracking, or uneven sections (trip hazard and liability)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check concrete porch steps and stoops for cracking or spalling</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect brick or stone masonry on chimneys, retaining walls, and foundations — repoint deteriorated mortar joints</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check deck or patio surfaces and connections to the house</li>
+</ul>
+<hr>
+<h2 id="hvac-and-mechanical-systems">HVAC and Mechanical Systems</h2>
+<p>Spring is the time to prepare cooling systems while heating systems wind down.</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Schedule professional AC tune-up (before the summer season)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Replace HVAC air filter</li>
+<li class="task-list-item"><input type="checkbox" disabled> Clear vegetation and debris from around outdoor AC condenser unit</li>
+<li class="task-list-item"><input type="checkbox" disabled> Test air conditioning operation before hot weather arrives</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect window AC units (if applicable) — clean filters, check seals</li>
+<li class="task-list-item"><input type="checkbox" disabled> Turn off humidifier bypass (if installed on forced air system) — not needed in summer</li>
+<li class="task-list-item"><input type="checkbox" disabled> Test ceiling fans and reverse direction for summer (counterclockwise for cooling effect)</li>
+</ul>
+<p>For a comprehensive HVAC schedule, see our guide on <a href="/blog/hvac-maintenance-rental-property">HVAC maintenance for rental properties</a>.</p>
+<hr>
+<h2 id="plumbing">Plumbing</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Reconnect and test all exterior hose bibs — open slowly and check for drips that could indicate a freeze crack in the supply pipe</li>
+<li class="task-list-item"><input type="checkbox" disabled> Start irrigation system (if applicable): test all zones, check for broken or misaligned heads, replace valve batteries, update controller schedule</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect water heater for any corrosion, drips, or sediment buildup (perform annual flush)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check under-sink areas in all bathrooms and kitchen for moisture or slow drips</li>
+<li class="task-list-item"><input type="checkbox" disabled> Test all toilet flushing mechanisms and supply line connections</li>
+</ul>
+<hr>
+<h2 id="interior-general">Interior: General</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Inspect ceilings and interior walls for any new water stains or discoloration that could indicate a roof or plumbing leak</li>
+<li class="task-list-item"><input type="checkbox" disabled> Test all <a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Electrical-Safety">GFCI outlets</a> by pressing the test button</li>
+<li class="task-list-item"><input type="checkbox" disabled> Test <a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/carbon-monoxide-information-center">smoke and CO detectors</a> — replace batteries in all units</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check all interior doors for smooth operation and tight latching</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect bathroom caulking at tubs, showers, and sinks — regrout or recaulk any cracked or missing areas</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check weatherstripping on doors to garage and exterior</li>
+</ul>
+<hr>
+<h2 id="landscaping-and-exterior-grounds">Landscaping and Exterior Grounds</h2>
+<p>Spring is the prime time for landscaping work:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Clear winter debris from planting beds (dead leaves, broken branches)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Prune shrubs damaged by snow and ice</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect trees for winter damage — dead or compromised branches near buildings or walkways should be removed</li>
+<li class="task-list-item"><input type="checkbox" disabled> Apply pre-emergent weed control per <a href="https://www.epa.gov/safepestcontrol/lawn-care">EPA lawn care guidelines</a></li>
+<li class="task-list-item"><input type="checkbox" disabled> Fertilize lawn</li>
+<li class="task-list-item"><input type="checkbox" disabled> Refresh mulch in planting beds (2-3 inches depth)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Remove any winter sand or ice melt residue from concrete and plantings</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect wood fences for posts that may have heaved due to frost and boards that have warped or separated</li>
+<li class="task-list-item"><input type="checkbox" disabled> Assess whether any landscaping modifications would reduce ongoing maintenance cost</li>
+</ul>
+<p>For detailed landscaping guidance, see our article on <a href="/blog/landscaping-rental-property">landscaping tips for rental properties</a>.</p>
+<hr>
+<h2 id="safety-equipment">Safety Equipment</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Test all smoke detectors — replace any that fail to respond or are over 10 years old</li>
+<li class="task-list-item"><input type="checkbox" disabled> Test all carbon monoxide detectors — replace any over 7 years old</li>
+<li class="task-list-item"><input type="checkbox" disabled> Verify fire extinguisher placement and check gauge (should be in the green zone)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect all stair railings and handrails for secure attachment</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check deck railings for stability and proper post attachment</li>
+<li class="task-list-item"><input type="checkbox" disabled> Inspect any egress windows — verify they open fully and are not blocked</li>
+</ul>
+<p>For CO detector requirements, see our guide on <a href="/blog/carbon-monoxide-detector-rental">carbon monoxide detector requirements for rentals</a>.</p>
+<hr>
+<h2 id="communicating-with-tenants">Communicating With Tenants</h2>
+<p>After completing your spring inspection, communicate with tenants:</p>
+<ul>
+<li><strong>Report resolution</strong> — If you found and fixed issues that tenants had reported, confirm the resolution in writing</li>
+<li><strong>Upcoming work</strong> — Give tenants advance notice of any upcoming exterior or landscaping work that will affect their property</li>
+<li><strong>Reminder items</strong> — Remind tenants of their seasonal responsibilities (replacing HVAC filters, running AC before hot weather to test it, keeping windows closed during pollen season to prevent interior moisture)</li>
+<li><strong>Open repair request window</strong> — Invite tenants to report any issues they noticed during winter that they may not have reported</li>
+</ul>
+<hr>
+<h2 id="creating-a-spring-maintenance-budget">Creating a Spring Maintenance Budget</h2>
+<p>Budget the following for spring maintenance across your portfolio:</p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Estimated Cost Per Property</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Professional HVAC tune-up</td>
+<td>$100-$250</td>
+</tr>
+<tr>
+<td>Gutter cleaning</td>
+<td>$100-$200</td>
+</tr>
+<tr>
+<td>Window washing (exterior)</td>
+<td>$75-$200</td>
+</tr>
+<tr>
+<td>Irrigation system startup</td>
+<td>$75-$150</td>
+</tr>
+<tr>
+<td>Minor caulking and sealant</td>
+<td>$50-$150</td>
+</tr>
+<tr>
+<td>Landscaping cleanup</td>
+<td>$150-$400</td>
+</tr>
+<tr>
+<td>Minor repairs (concrete, wood rot, etc.)</td>
+<td>$200-$500</td>
+</tr>
+<tr>
+<td><strong>Total estimate</strong></td>
+<td><strong>$750-$1,850</strong></td>
+</tr>
+</tbody>
+</table>
+<p>These are average costs; larger or more complex properties will be at the higher end. Properties that have skipped spring maintenance in prior years may have higher first-year costs to catch up.</p>
+<hr>
+<h2 id="building-a-spring-maintenance-routine">Building a Spring Maintenance Routine</h2>
+<p>For landlords managing multiple properties, establishing a systematic spring maintenance routine is essential:</p>
+<ol>
+<li><strong>Schedule in advance</strong> — Book HVAC technicians, gutter cleaners, and landscapers in February and March before their spring season fills up</li>
+<li><strong>Use a consistent checklist</strong> — The same checklist used for every property ensures nothing is missed</li>
+<li><strong>Document everything</strong> — Photograph any issues found and record repairs made</li>
+<li><strong>Coordinate with turnovers</strong> — If any units turn over in spring, combine move-out inspection and spring inspection into a single visit</li>
+</ol>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Spring maintenance is an investment that pays dividends throughout the year. A property that enters summer in good condition costs less to maintain, attracts better tenants, and generates fewer emergency calls. The systematic approach — working through your checklist property by property — is far more effective than reactive maintenance that responds only when tenants complain.</p>
+<p>For related seasonal maintenance guidance, see our articles on <a href="/blog/winterizing-rental-property">winterizing your rental property</a> and <a href="/blog/gutter-cleaning-rental-property">gutter cleaning for rental properties</a>.</p>
+1e:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$24"}}]
+1f:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","spring maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"spring maintenance"}],["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","seasonal maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"seasonal maintenance"}],["$","span","maintenance checklist",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"maintenance checklist"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}]]}]
+20:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+21:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","gutter-cleaning-rental-property",{"href":"/blog/gutter-cleaning-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Gutter Cleaning Schedule for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","winterizing-rental-property",{"href":"/blog/winterizing-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Winterizing Your Rental Property: Step-by-Step"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","appliance-maintenance-schedule-rental",{"href":"/blog/appliance-maintenance-schedule-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Appliance Maintenance Schedule for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+22:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-spring-maintenance-matters",{"className":"","children":["$","a",null,{"href":"#why-spring-maintenance-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Spring Maintenance Matters"}]}],["$","li","roof-and-attic",{"className":"","children":["$","a",null,{"href":"#roof-and-attic","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Roof and Attic"}]}],["$","li","roof-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#roof-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Roof Inspection"}]}],["$","li","attic",{"className":"ml-4","children":["$","a",null,{"href":"#attic","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Attic"}]}],["$","li","gutters-and-drainage",{"className":"","children":["$","a",null,{"href":"#gutters-and-drainage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutters and Drainage"}]}],["$","li","exterior-foundation-and-drainage",{"className":"","children":["$","a",null,{"href":"#exterior-foundation-and-drainage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior: Foundation and Drainage"}]}],["$","li","exterior-walls-windows-and-doors",{"className":"","children":["$","a",null,{"href":"#exterior-walls-windows-and-doors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior: Walls, Windows, and Doors"}]}],["$","li","concrete-masonry-and-hardscape",{"className":"","children":["$","a",null,{"href":"#concrete-masonry-and-hardscape","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Concrete, Masonry, and Hardscape"}]}],["$","li","hvac-and-mechanical-systems",{"className":"","children":["$","a",null,{"href":"#hvac-and-mechanical-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC and Mechanical Systems"}]}],["$","li","plumbing",{"className":"","children":["$","a",null,{"href":"#plumbing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing"}]}],["$","li","interior-general",{"className":"","children":["$","a",null,{"href":"#interior-general","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interior: General"}]}],["$","li","landscaping-and-exterior-grounds",{"className":"","children":["$","a",null,{"href":"#landscaping-and-exterior-grounds","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landscaping and Exterior Grounds"}]}],["$","li","safety-equipment",{"className":"","children":["$","a",null,{"href":"#safety-equipment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Safety Equipment"}]}],["$","li","communicating-with-tenants",{"className":"","children":["$","a",null,{"href":"#communicating-with-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Communicating With Tenants"}]}],["$","li","creating-a-spring-maintenance-budget",{"className":"","children":["$","a",null,{"href":"#creating-a-spring-maintenance-budget","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Creating a Spring Maintenance Budget"}]}],["$","li","building-a-spring-maintenance-routine",{"className":"","children":["$","a",null,{"href":"#building-a-spring-maintenance-routine","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Spring Maintenance Routine"}]}],"$L25"]}]]}]}]
+23:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+25:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Spring Maintenance Checklist for Rental Properties | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A complete spring maintenance checklist for rental properties covering interior, exterior, mechanical systems, and safety items to protect your investment after winter."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"spring maintenance,property maintenance,seasonal maintenance,maintenance checklist,landlord tips"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/spring-maintenance-checklist-rental"}],["$","meta","6",{"property":"og:title","content":"Spring Maintenance Checklist for Rental Properties"}],["$","meta","7",{"property":"og:description","content":"A complete spring maintenance checklist for rental properties covering interior, exterior, mechanical systems, and safety items to protect your investment after winter."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/spring-maintenance-checklist-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Spring Maintenance Checklist for Rental Properties"}],["$","meta","15",{"name":"twitter:description","content":"A complete spring maintenance checklist for rental properties covering interior, exterior, mechanical systems, and safety items to protect your investment after winter."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,229 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","foundation-issues-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","foundation-issues-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","foundation-issues-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Identifying Foundation Issues in Rental Properties\",\"description\":\"Learn how to identify foundation issues in rental properties, what warning signs to look for, when to call a structural engineer, and how to address foundation problems.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/foundation-issues-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Identifying Foundation Issues in Rental Properties\",\"item\":\"https://portfoliorental.com/blog/foundation-issues-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Identifying Foundation Issues in Rental Properties"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-foundation-health-matters-for-landlords",{"className":"","children":["$","a",null,{"href":"#why-foundation-health-matters-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Foundation Health Matters for Landlords"}]}],["$","li","types-of-foundation-systems",{"className":"","children":["$","a",null,{"href":"#types-of-foundation-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Types of Foundation Systems"}]}],["$","li","warning-signs-of-foundation-problems",{"className":"","children":["$","a",null,{"href":"#warning-signs-of-foundation-problems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Warning Signs of Foundation Problems"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]}]]}],"$L25","$L26"]}],"$L27","$L28"]}],"$L29"]}]]}],"$L2a"]
+11:["$","li","cracks-in-the-foundation-wall",{"className":"ml-4","children":["$","a",null,{"href":"#cracks-in-the-foundation-wall","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cracks in the Foundation Wall"}]}]
+12:["$","li","interior-warning-signs",{"className":"ml-4","children":["$","a",null,{"href":"#interior-warning-signs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interior Warning Signs"}]}]
+13:["$","li","exterior-warning-signs",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-warning-signs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Warning Signs"}]}]
+14:["$","li","common-causes-of-foundation-problems",{"className":"","children":["$","a",null,{"href":"#common-causes-of-foundation-problems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Causes of Foundation Problems"}]}]
+15:["$","li","soil-and-water-issues",{"className":"ml-4","children":["$","a",null,{"href":"#soil-and-water-issues","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Soil and Water Issues"}]}]
+16:["$","li","construction-and-age-issues",{"className":"ml-4","children":["$","a",null,{"href":"#construction-and-age-issues","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Construction and Age Issues"}]}]
+17:["$","li","environmental-causes",{"className":"ml-4","children":["$","a",null,{"href":"#environmental-causes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Environmental Causes"}]}]
+18:["$","li","when-to-call-a-structural-engineer",{"className":"","children":["$","a",null,{"href":"#when-to-call-a-structural-engineer","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When to Call a Structural Engineer"}]}]
+19:["$","li","foundation-repair-options",{"className":"","children":["$","a",null,{"href":"#foundation-repair-options","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Foundation Repair Options"}]}]
+1a:["$","li","crack-injection-epoxy-or-polyurethane",{"className":"ml-4","children":["$","a",null,{"href":"#crack-injection-epoxy-or-polyurethane","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Crack Injection (Epoxy or Polyurethane)"}]}]
+1b:["$","li","carbon-fiber-straps",{"className":"ml-4","children":["$","a",null,{"href":"#carbon-fiber-straps","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Carbon Fiber Straps"}]}]
+1c:["$","li","wall-anchors",{"className":"ml-4","children":["$","a",null,{"href":"#wall-anchors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Wall Anchors"}]}]
+1d:["$","li","piering-systems-helical-or-push-piers",{"className":"ml-4","children":["$","a",null,{"href":"#piering-systems-helical-or-push-piers","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Piering Systems (Helical or Push Piers)"}]}]
+1e:["$","li","exterior-waterproofing",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-waterproofing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Waterproofing"}]}]
+1f:["$","li","drainage-improvements",{"className":"ml-4","children":["$","a",null,{"href":"#drainage-improvements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Drainage Improvements"}]}]
+20:["$","li","monitoring-minor-foundation-cracks",{"className":"","children":["$","a",null,{"href":"#monitoring-minor-foundation-cracks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monitoring Minor Foundation Cracks"}]}]
+21:["$","li","crawl-space-foundation-care",{"className":"","children":["$","a",null,{"href":"#crawl-space-foundation-care","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Crawl Space Foundation Care"}]}]
+22:["$","li","tenant-communication-about-foundation-issues",{"className":"","children":["$","a",null,{"href":"#tenant-communication-about-foundation-issues","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Communication About Foundation Issues"}]}]
+23:["$","li","insurance-and-foundation-repairs",{"className":"","children":["$","a",null,{"href":"#insurance-and-foundation-repairs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance and Foundation Repairs"}]}]
+24:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2b:T367c,<p>Foundation problems are among the most serious and most misunderstood issues a rental property owner can face. Some foundation cracks are cosmetic and require nothing more than monitoring; others are signs of active structural movement that, if ignored, can lead to dangerous conditions, significant repair costs, and uninhabitable properties. Knowing the difference — and knowing when to call a structural engineer — is essential for every landlord.</p>
+<p>This guide covers how to identify foundation issues, distinguish serious problems from minor ones, understand the common causes, and navigate the repair process.</p>
+<hr>
+<h2 id="why-foundation-health-matters-for-landlords">Why Foundation Health Matters for Landlords</h2>
+<p>Foundation failures affect every aspect of a rental property:</p>
+<ul>
+<li><strong>Structural safety</strong> — In severe cases, foundation failure can compromise the structural integrity of the building</li>
+<li><strong>Habitability</strong> — Significant foundation movement causes sticking doors, cracked walls, and sloping floors that affect livability</li>
+<li><strong>Property value</strong> — Foundation problems are disclosed in real estate transactions and can dramatically reduce market value</li>
+<li><strong>Legal exposure</strong> — A landlord who ignores known foundation defects that later cause injury or habitability problems faces substantial liability. <a href="https://www.hud.gov/program_offices/healthy_homes">HUD outlines habitability standards</a> for rental properties.</li>
+<li><strong>Financing</strong> — Properties with active foundation issues often cannot be refinanced or sold until repairs are made</li>
+</ul>
+<hr>
+<h2 id="types-of-foundation-systems">Types of Foundation Systems</h2>
+<p>Understanding what type of foundation your property has helps you interpret what you find:</p>
+<ul>
+<li><strong>Poured concrete foundation walls</strong> — Most common in post-WWII construction; solid and durable but prone to cracking and water infiltration</li>
+<li><strong>Concrete block (CMU) walls</strong> — Common in older multi-family construction; susceptible to water infiltration at block joints</li>
+<li><strong>Brick and stone masonry</strong> — Found in older urban properties; can develop mortar joint deterioration and movement over decades</li>
+<li><strong>Slab-on-grade</strong> — A concrete slab poured directly on the ground; cracks indicate soil movement beneath</li>
+<li><strong>Crawl space</strong> — A short foundation wall system with an unfinished crawl space; prone to moisture issues that can affect structural wood</li>
+<li><strong>Pier and beam</strong> — Common in certain southern states; wood posts can deteriorate from moisture</li>
+</ul>
+<hr>
+<h2 id="warning-signs-of-foundation-problems">Warning Signs of Foundation Problems</h2>
+<h3 id="cracks-in-the-foundation-wall">Cracks in the Foundation Wall</h3>
+<p>Not all foundation cracks are serious. Here is how to evaluate them:</p>
+<p><strong>Generally Minor (Monitor, No Immediate Action)</strong></p>
+<ul>
+<li><strong>Hairline cracks</strong> (less than 1/16 inch wide) in poured concrete — very common during the curing process</li>
+<li><strong>Vertical cracks</strong> in poured concrete — usually caused by shrinkage or minor settlement; monitor but typically not structural</li>
+<li><strong>Horizontal cracks in crawl space walls</strong> — These require immediate professional evaluation (see below)</li>
+</ul>
+<p><strong>Potentially Serious (Get a Professional Assessment)</strong></p>
+<ul>
+<li><strong>Diagonal cracks</strong> extending from corners of window or door openings — indicate differential settlement</li>
+<li><strong>Horizontal cracks</strong> in concrete block or poured walls — indicate lateral soil pressure and potential inward wall movement; this is a serious structural warning sign</li>
+<li><strong>Stair-step cracks</strong> in brick or block — indicate differential settlement</li>
+<li><strong>Cracks wider than 1/4 inch</strong> — Width is significant; wide cracks indicate movement</li>
+<li><strong>Cracks that are actively growing</strong> — Use a crack monitor or pencil marks with dates to track whether cracks are widening</li>
+</ul>
+<h3 id="interior-warning-signs">Interior Warning Signs</h3>
+<p>Foundation movement affects the entire structure. Watch for:</p>
+<ul>
+<li><strong>Doors and windows that stick or no longer close properly</strong> — Not just humidity-related; can indicate the frame is being racked by foundation movement</li>
+<li><strong>Gaps between walls and ceiling or floor</strong> — Separation along the perimeter</li>
+<li><strong>Sloping or bouncy floors</strong> — Particularly in crawl space construction where wood support beams have deteriorated</li>
+<li><strong>Diagonal cracks running from corners of door and window openings</strong> in drywall or plaster</li>
+<li><strong>Water infiltration through basement walls</strong> — Persistent water intrusion can indicate hydrostatic pressure. Consider <a href="/blog/water-leak-detection-rental">water leak detection</a> to catch problems early</li>
+</ul>
+<h3 id="exterior-warning-signs">Exterior Warning Signs</h3>
+<ul>
+<li><strong>Gaps between the foundation wall and the house sill plate</strong> — Visible daylight or significant gap indicates the structure has moved</li>
+<li><strong>Leaning or bowing walls</strong> — Visible deformation of the foundation wall outward or inward</li>
+<li><strong>Voids or settling ground around the foundation perimeter</strong> — Soil pulling away from the foundation indicates drainage problems or subsidence</li>
+<li><strong>Chimney separation from the main structure</strong> — A separated chimney suggests differential settlement</li>
+</ul>
+<hr>
+<h2 id="common-causes-of-foundation-problems">Common Causes of Foundation Problems</h2>
+<h3 id="soil-and-water-issues">Soil and Water Issues</h3>
+<p>Most foundation problems trace back to water and soil conditions:</p>
+<ul>
+<li><strong>Expansive clay soils</strong> — Clay soils expand when wet and contract when dry, causing cyclic foundation movement</li>
+<li><strong>Poor drainage</strong> — Water ponding against the foundation creates hydrostatic pressure and erodes soil support</li>
+<li><strong>Inadequate gutters and downspouts</strong> — Water discharged against the foundation from failing gutters is a leading cause. Include gutters in your <a href="/blog/property-inspection-requirements">property inspection requirements</a></li>
+<li><strong>Tree roots</strong> — Large roots near the foundation can cause heave; the water-seeking behavior of root systems can draw soil moisture away from the foundation, causing settlement</li>
+</ul>
+<h3 id="construction-and-age-issues">Construction and Age Issues</h3>
+<ul>
+<li><strong>Inadequate footing depth</strong> — Footings that do not extend below the frost line are vulnerable to frost heave</li>
+<li><strong>Undersized footings for soil bearing capacity</strong> — More common in older construction</li>
+<li><strong>Settlement in fill areas</strong> — Properties built on poorly compacted fill soil settle over time</li>
+</ul>
+<h3 id="environmental-causes">Environmental Causes</h3>
+<ul>
+<li><strong>Earthquakes and seismic activity</strong> — <a href="https://www.fema.gov/emergency-managers/risk-management/earthquake">FEMA provides disaster guidance</a> for post-earthquake assessment.</li>
+<li><strong>Mining or underground construction nearby</strong> — Can cause subsidence</li>
+<li><strong>Drought</strong> — Extended drought causes clay soils to shrink significantly, sometimes causing foundation settlement</li>
+</ul>
+<hr>
+<h2 id="when-to-call-a-structural-engineer">When to Call a Structural Engineer</h2>
+<p>Always hire a licensed structural engineer. Learn how to <a href="/blog/find-reliable-contractors-rental">find reliable contractors</a> for this work.</p>
+<ul>
+<li>Any horizontal cracks in foundation walls</li>
+<li>Cracks wider than 1/4 inch</li>
+<li>Cracks that appear to be actively growing</li>
+<li>Visible bowing or leaning in any wall</li>
+<li>Visible gaps between the foundation and the structure above</li>
+<li>Sloping floors more than 1 inch over 10 feet</li>
+<li>Multiple doors or windows throughout the building sticking simultaneously</li>
+</ul>
+<p>A structural engineer's assessment costs $300-$800 for a residential property and provides an objective, professionally backed opinion. This is far more valuable than a free "inspection" from a foundation repair contractor, who has a financial interest in recommending repair.</p>
+<hr>
+<h2 id="foundation-repair-options">Foundation Repair Options</h2>
+<p>Once a structural engineer has identified the issue and its cause, repair options include:</p>
+<h3 id="crack-injection-epoxy-or-polyurethane">Crack Injection (Epoxy or Polyurethane)</h3>
+<ul>
+<li>Used for non-structural cracks in poured concrete walls to prevent water infiltration</li>
+<li>Polyurethane foam injection for active water infiltration; epoxy for structural crack bonding</li>
+<li>Cost: $300-$800 per crack for professional injection</li>
+</ul>
+<h3 id="carbon-fiber-straps">Carbon Fiber Straps</h3>
+<ul>
+<li>Used to stabilize bowing concrete block or poured concrete walls</li>
+<li>Bonds to the wall surface to resist inward movement</li>
+<li>Effective for walls that have bowed inward less than 2 inches</li>
+<li>Cost: $400-$600 per strap installed; typical jobs require 3-8 straps</li>
+</ul>
+<h3 id="wall-anchors">Wall Anchors</h3>
+<ul>
+<li>Steel anchors driven through the foundation wall into the soil, connected to an interior wall plate</li>
+<li>Used for bowing walls; anchors can be tightened over time to gradually push the wall back</li>
+<li>Cost: $500-$700 per anchor</li>
+</ul>
+<h3 id="piering-systems-helical-or-push-piers">Piering Systems (Helical or Push Piers)</h3>
+<ul>
+<li>Steel piers driven deep into stable soil to underpin a sinking foundation</li>
+<li>Used when settlement is the primary problem</li>
+<li>Most significant foundation repair; provides long-term stabilization</li>
+<li>Cost: $1,500-$3,000 per pier; typical jobs require 5-15 piers</li>
+</ul>
+<h3 id="exterior-waterproofing">Exterior Waterproofing</h3>
+<ul>
+<li>Addresses foundation water infiltration at the source</li>
+<li>Involves excavating around the foundation, applying waterproof membrane, installing drainage board and perforated drain pipe</li>
+<li>Most comprehensive water management solution</li>
+<li>Cost: $8,000-$25,000 for full perimeter waterproofing</li>
+</ul>
+<h3 id="drainage-improvements">Drainage Improvements</h3>
+<p>Often the most cost-effective long-term solution:</p>
+<ul>
+<li>Regrade soil away from the foundation (positive drainage)</li>
+<li>Repair and extend downspouts</li>
+<li>Install French drain or curtain drain to redirect ground water</li>
+<li>Cost: $1,000-$5,000 depending on scope</li>
+</ul>
+<hr>
+<h2 id="monitoring-minor-foundation-cracks">Monitoring Minor Foundation Cracks</h2>
+<p>For cracks classified as minor after professional review:</p>
+<ul>
+<li>Photograph and document cracks with a ruler in frame for scale</li>
+<li>Mark the ends of cracks with pencil and date</li>
+<li>Check every 6 months — any growth in length or width warrants re-evaluation</li>
+<li>Seal minor cracks with hydraulic cement or polyurethane caulk to prevent water infiltration</li>
+</ul>
+<hr>
+<h2 id="crawl-space-foundation-care">Crawl Space Foundation Care</h2>
+<p>Crawl space foundations are particularly prone to moisture-related structural problems:</p>
+<ul>
+<li>Maintain a vapor barrier covering the entire crawl space floor</li>
+<li>Ensure crawl space ventilation is adequate (or consider an encapsulation system)</li>
+<li>Inspect wood beams and joists annually for signs of rot, insect damage, or moisture</li>
+<li>Keep crawl space access doors sealed</li>
+<li>Install a dehumidifier in crawl spaces with chronic moisture issues</li>
+</ul>
+<hr>
+<h2 id="tenant-communication-about-foundation-issues">Tenant Communication About Foundation Issues</h2>
+<p>Tenants should never be alarmed unnecessarily, but significant foundation work requires communication:</p>
+<ul>
+<li>For interior repair work, provide adequate advance notice and minimize disruption</li>
+<li>For any work requiring excavation around the building, communicate the scope and timeline</li>
+<li>Document in writing that you are actively addressing the issue (this creates a record showing you are not ignoring a known defect)</li>
+</ul>
+<hr>
+<h2 id="insurance-and-foundation-repairs">Insurance and Foundation Repairs</h2>
+<p>Standard landlord insurance policies generally do not cover foundation repairs caused by:</p>
+<ul>
+<li>Gradual settlement or soil movement</li>
+<li>Earth movement (earthquakes may be covered under a separate earthquake policy)</li>
+<li>Flooding (requires separate flood insurance)</li>
+<li>Maintenance neglect</li>
+</ul>
+<p>Foundation repairs are typically paid out of pocket and may be partially deductible as rental property maintenance or capital improvement expenses. The <a href="https://www.irs.gov/publications/p527">IRS covers repair deductions</a> for rental property owners. Consult your tax advisor.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Foundation issues range from cosmetic cracks requiring nothing more than monitoring to serious structural problems demanding immediate professional intervention. The key is consistent inspection, knowing which signs warrant professional evaluation, and acting quickly when structural movement is identified. A foundation problem addressed early costs a fraction of what deferred repair costs once movement has progressed.</p>
+<p>For related maintenance guidance, see our articles on <a href="/blog/water-damage-rental-property">water damage in rental properties</a> and <a href="/blog/gutter-cleaning-rental-property">gutter cleaning for rental properties</a>.</p>
+25:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2b"}}]
+26:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","foundation repair",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"foundation repair"}],["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","structural issues",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"structural issues"}],["$","span","emergency maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"emergency maintenance"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}]]}]
+27:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+28:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","water-damage-rental-property",{"href":"/blog/water-damage-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Handling Water Damage in a Rental Property"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","appliance-maintenance-schedule-rental",{"href":"/blog/appliance-maintenance-schedule-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Appliance Maintenance Schedule for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","burst-pipe-rental-response",{"href":"/blog/burst-pipe-rental-response","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Burst Pipe Emergency Response for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+29:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-foundation-health-matters-for-landlords",{"className":"","children":["$","a",null,{"href":"#why-foundation-health-matters-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Foundation Health Matters for Landlords"}]}],["$","li","types-of-foundation-systems",{"className":"","children":["$","a",null,{"href":"#types-of-foundation-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Types of Foundation Systems"}]}],["$","li","warning-signs-of-foundation-problems",{"className":"","children":["$","a",null,{"href":"#warning-signs-of-foundation-problems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Warning Signs of Foundation Problems"}]}],["$","li","cracks-in-the-foundation-wall",{"className":"ml-4","children":["$","a",null,{"href":"#cracks-in-the-foundation-wall","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cracks in the Foundation Wall"}]}],["$","li","interior-warning-signs",{"className":"ml-4","children":["$","a",null,{"href":"#interior-warning-signs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interior Warning Signs"}]}],["$","li","exterior-warning-signs",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-warning-signs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Warning Signs"}]}],["$","li","common-causes-of-foundation-problems",{"className":"","children":["$","a",null,{"href":"#common-causes-of-foundation-problems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Causes of Foundation Problems"}]}],["$","li","soil-and-water-issues",{"className":"ml-4","children":["$","a",null,{"href":"#soil-and-water-issues","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Soil and Water Issues"}]}],["$","li","construction-and-age-issues",{"className":"ml-4","children":["$","a",null,{"href":"#construction-and-age-issues","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Construction and Age Issues"}]}],["$","li","environmental-causes",{"className":"ml-4","children":["$","a",null,{"href":"#environmental-causes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Environmental Causes"}]}],["$","li","when-to-call-a-structural-engineer",{"className":"","children":["$","a",null,{"href":"#when-to-call-a-structural-engineer","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When to Call a Structural Engineer"}]}],["$","li","foundation-repair-options",{"className":"","children":["$","a",null,{"href":"#foundation-repair-options","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Foundation Repair Options"}]}],["$","li","crack-injection-epoxy-or-polyurethane",{"className":"ml-4","children":["$","a",null,{"href":"#crack-injection-epoxy-or-polyurethane","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Crack Injection (Epoxy or Polyurethane)"}]}],["$","li","carbon-fiber-straps",{"className":"ml-4","children":["$","a",null,{"href":"#carbon-fiber-straps","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Carbon Fiber Straps"}]}],["$","li","wall-anchors",{"className":"ml-4","children":["$","a",null,{"href":"#wall-anchors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Wall Anchors"}]}],"$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33"]}]]}]}]
+2a:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2c:["$","li","piering-systems-helical-or-push-piers",{"className":"ml-4","children":["$","a",null,{"href":"#piering-systems-helical-or-push-piers","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Piering Systems (Helical or Push Piers)"}]}]
+2d:["$","li","exterior-waterproofing",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-waterproofing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Waterproofing"}]}]
+2e:["$","li","drainage-improvements",{"className":"ml-4","children":["$","a",null,{"href":"#drainage-improvements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Drainage Improvements"}]}]
+2f:["$","li","monitoring-minor-foundation-cracks",{"className":"","children":["$","a",null,{"href":"#monitoring-minor-foundation-cracks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monitoring Minor Foundation Cracks"}]}]
+30:["$","li","crawl-space-foundation-care",{"className":"","children":["$","a",null,{"href":"#crawl-space-foundation-care","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Crawl Space Foundation Care"}]}]
+31:["$","li","tenant-communication-about-foundation-issues",{"className":"","children":["$","a",null,{"href":"#tenant-communication-about-foundation-issues","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Communication About Foundation Issues"}]}]
+32:["$","li","insurance-and-foundation-repairs",{"className":"","children":["$","a",null,{"href":"#insurance-and-foundation-repairs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance and Foundation Repairs"}]}]
+33:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Identifying Foundation Issues in Rental Properties | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn how to identify foundation issues in rental properties, what warning signs to look for, when to call a structural engineer, and how to address foundation problems."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"foundation repair,property maintenance,structural issues,emergency maintenance,landlord tips"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/foundation-issues-rental-property"}],["$","meta","6",{"property":"og:title","content":"Identifying Foundation Issues in Rental Properties"}],["$","meta","7",{"property":"og:description","content":"Learn how to identify foundation issues in rental properties, what warning signs to look for, when to call a structural engineer, and how to address foundation problems."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/foundation-issues-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Identifying Foundation Issues in Rental Properties"}],["$","meta","15",{"name":"twitter:description","content":"Learn how to identify foundation issues in rental properties, what warning signs to look for, when to call a structural engineer, and how to address foundation problems."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

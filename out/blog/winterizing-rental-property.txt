@@ -1,0 +1,264 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","winterizing-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","winterizing-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","winterizing-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Winterizing Your Rental Property: Step-by-Step\",\"description\":\"A complete step-by-step guide to winterizing your rental property, covering plumbing, HVAC, roofing, insulation, and tenant communication to prevent costly damage.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/winterizing-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Winterizing Your Rental Property: Step-by-Step\",\"item\":\"https://portfoliorental.com/blog/winterizing-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Winterizing Your Rental Property: Step-by-Step"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-winterizing-matters",{"className":"","children":["$","a",null,{"href":"#why-winterizing-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Winterizing Matters"}]}],["$","li","step-1-inspect-and-service-the-heating-system",{"className":"","children":["$","a",null,{"href":"#step-1-inspect-and-service-the-heating-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Inspect and Service the Heating System"}]}],["$","li","furnace-and-boiler-service",{"className":"ml-4","children":["$","a",null,{"href":"#furnace-and-boiler-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furnace and Boiler Service"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"]}]}]]}],"$L28","$L29"]}],"$L2a","$L2b"]}],"$L2c"]}]]}],"$L2d"]
+11:["$","li","heat-pump-systems",{"className":"ml-4","children":["$","a",null,{"href":"#heat-pump-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Heat Pump Systems"}]}]
+12:["$","li","step-2-protect-the-plumbing",{"className":"","children":["$","a",null,{"href":"#step-2-protect-the-plumbing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Protect the Plumbing"}]}]
+13:["$","li","exterior-hose-bibs",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-hose-bibs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Hose Bibs"}]}]
+14:["$","li","pipe-insulation",{"className":"ml-4","children":["$","a",null,{"href":"#pipe-insulation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pipe Insulation"}]}]
+15:["$","li","crawl-spaces-and-basements",{"className":"ml-4","children":["$","a",null,{"href":"#crawl-spaces-and-basements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Crawl Spaces and Basements"}]}]
+16:["$","li","tenant-instructions",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-instructions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Instructions"}]}]
+17:["$","li","step-3-inspect-the-roof-and-gutters",{"className":"","children":["$","a",null,{"href":"#step-3-inspect-the-roof-and-gutters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Inspect the Roof and Gutters"}]}]
+18:["$","li","roof-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#roof-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Roof Inspection"}]}]
+19:["$","li","gutter-cleaning-and-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#gutter-cleaning-and-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Cleaning and Inspection"}]}]
+1a:["$","li","ice-dam-prevention",{"className":"ml-4","children":["$","a",null,{"href":"#ice-dam-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ice Dam Prevention"}]}]
+1b:["$","li","step-4-check-windows-doors-and-insulation",{"className":"","children":["$","a",null,{"href":"#step-4-check-windows-doors-and-insulation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Check Windows, Doors, and Insulation"}]}]
+1c:["$","li","windows",{"className":"ml-4","children":["$","a",null,{"href":"#windows","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Windows"}]}]
+1d:["$","li","doors",{"className":"ml-4","children":["$","a",null,{"href":"#doors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Doors"}]}]
+1e:["$","li","attic-and-wall-insulation",{"className":"ml-4","children":["$","a",null,{"href":"#attic-and-wall-insulation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Attic and Wall Insulation"}]}]
+1f:["$","li","step-5-test-smoke-and-carbon-monoxide-detectors",{"className":"","children":["$","a",null,{"href":"#step-5-test-smoke-and-carbon-monoxide-detectors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Test Smoke and Carbon Monoxide Detectors"}]}]
+20:["$","li","step-6-winterize-vacant-units",{"className":"","children":["$","a",null,{"href":"#step-6-winterize-vacant-units","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 6: Winterize Vacant Units"}]}]
+21:["$","li","step-7-exterior-and-grounds-preparation",{"className":"","children":["$","a",null,{"href":"#step-7-exterior-and-grounds-preparation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 7: Exterior and Grounds Preparation"}]}]
+22:["$","li","driveways-and-walkways",{"className":"ml-4","children":["$","a",null,{"href":"#driveways-and-walkways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Driveways and Walkways"}]}]
+23:["$","li","outdoor-plumbing-and-equipment",{"className":"ml-4","children":["$","a",null,{"href":"#outdoor-plumbing-and-equipment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Outdoor Plumbing and Equipment"}]}]
+24:["$","li","trees-and-branches",{"className":"ml-4","children":["$","a",null,{"href":"#trees-and-branches","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Trees and Branches"}]}]
+25:["$","li","step-8-communicate-with-tenants",{"className":"","children":["$","a",null,{"href":"#step-8-communicate-with-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 8: Communicate With Tenants"}]}]
+26:["$","li","winterization-checklist-summary",{"className":"","children":["$","a",null,{"href":"#winterization-checklist-summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winterization Checklist Summary"}]}]
+27:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2e:T39c0,<p>Winter is one of the most damaging seasons for rental properties. Frozen pipes, ice dams, heating system failures, and roof collapses cost landlords thousands of dollars every year in repairs — most of which are entirely preventable with systematic winter preparation. As a landlord, winterizing your rental property is not just about protecting the building; it is a legal obligation in most states, where landlords are required to maintain habitable conditions including adequate heat.</p>
+<p>This step-by-step guide covers every major winterization task, how to prioritize them, and how to coordinate with tenants for a smooth winter maintenance season.</p>
+<hr>
+<h2 id="why-winterizing-matters">Why Winterizing Matters</h2>
+<p>The financial stakes of neglecting winter preparation are significant:</p>
+<ul>
+<li>A single burst pipe can cause $5,000 to $70,000 in water damage</li>
+<li>Ice dam repairs average $1,500 to $3,000 per incident</li>
+<li>HVAC failures in mid-winter require emergency service calls at premium rates</li>
+<li>A heating system that fails may make the unit uninhabitable, triggering rent abatement obligations</li>
+</ul>
+<p>Investing a few hundred dollars in preventive winterization can prevent tens of thousands in reactive repairs. Beyond the financial argument, most states require landlords to maintain heat — typically at minimum temperatures of 68°F during daytime hours and 65°F at night from October through May.</p>
+<hr>
+<h2 id="step-1-inspect-and-service-the-heating-system">Step 1: Inspect and Service the Heating System</h2>
+<p>Your HVAC or heating system is the most critical winter system. Schedule a professional inspection and service appointment in September or early October — before the season's demand surge makes appointments scarce.</p>
+<h3 id="furnace-and-boiler-service">Furnace and Boiler Service</h3>
+<ul>
+<li>Replace furnace filters (every 1-3 months during heating season)</li>
+<li>Clean and inspect burners, heat exchanger, and venting</li>
+<li>Test thermostat operation and calibration</li>
+<li>Check carbon monoxide detector placement and function</li>
+<li>Inspect flue pipes for cracks, blockages, or improper pitch</li>
+<li>Test blower motor and belts (forced air systems)</li>
+<li>Bleed radiators (hot water boiler systems)</li>
+<li>Check boiler pressure and add water if needed</li>
+</ul>
+<h3 id="heat-pump-systems">Heat Pump Systems</h3>
+<ul>
+<li>Clean or replace air filters</li>
+<li>Inspect refrigerant levels (requires certified technician)</li>
+<li>Clear debris from outdoor unit</li>
+<li>Test defrost cycle operation</li>
+<li>Verify backup heat strip operation for very cold days</li>
+</ul>
+<p>A well-maintained heating system not only runs more reliably but is also more energy-efficient — something tenants will appreciate in the form of lower utility bills. The <a href="https://www.energy.gov/energysaver/thermostats">Energy.gov thermostat guide</a> offers additional tips on optimizing heating efficiency. For a comprehensive maintenance schedule, see our guide on <a href="/blog/hvac-maintenance-rental-property">HVAC maintenance for rental properties</a>.</p>
+<hr>
+<h2 id="step-2-protect-the-plumbing">Step 2: Protect the Plumbing</h2>
+<p>Frozen and burst pipes are the most catastrophic and preventable winter damage event for rental properties.</p>
+<h3 id="exterior-hose-bibs">Exterior Hose Bibs</h3>
+<ul>
+<li>Disconnect and store garden hoses</li>
+<li>Shut off interior shut-off valves for exterior hose bibs (if installed)</li>
+<li>Install insulated faucet covers on exterior hose bibs</li>
+</ul>
+<h3 id="pipe-insulation">Pipe Insulation</h3>
+<ul>
+<li>Identify all pipes in unheated spaces: attic, crawl space, garage, exterior walls. The <a href="https://www.epa.gov/watersense">EPA WaterSense program</a> also has guidance on efficient plumbing fixtures that reduce freeze risk</li>
+<li>Insulate exposed pipes with foam pipe insulation sleeves or heat tape</li>
+<li>Pay special attention to pipes on north-facing exterior walls</li>
+</ul>
+<h3 id="crawl-spaces-and-basements">Crawl Spaces and Basements</h3>
+<ul>
+<li>Seal foundation vents in crawl spaces (or use insulated vent covers)</li>
+<li>Ensure crawl space access doors seal tightly</li>
+<li>Verify that basement pipe runs along heated interior walls where possible</li>
+</ul>
+<h3 id="tenant-instructions">Tenant Instructions</h3>
+<p>Provide tenants with written instructions on preventing frozen pipes:</p>
+<ul>
+<li>Keep heat set to at least 55°F even when away (many landlords specify this in the lease)</li>
+<li>Open cabinet doors under sinks on exterior walls during extreme cold</li>
+<li>Let faucets drip slightly during extended cold snaps below 0°F</li>
+<li>Report any loss of heat or suspected frozen pipes immediately</li>
+</ul>
+<p>For a detailed treatment of plumbing maintenance, see our <a href="/blog/plumbing-maintenance-rental-property">plumbing maintenance guide for landlords</a>.</p>
+<hr>
+<h2 id="step-3-inspect-the-roof-and-gutters">Step 3: Inspect the Roof and Gutters</h2>
+<p>Winter places enormous stress on roofing systems through snow load, ice, and freeze-thaw cycles.</p>
+<h3 id="roof-inspection">Roof Inspection</h3>
+<ul>
+<li>Inspect for missing, cracked, or curling shingles before winter</li>
+<li>Check roof valleys, flashing around chimneys and skylights, and ridge caps</li>
+<li>Look for any areas showing signs of previous ice dam damage (water stains in attic or upper ceilings)</li>
+<li>Ensure attic insulation is adequate and consistent (thin spots cause ice dams)</li>
+<li>Verify attic ventilation — proper ventilation prevents heat from building up and melting snow unevenly</li>
+</ul>
+<h3 id="gutter-cleaning-and-inspection">Gutter Cleaning and Inspection</h3>
+<ul>
+<li>Clean gutters thoroughly before the first freeze — clogged gutters are the primary cause of ice dams</li>
+<li>Check downspouts for blockages and ensure they direct water at least 3-5 feet from the foundation</li>
+<li>Inspect gutter hangers and fascia — damaged gutters hold water and ice, adding dangerous weight</li>
+<li>Consider installing gutter guards if your property has heavy leaf fall</li>
+</ul>
+<p>For a full gutter maintenance schedule, see our guide on <a href="/blog/gutter-cleaning-rental-property">gutter cleaning for rental properties</a>.</p>
+<h3 id="ice-dam-prevention">Ice Dam Prevention</h3>
+<p>Ice dams form when heat escapes through the roof, melts snow, and the water refreezes at the cold eaves. Prevention strategies:</p>
+<ul>
+<li>Increase attic insulation to reduce heat loss (R-38 to R-60 is recommended in cold climates)</li>
+<li>Ensure attic ventilation is adequate (1 sq ft of vent per 150 sq ft of attic space)</li>
+<li>Install ice and water shield membrane under shingles at the eave when re-roofing</li>
+</ul>
+<hr>
+<h2 id="step-4-check-windows-doors-and-insulation">Step 4: Check Windows, Doors, and Insulation</h2>
+<p>Air leaks waste energy and allow cold to damage pipes and create moisture problems.</p>
+<h3 id="windows">Windows</h3>
+<ul>
+<li>Inspect caulking around window frames and re-caulk where cracked or missing</li>
+<li>Check weatherstripping on operable windows — replace if compressed or torn</li>
+<li>Consider installing interior window insulation film on single-pane windows in older properties</li>
+<li>Verify storm windows (if present) are properly seated</li>
+</ul>
+<h3 id="doors">Doors</h3>
+<ul>
+<li>Check weatherstripping on all exterior doors</li>
+<li>Inspect door sweeps — replace if worn</li>
+<li>Ensure exterior doors close and latch securely</li>
+<li>Check the seal on garage doors if the garage is attached or has living space above</li>
+</ul>
+<h3 id="attic-and-wall-insulation">Attic and Wall Insulation</h3>
+<ul>
+<li>Check attic insulation depth — in most cold-climate zones, R-38 to R-60 is recommended</li>
+<li>Look for gaps around attic hatch covers — insulate the hatch if needed</li>
+<li>Where accessible, verify wall insulation is intact</li>
+</ul>
+<hr>
+<h2 id="step-5-test-smoke-and-carbon-monoxide-detectors">Step 5: Test Smoke and Carbon Monoxide Detectors</h2>
+<p>Winter brings increased risk from heating-related carbon monoxide poisoning. This is also an excellent time to test smoke detectors.</p>
+<ul>
+<li>Test all CO and smoke detectors</li>
+<li>Replace batteries in battery-operated units (or switch to 10-year sealed battery units)</li>
+<li>Verify that CO detectors are installed within 15 feet of all sleeping areas and on each floor</li>
+<li>Check that detectors are not expired (most have a 5-7 year lifespan)</li>
+<li>Review local ordinances for CO detector placement requirements</li>
+</ul>
+<p>For complete requirements, see our article on <a href="/blog/carbon-monoxide-detector-rental">carbon monoxide detector requirements for rentals</a>.</p>
+<hr>
+<h2 id="step-6-winterize-vacant-units">Step 6: Winterize Vacant Units</h2>
+<p>Vacant units are at heightened risk during winter because there are no occupants to notice and report problems.</p>
+<ul>
+<li>Maintain heat at minimum 55°F at all times</li>
+<li>Turn off the water supply if the unit will be vacant for more than 30 days and drain all pipes (including toilets, sink traps, and water heater)</li>
+<li>Add RV antifreeze to sink and toilet traps if draining the system</li>
+<li>Drain the water heater if the unit will be vacant for an extended period</li>
+<li>Inspect vacant units weekly during extreme cold periods</li>
+</ul>
+<hr>
+<h2 id="step-7-exterior-and-grounds-preparation">Step 7: Exterior and Grounds Preparation</h2>
+<h3 id="driveways-and-walkways">Driveways and Walkways</h3>
+<ul>
+<li>Inspect and repair cracks in concrete or asphalt driveways — water infiltrates cracks, freezes, and dramatically accelerates damage. Properties in flood-prone areas should also verify <a href="https://www.fema.gov/flood-insurance">FEMA flood insurance</a> coverage before winter storms</li>
+<li>Stock ice melt or sand for winter application</li>
+<li>Identify who (landlord or tenant) is responsible for snow removal per the lease — confirm this in writing before winter</li>
+</ul>
+<h3 id="outdoor-plumbing-and-equipment">Outdoor Plumbing and Equipment</h3>
+<ul>
+<li>Drain and store irrigation systems before freeze</li>
+<li>Winterize outdoor pool equipment if applicable</li>
+<li>Store outdoor furniture and equipment that could be damaged by ice and snow</li>
+</ul>
+<h3 id="trees-and-branches">Trees and Branches</h3>
+<p>Overhanging limbs laden with ice or snow are a significant liability risk. Inspect trees before winter and remove dead or overhanging branches that could fall on the building, vehicles, or people. For more on this risk, see our guide on <a href="/blog/tree-damage-rental-property">handling storm and tree damage</a>.</p>
+<hr>
+<h2 id="step-8-communicate-with-tenants">Step 8: Communicate With Tenants</h2>
+<p>Tenant cooperation is essential for effective winterization. Before the cold season:</p>
+<ul>
+<li>Send a written winterization checklist to all tenants</li>
+<li>Remind tenants of their obligation to maintain heat at the lease-specified minimum (typically 55°F)</li>
+<li>Provide the heating system emergency contact number</li>
+<li>Instruct tenants to report any issues (water leaks, drafts, heating problems) promptly</li>
+<li>Explain how to shut off the main water supply in case of a pipe burst</li>
+</ul>
+<p>Many landlords include a winterization addendum to the lease that specifies tenant responsibilities and the consequences of failing to maintain heat (tenant may be liable for freeze damage).</p>
+<hr>
+<h2 id="winterization-checklist-summary">Winterization Checklist Summary</h2>
+<p>Use this master checklist for each property:</p>
+<p><strong>Heating System</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Professional HVAC inspection and service</li>
+<li class="task-list-item"><input type="checkbox" disabled> Filters replaced</li>
+<li class="task-list-item"><input type="checkbox" disabled> Thermostat tested</li>
+<li class="task-list-item"><input type="checkbox" disabled> Carbon monoxide detectors tested</li>
+</ul>
+<p><strong>Plumbing</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Exterior hose bibs shut off and insulated</li>
+<li class="task-list-item"><input type="checkbox" disabled> Exposed pipes insulated</li>
+<li class="task-list-item"><input type="checkbox" disabled> Crawl space vents sealed</li>
+<li class="task-list-item"><input type="checkbox" disabled> Tenant instruction letter sent</li>
+</ul>
+<p><strong>Roof and Gutters</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Roof inspection completed</li>
+<li class="task-list-item"><input type="checkbox" disabled> Gutters cleaned</li>
+<li class="task-list-item"><input type="checkbox" disabled> Downspouts clear and directed away from foundation</li>
+<li class="task-list-item"><input type="checkbox" disabled> Attic insulation and ventilation verified</li>
+</ul>
+<p><strong>Windows and Doors</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Caulking and weatherstripping inspected and replaced</li>
+<li class="task-list-item"><input type="checkbox" disabled> Door sweeps in good condition</li>
+</ul>
+<p><strong>Safety</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Smoke detectors tested</li>
+<li class="task-list-item"><input type="checkbox" disabled> CO detectors tested and placed correctly</li>
+</ul>
+<p><strong>Exterior</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Cracks in driveway repaired</li>
+<li class="task-list-item"><input type="checkbox" disabled> Ice melt stocked</li>
+<li class="task-list-item"><input type="checkbox" disabled> Overhanging branches removed</li>
+<li class="task-list-item"><input type="checkbox" disabled> Outdoor plumbing drained</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Winterizing a rental property is a systematic process that pays dividends all winter long. The best landlords treat it as an annual routine — scheduling contractor appointments in early fall before the busy season, inspecting each system methodically, and communicating proactively with tenants. The cost of prevention is a fraction of the cost of emergency repairs, tenant displacement, and potential legal liability for uninhabitable conditions.</p>
+<p>For related seasonal maintenance, see our <a href="/blog/spring-maintenance-checklist-rental">spring maintenance checklist for rental properties</a> and <a href="/blog/hvac-maintenance-rental-property">HVAC maintenance schedule</a>.</p>
+28:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2e"}}]
+29:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","winterizing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"winterizing"}],["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","preventive maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"preventive maintenance"}],["$","span","seasonal maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"seasonal maintenance"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}]]}]
+2a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+2b:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","gutter-cleaning-rental-property",{"href":"/blog/gutter-cleaning-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Gutter Cleaning Schedule for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","appliance-maintenance-schedule-rental",{"href":"/blog/appliance-maintenance-schedule-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Appliance Maintenance Schedule for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","hvac-maintenance-rental-property",{"href":"/blog/hvac-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"HVAC Maintenance Schedule for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+2c:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-winterizing-matters",{"className":"","children":["$","a",null,{"href":"#why-winterizing-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Winterizing Matters"}]}],["$","li","step-1-inspect-and-service-the-heating-system",{"className":"","children":["$","a",null,{"href":"#step-1-inspect-and-service-the-heating-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Inspect and Service the Heating System"}]}],["$","li","furnace-and-boiler-service",{"className":"ml-4","children":["$","a",null,{"href":"#furnace-and-boiler-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furnace and Boiler Service"}]}],["$","li","heat-pump-systems",{"className":"ml-4","children":["$","a",null,{"href":"#heat-pump-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Heat Pump Systems"}]}],["$","li","step-2-protect-the-plumbing",{"className":"","children":["$","a",null,{"href":"#step-2-protect-the-plumbing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Protect the Plumbing"}]}],["$","li","exterior-hose-bibs",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-hose-bibs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Hose Bibs"}]}],["$","li","pipe-insulation",{"className":"ml-4","children":["$","a",null,{"href":"#pipe-insulation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pipe Insulation"}]}],["$","li","crawl-spaces-and-basements",{"className":"ml-4","children":["$","a",null,{"href":"#crawl-spaces-and-basements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Crawl Spaces and Basements"}]}],["$","li","tenant-instructions",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-instructions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Instructions"}]}],["$","li","step-3-inspect-the-roof-and-gutters",{"className":"","children":["$","a",null,{"href":"#step-3-inspect-the-roof-and-gutters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Inspect the Roof and Gutters"}]}],["$","li","roof-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#roof-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Roof Inspection"}]}],["$","li","gutter-cleaning-and-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#gutter-cleaning-and-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Cleaning and Inspection"}]}],["$","li","ice-dam-prevention",{"className":"ml-4","children":["$","a",null,{"href":"#ice-dam-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ice Dam Prevention"}]}],["$","li","step-4-check-windows-doors-and-insulation",{"className":"","children":["$","a",null,{"href":"#step-4-check-windows-doors-and-insulation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Check Windows, Doors, and Insulation"}]}],["$","li","windows",{"className":"ml-4","children":["$","a",null,{"href":"#windows","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Windows"}]}],["$","li","doors",{"className":"ml-4","children":["$","a",null,{"href":"#doors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Doors"}]}],"$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38"]}]]}]}]
+2d:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2f:["$","li","attic-and-wall-insulation",{"className":"ml-4","children":["$","a",null,{"href":"#attic-and-wall-insulation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Attic and Wall Insulation"}]}]
+30:["$","li","step-5-test-smoke-and-carbon-monoxide-detectors",{"className":"","children":["$","a",null,{"href":"#step-5-test-smoke-and-carbon-monoxide-detectors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Test Smoke and Carbon Monoxide Detectors"}]}]
+31:["$","li","step-6-winterize-vacant-units",{"className":"","children":["$","a",null,{"href":"#step-6-winterize-vacant-units","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 6: Winterize Vacant Units"}]}]
+32:["$","li","step-7-exterior-and-grounds-preparation",{"className":"","children":["$","a",null,{"href":"#step-7-exterior-and-grounds-preparation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 7: Exterior and Grounds Preparation"}]}]
+33:["$","li","driveways-and-walkways",{"className":"ml-4","children":["$","a",null,{"href":"#driveways-and-walkways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Driveways and Walkways"}]}]
+34:["$","li","outdoor-plumbing-and-equipment",{"className":"ml-4","children":["$","a",null,{"href":"#outdoor-plumbing-and-equipment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Outdoor Plumbing and Equipment"}]}]
+35:["$","li","trees-and-branches",{"className":"ml-4","children":["$","a",null,{"href":"#trees-and-branches","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Trees and Branches"}]}]
+36:["$","li","step-8-communicate-with-tenants",{"className":"","children":["$","a",null,{"href":"#step-8-communicate-with-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 8: Communicate With Tenants"}]}]
+37:["$","li","winterization-checklist-summary",{"className":"","children":["$","a",null,{"href":"#winterization-checklist-summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winterization Checklist Summary"}]}]
+38:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Winterizing Your Rental Property: Step-by-Step | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A complete step-by-step guide to winterizing your rental property, covering plumbing, HVAC, roofing, insulation, and tenant communication to prevent costly damage."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"winterizing,property maintenance,preventive maintenance,seasonal maintenance,landlord tips"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/winterizing-rental-property"}],["$","meta","6",{"property":"og:title","content":"Winterizing Your Rental Property: Step-by-Step"}],["$","meta","7",{"property":"og:description","content":"A complete step-by-step guide to winterizing your rental property, covering plumbing, HVAC, roofing, insulation, and tenant communication to prevent costly damage."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/winterizing-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Winterizing Your Rental Property: Step-by-Step"}],["$","meta","15",{"name":"twitter:description","content":"A complete step-by-step guide to winterizing your rental property, covering plumbing, HVAC, roofing, insulation, and tenant communication to prevent costly damage."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

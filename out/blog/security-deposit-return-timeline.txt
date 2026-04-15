@@ -1,0 +1,415 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","security-deposit-return-timeline"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","security-deposit-return-timeline","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","security-deposit-return-timeline","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Security Deposit Return Timelines by State\",\"description\":\"A complete guide to security deposit return timelines by state, what deductions are allowed, and how landlords can avoid costly disputes and legal penalties.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/security-deposit-return-timeline\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Legal & Compliance\",\"item\":\"https://portfoliorental.com/blog/category/legal-and-compliance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Security Deposit Return Timelines by State\",\"item\":\"https://portfoliorental.com/blog/security-deposit-return-timeline\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"hover:text-blue-600","children":"Legal & Compliance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Legal & Compliance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Security Deposit Return Timelines by State"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[9," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-security-deposit-timelines-matter",{"className":"","children":["$","a",null,{"href":"#why-security-deposit-timelines-matter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Security Deposit Timelines Matter"}]}],["$","li","security-deposit-return-timeline-by-state",{"className":"","children":["$","a",null,{"href":"#security-deposit-return-timeline-by-state","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Security Deposit Return Timeline by State"}]}],["$","li","what-deductions-are-permissible",{"className":"","children":["$","a",null,{"href":"#what-deductions-are-permissible","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Deductions Are Permissible?"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]}]]}],"$L24","$L25"]}],"$L26","$L27"]}],"$L28"]}]]}],"$L29"]
+11:["$","li","what-is-not-deductible",{"className":"ml-4","children":["$","a",null,{"href":"#what-is-not-deductible","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is NOT Deductible"}]}]
+12:["$","li","the-itemized-deduction-statement",{"className":"","children":["$","a",null,{"href":"#the-itemized-deduction-statement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Itemized Deduction Statement"}]}]
+13:["$","li","forwarding-address-considerations",{"className":"","children":["$","a",null,{"href":"#forwarding-address-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Forwarding Address Considerations"}]}]
+14:["$","li","move-in-and-move-out-inspections-your-best-protection",{"className":"","children":["$","a",null,{"href":"#move-in-and-move-out-inspections-your-best-protection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Move-In and Move-Out Inspections: Your Best Protection"}]}]
+15:["$","li","move-in-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#move-in-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Move-In Inspection"}]}]
+16:["$","li","move-out-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#move-out-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Move-Out Inspection"}]}]
+17:["$","li","practical-steps-to-return-deposits-on-time",{"className":"","children":["$","a",null,{"href":"#practical-steps-to-return-deposits-on-time","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Practical Steps to Return Deposits on Time"}]}]
+18:["$","li","step-1-confirm-the-lease-end-date",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-confirm-the-lease-end-date","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Confirm the Lease End Date"}]}]
+19:["$","li","step-2-conduct-the-move-out-inspection-promptly",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-conduct-the-move-out-inspection-promptly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Conduct the Move-Out Inspection Promptly"}]}]
+1a:["$","li","step-3-get-contractor-estimates-or-invoices-quickly",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-get-contractor-estimates-or-invoices-quickly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Get Contractor Estimates or Invoices Quickly"}]}]
+1b:["$","li","step-4-prepare-the-itemized-statement",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-prepare-the-itemized-statement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Prepare the Itemized Statement"}]}]
+1c:["$","li","step-5-send-via-certified-mail",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-send-via-certified-mail","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Send via Certified Mail"}]}]
+1d:["$","li","security-deposits-and-rent-control-markets",{"className":"","children":["$","a",null,{"href":"#security-deposits-and-rent-control-markets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Security Deposits and Rent Control Markets"}]}]
+1e:["$","li","frequently-asked-questions",{"className":"","children":["$","a",null,{"href":"#frequently-asked-questions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Frequently Asked Questions"}]}]
+1f:["$","li","what-happens-if-the-tenant-leaves-without-giving-a-forwarding-address",{"className":"ml-4","children":["$","a",null,{"href":"#what-happens-if-the-tenant-leaves-without-giving-a-forwarding-address","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What happens if the tenant leaves without giving a forwarding address?"}]}]
+20:["$","li","can-i-use-the-security-deposit-while-the-tenant-is-still-living-there",{"className":"ml-4","children":["$","a",null,{"href":"#can-i-use-the-security-deposit-while-the-tenant-is-still-living-there","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Can I use the security deposit while the tenant is still living there?"}]}]
+21:["$","li","what-if-my-repair-costs-exceed-the-security-deposit-amount",{"className":"ml-4","children":["$","a",null,{"href":"#what-if-my-repair-costs-exceed-the-security-deposit-amount","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What if my repair costs exceed the security deposit amount?"}]}]
+22:["$","li","do-i-need-to-pay-interest-on-the-security-deposit",{"className":"ml-4","children":["$","a",null,{"href":"#do-i-need-to-pay-interest-on-the-security-deposit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Do I need to pay interest on the security deposit?"}]}]
+23:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2a:T3d05,<p>Security deposit disputes are among the most common — and most preventable — legal conflicts between landlords and tenants. Failing to return a security deposit within the legally required timeframe, or making improper deductions, can expose landlords to penalties ranging from double to triple the deposit amount, plus attorney fees. Understanding your state's specific requirements is not optional — it is one of the most basic compliance obligations of being a landlord. General <a href="https://www.nolo.com/legal-encyclopedia/landlord-tenant-law">landlord-tenant law</a> resources can help you identify your state's rules.</p>
+<p>This guide covers security deposit return timelines for every U.S. state, explains what deductions are permitted, and provides practical steps to protect yourself from disputes.</p>
+<hr>
+<h2 id="why-security-deposit-timelines-matter">Why Security Deposit Timelines Matter</h2>
+<p>Every state in the U.S. has a statute governing how quickly landlords must return a security deposit after a tenancy ends. These deadlines are strictly enforced by courts. Missing the deadline — even by a day or two — can result in:</p>
+<ul>
+<li>Forfeiture of your right to make any deductions</li>
+<li>Mandatory return of the full deposit</li>
+<li>Penalty damages of two or three times the deposit amount</li>
+<li>Liability for the tenant's attorney fees</li>
+</ul>
+<p>Courts take security deposit compliance seriously because tenants are in a vulnerable position after moving out. The law is designed to ensure that landlords act promptly and in good faith. The <a href="https://www.consumerfinance.gov/housing">CFPB housing portal</a> provides additional consumer-facing guidance on deposit rights.</p>
+<hr>
+<h2 id="security-deposit-return-timeline-by-state">Security Deposit Return Timeline by State</h2>
+<p>The following timelines represent the number of days after the tenancy ends (or after the landlord receives the tenant's forwarding address, where applicable) that the deposit must be returned along with an itemized deduction statement.</p>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Return Deadline</th>
+<th>Penalty for Non-Compliance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alabama</td>
+<td>35 days</td>
+<td>2x deposit</td>
+</tr>
+<tr>
+<td>Alaska</td>
+<td>14 days (30 if no walkthrough)</td>
+<td>2x wrongfully withheld amount</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>14 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Arkansas</td>
+<td>60 days</td>
+<td>No statutory penalty, but civil action allowed</td>
+</tr>
+<tr>
+<td>California</td>
+<td>21 days</td>
+<td>2x wrongfully withheld amount</td>
+</tr>
+<tr>
+<td>Colorado</td>
+<td>30 days (60 if stated in lease)</td>
+<td>3x wrongfully withheld + attorney fees</td>
+</tr>
+<tr>
+<td>Connecticut</td>
+<td>30 days (15 if hazardous condition)</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Delaware</td>
+<td>20 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>15 days (if no deductions) / 30 days (if deductions)</td>
+<td>Full deposit forfeited</td>
+</tr>
+<tr>
+<td>Georgia</td>
+<td>30 days</td>
+<td>3x wrongfully withheld + attorney fees</td>
+</tr>
+<tr>
+<td>Hawaii</td>
+<td>14 days</td>
+<td>3x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Idaho</td>
+<td>21 days</td>
+<td>No specific statutory penalty</td>
+</tr>
+<tr>
+<td>Illinois</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Indiana</td>
+<td>45 days</td>
+<td>Actual damages</td>
+</tr>
+<tr>
+<td>Iowa</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Kansas</td>
+<td>30 days</td>
+<td>1.5x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Kentucky</td>
+<td>30 days (60 if deductions)</td>
+<td>Actual damages</td>
+</tr>
+<tr>
+<td>Louisiana</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Maine</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Maryland</td>
+<td>45 days</td>
+<td>3x wrongfully withheld + attorney fees</td>
+</tr>
+<tr>
+<td>Massachusetts</td>
+<td>30 days</td>
+<td>3x wrongfully withheld + attorney fees</td>
+</tr>
+<tr>
+<td>Michigan</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Minnesota</td>
+<td>21 days</td>
+<td>2x wrongfully withheld + attorney fees</td>
+</tr>
+<tr>
+<td>Mississippi</td>
+<td>45 days</td>
+<td>Actual damages</td>
+</tr>
+<tr>
+<td>Missouri</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Montana</td>
+<td>30 days (10 days if no deductions)</td>
+<td>Actual damages + attorney fees</td>
+</tr>
+<tr>
+<td>Nebraska</td>
+<td>14 days</td>
+<td>Actual damages</td>
+</tr>
+<tr>
+<td>Nevada</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>New Hampshire</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>New Jersey</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>New Mexico</td>
+<td>30 days</td>
+<td>3x wrongfully withheld + attorney fees</td>
+</tr>
+<tr>
+<td>New York</td>
+<td>14 days</td>
+<td>Actual damages</td>
+</tr>
+<tr>
+<td>North Carolina</td>
+<td>30 days</td>
+<td>Actual damages + attorney fees</td>
+</tr>
+<tr>
+<td>North Dakota</td>
+<td>30 days</td>
+<td>Actual damages</td>
+</tr>
+<tr>
+<td>Ohio</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Oklahoma</td>
+<td>45 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Oregon</td>
+<td>31 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Pennsylvania</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Rhode Island</td>
+<td>20 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>South Carolina</td>
+<td>30 days</td>
+<td>3x wrongfully withheld</td>
+</tr>
+<tr>
+<td>South Dakota</td>
+<td>14 days (45 if deductions)</td>
+<td>No specific penalty</td>
+</tr>
+<tr>
+<td>Tennessee</td>
+<td>30 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>30 days</td>
+<td>3x wrongfully withheld + attorney fees</td>
+</tr>
+<tr>
+<td>Utah</td>
+<td>30 days</td>
+<td>Actual damages</td>
+</tr>
+<tr>
+<td>Vermont</td>
+<td>14 days</td>
+<td>Actual damages</td>
+</tr>
+<tr>
+<td>Virginia</td>
+<td>45 days</td>
+<td>Actual damages + attorney fees</td>
+</tr>
+<tr>
+<td>Washington</td>
+<td>30 days</td>
+<td>2x wrongfully withheld + attorney fees</td>
+</tr>
+<tr>
+<td>West Virginia</td>
+<td>Reasonable time (typically 30-60 days)</td>
+<td>Actual damages</td>
+</tr>
+<tr>
+<td>Wisconsin</td>
+<td>21 days</td>
+<td>2x wrongfully withheld</td>
+</tr>
+<tr>
+<td>Wyoming</td>
+<td>30 days (15 days if no deductions)</td>
+<td>Actual damages</td>
+</tr>
+</tbody>
+</table>
+<p><em>Note: Timelines and penalties are subject to legislative updates. Always verify current law for your specific state before acting.</em></p>
+<hr>
+<h2 id="what-deductions-are-permissible">What Deductions Are Permissible?</h2>
+<p>Allowable deductions from a security deposit are narrower than many landlords assume. Our <a href="/blog/security-deposit-deductions-guide">security deposit deductions guide</a> covers the full list of permitted and prohibited charges. Most states permit deductions for:</p>
+<ul>
+<li><strong>Unpaid rent</strong> — Any rent owed at the time of move-out</li>
+<li><strong>Physical damage beyond normal wear and tear</strong> — Holes in walls, broken fixtures, stained carpets from pet accidents, missing blinds</li>
+<li><strong>Cleaning costs</strong> — If the unit is returned in a condition requiring professional cleaning beyond normal use</li>
+<li><strong>Unpaid utilities</strong> — If the landlord is responsible for paying utilities and the tenant left a balance</li>
+<li><strong>Lease break fees</strong> — If the lease specifically provides for them and they are legally enforceable in your state</li>
+</ul>
+<h3 id="what-is-not-deductible">What Is NOT Deductible</h3>
+<p>Courts consistently find the following are not valid deductions:</p>
+<ul>
+<li><strong>Normal wear and tear</strong> — Faded paint, minor scuffs on walls, worn carpet from normal foot traffic, small nail holes from hanging pictures</li>
+<li><strong>Pre-existing damage</strong> — Any damage documented at move-in that existed before the tenancy</li>
+<li><strong>General aging of fixtures</strong> — An aging water heater that finally failed is not a tenant's responsibility</li>
+<li><strong>Costs you never actually incurred</strong> — You cannot deduct for repairs you claimed to make but did not actually complete</li>
+</ul>
+<hr>
+<h2 id="the-itemized-deduction-statement">The Itemized Deduction Statement</h2>
+<p>Most states require that when a landlord withholds any portion of the deposit, they must provide the tenant with a written, itemized statement listing each deduction and its amount. This must usually be sent within the same deadline as the deposit return.</p>
+<p>Best practices for an itemized statement include:</p>
+<ul>
+<li>List each deduction as a separate line item with a specific dollar amount</li>
+<li>Reference the relevant damage or condition (e.g., "Replacement of broken bathroom door knob — $85")</li>
+<li>Attach receipts, invoices, or contractor estimates to support each claimed deduction</li>
+<li>Use the same language as the move-out inspection report</li>
+</ul>
+<p>A vague statement listing only "cleaning — $200" without documentation is frequently rejected by courts and can result in forfeiture of the entire deduction.</p>
+<hr>
+<h2 id="forwarding-address-considerations">Forwarding Address Considerations</h2>
+<p>Many state statutes start the clock on the deposit return deadline from the date the tenant provides a forwarding address — not necessarily from the date they vacate. This can work in a landlord's favor if the tenant fails to provide an address, but it is still advisable to:</p>
+<ul>
+<li>Send the deposit (and statement) to the last known address if no forwarding address is provided</li>
+<li>Document your attempt to return the deposit</li>
+<li>Never use "no forwarding address" as a reason to hold the deposit indefinitely</li>
+</ul>
+<hr>
+<h2 id="move-in-and-move-out-inspections-your-best-protection">Move-In and Move-Out Inspections: Your Best Protection</h2>
+<p>The single most effective protection against security deposit disputes is a thorough, documented inspection process.</p>
+<h3 id="move-in-inspection">Move-In Inspection</h3>
+<ul>
+<li>Send a <a href="/blog/move-out-letter-tenant">move-out letter to the tenant</a> in advance explaining your inspection process and deposit return timeline</li>
+<li>Complete a written move-in condition report for every unit before the tenant takes possession</li>
+<li>Photograph and/or video the entire unit, including appliances, walls, floors, fixtures, and any pre-existing damage</li>
+<li>Have the tenant sign the condition report at move-in</li>
+<li>Provide the tenant with a copy and retain the original in your records</li>
+</ul>
+<h3 id="move-out-inspection">Move-Out Inspection</h3>
+<ul>
+<li>Conduct a move-out inspection, ideally with the tenant present</li>
+<li>Use the same checklist used at move-in to compare conditions</li>
+<li>Note and photograph any new damage</li>
+<li>Give the tenant a copy of the move-out report at the time of inspection</li>
+</ul>
+<p>Many states give tenants the right to be present during the move-out inspection. Offering this opportunity — and documenting that you did — protects you if the tenant later disputes the deductions.</p>
+<hr>
+<h2 id="practical-steps-to-return-deposits-on-time">Practical Steps to Return Deposits on Time</h2>
+<h3 id="step-1-confirm-the-lease-end-date">Step 1: Confirm the Lease End Date</h3>
+<p>Know when the tenancy officially ends so you can start the return clock. This may be the last day of the lease, the date the keys are returned, or the date the unit is vacated — depending on your state.</p>
+<h3 id="step-2-conduct-the-move-out-inspection-promptly">Step 2: Conduct the Move-Out Inspection Promptly</h3>
+<p>Do not wait days to inspect the unit after the tenant vacates. Inspect within 24-48 hours and document everything.</p>
+<h3 id="step-3-get-contractor-estimates-or-invoices-quickly">Step 3: Get Contractor Estimates or Invoices Quickly</h3>
+<p>If you need to make deductions for repairs, obtain written estimates or invoices before the deposit return deadline. Courts are skeptical of verbal cost estimates without supporting documentation.</p>
+<h3 id="step-4-prepare-the-itemized-statement">Step 4: Prepare the Itemized Statement</h3>
+<p>Draft the deduction statement with specific line items and attach supporting documentation.</p>
+<h3 id="step-5-send-via-certified-mail">Step 5: Send via Certified Mail</h3>
+<p>Return the deposit (and itemized statement, if applicable) via certified mail with return receipt requested. This creates a postmarked paper trail proving you met the deadline.</p>
+<hr>
+<h2 id="security-deposits-and-rent-control-markets">Security Deposits and Rent Control Markets</h2>
+<p>In rent-controlled or rent-stabilized markets, security deposit rules sometimes intersect with rent regulations. For example, in some jurisdictions the maximum security deposit is tied to the regulated rent — meaning that even if market rent has risen, the deposit limit is based on the controlled rent. Review local rules carefully.</p>
+<p>For more on rent regulations, see our guides on <a href="/blog/rent-stabilization-vs-rent-control">rent stabilization vs rent control</a> and <a href="/blog/rent-increase-limits-by-state">rent increase limits by state</a>.</p>
+<hr>
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+<h3 id="what-happens-if-the-tenant-leaves-without-giving-a-forwarding-address">What happens if the tenant leaves without giving a forwarding address?</h3>
+<p>Document your attempts to reach the tenant and send the deposit to their last known address via certified mail. Retain all documentation. Never simply keep the deposit because you cannot find the tenant.</p>
+<h3 id="can-i-use-the-security-deposit-while-the-tenant-is-still-living-there">Can I use the security deposit while the tenant is still living there?</h3>
+<p>No. Security deposits belong to the tenant and must be held in trust (in some states, in a separate bank account). Using deposit funds during the tenancy is a serious legal violation.</p>
+<h3 id="what-if-my-repair-costs-exceed-the-security-deposit-amount">What if my repair costs exceed the security deposit amount?</h3>
+<p>You can deduct the full deposit for qualifying damages and then pursue the tenant in small claims court for any amount exceeding the deposit.</p>
+<h3 id="do-i-need-to-pay-interest-on-the-security-deposit">Do I need to pay interest on the security deposit?</h3>
+<p>Several states (including Massachusetts, New Jersey, and Maryland) require landlords to hold deposits in interest-bearing accounts and pay interest to the tenant annually or at move-out. Check your state's specific requirements via <a href="https://www.law.cornell.edu/wex/landlord-tenant_law">Cornell Law's overview</a>.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Security deposit compliance is one of the most straightforward ways to avoid costly legal disputes as a landlord. Know your state's return deadline, conduct thorough move-in and move-out inspections, document everything, and send your itemized statement on time. Missing the deadline or making improper deductions can easily turn a minor administrative oversight into a significant legal and financial liability.</p>
+<p>For additional guidance on managing deposits, pet fees, and prepaid rent, see our articles on <a href="/blog/pet-deposit-vs-pet-fee">pet deposit vs pet fee</a> and <a href="/blog/last-month-rent-vs-security-deposit">last month's rent vs security deposit</a>.</p>
+24:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2a"}}]
+25:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","security deposit",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"security deposit"}],["$","span","landlord compliance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord compliance"}],["$","span","tenant rights",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant rights"}],["$","span","rental laws",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental laws"}],["$","span","deposit return",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"deposit return"}]]}]
+26:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Legal & Compliance"]}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-legal-structures-and-asset-protection",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-legal-structures-and-asset-protection","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Legal Structures and Asset Protection"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ada-compliance-for-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ada-compliance-for-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ADA Compliance for Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-eviction-process",{"children":["$","$L10",null,{"href":"/blog/akron-eviction-process","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Eviction Process in Akron: Step-by-Step Guide"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-rent-increase",{"children":["$","$L10",null,{"href":"/blog/akron-rent-increase","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Issue a Rent Increase Notice in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+27:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","just-cause-eviction-laws",{"href":"/blog/just-cause-eviction-laws","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Just Cause Eviction Laws: Landlord Compliance Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","last-month-rent-vs-security-deposit",{"href":"/blog/last-month-rent-vs-security-deposit","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Last Month's Rent vs Security Deposit Explained"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","pet-deposit-vs-pet-fee",{"href":"/blog/pet-deposit-vs-pet-fee","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Pet Deposit vs Pet Fee: What Landlords Should Charge"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+28:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-security-deposit-timelines-matter",{"className":"","children":["$","a",null,{"href":"#why-security-deposit-timelines-matter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Security Deposit Timelines Matter"}]}],["$","li","security-deposit-return-timeline-by-state",{"className":"","children":["$","a",null,{"href":"#security-deposit-return-timeline-by-state","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Security Deposit Return Timeline by State"}]}],["$","li","what-deductions-are-permissible",{"className":"","children":["$","a",null,{"href":"#what-deductions-are-permissible","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Deductions Are Permissible?"}]}],["$","li","what-is-not-deductible",{"className":"ml-4","children":["$","a",null,{"href":"#what-is-not-deductible","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is NOT Deductible"}]}],["$","li","the-itemized-deduction-statement",{"className":"","children":["$","a",null,{"href":"#the-itemized-deduction-statement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Itemized Deduction Statement"}]}],["$","li","forwarding-address-considerations",{"className":"","children":["$","a",null,{"href":"#forwarding-address-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Forwarding Address Considerations"}]}],["$","li","move-in-and-move-out-inspections-your-best-protection",{"className":"","children":["$","a",null,{"href":"#move-in-and-move-out-inspections-your-best-protection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Move-In and Move-Out Inspections: Your Best Protection"}]}],["$","li","move-in-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#move-in-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Move-In Inspection"}]}],["$","li","move-out-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#move-out-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Move-Out Inspection"}]}],["$","li","practical-steps-to-return-deposits-on-time",{"className":"","children":["$","a",null,{"href":"#practical-steps-to-return-deposits-on-time","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Practical Steps to Return Deposits on Time"}]}],["$","li","step-1-confirm-the-lease-end-date",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-confirm-the-lease-end-date","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Confirm the Lease End Date"}]}],["$","li","step-2-conduct-the-move-out-inspection-promptly",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-conduct-the-move-out-inspection-promptly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Conduct the Move-Out Inspection Promptly"}]}],["$","li","step-3-get-contractor-estimates-or-invoices-quickly",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-get-contractor-estimates-or-invoices-quickly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Get Contractor Estimates or Invoices Quickly"}]}],["$","li","step-4-prepare-the-itemized-statement",{"className":"ml-4","children":"$L2b"}],"$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33"]}]]}]}]
+29:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2b:["$","a",null,{"href":"#step-4-prepare-the-itemized-statement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Prepare the Itemized Statement"}]
+2c:["$","li","step-5-send-via-certified-mail",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-send-via-certified-mail","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Send via Certified Mail"}]}]
+2d:["$","li","security-deposits-and-rent-control-markets",{"className":"","children":["$","a",null,{"href":"#security-deposits-and-rent-control-markets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Security Deposits and Rent Control Markets"}]}]
+2e:["$","li","frequently-asked-questions",{"className":"","children":["$","a",null,{"href":"#frequently-asked-questions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Frequently Asked Questions"}]}]
+2f:["$","li","what-happens-if-the-tenant-leaves-without-giving-a-forwarding-address",{"className":"ml-4","children":["$","a",null,{"href":"#what-happens-if-the-tenant-leaves-without-giving-a-forwarding-address","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What happens if the tenant leaves without giving a forwarding address?"}]}]
+30:["$","li","can-i-use-the-security-deposit-while-the-tenant-is-still-living-there",{"className":"ml-4","children":["$","a",null,{"href":"#can-i-use-the-security-deposit-while-the-tenant-is-still-living-there","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Can I use the security deposit while the tenant is still living there?"}]}]
+31:["$","li","what-if-my-repair-costs-exceed-the-security-deposit-amount",{"className":"ml-4","children":["$","a",null,{"href":"#what-if-my-repair-costs-exceed-the-security-deposit-amount","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What if my repair costs exceed the security deposit amount?"}]}]
+32:["$","li","do-i-need-to-pay-interest-on-the-security-deposit",{"className":"ml-4","children":["$","a",null,{"href":"#do-i-need-to-pay-interest-on-the-security-deposit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Do I need to pay interest on the security deposit?"}]}]
+33:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Security Deposit Return Timelines by State | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A complete guide to security deposit return timelines by state, what deductions are allowed, and how landlords can avoid costly disputes and legal penalties."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"security deposit,landlord compliance,tenant rights,rental laws,deposit return"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/security-deposit-return-timeline"}],["$","meta","6",{"property":"og:title","content":"Security Deposit Return Timelines by State"}],["$","meta","7",{"property":"og:description","content":"A complete guide to security deposit return timelines by state, what deductions are allowed, and how landlords can avoid costly disputes and legal penalties."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/security-deposit-return-timeline"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Security Deposit Return Timelines by State"}],["$","meta","15",{"name":"twitter:description","content":"A complete guide to security deposit return timelines by state, what deductions are allowed, and how landlords can avoid costly disputes and legal penalties."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

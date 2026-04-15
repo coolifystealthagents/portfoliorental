@@ -1,0 +1,309 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","best-tenant-screening-services"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","best-tenant-screening-services","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","best-tenant-screening-services","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Best Tenant Screening Services Compared\",\"description\":\"Comparing the best tenant screening services available to landlords in 2026, including pricing, features, and pros and cons of SmartMove, RentPrep, TurboTenant, MyRental, and more. Find the right screening platform for your rental portfolio.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/best-tenant-screening-services\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tenant Management\",\"item\":\"https://portfoliorental.com/blog/category/tenant-management\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Best Tenant Screening Services Compared\",\"item\":\"https://portfoliorental.com/blog/best-tenant-screening-services\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/tenant-management","className":"hover:text-blue-600","children":"Tenant Management"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Tenant Management"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Best Tenant Screening Services Compared"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[9," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-tenant-screening-services-matter",{"className":"","children":["$","a",null,{"href":"#why-tenant-screening-services-matter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Tenant Screening Services Matter"}]}],["$","li","what-to-look-for-in-a-tenant-screening-service",{"className":"","children":["$","a",null,{"href":"#what-to-look-for-in-a-tenant-screening-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Look for in a Tenant Screening Service"}]}],["$","li","best-tenant-screening-services-in-2026",{"className":"","children":["$","a",null,{"href":"#best-tenant-screening-services-in-2026","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Tenant Screening Services in 2026"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}]]}],"$L1c","$L1d"]}],"$L1e","$L1f"]}],"$L20"]}]]}],"$L21"]
+11:["$","li","1-smartmove-by-transunion",{"className":"ml-4","children":["$","a",null,{"href":"#1-smartmove-by-transunion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. SmartMove (by TransUnion)"}]}]
+12:["$","li","2-rentprep",{"className":"ml-4","children":["$","a",null,{"href":"#2-rentprep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. RentPrep"}]}]
+13:["$","li","3-turbotenant",{"className":"ml-4","children":["$","a",null,{"href":"#3-turbotenant","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. TurboTenant"}]}]
+14:["$","li","4-myrental-by-corelogic",{"className":"ml-4","children":["$","a",null,{"href":"#4-myrental-by-corelogic","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. MyRental (by CoreLogic)"}]}]
+15:["$","li","5-avail-by-realtor-com",{"className":"ml-4","children":["$","a",null,{"href":"#5-avail-by-realtor-com","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Avail (by Realtor.com)"}]}]
+16:["$","li","6-buildium-appfolio-enterprise-options",{"className":"ml-4","children":["$","a",null,{"href":"#6-buildium-appfolio-enterprise-options","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Buildium / AppFolio (Enterprise Options)"}]}]
+17:["$","li","comparing-screening-services-feature-matrix",{"className":"","children":["$","a",null,{"href":"#comparing-screening-services-feature-matrix","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Comparing Screening Services: Feature Matrix"}]}]
+18:["$","li","fcra-compliance-what-every-landlord-must-know",{"className":"","children":["$","a",null,{"href":"#fcra-compliance-what-every-landlord-must-know","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"FCRA Compliance: What Every Landlord Must Know"}]}]
+19:["$","li","how-to-choose-the-right-screening-service-for-your-portfolio",{"className":"","children":["$","a",null,{"href":"#how-to-choose-the-right-screening-service-for-your-portfolio","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Choose the Right Screening Service for Your Portfolio"}]}]
+1a:["$","li","setting-screening-criteria-before-you-pick-a-service",{"className":"","children":["$","a",null,{"href":"#setting-screening-criteria-before-you-pick-a-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Screening Criteria Before You Pick a Service"}]}]
+1b:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+22:T40dd,<p>Choosing the wrong tenant is one of the most expensive mistakes a landlord can make. A bad placement can cost thousands of dollars in unpaid rent, property damage, and eviction fees — not counting the months of stress involved. That is why selecting a reliable tenant screening service is one of the highest-leverage decisions in your rental business.</p>
+<p>The market is crowded with screening platforms, each claiming to offer the most comprehensive reports at the best price. This guide breaks down the best tenant screening services available in 2026, compares their pricing and features, and helps you determine which one fits your portfolio size and workflow.</p>
+<p>For a broader look at how screening fits into your overall process, see <a href="/blog/tenant-screening-best-practices">tenant screening best practices</a> and <a href="/blog/tenant-management-best-practices">tenant management best practices</a>.</p>
+<hr>
+<h2 id="why-tenant-screening-services-matter">Why Tenant Screening Services Matter</h2>
+<p>Screening a tenant manually — calling references, eyeballing pay stubs — is not enough. A professional screening service pulls data from credit bureaus, criminal databases, eviction records, and identity verification sources that are not accessible through a basic internet search.</p>
+<p>Under the Fair Credit Reporting Act (FCRA), landlords who use consumer reports to make rental decisions must follow specific rules around adverse action notices and applicant consent. The <a href="https://www.ftc.gov/legal-library/browse/statutes/fair-credit-reporting-act">Federal Trade Commission's FCRA guidance</a> is the authoritative reference for understanding your legal obligations when using third-party screening reports.</p>
+<p>Good screening services are built with FCRA compliance in mind, providing consent workflows, dispute mechanisms, and proper report formatting.</p>
+<hr>
+<h2 id="what-to-look-for-in-a-tenant-screening-service">What to Look for in a Tenant Screening Service</h2>
+<p>Before comparing specific platforms, here are the core features that separate strong services from mediocre ones:</p>
+<ul>
+<li><strong>Credit report access</strong>: Full tri-bureau or single-bureau reports, with score and tradeline detail</li>
+<li><strong>Criminal background check</strong>: National criminal database, sex offender registry, and watch lists</li>
+<li><strong>Eviction history</strong>: Nationwide eviction records, not just local court filings</li>
+<li><strong>Identity verification</strong>: SSN validation and fraud detection</li>
+<li><strong>Income verification</strong>: Either automated bank data pulls or manual document uploads</li>
+<li><strong>FCRA compliance tools</strong>: Consent collection, adverse action letter templates</li>
+<li><strong>Applicant-paid option</strong>: Lets tenants pay for their own reports, reducing your cost</li>
+<li><strong>Report turnaround</strong>: Most services deliver reports within minutes; some take 24–72 hours for manual reviews</li>
+<li><strong>Integrations</strong>: Compatibility with your property management software</li>
+</ul>
+<hr>
+<h2 id="best-tenant-screening-services-in-2026">Best Tenant Screening Services in 2026</h2>
+<h3 id="1-smartmove-by-transunion">1. SmartMove (by TransUnion)</h3>
+<p><strong>Best for: Landlords who want bureau-quality credit reports and a simple interface</strong></p>
+<p>SmartMove is one of the most widely recognized screening platforms in the rental industry. Powered directly by TransUnion, it delivers full credit reports, criminal background checks, and eviction records with a clean, landlord-friendly interface.</p>
+<p><strong>Pricing:</strong></p>
+<ul>
+<li>Basic (credit + criminal): $25 per applicant</li>
+<li>Plus (adds eviction history): $38 per applicant</li>
+<li>Premium (adds income insights): $40 per applicant</li>
+</ul>
+<p>Charges are passed to the applicant or billed to the landlord, depending on your preference.</p>
+<p><strong>Key features:</strong></p>
+<ul>
+<li>Full TransUnion credit report and ResidentScore</li>
+<li>National criminal database and sex offender search</li>
+<li>Nationwide eviction search</li>
+<li>Income Insights tool that compares reported income to spending patterns</li>
+<li>FCRA-compliant workflow with applicant consent built in</li>
+<li>No monthly fee or subscription required</li>
+</ul>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Bureau-direct data means high accuracy on credit reports</li>
+<li>ResidentScore is specifically designed for rental risk prediction</li>
+<li>Income Insights reduces the burden of manual income verification</li>
+<li>Clean interface, easy for infrequent users</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Pricing is per report, which adds up for high-volume landlords</li>
+<li>No free trial or volume discounts publicly advertised</li>
+<li>Limited integration with third-party property management tools</li>
+</ul>
+<p><strong>Best fit:</strong> Independent landlords and small portfolio owners who want reliable data without a monthly subscription commitment.</p>
+<hr>
+<h3 id="2-rentprep">2. RentPrep</h3>
+<p><strong>Best for: Landlords who want a human-reviewed screening process</strong></p>
+<p>RentPrep differentiates itself with a hybrid model: automated data pulls combined with manual review by trained screeners. This is especially useful for catching fraud or inconsistencies that automated systems sometimes miss.</p>
+<p><strong>Pricing:</strong></p>
+<ul>
+<li>SmartCredit Report: $18 per applicant</li>
+<li>FCRA Background Check: $21 per applicant</li>
+<li>Full Background Check: $30 per applicant</li>
+</ul>
+<p><strong>Key features:</strong></p>
+<ul>
+<li>Credit report with VantageScore</li>
+<li>Manual review of criminal and eviction records by staff screeners</li>
+<li>SSN trace and address history</li>
+<li>FCRA-compliant process</li>
+<li>No applicant-paid option on all tiers (varies by plan)</li>
+</ul>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Human review catches errors and fraud that automated systems miss</li>
+<li>Competitive pricing for individual reports</li>
+<li>Strong customer support reputation</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Human review adds time; same-day results not always guaranteed</li>
+<li>No built-in income verification</li>
+<li>Interface is more basic compared to newer platforms</li>
+</ul>
+<p><strong>Best fit:</strong> Landlords screening a moderate volume of applicants who prioritize accuracy and human oversight over speed.</p>
+<hr>
+<h3 id="3-turbotenant">3. TurboTenant</h3>
+<p><strong>Best for: Independent landlords who want an all-in-one leasing platform</strong></p>
+<p>TurboTenant is not just a screening tool — it is a full rental management platform that includes listing syndication, rental applications, lease generation, and rent collection. Screening is built into the application workflow, which makes it convenient for landlords managing everything in one place.</p>
+<p><strong>Pricing:</strong></p>
+<ul>
+<li>Screening reports are applicant-paid (tenant pays $55 for a full report)</li>
+<li>TurboTenant Premium (landlord subscription): $119/year, includes additional features</li>
+</ul>
+<p><strong>Key features:</strong></p>
+<ul>
+<li>Full credit report via TransUnion</li>
+<li>Criminal background check and eviction history</li>
+<li>Integrated rental applications and lease tools</li>
+<li>Applicant-paid model eliminates landlord screening cost</li>
+<li>Income verification through Plaid bank data integration</li>
+</ul>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>No per-report cost to landlords (applicants pay)</li>
+<li>Integrated platform reduces tools needed to manage rentals</li>
+<li>Modern, mobile-friendly interface</li>
+<li>Income verification via bank data is more reliable than document review alone</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>$55 applicant cost may deter some prospective tenants from applying</li>
+<li>Full-featured platform may be more than needed if you only want screening</li>
+<li>Premium features require paid subscription</li>
+</ul>
+<p><strong>Best fit:</strong> Independent landlords managing 1–20 units who want a streamlined leasing workflow and want to eliminate per-report costs.</p>
+<hr>
+<h3 id="4-myrental-by-corelogic">4. MyRental (by CoreLogic)</h3>
+<p><strong>Best for: Landlords who want comprehensive property management data</strong></p>
+<p>CoreLogic is one of the largest real estate data companies in the world, and MyRental is their consumer-facing screening product. Its primary advantage is access to CoreLogic's proprietary eviction and payment history databases, which are among the most comprehensive available.</p>
+<p><strong>Pricing:</strong></p>
+<ul>
+<li>Basic: $19.99 per applicant</li>
+<li>Standard: $29.99 per applicant</li>
+<li>Premium: $34.99 per applicant</li>
+</ul>
+<p><strong>Key features:</strong></p>
+<ul>
+<li>Credit report through Equifax or Experian (varies by plan)</li>
+<li>National eviction records from CoreLogic's database</li>
+<li>Criminal background check</li>
+<li>LeasingDesk score — a rental-specific risk score</li>
+<li>Sex offender registry search</li>
+</ul>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>CoreLogic eviction database is industry-leading in depth and coverage</li>
+<li>LeasingDesk score is specifically calibrated for rental risk</li>
+<li>Competitive pricing</li>
+<li>No subscription required</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Interface is less polished than competitors like TurboTenant or SmartMove</li>
+<li>Less emphasis on income verification compared to newer platforms</li>
+<li>Applicant-paid option not available on all plans</li>
+</ul>
+<p><strong>Best fit:</strong> Landlords who want the most thorough eviction history data available, particularly in markets with high eviction activity.</p>
+<hr>
+<h3 id="5-avail-by-realtor-com">5. Avail (by Realtor.com)</h3>
+<p><strong>Best for: Landlords who want free screening with a premium option</strong></p>
+<p>Avail offers a free tier that includes credit, criminal, and eviction reports charged to the applicant. Its paid subscription unlocks faster reports, additional features, and landlord-paid report options.</p>
+<p><strong>Pricing:</strong></p>
+<ul>
+<li>Unlimited (free): Applicant pays $55 for full report</li>
+<li>Unlimited Plus: $9/unit/month — includes landlord-paid reports and additional tools</li>
+</ul>
+<p><strong>Key features:</strong></p>
+<ul>
+<li>Full credit report via TransUnion</li>
+<li>Criminal background check and eviction records</li>
+<li>Integrated rental applications, leases, and rent collection</li>
+<li>State-specific lease templates</li>
+<li>Maintenance tracking</li>
+</ul>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Free tier is genuinely useful for landlords with occasional vacancies</li>
+<li>Solid integration between screening and leasing workflow</li>
+<li>State-specific lease templates reduce legal risk</li>
+<li>Strong mobile experience</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>Per-unit pricing model becomes expensive for large portfolios</li>
+<li>Applicant must create an Avail account to complete the screening process</li>
+<li>Customer support response times have been inconsistent per user reviews</li>
+</ul>
+<p><strong>Best fit:</strong> Landlords with a small number of units who want a free or low-cost screening solution integrated with rental management tools.</p>
+<hr>
+<h3 id="6-buildium-appfolio-enterprise-options">6. Buildium / AppFolio (Enterprise Options)</h3>
+<p>For landlords managing 50+ units, enterprise property management platforms like Buildium and AppFolio include screening as part of their broader software suite. These tools offer volume screening, team-based workflows, and deep integrations with accounting and maintenance modules. Pricing is subscription-based and scales with portfolio size.</p>
+<p>These platforms are covered in more detail in the context of full portfolio management on <a href="/blog/tenant-management-best-practices">tenant management best practices</a>.</p>
+<hr>
+<h2 id="comparing-screening-services-feature-matrix">Comparing Screening Services: Feature Matrix</h2>
+<table>
+<thead>
+<tr>
+<th>Service</th>
+<th>Credit Report</th>
+<th>Criminal Check</th>
+<th>Eviction Records</th>
+<th>Income Verification</th>
+<th>Applicant-Paid Option</th>
+<th>Starting Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SmartMove</td>
+<td>TransUnion</td>
+<td>Yes</td>
+<td>Yes</td>
+<td>Yes (Income Insights)</td>
+<td>Yes</td>
+<td>$25</td>
+</tr>
+<tr>
+<td>RentPrep</td>
+<td>VantageScore</td>
+<td>Yes (manual)</td>
+<td>Yes (manual)</td>
+<td>No</td>
+<td>Limited</td>
+<td>$18</td>
+</tr>
+<tr>
+<td>TurboTenant</td>
+<td>TransUnion</td>
+<td>Yes</td>
+<td>Yes</td>
+<td>Yes (Plaid)</td>
+<td>Yes (standard)</td>
+<td>$0 to landlord</td>
+</tr>
+<tr>
+<td>MyRental</td>
+<td>Equifax/Experian</td>
+<td>Yes</td>
+<td>Yes (CoreLogic)</td>
+<td>No</td>
+<td>Limited</td>
+<td>$19.99</td>
+</tr>
+<tr>
+<td>Avail</td>
+<td>TransUnion</td>
+<td>Yes</td>
+<td>Yes</td>
+<td>No</td>
+<td>Yes</td>
+<td>$0 to landlord</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="fcra-compliance-what-every-landlord-must-know">FCRA Compliance: What Every Landlord Must Know</h2>
+<p>When you use any consumer reporting agency to screen tenants, you take on legal obligations under the Fair Credit Reporting Act. The key requirements include:</p>
+<ol>
+<li><strong>Obtain written consent</strong> from the applicant before pulling a report</li>
+<li><strong>Provide a pre-adverse action notice</strong> if you intend to deny or take adverse action based on report findings</li>
+<li><strong>Send a final adverse action notice</strong> with the name and contact info of the reporting agency</li>
+<li><strong>Allow the applicant to dispute</strong> inaccurate information</li>
+</ol>
+<p>All the services listed above have FCRA-compliant workflows built in. However, the responsibility for following the process correctly lies with the landlord. Review the <a href="https://www.ftc.gov/legal-library/browse/statutes/fair-credit-reporting-act">FTC's FCRA resources</a> and consult an attorney if you are unsure.</p>
+<p>For additional context on fair housing obligations that intersect with screening, see <a href="/blog/fair-housing-compliance-rental">fair housing compliance for rentals</a>.</p>
+<hr>
+<h2 id="how-to-choose-the-right-screening-service-for-your-portfolio">How to Choose the Right Screening Service for Your Portfolio</h2>
+<p><strong>If you own 1–5 units:</strong> TurboTenant or Avail give you a free or near-free applicant-paid model with solid report quality. You do not need a subscription.</p>
+<p><strong>If you own 6–25 units:</strong> SmartMove or RentPrep offer strong report quality without locking you into a platform. SmartMove is faster; RentPrep is more thorough.</p>
+<p><strong>If eviction history is your top priority:</strong> MyRental's CoreLogic database is the most comprehensive option for eviction records.</p>
+<p><strong>If you want an integrated platform:</strong> TurboTenant or Avail bundle screening with applications, leases, and rent collection in one tool.</p>
+<p><strong>If you own 50+ units:</strong> Consider enterprise platforms like Buildium or AppFolio that include screening as part of a full property management suite.</p>
+<hr>
+<h2 id="setting-screening-criteria-before-you-pick-a-service">Setting Screening Criteria Before You Pick a Service</h2>
+<p>The screening service is only as useful as the criteria behind it. Before you run your first report, define in writing what scores, income thresholds, and history standards qualify an applicant. This protects you legally and ensures consistent decision-making.</p>
+<p>For guidance on building those criteria, see <a href="/blog/tenant-rights-responsibilities">tenant rights and responsibilities</a> and <a href="/blog/lease-agreement-template-guide">lease agreement template guide</a> for context on how screening decisions connect to your lease terms.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>The best tenant screening service depends on your portfolio size, workflow preferences, and which data points matter most to you. SmartMove leads on credit report quality, RentPrep leads on manual accuracy, TurboTenant wins for all-in-one convenience, and MyRental is the strongest option for eviction history depth.</p>
+<p>Regardless of which platform you choose, establish consistent written screening criteria before you start, use FCRA-compliant workflows every time, and document your decisions. That combination — reliable data, clear standards, and consistent application — is what keeps your portfolio protected and your vacancy risk low.</p>
+1c:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$22"}}]
+1d:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","tenant management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant management"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","rental operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental operations"}],["$","span","tenant screening",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant screening"}]]}]
+1e:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Tenant Management"]}],["$","$L10",null,{"href":"/blog/category/tenant-management","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accept-rent-payments-international-tenants",{"children":["$","$L10",null,{"href":"/blog/accept-rent-payments-international-tenants","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Accept Rent Payments from International Tenants"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ach-rent-payments-direct-debit-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ach-rent-payments-direct-debit-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ACH Rent Payments: Setting Up Direct Debit for Your Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-tenant-screening",{"children":["$","$L10",null,{"href":"/blog/akron-tenant-screening","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Tenant Screening in Akron: Best Practices for Landlords"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","albuquerque-tenant-screening-best-practices",{"children":["$","$L10",null,{"href":"/blog/albuquerque-tenant-screening-best-practices","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Albuquerque Tenant Screening Best Practices"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+1f:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","tenant-application-form-template",{"href":"/blog/tenant-application-form-template","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Free Tenant Application Form Template"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","multiple-applicants-rental",{"href":"/blog/multiple-applicants-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Choose Between Multiple Rental Applicants"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","rental-history-verification",{"href":"/blog/rental-history-verification","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Verify a Tenant's Rental History"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}]]}]]}]
+20:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-tenant-screening-services-matter",{"className":"","children":["$","a",null,{"href":"#why-tenant-screening-services-matter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Tenant Screening Services Matter"}]}],["$","li","what-to-look-for-in-a-tenant-screening-service",{"className":"","children":["$","a",null,{"href":"#what-to-look-for-in-a-tenant-screening-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Look for in a Tenant Screening Service"}]}],["$","li","best-tenant-screening-services-in-2026",{"className":"","children":["$","a",null,{"href":"#best-tenant-screening-services-in-2026","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Tenant Screening Services in 2026"}]}],["$","li","1-smartmove-by-transunion",{"className":"ml-4","children":["$","a",null,{"href":"#1-smartmove-by-transunion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. SmartMove (by TransUnion)"}]}],["$","li","2-rentprep",{"className":"ml-4","children":["$","a",null,{"href":"#2-rentprep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. RentPrep"}]}],["$","li","3-turbotenant",{"className":"ml-4","children":["$","a",null,{"href":"#3-turbotenant","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. TurboTenant"}]}],["$","li","4-myrental-by-corelogic",{"className":"ml-4","children":["$","a",null,{"href":"#4-myrental-by-corelogic","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. MyRental (by CoreLogic)"}]}],["$","li","5-avail-by-realtor-com",{"className":"ml-4","children":["$","a",null,{"href":"#5-avail-by-realtor-com","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Avail (by Realtor.com)"}]}],["$","li","6-buildium-appfolio-enterprise-options",{"className":"ml-4","children":["$","a",null,{"href":"#6-buildium-appfolio-enterprise-options","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Buildium / AppFolio (Enterprise Options)"}]}],["$","li","comparing-screening-services-feature-matrix",{"className":"","children":["$","a",null,{"href":"#comparing-screening-services-feature-matrix","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Comparing Screening Services: Feature Matrix"}]}],["$","li","fcra-compliance-what-every-landlord-must-know",{"className":"","children":["$","a",null,{"href":"#fcra-compliance-what-every-landlord-must-know","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"FCRA Compliance: What Every Landlord Must Know"}]}],["$","li","how-to-choose-the-right-screening-service-for-your-portfolio",{"className":"","children":["$","a",null,{"href":"#how-to-choose-the-right-screening-service-for-your-portfolio","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Choose the Right Screening Service for Your Portfolio"}]}],["$","li","setting-screening-criteria-before-you-pick-a-service",{"className":"","children":["$","a",null,{"href":"#setting-screening-criteria-before-you-pick-a-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Screening Criteria Before You Pick a Service"}]}],["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]]}]]}]}]
+21:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Best Tenant Screening Services Compared | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Comparing the best tenant screening services available to landlords in 2026, including pricing, features, and pros and cons of SmartMove, RentPrep, TurboTenant, MyRental, and more. Find the right screening platform for your rental portfolio."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"tenant management,landlord tips,rental operations,tenant screening"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/best-tenant-screening-services"}],["$","meta","6",{"property":"og:title","content":"Best Tenant Screening Services Compared"}],["$","meta","7",{"property":"og:description","content":"Comparing the best tenant screening services available to landlords in 2026, including pricing, features, and pros and cons of SmartMove, RentPrep, TurboTenant, MyRental, and more. Find the right screening platform for your rental portfolio."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/best-tenant-screening-services"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Best Tenant Screening Services Compared"}],["$","meta","15",{"name":"twitter:description","content":"Comparing the best tenant screening services available to landlords in 2026, including pricing, features, and pros and cons of SmartMove, RentPrep, TurboTenant, MyRental, and more. Find the right screening platform for your rental portfolio."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

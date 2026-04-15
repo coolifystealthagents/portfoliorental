@@ -1,0 +1,308 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","property-maintenance-cost-budgeting"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","property-maintenance-cost-budgeting","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","property-maintenance-cost-budgeting","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Property Maintenance Cost Budgeting: How to Plan and Control Repair Expenses\",\"description\":\"Learn how to budget for property maintenance costs using proven methods like the 1% rule, per-unit budgeting, and reserve funds. Control expenses without cutting corners.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/property-maintenance-cost-budgeting\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Property Maintenance Cost Budgeting: How to Plan and Control Repair Expenses\",\"item\":\"https://portfoliorental.com/blog/property-maintenance-cost-budgeting\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Property Maintenance Cost Budgeting: How to Plan and Control Repair Expenses"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[9," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-maintenance-budgeting-matters",{"className":"","children":["$","a",null,{"href":"#why-maintenance-budgeting-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Maintenance Budgeting Matters"}]}],["$","li","the-1-rule",{"className":"","children":["$","a",null,{"href":"#the-1-rule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The 1% Rule"}]}],["$","li","how-it-works",{"className":"ml-4","children":["$","a",null,{"href":"#how-it-works","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How It Works"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34"]}]}]]}],"$L35","$L36"]}],"$L37","$L38"]}],"$L39"]}]]}],"$L3a"]
+11:["$","li","when-the-1-rule-works-well",{"className":"ml-4","children":["$","a",null,{"href":"#when-the-1-rule-works-well","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When the 1% Rule Works Well"}]}]
+12:["$","li","when-you-need-more",{"className":"ml-4","children":["$","a",null,{"href":"#when-you-need-more","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When You Need More"}]}]
+13:["$","li","example",{"className":"ml-4","children":["$","a",null,{"href":"#example","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Example"}]}]
+14:["$","li","per-unit-budgeting",{"className":"","children":["$","a",null,{"href":"#per-unit-budgeting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Per-Unit Budgeting"}]}]
+15:["$","li","common-per-unit-amounts",{"className":"ml-4","children":["$","a",null,{"href":"#common-per-unit-amounts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Per-Unit Amounts"}]}]
+16:["$","li","why-per-unit-works",{"className":"ml-4","children":["$","a",null,{"href":"#why-per-unit-works","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Per-Unit Works"}]}]
+17:["$","li","the-square-footage-method",{"className":"","children":["$","a",null,{"href":"#the-square-footage-method","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Square Footage Method"}]}]
+18:["$","li","capital-expenditures-vs-operating-expenses",{"className":"","children":["$","a",null,{"href":"#capital-expenditures-vs-operating-expenses","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Capital Expenditures vs. Operating Expenses"}]}]
+19:["$","li","operating-expenses-opex",{"className":"ml-4","children":["$","a",null,{"href":"#operating-expenses-opex","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Operating Expenses (Opex)"}]}]
+1a:["$","li","capital-expenditures-capex",{"className":"ml-4","children":["$","a",null,{"href":"#capital-expenditures-capex","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Capital Expenditures (Capex)"}]}]
+1b:["$","li","how-to-budget-for-both",{"className":"ml-4","children":["$","a",null,{"href":"#how-to-budget-for-both","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Budget for Both"}]}]
+1c:["$","li","building-a-reserve-fund",{"className":"","children":["$","a",null,{"href":"#building-a-reserve-fund","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Reserve Fund"}]}]
+1d:["$","li","how-much-to-keep-in-reserve",{"className":"ml-4","children":["$","a",null,{"href":"#how-much-to-keep-in-reserve","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Much to Keep in Reserve"}]}]
+1e:["$","li","where-to-keep-reserve-funds",{"className":"ml-4","children":["$","a",null,{"href":"#where-to-keep-reserve-funds","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Keep Reserve Funds"}]}]
+1f:["$","li","funding-your-reserve",{"className":"ml-4","children":["$","a",null,{"href":"#funding-your-reserve","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Funding Your Reserve"}]}]
+20:["$","li","the-emergency-fund",{"className":"","children":["$","a",null,{"href":"#the-emergency-fund","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Emergency Fund"}]}]
+21:["$","li","adjusting-for-property-age",{"className":"","children":["$","a",null,{"href":"#adjusting-for-property-age","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Adjusting for Property Age"}]}]
+22:["$","li","new-properties-0-10-years",{"className":"ml-4","children":["$","a",null,{"href":"#new-properties-0-10-years","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"New Properties (0-10 Years)"}]}]
+23:["$","li","maturing-properties-10-20-years",{"className":"ml-4","children":["$","a",null,{"href":"#maturing-properties-10-20-years","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maturing Properties (10-20 Years)"}]}]
+24:["$","li","aging-properties-20-40-years",{"className":"ml-4","children":["$","a",null,{"href":"#aging-properties-20-40-years","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Aging Properties (20-40 Years)"}]}]
+25:["$","li","older-properties-40-years",{"className":"ml-4","children":["$","a",null,{"href":"#older-properties-40-years","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Older Properties (40+ Years)"}]}]
+26:["$","li","tracking-actual-spending-vs-budget",{"className":"","children":["$","a",null,{"href":"#tracking-actual-spending-vs-budget","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tracking Actual Spending vs. Budget"}]}]
+27:["$","li","what-to-track",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-track","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Track"}]}]
+28:["$","li","analyzing-your-data",{"className":"ml-4","children":["$","a",null,{"href":"#analyzing-your-data","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Analyzing Your Data"}]}]
+29:["$","li","cost-categories-breakdown",{"className":"","children":["$","a",null,{"href":"#cost-categories-breakdown","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cost Categories Breakdown"}]}]
+2a:["$","li","reducing-costs-without-cutting-corners",{"className":"","children":["$","a",null,{"href":"#reducing-costs-without-cutting-corners","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reducing Costs Without Cutting Corners"}]}]
+2b:["$","li","invest-in-prevention",{"className":"ml-4","children":["$","a",null,{"href":"#invest-in-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Invest in Prevention"}]}]
+2c:["$","li","buy-quality-materials",{"className":"ml-4","children":["$","a",null,{"href":"#buy-quality-materials","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Buy Quality Materials"}]}]
+2d:["$","li","build-vendor-relationships",{"className":"ml-4","children":["$","a",null,{"href":"#build-vendor-relationships","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Build Vendor Relationships"}]}]
+2e:["$","li","group-similar-work",{"className":"ml-4","children":["$","a",null,{"href":"#group-similar-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Group Similar Work"}]}]
+2f:["$","li","involve-your-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#involve-your-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Involve Your Tenants"}]}]
+30:["$","li","using-your-budget-for-better-decisions",{"className":"","children":["$","a",null,{"href":"#using-your-budget-for-better-decisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Using Your Budget for Better Decisions"}]}]
+31:["$","li","setting-rents",{"className":"ml-4","children":["$","a",null,{"href":"#setting-rents","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Rents"}]}]
+32:["$","li","evaluating-properties",{"className":"ml-4","children":["$","a",null,{"href":"#evaluating-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Evaluating Properties"}]}]
+33:["$","li","planning-improvements",{"className":"ml-4","children":["$","a",null,{"href":"#planning-improvements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Planning Improvements"}]}]
+34:["$","li","getting-started-today",{"className":"","children":["$","a",null,{"href":"#getting-started-today","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Getting Started Today"}]}]
+3b:T3ce4,<p>Maintenance is the biggest variable expense in rental property ownership. It can make or break your cash flow. Yet many landlords guess at their maintenance budget or skip budgeting entirely. Then a $4,000 furnace replacement wipes out months of profit.</p>
+<p>Property maintenance cost budgeting removes the guesswork. It gives you a clear plan for handling routine upkeep, unexpected repairs, and major replacements. When you budget properly, surprises stop being financial emergencies.</p>
+<p>This guide covers the most popular budgeting methods, shows you how to build reserve funds, and explains how to track spending so you stay on target.</p>
+<h2 id="why-maintenance-budgeting-matters">Why Maintenance Budgeting Matters</h2>
+<p>Without a budget, maintenance spending is unpredictable. You might spend $500 one month and $5,000 the next. This makes it hard to plan your finances, set rental rates, and evaluate property performance.</p>
+<p>A good maintenance budget does several things:</p>
+<ul>
+<li><strong>Smooths out cash flow.</strong> You set money aside each month so big expenses do not hurt as much.</li>
+<li><strong>Helps you set accurate rents.</strong> When you know your true costs, you can price rents to ensure profitability.</li>
+<li><strong>Guides investment decisions.</strong> If a property eats more in maintenance than it generates in cash flow, you know it is time to sell or renovate.</li>
+<li><strong>Reduces stress.</strong> Knowing you have money set aside for repairs lets you sleep at night.</li>
+</ul>
+<h2 id="the-1-rule">The 1% Rule</h2>
+<p>The most common budgeting method is the 1% rule. It says you should budget 1% of the property's value each year for maintenance.</p>
+<h3 id="how-it-works">How It Works</h3>
+<p>If your property is worth $250,000, budget $2,500 per year or about $208 per month. For a $150,000 property, budget $1,500 per year or $125 per month.</p>
+<h3 id="when-the-1-rule-works-well">When the 1% Rule Works Well</h3>
+<p>This rule works best for newer properties in good condition. If your building was built in the last 10 to 15 years and has updated systems, 1% is usually enough.</p>
+<h3 id="when-you-need-more">When You Need More</h3>
+<p>Older properties, those with deferred maintenance, or buildings in harsh climates often need more. Many experienced landlords use 1.5% to 2% for older homes. A 50-year-old building with original plumbing and an aging roof might need 2% or even more.</p>
+<h3 id="example">Example</h3>
+<table>
+<thead>
+<tr>
+<th>Property Value</th>
+<th>1% Budget</th>
+<th>1.5% Budget</th>
+<th>2% Budget</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>$100,000</td>
+<td>$1,000/year</td>
+<td>$1,500/year</td>
+<td>$2,000/year</td>
+</tr>
+<tr>
+<td>$200,000</td>
+<td>$2,000/year</td>
+<td>$3,000/year</td>
+<td>$4,000/year</td>
+</tr>
+<tr>
+<td>$300,000</td>
+<td>$3,000/year</td>
+<td>$4,500/year</td>
+<td>$6,000/year</td>
+</tr>
+<tr>
+<td>$500,000</td>
+<td>$5,000/year</td>
+<td>$7,500/year</td>
+<td>$10,000/year</td>
+</tr>
+</tbody>
+</table>
+<h2 id="per-unit-budgeting">Per-Unit Budgeting</h2>
+<p>For multi-family properties, some landlords prefer to budget per unit. This approach ties your budget to the number of living spaces rather than the property's value.</p>
+<h3 id="common-per-unit-amounts">Common Per-Unit Amounts</h3>
+<ul>
+<li><strong>New construction:</strong> $500 to $800 per unit per year</li>
+<li><strong>Properties 10-20 years old:</strong> $800 to $1,200 per unit per year</li>
+<li><strong>Properties 20-40 years old:</strong> $1,200 to $1,800 per unit per year</li>
+<li><strong>Properties over 40 years old:</strong> $1,800 to $2,500 per unit per year</li>
+</ul>
+<h3 id="why-per-unit-works">Why Per-Unit Works</h3>
+<p>Per-unit budgeting accounts for the fact that more units mean more kitchens, bathrooms, appliances, and things that can break. A 10-unit building has 10 water heaters, 10 sets of plumbing fixtures, and 10 HVAC systems. The maintenance load scales with the number of units, not just the building's value.</p>
+<h2 id="the-square-footage-method">The Square Footage Method</h2>
+<p>Another approach bases the budget on the property's size. This works well for commercial or mixed-use properties.</p>
+<p>Budget $1 to $2 per square foot per year. A 2,000-square-foot rental would have a budget of $2,000 to $4,000 per year.</p>
+<p>This method captures the fact that larger properties have more roof area, more plumbing runs, more electrical circuits, and more surface area that needs painting and repair.</p>
+<h2 id="capital-expenditures-vs-operating-expenses">Capital Expenditures vs. Operating Expenses</h2>
+<p>Understanding the difference between capex and opex is critical for accurate budgeting.</p>
+<h3 id="operating-expenses-opex">Operating Expenses (Opex)</h3>
+<p>These are routine, recurring costs that keep the property running day to day.</p>
+<ul>
+<li>Filter replacements</li>
+<li>Lawn care</li>
+<li>Minor plumbing repairs</li>
+<li>Pest control</li>
+<li>Cleaning common areas</li>
+<li>Small appliance fixes</li>
+</ul>
+<p>Operating expenses are predictable and should come from your monthly maintenance budget.</p>
+<h3 id="capital-expenditures-capex">Capital Expenditures (Capex)</h3>
+<p>These are large, infrequent expenses that replace or significantly improve major systems.</p>
+<ul>
+<li>New roof ($8,000 to $20,000)</li>
+<li>HVAC replacement ($3,000 to $8,000)</li>
+<li>New water heater ($800 to $2,000)</li>
+<li>Parking lot repaving ($5,000 to $15,000)</li>
+<li>Window replacement ($3,000 to $10,000)</li>
+<li>Major plumbing overhaul ($2,000 to $10,000)</li>
+</ul>
+<p>Capital expenditures are harder to predict but essential to plan for. They also have different tax treatment. You typically depreciate capex over several years rather than deducting it all in one year.</p>
+<h3 id="how-to-budget-for-both">How to Budget for Both</h3>
+<p>Separate your budget into two categories. Fund operating expenses from monthly cash flow. Build a capital reserve fund for major replacements.</p>
+<p>A common approach is to allocate 60% of your total maintenance budget to operations and 40% to capital reserves. Adjust this ratio based on the age and condition of your property.</p>
+<h2 id="building-a-reserve-fund">Building a Reserve Fund</h2>
+<p>A reserve fund is a savings account dedicated to property maintenance. It is the cushion that protects you when big expenses hit.</p>
+<h3 id="how-much-to-keep-in-reserve">How Much to Keep in Reserve</h3>
+<p>Most financial advisors recommend keeping three to six months of operating expenses in reserve. For maintenance specifically, aim for at least $2,000 to $5,000 per property. If your properties are older, increase this to $5,000 to $10,000.</p>
+<h3 id="where-to-keep-reserve-funds">Where to Keep Reserve Funds</h3>
+<p>Put your reserves in a high-yield savings account. You want the money to earn interest but remain accessible. Do not invest reserves in stocks or other volatile assets. You need this money available when a furnace dies in February. For a deeper dive into structuring these accounts, see our guide on <a href="/blog/rental-property-reserve-fund-strategies">rental property reserve fund strategies</a>.</p>
+<h3 id="funding-your-reserve">Funding Your Reserve</h3>
+<p>If you are starting from zero, build your reserve gradually. Set aside a fixed amount from each month's rent. Even $200 per month per property adds up to $2,400 per year.</p>
+<p>As your reserve grows, you can reduce monthly contributions. But never stop entirely. Major systems wear out, and your reserve needs regular replenishment.</p>
+<h2 id="the-emergency-fund">The Emergency Fund</h2>
+<p>Beyond your maintenance reserve, keep a separate emergency fund. This covers truly unexpected events like storm damage, vandalism, or sudden building code violations.</p>
+<p>An emergency fund of $5,000 to $10,000 per property gives you breathing room. Some landlords keep one central emergency fund for their entire portfolio rather than separate funds for each property. Either approach works as long as the total amount is adequate.</p>
+<h2 id="adjusting-for-property-age">Adjusting for Property Age</h2>
+<p>Property age is the single biggest factor in maintenance costs. Here is a general guide.</p>
+<h3 id="new-properties-0-10-years">New Properties (0-10 Years)</h3>
+<p>Maintenance costs are low. Most systems are under warranty. Budget at the lower end of the 1% rule. Focus your spending on routine items like filters, pest control, and landscaping.</p>
+<h3 id="maturing-properties-10-20-years">Maturing Properties (10-20 Years)</h3>
+<p>Costs start to rise. Appliances reach the end of their life. Paint fades. Carpets wear out. Budget 1% to 1.5% and start building capital reserves for upcoming replacements.</p>
+<h3 id="aging-properties-20-40-years">Aging Properties (20-40 Years)</h3>
+<p>This is where costs climb significantly. Roofs, HVAC systems, water heaters, and major plumbing components may need replacement. Budget 1.5% to 2% and maintain robust capital reserves.</p>
+<h3 id="older-properties-40-years">Older Properties (40+ Years)</h3>
+<p>These properties demand the most attention and money. Electrical systems may need upgrading. Plumbing could require complete replacement. Foundations may need repair. Budget 2% or more and keep large reserves.</p>
+<h2 id="tracking-actual-spending-vs-budget">Tracking Actual Spending vs. Budget</h2>
+<p>A budget is only useful if you compare it to reality. Track every maintenance dollar you spend and compare it to your plan each quarter.</p>
+<h3 id="what-to-track">What to Track</h3>
+<p>For every expense, record:</p>
+<ul>
+<li>Date</li>
+<li>Property and unit</li>
+<li>Category (plumbing, HVAC, electrical, exterior, appliance, etc.)</li>
+<li>Vendor</li>
+<li>Amount</li>
+<li>Whether it was planned or unplanned</li>
+</ul>
+<h3 id="analyzing-your-data">Analyzing Your Data</h3>
+<p>At the end of each quarter, review your spending. Ask these questions:</p>
+<ul>
+<li>Are you over or under budget?</li>
+<li>Which categories are costing the most?</li>
+<li>Are certain properties consuming more than their share?</li>
+<li>Are emergency repairs happening too often?</li>
+<li>Is preventive maintenance reducing your unplanned costs?</li>
+</ul>
+<p>Use these insights to adjust your budget and maintenance schedule. For help tracking expenses across your portfolio, see our guide on <a href="/blog/rental-property-expense-tracking">rental property expense tracking</a>.</p>
+<h2 id="cost-categories-breakdown">Cost Categories Breakdown</h2>
+<p>To build an accurate budget, understand how costs break down by category. Here are typical percentages for a well-maintained rental property.</p>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>% of Total Budget</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HVAC</td>
+<td>20-25%</td>
+</tr>
+<tr>
+<td>Plumbing</td>
+<td>15-20%</td>
+</tr>
+<tr>
+<td>Electrical</td>
+<td>5-10%</td>
+</tr>
+<tr>
+<td>Exterior/Roof</td>
+<td>15-20%</td>
+</tr>
+<tr>
+<td>Appliances</td>
+<td>10-15%</td>
+</tr>
+<tr>
+<td>Flooring/Paint</td>
+<td>10-15%</td>
+</tr>
+<tr>
+<td>Landscaping</td>
+<td>5-10%</td>
+</tr>
+<tr>
+<td>Pest Control</td>
+<td>3-5%</td>
+</tr>
+<tr>
+<td>Safety Systems</td>
+<td>2-5%</td>
+</tr>
+</tbody>
+</table>
+<p>These percentages vary by property type and age. Track your actual spending to see where your money goes. For typical repair and replacement cost ranges, <a href="https://www.homeadvisor.com" rel="noopener" target="_blank">HomeAdvisor's cost guides</a> provide useful benchmarks. The <a href="https://www.sba.gov" rel="noopener" target="_blank">U.S. Small Business Administration</a> also offers general guidance on budgeting and financial planning for small business owners, including landlords.</p>
+<h2 id="reducing-costs-without-cutting-corners">Reducing Costs Without Cutting Corners</h2>
+<p>Budgeting is not just about setting aside money. It is also about spending wisely. Here are proven ways to reduce maintenance costs while keeping your properties in great shape.</p>
+<h3 id="invest-in-prevention">Invest in Prevention</h3>
+<p>For every dollar you spend on preventive maintenance, you save three to five dollars in reactive repairs. A $300 HVAC tune-up prevents a $5,000 breakdown. A $50 pipe insulation job prevents a $3,000 burst pipe repair. Prevention is the best investment you can make. For more tactics, see our guide on how to <a href="/blog/reduce-maintenance-costs-rental">reduce maintenance costs for rental properties</a>.</p>
+<p>For a complete approach to prevention, see our <a href="/blog/rental-property-maintenance-checklist">rental property maintenance checklist</a>.</p>
+<h3 id="buy-quality-materials">Buy Quality Materials</h3>
+<p>Cheap faucets, thin paint, and bargain appliances cost less upfront but more over time. A $200 faucet that lasts 15 years costs less per year than a $50 faucet that fails in three years. Buy quality where it counts, especially for items that get heavy daily use.</p>
+<h3 id="build-vendor-relationships">Build Vendor Relationships</h3>
+<p>Loyal customers get better rates. Find reliable vendors and stick with them. Many offer annual contracts with lower per-visit costs. They also prioritize your calls during busy seasons.</p>
+<h3 id="group-similar-work">Group Similar Work</h3>
+<p>If you own multiple properties, schedule the same type of work across all of them at once. Getting HVAC tune-ups for five properties in the same week costs less per unit than scheduling them separately.</p>
+<h3 id="involve-your-tenants">Involve Your Tenants</h3>
+<p>Teach tenants how to handle simple tasks like changing HVAC filters, resetting breakers, and unclogging drains. Include these responsibilities in the lease. This reduces service calls and helps tenants take ownership of their living space.</p>
+<h2 id="using-your-budget-for-better-decisions">Using Your Budget for Better Decisions</h2>
+<p>Your maintenance budget is more than a spending plan. It is a decision-making tool.</p>
+<h3 id="setting-rents">Setting Rents</h3>
+<p>Your total expenses, including maintenance, determine the minimum rent you need to charge. If maintenance costs rise, your rents may need to rise too. Your budget gives you the data to justify increases.</p>
+<h3 id="evaluating-properties">Evaluating Properties</h3>
+<p>When considering a new purchase, estimate the maintenance budget based on the property's age, condition, and systems. Factor this into your cash flow analysis to see if the deal really works. Our guide on <a href="/blog/rental-property-cash-flow-analysis">rental property cash flow analysis</a> shows you how.</p>
+<h3 id="planning-improvements">Planning Improvements</h3>
+<p>Your budget data tells you which properties need the most work. If one property consistently exceeds its budget, it might be time for a major renovation or a sale. Use the numbers to make objective decisions rather than emotional ones.</p>
+<h2 id="getting-started-today">Getting Started Today</h2>
+<p>If you do not have a maintenance budget yet, start now. Here is a simple plan.</p>
+<ol>
+<li>Choose a budgeting method (1% rule, per-unit, or square footage)</li>
+<li>Calculate your annual budget for each property</li>
+<li>Divide by 12 to get your monthly set-aside amount</li>
+<li>Open a dedicated savings account for maintenance reserves</li>
+<li>Set up automatic monthly transfers</li>
+<li>Track every maintenance expense going forward</li>
+<li>Review and adjust quarterly</li>
+</ol>
+<p>The sooner you start, the sooner you gain control over your biggest variable expense. A well-planned maintenance budget is one of the clearest signs of a professional landlord.</p>
+35:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$3b"}}]
+36:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","rental operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental operations"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","maintenance operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"maintenance operations"}],["$","span","property maintenance cost budgeting",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance cost budgeting"}]]}]
+37:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+38:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","emergency-maintenance-rental-property",{"href":"/blog/emergency-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Emergency Maintenance for Rental Properties: A Landlord's Response Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}],["$","$L10","reduce-maintenance-costs-rental",{"href":"/blog/reduce-maintenance-costs-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Reduce Maintenance Costs on Rental Properties Without Cutting Corners"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","preventive-maintenance-schedule-rental",{"href":"/blog/preventive-maintenance-schedule-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Preventive Maintenance Schedule for Rental Properties: A Landlord's Year-Round Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}]]}]]}]
+39:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-maintenance-budgeting-matters",{"className":"","children":["$","a",null,{"href":"#why-maintenance-budgeting-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Maintenance Budgeting Matters"}]}],["$","li","the-1-rule",{"className":"","children":["$","a",null,{"href":"#the-1-rule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The 1% Rule"}]}],["$","li","how-it-works",{"className":"ml-4","children":["$","a",null,{"href":"#how-it-works","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How It Works"}]}],["$","li","when-the-1-rule-works-well",{"className":"ml-4","children":["$","a",null,{"href":"#when-the-1-rule-works-well","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When the 1% Rule Works Well"}]}],["$","li","when-you-need-more",{"className":"ml-4","children":["$","a",null,{"href":"#when-you-need-more","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When You Need More"}]}],["$","li","example",{"className":"ml-4","children":["$","a",null,{"href":"#example","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Example"}]}],["$","li","per-unit-budgeting",{"className":"","children":["$","a",null,{"href":"#per-unit-budgeting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Per-Unit Budgeting"}]}],["$","li","common-per-unit-amounts",{"className":"ml-4","children":["$","a",null,{"href":"#common-per-unit-amounts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Per-Unit Amounts"}]}],["$","li","why-per-unit-works",{"className":"ml-4","children":["$","a",null,{"href":"#why-per-unit-works","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Per-Unit Works"}]}],["$","li","the-square-footage-method",{"className":"","children":["$","a",null,{"href":"#the-square-footage-method","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Square Footage Method"}]}],["$","li","capital-expenditures-vs-operating-expenses",{"className":"","children":["$","a",null,{"href":"#capital-expenditures-vs-operating-expenses","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Capital Expenditures vs. Operating Expenses"}]}],["$","li","operating-expenses-opex",{"className":"ml-4","children":["$","a",null,{"href":"#operating-expenses-opex","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Operating Expenses (Opex)"}]}],["$","li","capital-expenditures-capex",{"className":"ml-4","children":["$","a",null,{"href":"#capital-expenditures-capex","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Capital Expenditures (Capex)"}]}],["$","li","how-to-budget-for-both",{"className":"ml-4","children":["$","a",null,{"href":"#how-to-budget-for-both","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Budget for Both"}]}],["$","li","building-a-reserve-fund",{"className":"","children":["$","a",null,{"href":"#building-a-reserve-fund","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Reserve Fund"}]}],["$","li","how-much-to-keep-in-reserve",{"className":"ml-4","children":["$","a",null,{"href":"#how-much-to-keep-in-reserve","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Much to Keep in Reserve"}]}],["$","li","where-to-keep-reserve-funds",{"className":"ml-4","children":"$L3c"}],"$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52"]}]]}]}]
+3a:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+3c:["$","a",null,{"href":"#where-to-keep-reserve-funds","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Keep Reserve Funds"}]
+3d:["$","li","funding-your-reserve",{"className":"ml-4","children":["$","a",null,{"href":"#funding-your-reserve","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Funding Your Reserve"}]}]
+3e:["$","li","the-emergency-fund",{"className":"","children":["$","a",null,{"href":"#the-emergency-fund","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Emergency Fund"}]}]
+3f:["$","li","adjusting-for-property-age",{"className":"","children":["$","a",null,{"href":"#adjusting-for-property-age","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Adjusting for Property Age"}]}]
+40:["$","li","new-properties-0-10-years",{"className":"ml-4","children":["$","a",null,{"href":"#new-properties-0-10-years","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"New Properties (0-10 Years)"}]}]
+41:["$","li","maturing-properties-10-20-years",{"className":"ml-4","children":["$","a",null,{"href":"#maturing-properties-10-20-years","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maturing Properties (10-20 Years)"}]}]
+42:["$","li","aging-properties-20-40-years",{"className":"ml-4","children":["$","a",null,{"href":"#aging-properties-20-40-years","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Aging Properties (20-40 Years)"}]}]
+43:["$","li","older-properties-40-years",{"className":"ml-4","children":["$","a",null,{"href":"#older-properties-40-years","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Older Properties (40+ Years)"}]}]
+44:["$","li","tracking-actual-spending-vs-budget",{"className":"","children":["$","a",null,{"href":"#tracking-actual-spending-vs-budget","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tracking Actual Spending vs. Budget"}]}]
+45:["$","li","what-to-track",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-track","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Track"}]}]
+46:["$","li","analyzing-your-data",{"className":"ml-4","children":["$","a",null,{"href":"#analyzing-your-data","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Analyzing Your Data"}]}]
+47:["$","li","cost-categories-breakdown",{"className":"","children":["$","a",null,{"href":"#cost-categories-breakdown","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cost Categories Breakdown"}]}]
+48:["$","li","reducing-costs-without-cutting-corners",{"className":"","children":["$","a",null,{"href":"#reducing-costs-without-cutting-corners","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reducing Costs Without Cutting Corners"}]}]
+49:["$","li","invest-in-prevention",{"className":"ml-4","children":["$","a",null,{"href":"#invest-in-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Invest in Prevention"}]}]
+4a:["$","li","buy-quality-materials",{"className":"ml-4","children":["$","a",null,{"href":"#buy-quality-materials","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Buy Quality Materials"}]}]
+4b:["$","li","build-vendor-relationships",{"className":"ml-4","children":["$","a",null,{"href":"#build-vendor-relationships","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Build Vendor Relationships"}]}]
+4c:["$","li","group-similar-work",{"className":"ml-4","children":["$","a",null,{"href":"#group-similar-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Group Similar Work"}]}]
+4d:["$","li","involve-your-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#involve-your-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Involve Your Tenants"}]}]
+4e:["$","li","using-your-budget-for-better-decisions",{"className":"","children":["$","a",null,{"href":"#using-your-budget-for-better-decisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Using Your Budget for Better Decisions"}]}]
+4f:["$","li","setting-rents",{"className":"ml-4","children":["$","a",null,{"href":"#setting-rents","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Rents"}]}]
+50:["$","li","evaluating-properties",{"className":"ml-4","children":["$","a",null,{"href":"#evaluating-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Evaluating Properties"}]}]
+51:["$","li","planning-improvements",{"className":"ml-4","children":["$","a",null,{"href":"#planning-improvements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Planning Improvements"}]}]
+52:["$","li","getting-started-today",{"className":"","children":["$","a",null,{"href":"#getting-started-today","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Getting Started Today"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Property Maintenance Cost Budgeting: How to Plan and Control Repair Expenses | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn how to budget for property maintenance costs using proven methods like the 1% rule, per-unit budgeting, and reserve funds. Control expenses without cutting corners."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"property maintenance,rental operations,landlord tips,maintenance operations,property maintenance cost budgeting"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/property-maintenance-cost-budgeting"}],["$","meta","6",{"property":"og:title","content":"Property Maintenance Cost Budgeting: How to Plan and Control Repair Expenses"}],["$","meta","7",{"property":"og:description","content":"Learn how to budget for property maintenance costs using proven methods like the 1% rule, per-unit budgeting, and reserve funds. Control expenses without cutting corners."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/property-maintenance-cost-budgeting"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Property Maintenance Cost Budgeting: How to Plan and Control Repair Expenses"}],["$","meta","15",{"name":"twitter:description","content":"Learn how to budget for property maintenance costs using proven methods like the 1% rule, per-unit budgeting, and reserve funds. Control expenses without cutting corners."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

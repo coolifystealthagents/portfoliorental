@@ -1,0 +1,364 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","pool-maintenance-vacation-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","pool-maintenance-vacation-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","pool-maintenance-vacation-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Pool Maintenance Guide for Vacation Rental Hosts\",\"description\":\"Complete pool maintenance guide for vacation rental hosts covering chemical balancing, weekly routines, service scheduling, safety requirements, and guest communication.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/pool-maintenance-vacation-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Pool Maintenance Guide for Vacation Rental Hosts\",\"item\":\"https://portfoliorental.com/blog/pool-maintenance-vacation-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Pool Maintenance Guide for Vacation Rental Hosts"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[11," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-pool-maintenance-matters-more-in-an-str-context",{"className":"","children":["$","a",null,{"href":"#why-pool-maintenance-matters-more-in-an-str-context","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Pool Maintenance Matters More in an STR Context"}]}],["$","li","pool-water-chemistry-the-foundation",{"className":"","children":["$","a",null,{"href":"#pool-water-chemistry-the-foundation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool Water Chemistry: The Foundation"}]}],["$","li","the-essential-parameters",{"className":"ml-4","children":["$","a",null,{"href":"#the-essential-parameters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Essential Parameters"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}]]}],"$L2a","$L2b"]}],"$L2c","$L2d"]}],"$L2e"]}]]}],"$L2f"]
+11:["$","li","testing-frequency",{"className":"ml-4","children":["$","a",null,{"href":"#testing-frequency","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Testing Frequency"}]}]
+12:["$","li","shock-treatment-and-algae-prevention",{"className":"","children":["$","a",null,{"href":"#shock-treatment-and-algae-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Shock Treatment and Algae Prevention"}]}]
+13:["$","li","weekly-maintenance-routine",{"className":"","children":["$","a",null,{"href":"#weekly-maintenance-routine","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Weekly Maintenance Routine"}]}]
+14:["$","li","weekly-tasks-checklist",{"className":"ml-4","children":["$","a",null,{"href":"#weekly-tasks-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Weekly Tasks Checklist"}]}]
+15:["$","li","turnover-ready-pool-checklist",{"className":"","children":["$","a",null,{"href":"#turnover-ready-pool-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Turnover-Ready Pool Checklist"}]}]
+16:["$","li","hiring-a-pool-service-company",{"className":"","children":["$","a",null,{"href":"#hiring-a-pool-service-company","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hiring a Pool Service Company"}]}]
+17:["$","li","what-a-weekly-pool-service-should-include",{"className":"ml-4","children":["$","a",null,{"href":"#what-a-weekly-pool-service-should-include","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What a Weekly Pool Service Should Include"}]}]
+18:["$","li","finding-a-pool-service",{"className":"ml-4","children":["$","a",null,{"href":"#finding-a-pool-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Finding a Pool Service"}]}]
+19:["$","li","pool-safety-requirements-for-str-hosts",{"className":"","children":["$","a",null,{"href":"#pool-safety-requirements-for-str-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool Safety Requirements for STR Hosts"}]}]
+1a:["$","li","fencing-and-barriers",{"className":"ml-4","children":["$","a",null,{"href":"#fencing-and-barriers","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fencing and Barriers"}]}]
+1b:["$","li","safety-equipment",{"className":"ml-4","children":["$","a",null,{"href":"#safety-equipment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Safety Equipment"}]}]
+1c:["$","li","depth-markings",{"className":"ml-4","children":["$","a",null,{"href":"#depth-markings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Depth Markings"}]}]
+1d:["$","li","pool-drain-safety",{"className":"ml-4","children":["$","a",null,{"href":"#pool-drain-safety","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool Drain Safety"}]}]
+1e:["$","li","alarms",{"className":"ml-4","children":["$","a",null,{"href":"#alarms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Alarms"}]}]
+1f:["$","li","pool-equipment-what-you-need-and-how-to-maintain-it",{"className":"","children":["$","a",null,{"href":"#pool-equipment-what-you-need-and-how-to-maintain-it","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool Equipment: What You Need and How to Maintain It"}]}]
+20:["$","li","pump-and-filter",{"className":"ml-4","children":["$","a",null,{"href":"#pump-and-filter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pump and Filter"}]}]
+21:["$","li","pool-heater",{"className":"ml-4","children":["$","a",null,{"href":"#pool-heater","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool Heater"}]}]
+22:["$","li","automatic-cleaners",{"className":"ml-4","children":["$","a",null,{"href":"#automatic-cleaners","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Automatic Cleaners"}]}]
+23:["$","li","salt-water-vs-traditional-chlorine-systems",{"className":"ml-4","children":["$","a",null,{"href":"#salt-water-vs-traditional-chlorine-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Salt Water vs. Traditional Chlorine Systems"}]}]
+24:["$","li","communicating-your-pool-to-guests",{"className":"","children":["$","a",null,{"href":"#communicating-your-pool-to-guests","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Communicating Your Pool to Guests"}]}]
+25:["$","li","in-your-listing",{"className":"ml-4","children":["$","a",null,{"href":"#in-your-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"In Your Listing"}]}]
+26:["$","li","in-your-welcome-book",{"className":"ml-4","children":["$","a",null,{"href":"#in-your-welcome-book","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"In Your Welcome Book"}]}]
+27:["$","li","for-guest-communication",{"className":"ml-4","children":["$","a",null,{"href":"#for-guest-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"For Guest Communication"}]}]
+28:["$","li","budget-planning-for-pool-operations",{"className":"","children":["$","a",null,{"href":"#budget-planning-for-pool-operations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Budget Planning for Pool Operations"}]}]
+29:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+30:T4cbf,<p>A well-maintained pool is one of the most powerful amenities a vacation rental can offer. It commands premium nightly rates, fills booking calendars well in advance, and generates the kind of enthusiastic reviews that feature photos of guests splashing in clear blue water. A poorly maintained pool, on the other hand, is a liability — generating complaints, health concerns, and expensive emergency maintenance calls.</p>
+<p>This comprehensive <strong>pool maintenance guide for vacation rental hosts</strong> covers everything you need to keep your pool in guest-ready condition: chemical management, equipment maintenance, service scheduling, safety requirements, and how to communicate your pool effectively in your listing.</p>
+<hr>
+<h2 id="why-pool-maintenance-matters-more-in-an-str-context">Why Pool Maintenance Matters More in an STR Context</h2>
+<p>Residential pool maintenance and vacation rental pool maintenance share the same fundamentals — but the STR context adds meaningful complexity:</p>
+<ul>
+<li><strong>Higher bather loads:</strong> A family of six staying for a week subjects your pool to more chemical demand than a household that uses it occasionally</li>
+<li><strong>Turnover timing:</strong> You need the pool guest-ready for every new arrival, not just whenever it's convenient</li>
+<li><strong>Guest safety responsibility:</strong> STR hosts have a legal and ethical responsibility per <a href="https://www.cdc.gov/healthy-swimming/">CDC pool safety standards</a></li>
+<li><strong>Review exposure:</strong> Pool condition (cleanliness, temperature, functionality) is one of the most-reviewed amenities in listings that have one</li>
+<li><strong>Platform rules:</strong> Both Airbnb and VRBO require safety features (fencing, signage) that may exceed local residential requirements</li>
+</ul>
+<p>For the complete STR operations framework, see our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="pool-water-chemistry-the-foundation">Pool Water Chemistry: The Foundation</h2>
+<p>Proper water chemistry is the single most important factor in pool health. Unbalanced water can be unsafe for guests, corrosive to equipment, and can make even a physically clean pool look cloudy, green, or uninviting.</p>
+<h3 id="the-essential-parameters">The Essential Parameters</h3>
+<p><strong>pH Level (Target: 7.4–7.6)</strong>
+pH is the measure of acidity/alkalinity. Correct pH is essential for swimmer comfort (eye and skin irritation) and for chlorine to work effectively. pH drifts constantly due to bather load, rain, and chemical additions.</p>
+<ul>
+<li>pH too low (&#x3C; 7.2): corrosive to equipment, irritating to eyes; add soda ash (sodium carbonate) to raise</li>
+<li>pH too high (> 7.8): chlorine becomes ineffective; add muriatic acid or dry acid to lower</li>
+</ul>
+<p><strong>Free Chlorine (Target: 1.0–3.0 ppm; bump to 3.0 for heavy use)</strong>
+Chlorine is your primary sanitizer. In STR pools with heavy bather loads, maintain chlorine at the higher end of the range and test more frequently.</p>
+<ul>
+<li>Too low: algae and bacteria can grow rapidly</li>
+<li>Too high (> 5 ppm): irritating to eyes and skin; guests will notice</li>
+</ul>
+<p><strong>Total Alkalinity (Target: 80–120 ppm)</strong>
+Alkalinity buffers pH, preventing rapid swings. Adjust alkalinity before adjusting pH.</p>
+<p><strong>Calcium Hardness (Target: 200–400 ppm)</strong>
+Calcium hardness prevents water from leaching minerals from plaster and equipment. Important for longevity of the pool surface.</p>
+<p><strong>Cyanuric Acid / Stabilizer (Target: 30–50 ppm for outdoor pools)</strong>
+Cyanuric acid stabilizes chlorine against UV degradation. Essential for outdoor pools in sunny climates. Too much (> 80 ppm) significantly reduces chlorine effectiveness.</p>
+<p><strong>Combined Chlorine / Chloramines (Target: &#x3C; 0.5 ppm)</strong>
+Chloramines are the byproduct of chlorine reacting with body oils, sweat, and urine. They cause the "chlorine smell" that most people associate with pools — and they're irritating and ineffective as sanitizers. Keep combined chlorine low by shocking regularly.</p>
+<h3 id="testing-frequency">Testing Frequency</h3>
+<table>
+<thead>
+<tr>
+<th>Situation</th>
+<th>Testing Frequency</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Off-season / low use</td>
+<td>2x per week</td>
+</tr>
+<tr>
+<td>Normal occupancy</td>
+<td>Every other day</td>
+</tr>
+<tr>
+<td>High occupancy / large groups</td>
+<td>Daily</td>
+</tr>
+<tr>
+<td>Following heavy rain</td>
+<td>Immediately after</td>
+</tr>
+<tr>
+<td>Following large party use</td>
+<td>Immediately after</td>
+</tr>
+</tbody>
+</table>
+<p>Use a quality test kit (Taylor K-2006 or equivalent) for accurate readings — test strips are less precise for STR management purposes.</p>
+<hr>
+<h2 id="shock-treatment-and-algae-prevention">Shock Treatment and Algae Prevention</h2>
+<p><strong>Shocking</strong> means adding a large dose of chlorine to break down chloramines and kill algae before it takes hold. Shock your pool:</p>
+<ul>
+<li>Weekly during the swimming season as a baseline</li>
+<li>After every heavy-use period (large groups, parties, frequent swimmers)</li>
+<li>After rain events (rain dilutes chemicals and introduces contaminants)</li>
+<li>Before and after a gap in occupancy</li>
+<li>Whenever water appears cloudy or has an off smell</li>
+</ul>
+<p><strong>Shock products:</strong></p>
+<ul>
+<li><strong>Calcium hypochlorite (cal-hypo, 68-78% chlorine):</strong> Most effective for shocking; add directly to pool at night, not in the skimmer</li>
+<li><strong>Sodium dichloro (dichlor):</strong> Convenient granule form; contains stabilizer, so be aware of cumulative cyanuric acid increase</li>
+<li><strong>Liquid chlorine (sodium hypochlorite):</strong> Easy to apply, no residue; shorter shelf life</li>
+</ul>
+<p><strong>Algae treatment:</strong>
+Prevention is far easier than treatment. A pool that turns green before a guest arrives is an emergency. Consistent shocking, proper circulation, and brushing prevent algae. If algae does appear:</p>
+<ol>
+<li>Test and balance all chemistry</li>
+<li>Brush pool walls and floor aggressively</li>
+<li>Shock with 3x the normal dose</li>
+<li>Run the filter continuously</li>
+<li>Vacuum dead algae after 12-24 hours</li>
+</ol>
+<p>Do not allow guests to swim in green or cloudy water.</p>
+<hr>
+<h2 id="weekly-maintenance-routine">Weekly Maintenance Routine</h2>
+<p>A systematic weekly routine keeps your pool guest-ready with predictable effort.</p>
+<h3 id="weekly-tasks-checklist">Weekly Tasks Checklist</h3>
+<p><strong>Testing and Chemistry:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Test pH, free chlorine, total alkalinity</li>
+<li class="task-list-item"><input type="checkbox" disabled> Add chemicals as needed to reach target ranges</li>
+<li class="task-list-item"><input type="checkbox" disabled> Add shock (weekly during season)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check cyanuric acid level (monthly)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check calcium hardness (monthly)</li>
+</ul>
+<p><strong>Physical Cleaning:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Skim the surface with a net (leaves, insects, debris)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Brush pool walls, steps, and waterline</li>
+<li class="task-list-item"><input type="checkbox" disabled> Vacuum pool floor (manual or robotic)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Empty skimmer baskets</li>
+<li class="task-list-item"><input type="checkbox" disabled> Empty pump basket</li>
+<li class="task-list-item"><input type="checkbox" disabled> Clean waterline tiles if needed (mineral buildup)</li>
+</ul>
+<p><strong>Equipment Checks:</strong></p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Check pump operation (listen for unusual sounds, check water flow)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check filter pressure (backwash sand/DE filters when pressure rises 8-10 psi above clean)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check automatic cleaner function (if applicable)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check salt cell if salt water system (inspect for calcium buildup monthly)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Check pool light function</li>
+</ul>
+<hr>
+<h2 id="turnover-ready-pool-checklist">Turnover-Ready Pool Checklist</h2>
+<p>Before each new guest arrival, your pool should pass this inspection:</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Water is clear (can see the drain clearly in the deep end)</li>
+<li class="task-list-item"><input type="checkbox" disabled> No visible algae on walls or floor</li>
+<li class="task-list-item"><input type="checkbox" disabled> pH between 7.4–7.6</li>
+<li class="task-list-item"><input type="checkbox" disabled> Free chlorine between 1.0–3.0 ppm</li>
+<li class="task-list-item"><input type="checkbox" disabled> Pool deck is clean and dry</li>
+<li class="task-list-item"><input type="checkbox" disabled> Pool toys, floats, and noodles (if provided) are clean and stored</li>
+<li class="task-list-item"><input type="checkbox" disabled> Pool furniture is clean and arranged</li>
+<li class="task-list-item"><input type="checkbox" disabled> Pool cover is stored properly (not blocking access)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Pool gate/fence is functioning and latching correctly</li>
+<li class="task-list-item"><input type="checkbox" disabled> Pool safety equipment is present (life ring, shepherd's hook, safety signage)</li>
+</ul>
+<hr>
+<h2 id="hiring-a-pool-service-company">Hiring a Pool Service Company</h2>
+<p>For most STR hosts, hiring a professional pool service is the right operational choice. The cost ($100-250/month for weekly service) is easily justified by:</p>
+<ul>
+<li>Consistent chemistry management</li>
+<li>Equipment longevity</li>
+<li>Liability reduction (licensed professionals carry their own insurance)</li>
+<li>Time savings</li>
+<li>Faster issue identification (professionals spot early problems before they become expensive)</li>
+</ul>
+<h3 id="what-a-weekly-pool-service-should-include">What a Weekly Pool Service Should Include</h3>
+<ul>
+<li>Water testing and chemical balancing</li>
+<li>Skimming, brushing, and vacuuming</li>
+<li>Basket emptying</li>
+<li>Filter check</li>
+<li>Brief equipment inspection</li>
+</ul>
+<p><strong>Does not typically include:</strong></p>
+<ul>
+<li>Major equipment repairs (pump, filter, heater)</li>
+<li>Opening/closing seasonal pools</li>
+<li>Green pool treatment (often billed separately at emergency rates)</li>
+<li>Pool plastering or structural repairs</li>
+</ul>
+<h3 id="finding-a-pool-service">Finding a Pool Service</h3>
+<ul>
+<li>Ask other STR hosts in your area for referrals (most reliable)</li>
+<li>Check PHTA (Pool &#x26; Hot Tub Alliance) certified contractor directory</li>
+<li>Yelp and Google reviews for local pool companies</li>
+<li>Verify: licensed, insured, and experienced with vacation rental accounts</li>
+</ul>
+<p><strong>For STR-specific needs, ask prospective service companies:</strong></p>
+<ul>
+<li>"Can you come before a guest checks in if there's an urgent issue?"</li>
+<li>"Do you send a chemical report after each service?"</li>
+<li>"How do you handle turnover timing when we have back-to-back bookings?"</li>
+</ul>
+<hr>
+<h2 id="pool-safety-requirements-for-str-hosts">Pool Safety Requirements for STR Hosts</h2>
+<p>Pool safety is a legal and ethical responsibility that STR hosts must take seriously. Requirements vary by state and municipality, but most jurisdictions require:</p>
+<h3 id="fencing-and-barriers">Fencing and Barriers</h3>
+<ul>
+<li>A fence or barrier completely surrounding the pool per <a href="https://www.cpsc.gov/Safety-Education/Safety-Guides/Sports-Fitness-and-Recreation/Pools-and-Spas">CPSC pool barrier guidelines</a></li>
+<li>Self-closing, self-latching gate that opens outward (away from the pool)</li>
+<li>Minimum fence height (typically 4 feet; 5-6 feet recommended for STR liability)</li>
+<li>No footholds or handholds on fence that would aid climbing</li>
+</ul>
+<h3 id="safety-equipment">Safety Equipment</h3>
+<p>Display and maintain accessible safety equipment:</p>
+<ul>
+<li><strong>Safety rope with buoys</strong> dividing shallow and deep ends</li>
+<li><strong>Shepherd's hook</strong> (reaching pole) mounted at poolside</li>
+<li><strong>Life ring or throw bag</strong> within quick reach</li>
+<li><strong>Pool safety signage</strong> (no diving in shallow end, no running, rules)</li>
+<li><strong>Emergency contact numbers</strong> posted at poolside (911 + host number)</li>
+</ul>
+<h3 id="depth-markings">Depth Markings</h3>
+<p>All pool depths must be clearly marked on the pool deck and/or coping. Incorrect depth markings are a serious liability.</p>
+<h3 id="pool-drain-safety">Pool Drain Safety</h3>
+<p>Pool drains must comply with the <a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Pool-Safety">Virginia Graeme Baker Act</a> (federal law in the US) — anti-entrapment drain covers only. If your pool has older single-drain configurations, consult a pool professional about compliance.</p>
+<h3 id="alarms">Alarms</h3>
+<p>Some jurisdictions require pool alarms (surface wave alarms, underwater motion detectors, or gate/door alarms). Check your local requirements.</p>
+<p><strong>Insurance note:</strong> Your STR insurance policy should include pool liability coverage. Review your policy with your insurer. See our <a href="/blog/short-term-rental-insurance">short-term rental insurance guide</a> for what to look for.</p>
+<hr>
+<h2 id="pool-equipment-what-you-need-and-how-to-maintain-it">Pool Equipment: What You Need and How to Maintain It</h2>
+<h3 id="pump-and-filter">Pump and Filter</h3>
+<p>The pump and filter are the heart of your pool system. The pump circulates water through the filter; the filter removes particles and debris.</p>
+<p><strong>Run time:</strong> Aim for 8-12 hours of circulation per day during swimming season. Variable speed pumps (more efficient) should run longer at lower speeds.</p>
+<p><strong>Filter types:</strong></p>
+<ul>
+<li><strong>Sand filter:</strong> Backwash when pressure rises 8-10 psi above normal; replace sand every 5-7 years</li>
+<li><strong>Cartridge filter:</strong> Clean cartridges every 2-4 weeks; replace annually</li>
+<li><strong>DE filter:</strong> Most efficient; backwash and recharge with diatomaceous earth regularly</li>
+</ul>
+<h3 id="pool-heater">Pool Heater</h3>
+<p>If your pool is heated (a major amenity), maintain the heater according to manufacturer specifications. Annual professional inspection is recommended. Gas heaters should be checked for proper combustion and burner condition; heat pumps should have coils inspected.</p>
+<p><strong>Temperature for STR pools:</strong> 80-84°F is the sweet spot for guest comfort across a broad range of guest preferences. Communicate this in your listing.</p>
+<h3 id="automatic-cleaners">Automatic Cleaners</h3>
+<p>Robotic or pressure-side cleaners reduce your weekly vacuuming burden. Clean the filter bag/cartridge after each use and store the cleaner out of the sun when not in operation to extend its lifespan.</p>
+<h3 id="salt-water-vs-traditional-chlorine-systems">Salt Water vs. Traditional Chlorine Systems</h3>
+<p>Salt water pools use electrolysis to generate chlorine from salt. They still require chemical management (salt, pH, alkalinity, cyanuric acid) but typically feel gentler to swimmers and require less manual chlorine addition.</p>
+<p>Salt cell maintenance: inspect and clean the salt cell every 3 months; check salt level weekly; test calcium hardness monthly (salt systems are sensitive to calcium).</p>
+<hr>
+<h2 id="communicating-your-pool-to-guests">Communicating Your Pool to Guests</h2>
+<h3 id="in-your-listing">In Your Listing</h3>
+<ul>
+<li>Specify: heated/unheated, pool size (approximate), salt water or chlorine</li>
+<li>Note any seasonal restrictions (pool season May-October, etc.)</li>
+<li>Share any pool rules (no glass, required attire, supervision requirements for children)</li>
+<li>Photos: include both wide pool shots and lifestyle shots (staging with floating inflatables and neatly arranged chairs photographs beautifully)</li>
+</ul>
+<h3 id="in-your-welcome-book">In Your Welcome Book</h3>
+<p>Include a pool section with:</p>
+<ul>
+<li>Pool hours (if you have any restrictions — e.g., no late-night use out of respect for neighbors)</li>
+<li>How to use any pool features (jets, lights, heater controls)</li>
+<li>Pool rules (no glass near pool, shower before entering, no diving in shallow end)</li>
+<li>Towel policy (beach towels provided vs. guests should bring their own)</li>
+<li>Instructions for pool floats and toys if provided</li>
+</ul>
+<h3 id="for-guest-communication">For Guest Communication</h3>
+<p>If your pool requires any heating lead time, mention this in your pre-arrival message:</p>
+<blockquote>
+<p>"The pool is heated and should be at 82°F for your arrival. If you'd like it warmer, you can adjust the thermostat by the back door — just let me know if you have any questions."</p>
+</blockquote>
+<p>For a complete guest communication approach, see our <a href="/blog/guest-communication-short-term-rental">guest communication templates</a>.</p>
+<hr>
+<h2 id="budget-planning-for-pool-operations">Budget Planning for Pool Operations</h2>
+<p>Factor these costs into your hosting budget:</p>
+<table>
+<thead>
+<tr>
+<th>Expense</th>
+<th>Frequency</th>
+<th>Estimated Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weekly pool service</td>
+<td>Monthly</td>
+<td>$100–250/month</td>
+</tr>
+<tr>
+<td>Pool chemicals (DIY)</td>
+<td>Monthly</td>
+<td>$50–150/month</td>
+</tr>
+<tr>
+<td>Filter media replacement</td>
+<td>Annual</td>
+<td>$50–250</td>
+</tr>
+<tr>
+<td>Salt cell replacement</td>
+<td>Every 3-5 years</td>
+<td>$400–800</td>
+</tr>
+<tr>
+<td>Pump replacement</td>
+<td>Every 8-12 years</td>
+<td>$800–2,000</td>
+</tr>
+<tr>
+<td>Pool resurfacing</td>
+<td>Every 10-15 years</td>
+<td>$5,000–20,000</td>
+</tr>
+<tr>
+<td>Opening/closing (seasonal markets)</td>
+<td>Annual</td>
+<td>$200–400</td>
+</tr>
+</tbody>
+</table>
+<p>These costs are tax-deductible as business expenses. For how to account for pool maintenance in your STR finances, see our <a href="/blog/short-term-rental-tax-guide">short-term rental tax guide</a>.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>A well-maintained pool elevates your vacation rental from a nice property to a must-book destination. The investment in consistent maintenance — whether you DIY it or hire a professional service — pays off directly in higher nightly rates, stronger reviews, and a competitive advantage that fills your calendar.</p>
+<p>Focus on the fundamentals: consistent chemistry, weekly physical maintenance, a guest-ready inspection before every arrival, and rigorous safety compliance. Build pool maintenance costs into your budget and pricing, and communicate your pool's features and rules clearly to guests.</p>
+<p>Done right, your pool becomes one of the most powerful assets in your STR portfolio.</p>
+<p>For the complete guide to managing a high-performing vacation rental, visit our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+2a:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$30"}}]
+2b:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","pool maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"pool maintenance"}],["$","span","vacation rental amenities",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacation rental amenities"}],["$","span","property management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management"}],["$","span","short-term rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rental"}],["$","span","guest safety",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"guest safety"}]]}]
+2c:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+2d:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","airbnb-arbitrage-how-to-profit-without-owning-property",{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","airbnb-co-hosting",{"href":"/blog/airbnb-co-hosting","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How It Works and How to Start"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","airbnb-for-business-how-to-attract-corporate-travelers",{"href":"/blog/airbnb-for-business-how-to-attract-corporate-travelers","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb for Business: How to Attract Corporate Travelers"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+2e:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-pool-maintenance-matters-more-in-an-str-context",{"className":"","children":["$","a",null,{"href":"#why-pool-maintenance-matters-more-in-an-str-context","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Pool Maintenance Matters More in an STR Context"}]}],["$","li","pool-water-chemistry-the-foundation",{"className":"","children":["$","a",null,{"href":"#pool-water-chemistry-the-foundation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool Water Chemistry: The Foundation"}]}],["$","li","the-essential-parameters",{"className":"ml-4","children":["$","a",null,{"href":"#the-essential-parameters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Essential Parameters"}]}],["$","li","testing-frequency",{"className":"ml-4","children":["$","a",null,{"href":"#testing-frequency","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Testing Frequency"}]}],["$","li","shock-treatment-and-algae-prevention",{"className":"","children":["$","a",null,{"href":"#shock-treatment-and-algae-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Shock Treatment and Algae Prevention"}]}],["$","li","weekly-maintenance-routine",{"className":"","children":["$","a",null,{"href":"#weekly-maintenance-routine","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Weekly Maintenance Routine"}]}],["$","li","weekly-tasks-checklist",{"className":"ml-4","children":["$","a",null,{"href":"#weekly-tasks-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Weekly Tasks Checklist"}]}],["$","li","turnover-ready-pool-checklist",{"className":"","children":["$","a",null,{"href":"#turnover-ready-pool-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Turnover-Ready Pool Checklist"}]}],["$","li","hiring-a-pool-service-company",{"className":"","children":["$","a",null,{"href":"#hiring-a-pool-service-company","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hiring a Pool Service Company"}]}],["$","li","what-a-weekly-pool-service-should-include",{"className":"ml-4","children":["$","a",null,{"href":"#what-a-weekly-pool-service-should-include","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What a Weekly Pool Service Should Include"}]}],["$","li","finding-a-pool-service",{"className":"ml-4","children":["$","a",null,{"href":"#finding-a-pool-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Finding a Pool Service"}]}],["$","li","pool-safety-requirements-for-str-hosts",{"className":"","children":["$","a",null,{"href":"#pool-safety-requirements-for-str-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool Safety Requirements for STR Hosts"}]}],["$","li","fencing-and-barriers",{"className":"ml-4","children":["$","a",null,{"href":"#fencing-and-barriers","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fencing and Barriers"}]}],["$","li","safety-equipment",{"className":"ml-4","children":["$","a",null,{"href":"#safety-equipment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Safety Equipment"}]}],["$","li","depth-markings",{"className":"ml-4","children":["$","a",null,{"href":"#depth-markings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Depth Markings"}]}],"$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d"]}]]}]}]
+2f:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+31:["$","li","pool-drain-safety",{"className":"ml-4","children":["$","a",null,{"href":"#pool-drain-safety","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool Drain Safety"}]}]
+32:["$","li","alarms",{"className":"ml-4","children":["$","a",null,{"href":"#alarms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Alarms"}]}]
+33:["$","li","pool-equipment-what-you-need-and-how-to-maintain-it",{"className":"","children":["$","a",null,{"href":"#pool-equipment-what-you-need-and-how-to-maintain-it","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool Equipment: What You Need and How to Maintain It"}]}]
+34:["$","li","pump-and-filter",{"className":"ml-4","children":["$","a",null,{"href":"#pump-and-filter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pump and Filter"}]}]
+35:["$","li","pool-heater",{"className":"ml-4","children":["$","a",null,{"href":"#pool-heater","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool Heater"}]}]
+36:["$","li","automatic-cleaners",{"className":"ml-4","children":["$","a",null,{"href":"#automatic-cleaners","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Automatic Cleaners"}]}]
+37:["$","li","salt-water-vs-traditional-chlorine-systems",{"className":"ml-4","children":["$","a",null,{"href":"#salt-water-vs-traditional-chlorine-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Salt Water vs. Traditional Chlorine Systems"}]}]
+38:["$","li","communicating-your-pool-to-guests",{"className":"","children":["$","a",null,{"href":"#communicating-your-pool-to-guests","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Communicating Your Pool to Guests"}]}]
+39:["$","li","in-your-listing",{"className":"ml-4","children":["$","a",null,{"href":"#in-your-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"In Your Listing"}]}]
+3a:["$","li","in-your-welcome-book",{"className":"ml-4","children":["$","a",null,{"href":"#in-your-welcome-book","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"In Your Welcome Book"}]}]
+3b:["$","li","for-guest-communication",{"className":"ml-4","children":["$","a",null,{"href":"#for-guest-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"For Guest Communication"}]}]
+3c:["$","li","budget-planning-for-pool-operations",{"className":"","children":["$","a",null,{"href":"#budget-planning-for-pool-operations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Budget Planning for Pool Operations"}]}]
+3d:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Pool Maintenance Guide for Vacation Rental Hosts | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Complete pool maintenance guide for vacation rental hosts covering chemical balancing, weekly routines, service scheduling, safety requirements, and guest communication."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"pool maintenance,vacation rental amenities,property management,short-term rental,guest safety"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/pool-maintenance-vacation-rental"}],["$","meta","6",{"property":"og:title","content":"Pool Maintenance Guide for Vacation Rental Hosts"}],["$","meta","7",{"property":"og:description","content":"Complete pool maintenance guide for vacation rental hosts covering chemical balancing, weekly routines, service scheduling, safety requirements, and guest communication."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/pool-maintenance-vacation-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Pool Maintenance Guide for Vacation Rental Hosts"}],["$","meta","15",{"name":"twitter:description","content":"Complete pool maintenance guide for vacation rental hosts covering chemical balancing, weekly routines, service scheduling, safety requirements, and guest communication."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

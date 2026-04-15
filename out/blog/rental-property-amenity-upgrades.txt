@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","rental-property-amenity-upgrades"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","rental-property-amenity-upgrades","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rental-property-amenity-upgrades","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Amenity Upgrades That Justify Higher Rent\",\"description\":\"Discover which rental property amenity upgrades actually justify higher rent, with real ROI data on kitchen updates, smart home features, outdoor spaces, and more.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/rental-property-amenity-upgrades\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Pricing\",\"item\":\"https://portfoliorental.com/blog/category/pricing\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Amenity Upgrades That Justify Higher Rent\",\"item\":\"https://portfoliorental.com/blog/rental-property-amenity-upgrades\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/pricing","className":"hover:text-blue-600","children":"Pricing"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Pricing"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Amenity Upgrades That Justify Higher Rent"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-framework-roi-based-upgrade-decisions",{"className":"","children":["$","a",null,{"href":"#the-framework-roi-based-upgrade-decisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Framework: ROI-Based Upgrade Decisions"}]}],["$","li","tier-1-highest-roi-amenity-upgrades",{"className":"","children":["$","a",null,{"href":"#tier-1-highest-roi-amenity-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 1: Highest ROI Amenity Upgrades"}]}],["$","li","1-in-unit-washer-dryer",{"className":"ml-4","children":["$","a",null,{"href":"#1-in-unit-washer-dryer","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. In-Unit Washer/Dryer"}]}],["$","li","2-dishwasher",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]}]]}],"$L22","$L23"]}],"$L24","$L25"]}],"$L26"]}]]}],"$L27"]
+11:["$","a",null,{"href":"#2-dishwasher","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Dishwasher"}]
+12:["$","li","3-central-air-conditioning",{"className":"ml-4","children":["$","a",null,{"href":"#3-central-air-conditioning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Central Air Conditioning"}]}]
+13:["$","li","4-updated-kitchen-mid-range-refresh",{"className":"ml-4","children":["$","a",null,{"href":"#4-updated-kitchen-mid-range-refresh","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Updated Kitchen (Mid-Range Refresh)"}]}]
+14:["$","li","tier-2-strong-roi-market-dependent",{"className":"","children":["$","a",null,{"href":"#tier-2-strong-roi-market-dependent","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 2: Strong ROI, Market-Dependent"}]}]
+15:["$","li","5-updated-bathroom",{"className":"ml-4","children":["$","a",null,{"href":"#5-updated-bathroom","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Updated Bathroom"}]}]
+16:["$","li","6-hard-surface-flooring-lvp",{"className":"ml-4","children":["$","a",null,{"href":"#6-hard-surface-flooring-lvp","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Hard Surface Flooring (LVP)"}]}]
+17:["$","li","7-smart-home-features",{"className":"ml-4","children":["$","a",null,{"href":"#7-smart-home-features","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Smart Home Features"}]}]
+18:["$","li","8-high-speed-internet-included",{"className":"ml-4","children":["$","a",null,{"href":"#8-high-speed-internet-included","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. High-Speed Internet Included"}]}]
+19:["$","li","tier-3-amenities-that-help-market-moderate-direct-roi",{"className":"","children":["$","a",null,{"href":"#tier-3-amenities-that-help-market-moderate-direct-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 3: Amenities That Help Market, Moderate Direct ROI"}]}]
+1a:["$","li","9-updated-outdoor-space-patio-deck",{"className":"ml-4","children":["$","a",null,{"href":"#9-updated-outdoor-space-patio-deck","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"9. Updated Outdoor Space / Patio / Deck"}]}]
+1b:["$","li","10-storage-space",{"className":"ml-4","children":["$","a",null,{"href":"#10-storage-space","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"10. Storage Space"}]}]
+1c:["$","li","11-parking",{"className":"ml-4","children":["$","a",null,{"href":"#11-parking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"11. Parking"}]}]
+1d:["$","li","12-pet-friendly-features",{"className":"ml-4","children":["$","a",null,{"href":"#12-pet-friendly-features","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"12. Pet-Friendly Features"}]}]
+1e:["$","li","how-to-prioritize-upgrades",{"className":"","children":["$","a",null,{"href":"#how-to-prioritize-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Prioritize Upgrades"}]}]
+1f:["$","li","market-specific-upgrade-strategy",{"className":"","children":["$","a",null,{"href":"#market-specific-upgrade-strategy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Market-Specific Upgrade Strategy"}]}]
+20:["$","li","avoiding-common-upgrade-mistakes",{"className":"","children":["$","a",null,{"href":"#avoiding-common-upgrade-mistakes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Avoiding Common Upgrade Mistakes"}]}]
+21:["$","li","tracking-your-upgrade-roi",{"className":"","children":["$","a",null,{"href":"#tracking-your-upgrade-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tracking Your Upgrade ROI"}]}]
+28:T3b32,<p>Not all rental property upgrades are equal. Some improvements cost $10,000 and add $50 to your monthly rent. Others cost $2,000 and allow you to raise rent by $200. Understanding which amenity upgrades actually justify higher rent—and which are money pits—is the difference between strategic value-add investing and expensive redecorating.</p>
+<p>This guide ranks the most effective amenity upgrades by their rent premium potential relative to cost, so you can prioritize improvements that move the financial needle.</p>
+<h2 id="the-framework-roi-based-upgrade-decisions">The Framework: ROI-Based Upgrade Decisions</h2>
+<p>Before diving into specific upgrades, understand how to evaluate any improvement:</p>
+<pre><code>Monthly Rent Premium ÷ Upgrade Cost = Monthly ROI
+Annual Rent Premium ÷ Upgrade Cost = Annual Return on Improvement
+</code></pre>
+<p>For an upgrade to make financial sense, the annual rent premium should exceed 12–15% of the upgrade cost (a 6.7–8-year payback). Upgrades with 2–4 year paybacks are exceptional; 5–7 years is solid; anything beyond 10 years likely isn't worth it on pure cash flow grounds.</p>
+<p>There's also the property value effect: upgrades that increase NOI increase property value at a rate of NOI increase ÷ cap rate. At a 6.5% cap rate, every $100/month in additional rent creates $18,462 in property value ($1,200 annual rent ÷ 0.065).</p>
+<h2 id="tier-1-highest-roi-amenity-upgrades">Tier 1: Highest ROI Amenity Upgrades</h2>
+<h3 id="1-in-unit-washer-dryer">1. In-Unit Washer/Dryer</h3>
+<p><strong>The upgrade:</strong> Install washer/dryer hookups (if not present) and provide appliances</p>
+<p><strong>Cost:</strong> $800–$3,500 depending on whether hookups already exist</p>
+<ul>
+<li>Adding hookups only: $800–$1,500</li>
+<li>Adding hookups + appliances: $1,800–$3,500</li>
+<li>Adding appliances only (hookups exist): $600–$1,200</li>
+</ul>
+<p><strong>Rent premium:</strong> $75–$150/month in most markets; up to $200+ in urban markets</p>
+<p><strong>Annual return:</strong> $900–$1,800 on a $600–$1,200 appliance investment = <strong>75–300% first-year return</strong></p>
+<p><strong>Why it works:</strong> In-unit laundry is consistently ranked #1 or #2 most desired amenity by renters in national surveys. The absence of laundry facilities is a common reason tenants decline otherwise suitable units.</p>
+<p><strong>Caveat:</strong> If your building already has quality shared laundry, the premium for in-unit may be lower. In units where shared laundry generates income, weigh the premium against lost <a href="/blog/laundry-room-revenue-rental">laundry room revenue</a>.</p>
+<h3 id="2-dishwasher">2. Dishwasher</h3>
+<p><strong>Cost:</strong> $400–$900 installed (assuming existing space under cabinet and plumbing nearby)
+<strong>Rent premium:</strong> $25–$75/month
+<strong>Annual return:</strong> $300–$900 on $400–$900 investment = <strong>33–100%</strong></p>
+<p>One of the highest-return single appliance upgrades. Most tenants expect a dishwasher in any unit above the entry-level price point.</p>
+<h3 id="3-central-air-conditioning">3. Central Air Conditioning</h3>
+<p><strong>Cost:</strong> $3,500–$8,000 for a full mini-split or central HVAC system in a 2BR unit
+<strong>Rent premium:</strong> $100–$200/month in warm climates; $50–$100 in mild climates
+<strong>Annual return:</strong> $600–$2,400 on $3,500–$8,000 investment = <strong>8–69%</strong></p>
+<p>In hot-weather markets (Southeast, Southwest), lack of A/C is a dealbreaker for most renters. The premium is highest in markets where summer heat makes A/C a necessity, not a luxury.</p>
+<h3 id="4-updated-kitchen-mid-range-refresh">4. Updated Kitchen (Mid-Range Refresh)</h3>
+<p><strong>The upgrade:</strong> New cabinet hardware, updated faucet, new countertops (laminate to quartz or butcher block), modern light fixture, fresh paint</p>
+<p><strong>Cost:</strong> $3,000–$7,000 for a meaningful cosmetic refresh (not full renovation)
+<strong>Rent premium:</strong> $75–$200/month depending on market and how dated the original kitchen was
+<strong>Annual return:</strong> $900–$2,400 on $3,000–$7,000 investment = <strong>13–80%</strong></p>
+<p>Kitchen condition is one of the top factors renters cite when choosing between comparable units. A dated kitchen with original 1980s laminate and old hardware rents for less than an updated space—and the gap is often larger than the cost to close it.</p>
+<p>For complete guidance on which specific kitchen improvements have the best ROI, see our <a href="/blog/best-renovations-rental-properties-roi">best renovations for rental properties guide</a>.</p>
+<h2 id="tier-2-strong-roi-market-dependent">Tier 2: Strong ROI, Market-Dependent</h2>
+<h3 id="5-updated-bathroom">5. Updated Bathroom</h3>
+<p><strong>The upgrade:</strong> New vanity, modern faucet, re-caulk, new lighting, fresh grout, updated mirror</p>
+<p><strong>Cost:</strong> $1,500–$4,000 for a meaningful cosmetic refresh
+<strong>Rent premium:</strong> $50–$125/month
+<strong>Annual return:</strong> $600–$1,500 on $1,500–$4,000 = <strong>15–100%</strong></p>
+<p>Like kitchens, bathroom condition heavily influences tenant perception. The same mid-range refresh approach works here: you don't need luxury tile to command a meaningful premium over dated original finishes.</p>
+<h3 id="6-hard-surface-flooring-lvp">6. Hard Surface Flooring (LVP)</h3>
+<p><strong>The upgrade:</strong> Replace carpet with luxury vinyl plank (LVP) flooring</p>
+<p><strong>Cost:</strong> $3–$6/sq ft installed; $3,600–$7,200 for a 1,200 sq ft unit
+<strong>Rent premium:</strong> $50–$125/month
+<strong>Annual return:</strong> $600–$1,500 on $3,600–$7,200 = <strong>8–42%</strong></p>
+<p>LVP flooring has nearly replaced carpet as the tenant-preferred option. It photographs better, shows better on tours, appeals to pet owners, and is dramatically easier to clean. Tenants with allergies or pets actively seek out hard-surface flooring.</p>
+<p>The added benefit: LVP dramatically reduces turnover costs (no carpet replacement at every move-out) and maintenance between tenancies.</p>
+<h3 id="7-smart-home-features">7. Smart Home Features</h3>
+<p><strong>The upgrade bundle:</strong> Smart thermostat, smart door lock, video doorbell, smart lighting (or some combination)</p>
+<p><strong>Cost:</strong> $500–$1,500 for a meaningful smart home package
+<strong>Rent premium:</strong> $25–$100/month in tech-forward markets; less in rural markets
+<strong>Annual return:</strong> $300–$1,200 on $500–$1,500 = <strong>20–240%</strong></p>
+<p>The premium for smart home features varies significantly by tenant demographic. Urban professionals ages 25–40 place significant value on remote access, energy control, and keyless entry. Older renters or rural markets may not value these features enough to support a meaningful premium.</p>
+<p><strong>Specific items with best ROI:</strong></p>
+<ul>
+<li>Smart thermostat (Nest or Ecobee): $200–$350 installed; reduces utility bills if you pay them; supports ~$25–$50/month premium</li>
+<li>Smart door lock: $150–$300 installed; eliminates key management; supports $15–$30/month premium or reduces turnover costs</li>
+<li>Video doorbell: $100–$200; strong safety appeal; minimal direct rent premium but improves unit perception</li>
+</ul>
+<h3 id="8-high-speed-internet-included">8. High-Speed Internet Included</h3>
+<p><strong>The upgrade:</strong> Partner with an ISP for bulk internet service and include it in rent</p>
+<p><strong>Cost:</strong> $15–$40/unit/month in bulk ISP rates
+<strong>Rent premium:</strong> $50–$100/month "internet included" premium
+<strong>Net benefit:</strong> $10–$85/month per unit after ISP cost</p>
+<p>This works particularly well in markets with young professional or student tenants. "Internet included" listings consistently outperform comparable listings in click-through rates. The key is negotiating competitive bulk rates with ISPs.</p>
+<h2 id="tier-3-amenities-that-help-market-moderate-direct-roi">Tier 3: Amenities That Help Market, Moderate Direct ROI</h2>
+<h3 id="9-updated-outdoor-space-patio-deck">9. Updated Outdoor Space / Patio / Deck</h3>
+<p><strong>Cost:</strong> $2,000–$8,000 for a functional patio, deck, or balcony improvement
+<strong>Rent premium:</strong> $50–$150/month (varies widely by unit type and climate)
+<strong>Annual return:</strong> $600–$1,800 on $2,000–$8,000 = <strong>7–90%</strong></p>
+<p>Outdoor space ranks highly in post-COVID renter surveys—the demand for private outdoor areas increased significantly. Even a simple patio with a bistro table and string lights photographs dramatically better than a plain concrete slab.</p>
+<h3 id="10-storage-space">10. Storage Space</h3>
+<p><strong>Cost:</strong> $200–$800 for a basement cage or lockable storage unit
+<strong>Rent premium:</strong> $30–$75/month per storage unit (or bundle with unit rent)
+<strong>Annual return:</strong> $360–$900 on $200–$800 = <strong>45–450%</strong></p>
+<p>One of the highest-ROI improvements available. Storage is consistently cited as a deficiency by renters. Adding a dedicated, secure storage option—even a simple cage—removes a friction point and supports higher rents. See our complete <a href="/blog/storage-unit-rental-income">storage rental income guide</a> for implementation details.</p>
+<h3 id="11-parking">11. Parking</h3>
+<p>In markets where parking is scarce:
+<strong>Cost:</strong> $0–$5,000 (depends whether you're adding spots or formalizing existing ones)
+<strong>Rent premium:</strong> $50–$300/month (urban markets) / $25–$75/month (suburban)
+<strong>Annual return:</strong> Extremely variable; in urban markets, parking alone can be worth $100+/month</p>
+<p>In markets where parking is abundant, this may have minimal premium. See our <a href="/blog/garage-rental-income">garage rental income guide</a> for detailed analysis.</p>
+<h3 id="12-pet-friendly-features">12. Pet-Friendly Features</h3>
+<p><strong>Specific upgrades:</strong></p>
+<ul>
+<li>Fenced yard or designated pet area: $1,500–$4,000</li>
+<li>Dog wash station: $1,500–$3,500</li>
+<li>LVP flooring (already covered above, but also appeals to pet owners)</li>
+</ul>
+<p><strong>Combined effect:</strong> A property marketed specifically as pet-friendly can command a $50–$100/month premium plus <a href="/blog/pet-rent-fees-landlord">pet rent and fees</a> on top of base rent.</p>
+<h2 id="how-to-prioritize-upgrades">How to Prioritize Upgrades</h2>
+<p>Use this decision matrix:</p>
+<table>
+<thead>
+<tr>
+<th>Priority</th>
+<th>Upgrade</th>
+<th>Investment</th>
+<th>Monthly Premium</th>
+<th>Payback</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>In-unit laundry (appliances only)</td>
+<td>$700</td>
+<td>$100</td>
+<td>7 months</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Dishwasher</td>
+<td>$600</td>
+<td>$50</td>
+<td>12 months</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Storage cage</td>
+<td>$350</td>
+<td>$50</td>
+<td>7 months</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Smart thermostat + lock</td>
+<td>$500</td>
+<td>$50</td>
+<td>10 months</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Kitchen cosmetic refresh</td>
+<td>$4,000</td>
+<td>$125</td>
+<td>32 months</td>
+</tr>
+<tr>
+<td>6</td>
+<td>LVP flooring</td>
+<td>$5,000</td>
+<td>$100</td>
+<td>50 months</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Bathroom update</td>
+<td>$2,000</td>
+<td>$75</td>
+<td>27 months</td>
+</tr>
+<tr>
+<td>8</td>
+<td>A/C (warm market)</td>
+<td>$5,000</td>
+<td>$150</td>
+<td>33 months</td>
+</tr>
+</tbody>
+</table>
+<p><strong>General rule:</strong> Complete Tier 1 and quick-payback improvements at every vacancy. Schedule longer-payback improvements when the unit is already vacant for other reasons (avoiding additional downtime for the upgrade).</p>
+<h2 id="market-specific-upgrade-strategy">Market-Specific Upgrade Strategy</h2>
+<p>The right amenity upgrades depend heavily on your target tenant:</p>
+<p><strong>For young professionals (urban markets):</strong> Smart home tech, in-unit laundry, updated kitchen/bath, high-speed internet included, bike storage, EV charging (emerging)</p>
+<p><strong>For families (suburban markets):</strong> In-unit laundry, central A/C, dishwasher, fenced yard, storage, pet-friendly features</p>
+<p><strong>For students:</strong> High-speed internet, security features, furnishings (if near university), proximity marketing over specific upgrade investment</p>
+<p><strong>For senior/downsizer renters:</strong> Single-level units, grab bars, walk-in shower, wider doorways, minimal maintenance outdoor space</p>
+<p>Research your local renter demographics before investing. A $3,000 smart home package in a market where average tenant age is 55+ may generate no premium; the same investment near tech campuses may generate $75–$100/month.</p>
+<h2 id="avoiding-common-upgrade-mistakes">Avoiding Common Upgrade Mistakes</h2>
+<p><strong>Over-improving for the market:</strong> Granite countertops and stainless steel appliances in a working-class neighborhood won't generate the premium you expect. Tenants will pay market rate for the area regardless of your finishes.</p>
+<p><strong>Luxury finishes in rental-grade units:</strong> Tenants aren't as careful with your property as owner-occupants. Install rental-grade durable finishes (LVP vs. hardwood, laminate vs. quartz in budget units) that hold up to normal wear.</p>
+<p><strong>Upgrading before verifying demand:</strong> Always confirm a rent premium is achievable before investing. Run a <a href="/blog/rent-comps-analysis">rent comps analysis</a> on units with the specific amenity vs. those without it in your submarket.</p>
+<p><strong>Ignoring deferred maintenance for cosmetics:</strong> A fresh coat of paint and new light fixtures in a unit with a leaky roof and outdated electrical isn't attractive to quality tenants. Address fundamental issues before cosmetic upgrades.</p>
+<h2 id="tracking-your-upgrade-roi">Tracking Your Upgrade ROI</h2>
+<p>Build a simple spreadsheet tracking each upgrade by unit:</p>
+<ul>
+<li>Date of upgrade</li>
+<li>Cost invested</li>
+<li>Rent before/after upgrade</li>
+<li>Monthly and annual premium</li>
+<li>Calculated payback period</li>
+<li>Notes on tenant feedback</li>
+</ul>
+<p>This data becomes invaluable when making future upgrade decisions and when presenting financials to lenders or potential buyers. Strong documented ROI on improvements adds credibility to your rental income projections.</p>
+<p>For a complete picture of how amenity upgrades fit into your overall income strategy, visit our <a href="/blog/maximize-rental-income-strategies">guide to maximizing rental income</a> and explore our <a href="/blog/rental-property-roi-calculator">rental property ROI calculator</a> to model the full return impact of improvement investments.</p>
+<p><a href="https://www.nmhc.org/research-insight/research-report/nmhc-units-magazine-article-archive/2024-apartment-amenities-guide/" rel="noopener" target="_blank">NMHC apartment amenity research</a> tracks which amenities most influence renter decisions by market segment—useful for validating your upgrade priorities.</p>
+22:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$28"}}]
+23:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","pricing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"pricing"}],["$","span","property improvements",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property improvements"}],["$","span","amenity upgrades",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"amenity upgrades"}]]}]
+24:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Pricing"]}],["$","$L10",null,{"href":"/blog/category/pricing","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","adjust-rent-pricing-inflation-2026",{"children":["$","$L10",null,{"href":"/blog/adjust-rent-pricing-inflation-2026","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Adjust Rent Pricing for Inflation in 2026"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","albuquerque-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/albuquerque-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Albuquerque Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","anaheim-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/anaheim-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Anaheim Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}],["$","li","anchorage-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/anchorage-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Anchorage Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}]]}]]}]
+25:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","laundry-room-revenue-rental",{"href":"/blog/laundry-room-revenue-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Adding Laundry Room Revenue to Your Rental"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","adu-rental-income",{"href":"/blog/adu-rental-income","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"ADU Rental Income: How Much Can You Earn?"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","albuquerque-cost-of-property-management",{"href":"/blog/albuquerque-cost-of-property-management","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Albuquerque Cost of Property Management"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}]]}]]}]
+26:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-framework-roi-based-upgrade-decisions",{"className":"","children":["$","a",null,{"href":"#the-framework-roi-based-upgrade-decisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Framework: ROI-Based Upgrade Decisions"}]}],["$","li","tier-1-highest-roi-amenity-upgrades",{"className":"","children":["$","a",null,{"href":"#tier-1-highest-roi-amenity-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 1: Highest ROI Amenity Upgrades"}]}],["$","li","1-in-unit-washer-dryer",{"className":"ml-4","children":["$","a",null,{"href":"#1-in-unit-washer-dryer","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. In-Unit Washer/Dryer"}]}],["$","li","2-dishwasher",{"className":"ml-4","children":["$","a",null,{"href":"#2-dishwasher","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Dishwasher"}]}],["$","li","3-central-air-conditioning",{"className":"ml-4","children":["$","a",null,{"href":"#3-central-air-conditioning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Central Air Conditioning"}]}],["$","li","4-updated-kitchen-mid-range-refresh",{"className":"ml-4","children":["$","a",null,{"href":"#4-updated-kitchen-mid-range-refresh","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Updated Kitchen (Mid-Range Refresh)"}]}],["$","li","tier-2-strong-roi-market-dependent",{"className":"","children":["$","a",null,{"href":"#tier-2-strong-roi-market-dependent","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 2: Strong ROI, Market-Dependent"}]}],["$","li","5-updated-bathroom",{"className":"ml-4","children":["$","a",null,{"href":"#5-updated-bathroom","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Updated Bathroom"}]}],["$","li","6-hard-surface-flooring-lvp",{"className":"ml-4","children":["$","a",null,{"href":"#6-hard-surface-flooring-lvp","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Hard Surface Flooring (LVP)"}]}],["$","li","7-smart-home-features",{"className":"ml-4","children":["$","a",null,{"href":"#7-smart-home-features","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Smart Home Features"}]}],["$","li","8-high-speed-internet-included",{"className":"ml-4","children":["$","a",null,{"href":"#8-high-speed-internet-included","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. High-Speed Internet Included"}]}],["$","li","tier-3-amenities-that-help-market-moderate-direct-roi",{"className":"","children":["$","a",null,{"href":"#tier-3-amenities-that-help-market-moderate-direct-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tier 3: Amenities That Help Market, Moderate Direct ROI"}]}],["$","li","9-updated-outdoor-space-patio-deck",{"className":"ml-4","children":["$","a",null,{"href":"#9-updated-outdoor-space-patio-deck","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"9. Updated Outdoor Space / Patio / Deck"}]}],["$","li","10-storage-space",{"className":"ml-4","children":["$","a",null,{"href":"#10-storage-space","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"10. Storage Space"}]}],["$","li","11-parking",{"className":"ml-4","children":["$","a",null,{"href":"#11-parking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"11. Parking"}]}],"$L29","$L2a","$L2b","$L2c","$L2d"]}]]}]}]
+27:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+29:["$","li","12-pet-friendly-features",{"className":"ml-4","children":["$","a",null,{"href":"#12-pet-friendly-features","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"12. Pet-Friendly Features"}]}]
+2a:["$","li","how-to-prioritize-upgrades",{"className":"","children":["$","a",null,{"href":"#how-to-prioritize-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Prioritize Upgrades"}]}]
+2b:["$","li","market-specific-upgrade-strategy",{"className":"","children":["$","a",null,{"href":"#market-specific-upgrade-strategy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Market-Specific Upgrade Strategy"}]}]
+2c:["$","li","avoiding-common-upgrade-mistakes",{"className":"","children":["$","a",null,{"href":"#avoiding-common-upgrade-mistakes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Avoiding Common Upgrade Mistakes"}]}]
+2d:["$","li","tracking-your-upgrade-roi",{"className":"","children":["$","a",null,{"href":"#tracking-your-upgrade-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tracking Your Upgrade ROI"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Amenity Upgrades That Justify Higher Rent | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Discover which rental property amenity upgrades actually justify higher rent, with real ROI data on kitchen updates, smart home features, outdoor spaces, and more."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"pricing,property improvements,amenity upgrades"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/rental-property-amenity-upgrades"}],["$","meta","6",{"property":"og:title","content":"Amenity Upgrades That Justify Higher Rent"}],["$","meta","7",{"property":"og:description","content":"Discover which rental property amenity upgrades actually justify higher rent, with real ROI data on kitchen updates, smart home features, outdoor spaces, and more."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/rental-property-amenity-upgrades"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Amenity Upgrades That Justify Higher Rent"}],["$","meta","15",{"name":"twitter:description","content":"Discover which rental property amenity upgrades actually justify higher rent, with real ROI data on kitchen updates, smart home features, outdoor spaces, and more."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

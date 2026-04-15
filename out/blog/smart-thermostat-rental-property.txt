@@ -1,0 +1,245 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","smart-thermostat-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","smart-thermostat-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","smart-thermostat-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Installing Smart Thermostats in Rental Units\",\"description\":\"A landlord's guide to installing smart thermostats in rental units, covering top models, installation, tenant consent, remote monitoring, and energy savings benefits.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/smart-thermostat-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Installing Smart Thermostats in Rental Units\",\"item\":\"https://portfoliorental.com/blog/smart-thermostat-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Installing Smart Thermostats in Rental Units"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-smart-thermostats-make-sense-for-rental-properties",{"className":"","children":["$","a",null,{"href":"#why-smart-thermostats-make-sense-for-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Smart Thermostats Make Sense for Rental Properties"}]}],["$","li","for-landlords-who-pay-utilities",{"className":"ml-4","children":["$","a",null,{"href":"#for-landlords-who-pay-utilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"For Landlords Who Pay Utilities"}]}],["$","li","for-tenants-who-pay-utilities",{"className":"ml-4","children":["$","a",null,{"href":"#for-tenants-who-pay-utilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"For Tenants Who Pay Utilities"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"]}]}]]}],"$L28","$L29"]}],"$L2a","$L2b"]}],"$L2c"]}]]}],"$L2d"]
+11:["$","li","hvac-protection-for-all-landlords",{"className":"ml-4","children":["$","a",null,{"href":"#hvac-protection-for-all-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC Protection for All Landlords"}]}]
+12:["$","li","key-features-to-look-for",{"className":"","children":["$","a",null,{"href":"#key-features-to-look-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Features to Look For"}]}]
+13:["$","li","remote-access-and-monitoring",{"className":"ml-4","children":["$","a",null,{"href":"#remote-access-and-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Remote Access and Monitoring"}]}]
+14:["$","li","geofencing-and-occupancy-detection",{"className":"ml-4","children":["$","a",null,{"href":"#geofencing-and-occupancy-detection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Geofencing and Occupancy Detection"}]}]
+15:["$","li","compatibility-with-existing-hvac",{"className":"ml-4","children":["$","a",null,{"href":"#compatibility-with-existing-hvac","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Compatibility With Existing HVAC"}]}]
+16:["$","li","top-smart-thermostat-recommendations-for-rentals",{"className":"","children":["$","a",null,{"href":"#top-smart-thermostat-recommendations-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Top Smart Thermostat Recommendations for Rentals"}]}]
+17:["$","li","best-overall-google-nest-learning-thermostat-4th-generation",{"className":"ml-4","children":["$","a",null,{"href":"#best-overall-google-nest-learning-thermostat-4th-generation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Overall: Google Nest Learning Thermostat (4th Generation)"}]}]
+18:["$","li","best-for-landlords-with-multiple-units-ecobee-smart-thermostat-premium",{"className":"ml-4","children":["$","a",null,{"href":"#best-for-landlords-with-multiple-units-ecobee-smart-thermostat-premium","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best for Landlords with Multiple Units: ecobee Smart Thermostat Premium"}]}]
+19:["$","li","best-budget-option-google-nest-thermostat-non-learning",{"className":"ml-4","children":["$","a",null,{"href":"#best-budget-option-google-nest-thermostat-non-learning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Budget Option: Google Nest Thermostat (Non-Learning)"}]}]
+1a:["$","li","best-for-simple-installations-honeywell-home-t6-pro",{"className":"ml-4","children":["$","a",null,{"href":"#best-for-simple-installations-honeywell-home-t6-pro","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best for Simple Installations: Honeywell Home T6 Pro"}]}]
+1b:["$","li","installation-step-by-step-overview",{"className":"","children":["$","a",null,{"href":"#installation-step-by-step-overview","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Installation: Step-by-Step Overview"}]}]
+1c:["$","li","step-1-verify-compatibility",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-verify-compatibility","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Verify Compatibility"}]}]
+1d:["$","li","step-2-turn-off-hvac-power",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-turn-off-hvac-power","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Turn Off HVAC Power"}]}]
+1e:["$","li","step-3-label-and-remove-existing-thermostat",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-label-and-remove-existing-thermostat","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Label and Remove Existing Thermostat"}]}]
+1f:["$","li","step-4-install-new-backplate-and-wire",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-install-new-backplate-and-wire","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Install New Backplate and Wire"}]}]
+20:["$","li","step-5-install-thermostat-restore-power-and-configure",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-install-thermostat-restore-power-and-configure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Install Thermostat, Restore Power, and Configure"}]}]
+21:["$","li","tenant-consent-and-privacy-considerations",{"className":"","children":["$","a",null,{"href":"#tenant-consent-and-privacy-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Consent and Privacy Considerations"}]}]
+22:["$","li","landlord-monitoring-capabilities",{"className":"ml-4","children":["$","a",null,{"href":"#landlord-monitoring-capabilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Monitoring Capabilities"}]}]
+23:["$","li","what-tenants-can-and-cannot-control",{"className":"ml-4","children":["$","a",null,{"href":"#what-tenants-can-and-cannot-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Tenants Can and Cannot Control"}]}]
+24:["$","li","smart-thermostats-and-vacant-units",{"className":"","children":["$","a",null,{"href":"#smart-thermostats-and-vacant-units","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Thermostats and Vacant Units"}]}]
+25:["$","li","energy-savings-calculations",{"className":"","children":["$","a",null,{"href":"#energy-savings-calculations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Energy Savings Calculations"}]}]
+26:["$","li","lease-and-policy-provisions",{"className":"","children":["$","a",null,{"href":"#lease-and-policy-provisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lease and Policy Provisions"}]}]
+27:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2e:T33b2,<p>Smart thermostats are one of the most popular <a href="/blog/energy-efficiency-upgrades-rental">energy efficiency upgrades</a> available to rental property owners. They save energy, reduce HVAC wear, provide remote monitoring capability for landlords, and are a highly visible amenity that tenants appreciate. At $100-$300 per unit installed, they offer an excellent cost-to-benefit ratio compared to most other smart home upgrades.</p>
+<p>This guide covers which smart thermostats work best for rental properties, how to handle installation, tenant consent and privacy considerations, and how to structure remote monitoring arrangements with tenants.</p>
+<hr>
+<h2 id="why-smart-thermostats-make-sense-for-rental-properties">Why Smart Thermostats Make Sense for Rental Properties</h2>
+<h3 id="for-landlords-who-pay-utilities">For Landlords Who Pay Utilities</h3>
+<p>When the landlord pays heating and cooling costs (common in some multi-family buildings, furnished rentals, and markets where utilities are bundled), smart thermostats directly reduce your operating costs by:</p>
+<ul>
+<li>Enabling remote adjustment when the unit appears unoccupied</li>
+<li>Automatically setting back temperature during extended periods of non-use</li>
+<li>Alerting you when the unit is unusually hot or cold (suggesting HVAC issues)</li>
+<li>Reducing energy waste from tenants leaving heat or AC running at extreme settings</li>
+</ul>
+<p>The <a href="https://www.energystar.gov/products/smart_thermostats">EPA's ENERGY STAR program</a> confirms savings of 15-20% on HVAC operating costs, which can more than justify the cost of the thermostat within 6-12 months for a utility-paid property.</p>
+<h3 id="for-tenants-who-pay-utilities">For Tenants Who Pay Utilities</h3>
+<p>When tenants pay their own utilities:</p>
+<ul>
+<li>Smart thermostats are a value-added amenity — particularly popular with younger renters</li>
+<li>Tenants save money on their own utility bills (building goodwill and justifying slightly higher rent)</li>
+<li>Landlords benefit from the remote monitoring and HVAC protection features regardless of who pays utilities</li>
+</ul>
+<h3 id="hvac-protection-for-all-landlords">HVAC Protection for All Landlords</h3>
+<p>Regardless of who pays utilities, smart thermostats protect your HVAC investment by:</p>
+<ul>
+<li>Alerting you when the unit temperature drops below freeze risk thresholds (typically below 40°F)</li>
+<li>Detecting when heat has been lost per <a href="https://www.fema.gov/emergency-managers/risk-management/winterization">FEMA freeze prevention tips</a></li>
+<li>Monitoring whether tenants are maintaining minimum temperatures per lease requirements</li>
+<li>Alerting you to HVAC malfunctions. Follow your <a href="/blog/hvac-maintenance-rental-property">HVAC maintenance schedule</a> to prevent failures</li>
+</ul>
+<hr>
+<h2 id="key-features-to-look-for">Key Features to Look For</h2>
+<h3 id="remote-access-and-monitoring">Remote Access and Monitoring</h3>
+<p>For landlord use cases, remote access is the critical feature:</p>
+<ul>
+<li>Ability to view current temperature and set point remotely</li>
+<li>Energy usage history</li>
+<li>System alerts (high/low temperature alerts, HVAC fault alerts)</li>
+<li>Ability to adjust settings remotely (particularly important for vacant units)</li>
+</ul>
+<h3 id="geofencing-and-occupancy-detection">Geofencing and Occupancy Detection</h3>
+<p>Smart thermostats can detect when the unit is occupied (through phone geofencing or built-in motion sensors) and automatically adjust the temperature when the home is empty. This is the primary driver of energy savings.</p>
+<h3 id="compatibility-with-existing-hvac">Compatibility With Existing HVAC</h3>
+<p>Before purchasing, verify compatibility with the property's HVAC system:</p>
+<ul>
+<li>Most smart thermostats work with standard forced-air systems (heat + AC)</li>
+<li>Multi-stage systems require compatible thermostats</li>
+<li>Radiant heat, steam boilers, and certain heat pump systems may have limited compatible options</li>
+<li><strong>C-wire requirement</strong>: Most modern smart thermostats require a "common wire" (C-wire) for continuous power. Many older systems lack a C-wire; check before purchasing or budget for a C-wire adapter.</li>
+</ul>
+<hr>
+<h2 id="top-smart-thermostat-recommendations-for-rentals">Top Smart Thermostat Recommendations for Rentals</h2>
+<h3 id="best-overall-google-nest-learning-thermostat-4th-generation">Best Overall: Google Nest Learning Thermostat (4th Generation)</h3>
+<p>The Nest Learning Thermostat is the gold standard for smart thermostats:</p>
+<ul>
+<li>Learns tenant schedules automatically over the first 1-2 weeks</li>
+<li>Excellent remote monitoring via Google Home app</li>
+<li>Supports Energy History — detailed view of energy usage</li>
+<li>Home/Away Assist uses phone location and sensors to adjust automatically</li>
+<li>Very refined, professional-looking hardware (matters for premium rentals)</li>
+<li>Compatible with most HVAC systems</li>
+</ul>
+<p><strong>Best for:</strong> Higher-end rentals and landlords who want the best combination of features and appearance.</p>
+<p><strong>Price:</strong> $250 retail; often $180-$220 when on sale.</p>
+<h3 id="best-for-landlords-with-multiple-units-ecobee-smart-thermostat-premium">Best for Landlords with Multiple Units: ecobee Smart Thermostat Premium</h3>
+<p>The ecobee is the preferred choice for landlords managing multiple units due to:</p>
+<ul>
+<li><strong>SmartThermostat Enterprise</strong> program for landlords with 5+ units</li>
+<li>Remote sensor included (measures temperature in different rooms)</li>
+<li>Detailed usage reports by unit</li>
+<li>Integration with major property management platforms</li>
+<li>Built-in Alexa and Apple HomeKit compatibility</li>
+<li>Siri, Alexa, and Google Assistant support</li>
+</ul>
+<p><strong>Best for:</strong> Multi-unit landlords who want consolidated monitoring.</p>
+<p><strong>Price:</strong> $220-$250 retail.</p>
+<h3 id="best-budget-option-google-nest-thermostat-non-learning">Best Budget Option: Google Nest Thermostat (Non-Learning)</h3>
+<p>The base model Nest Thermostat (without learning) provides solid smart thermostat functionality at a lower cost:</p>
+<ul>
+<li>Remote access via Google Home app</li>
+<li>Schedule programming (not self-learning)</li>
+<li>Energy Savings reports</li>
+<li>Works well for rental applications where auto-learning is less critical</li>
+</ul>
+<p><strong>Price:</strong> $130 retail.</p>
+<h3 id="best-for-simple-installations-honeywell-home-t6-pro">Best for Simple Installations: Honeywell Home T6 Pro</h3>
+<p>A smart thermostat that works without a C-wire in most configurations:</p>
+<ul>
+<li>No C-wire required (harvests power from R/RC wires)</li>
+<li>Wi-Fi connected</li>
+<li>Simple scheduling via app</li>
+<li>More reliable in complex systems that have issues with the C-wire requirement</li>
+</ul>
+<p><strong>Price:</strong> $100-$130.</p>
+<hr>
+<h2 id="installation-step-by-step-overview">Installation: Step-by-Step Overview</h2>
+<p>Smart thermostat installation is typically DIY-friendly:</p>
+<h3 id="step-1-verify-compatibility">Step 1: Verify Compatibility</h3>
+<p>Use the compatibility checkers on the Nest or ecobee website. Enter your thermostat wire colors and existing thermostat model to confirm the smart thermostat will work.</p>
+<h3 id="step-2-turn-off-hvac-power">Step 2: Turn Off HVAC Power</h3>
+<p>Follow <a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Electrical-Safety">CPSC electrical safety rules</a> and turn off the breaker before beginning any wiring work.</p>
+<h3 id="step-3-label-and-remove-existing-thermostat">Step 3: Label and Remove Existing Thermostat</h3>
+<ul>
+<li>Take a photo of the existing wiring before disconnecting anything</li>
+<li>Label each wire with tape corresponding to its current terminal</li>
+<li>Remove the existing thermostat</li>
+</ul>
+<h3 id="step-4-install-new-backplate-and-wire">Step 4: Install New Backplate and Wire</h3>
+<ul>
+<li>Mount the new thermostat's base plate to the wall</li>
+<li>Connect wires to the corresponding terminals per the manufacturer's instructions</li>
+<li>The photo you took in Step 3 is your reference</li>
+</ul>
+<h3 id="step-5-install-thermostat-restore-power-and-configure">Step 5: Install Thermostat, Restore Power, and Configure</h3>
+<ul>
+<li>Snap the thermostat onto the base</li>
+<li>Restore power to the HVAC system</li>
+<li>Follow the in-unit setup process to connect to Wi-Fi and configure basic settings</li>
+</ul>
+<p>If you encounter a C-wire issue, Nest sells an inexpensive C-wire adapter and ecobee includes a Power Extender Kit (PEK) in the box for this situation.</p>
+<p><strong>Professional installation cost:</strong> $75-$150 per thermostat if hiring an electrician or HVAC technician. Many landlords DIY this across their portfolio to save costs.</p>
+<hr>
+<h2 id="tenant-consent-and-privacy-considerations">Tenant Consent and Privacy Considerations</h2>
+<h3 id="landlord-monitoring-capabilities">Landlord Monitoring Capabilities</h3>
+<p>When a landlord installs a smart thermostat, the landlord retains access to the device through the manufacturer's app. This creates a monitoring capability that requires:</p>
+<ol>
+<li>
+<p><strong>Disclosure</strong> — Inform tenants that a smart thermostat is installed and that the landlord has remote access</p>
+</li>
+<li>
+<p><strong>Consent</strong> — Have tenants acknowledge this in the lease or a technology addendum</p>
+</li>
+<li>
+<p><strong>Appropriate use</strong> — Limit landlord remote monitoring to:</p>
+<ul>
+<li>Temperature safety checks (freeze protection)</li>
+<li>Energy management for utility-paid properties</li>
+<li>HVAC fault detection</li>
+<li>Vacant unit management</li>
+</ul>
+</li>
+<li>
+<p><strong>Not for surveillance</strong> — Do not use thermostat occupancy data to monitor tenant schedules or movements</p>
+</li>
+</ol>
+<h3 id="what-tenants-can-and-cannot-control">What Tenants Can and Cannot Control</h3>
+<p>A well-structured smart thermostat arrangement clarifies:</p>
+<ul>
+<li>Tenants can set their own temperature preferences within a defined range</li>
+<li>Tenants can use scheduling features</li>
+<li>Landlord remote access is reserved for specific purposes and disclosed upfront</li>
+<li>Landlord will not change tenant settings without notice (except emergency situations)</li>
+</ul>
+<p>Some landlords use the "admin controls" feature in smart thermostat apps to set minimum/maximum temperature limits — for example, preventing tenants from setting heat below 55°F or above 85°F. This protects the HVAC system and ensures lease temperature requirements are met.</p>
+<hr>
+<h2 id="smart-thermostats-and-vacant-units">Smart Thermostats and Vacant Units</h2>
+<p>One of the highest-value use cases for smart thermostats is vacant unit management:</p>
+<ul>
+<li>Set temperature to minimum safe level (55°F) during vacancy</li>
+<li>Receive alerts if temperature drops below the setpoint (indicating HVAC failure or heat loss)</li>
+<li>No need to physically visit the unit to verify heating is operating</li>
+<li>Adjust remotely when showing the unit to prospective tenants</li>
+</ul>
+<p>This is particularly valuable for winterizing rental properties — see our guide on <a href="/blog/winterizing-rental-property">winterizing rental properties</a> for the complete approach.</p>
+<hr>
+<h2 id="energy-savings-calculations">Energy Savings Calculations</h2>
+<p>For landlords who pay utilities:</p>
+<p><strong>Typical savings:</strong> 15-20% reduction in heating and cooling costs</p>
+<p><strong>Example:</strong> A unit with $150/month in annual heating and cooling costs saves $22-$30/month = $270-$360/year</p>
+<p><strong>Payback period on a $200 thermostat:</strong> 7-9 months</p>
+<p><strong>For a 10-unit building:</strong> $2,700-$3,600/year in energy savings on a $2,000 thermostat investment — under 1-year payback.</p>
+<p>For tenant-paid utilities, the energy savings accrue to the tenant, but the landlord benefits from the monitoring and HVAC protection features.</p>
+<hr>
+<h2 id="lease-and-policy-provisions">Lease and Policy Provisions</h2>
+<p>Your lease should address smart thermostats:</p>
+<ul>
+<li>Identify the thermostat as landlord property</li>
+<li>Disclose remote access capability and its intended use</li>
+<li>Define temperature range limits if applicable</li>
+<li>Specify tenant responsibility for thermostat care (not removing, covering sensors, etc.)</li>
+<li>Address what happens if the tenant disconnects the thermostat from Wi-Fi</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Smart thermostats are one of the most cost-effective technology investments in rental property management — delivering energy savings, HVAC protection, freeze prevention, and a valued tenant amenity in a single $150-$250 device. Installation is straightforward, and the combination of remote monitoring and automatic scheduling provides ongoing value throughout the tenancy.</p>
+<p>For related smart home upgrades, see our articles on <a href="/blog/smart-locks-rental-property">smart locks for rental properties</a> and <a href="/blog/property-monitoring-system">remote property monitoring systems</a>.</p>
+28:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2e"}}]
+29:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","smart thermostat",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"smart thermostat"}],["$","span","property technology",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property technology"}],["$","span","smart home",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"smart home"}],["$","span","energy efficiency",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"energy efficiency"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}]]}]
+2a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+2b:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","smart-locks-rental-property",{"href":"/blog/smart-locks-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Smart Locks for Rental Properties: Best Options"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","water-leak-detection-rental",{"href":"/blog/water-leak-detection-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Water Leak Detection Systems for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","ev-charging-station-rental",{"href":"/blog/ev-charging-station-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Adding EV Charging Stations to Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+2c:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-smart-thermostats-make-sense-for-rental-properties",{"className":"","children":["$","a",null,{"href":"#why-smart-thermostats-make-sense-for-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Smart Thermostats Make Sense for Rental Properties"}]}],["$","li","for-landlords-who-pay-utilities",{"className":"ml-4","children":["$","a",null,{"href":"#for-landlords-who-pay-utilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"For Landlords Who Pay Utilities"}]}],["$","li","for-tenants-who-pay-utilities",{"className":"ml-4","children":["$","a",null,{"href":"#for-tenants-who-pay-utilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"For Tenants Who Pay Utilities"}]}],["$","li","hvac-protection-for-all-landlords",{"className":"ml-4","children":["$","a",null,{"href":"#hvac-protection-for-all-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC Protection for All Landlords"}]}],["$","li","key-features-to-look-for",{"className":"","children":["$","a",null,{"href":"#key-features-to-look-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Features to Look For"}]}],["$","li","remote-access-and-monitoring",{"className":"ml-4","children":["$","a",null,{"href":"#remote-access-and-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Remote Access and Monitoring"}]}],["$","li","geofencing-and-occupancy-detection",{"className":"ml-4","children":["$","a",null,{"href":"#geofencing-and-occupancy-detection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Geofencing and Occupancy Detection"}]}],["$","li","compatibility-with-existing-hvac",{"className":"ml-4","children":["$","a",null,{"href":"#compatibility-with-existing-hvac","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Compatibility With Existing HVAC"}]}],["$","li","top-smart-thermostat-recommendations-for-rentals",{"className":"","children":["$","a",null,{"href":"#top-smart-thermostat-recommendations-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Top Smart Thermostat Recommendations for Rentals"}]}],["$","li","best-overall-google-nest-learning-thermostat-4th-generation",{"className":"ml-4","children":["$","a",null,{"href":"#best-overall-google-nest-learning-thermostat-4th-generation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Overall: Google Nest Learning Thermostat (4th Generation)"}]}],["$","li","best-for-landlords-with-multiple-units-ecobee-smart-thermostat-premium",{"className":"ml-4","children":["$","a",null,{"href":"#best-for-landlords-with-multiple-units-ecobee-smart-thermostat-premium","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best for Landlords with Multiple Units: ecobee Smart Thermostat Premium"}]}],["$","li","best-budget-option-google-nest-thermostat-non-learning",{"className":"ml-4","children":["$","a",null,{"href":"#best-budget-option-google-nest-thermostat-non-learning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Budget Option: Google Nest Thermostat (Non-Learning)"}]}],["$","li","best-for-simple-installations-honeywell-home-t6-pro",{"className":"ml-4","children":"$L2f"}],"$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c"]}]]}]}]
+2d:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2f:["$","a",null,{"href":"#best-for-simple-installations-honeywell-home-t6-pro","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best for Simple Installations: Honeywell Home T6 Pro"}]
+30:["$","li","installation-step-by-step-overview",{"className":"","children":["$","a",null,{"href":"#installation-step-by-step-overview","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Installation: Step-by-Step Overview"}]}]
+31:["$","li","step-1-verify-compatibility",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-verify-compatibility","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Verify Compatibility"}]}]
+32:["$","li","step-2-turn-off-hvac-power",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-turn-off-hvac-power","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Turn Off HVAC Power"}]}]
+33:["$","li","step-3-label-and-remove-existing-thermostat",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-label-and-remove-existing-thermostat","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Label and Remove Existing Thermostat"}]}]
+34:["$","li","step-4-install-new-backplate-and-wire",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-install-new-backplate-and-wire","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Install New Backplate and Wire"}]}]
+35:["$","li","step-5-install-thermostat-restore-power-and-configure",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-install-thermostat-restore-power-and-configure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Install Thermostat, Restore Power, and Configure"}]}]
+36:["$","li","tenant-consent-and-privacy-considerations",{"className":"","children":["$","a",null,{"href":"#tenant-consent-and-privacy-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Consent and Privacy Considerations"}]}]
+37:["$","li","landlord-monitoring-capabilities",{"className":"ml-4","children":["$","a",null,{"href":"#landlord-monitoring-capabilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Monitoring Capabilities"}]}]
+38:["$","li","what-tenants-can-and-cannot-control",{"className":"ml-4","children":["$","a",null,{"href":"#what-tenants-can-and-cannot-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Tenants Can and Cannot Control"}]}]
+39:["$","li","smart-thermostats-and-vacant-units",{"className":"","children":["$","a",null,{"href":"#smart-thermostats-and-vacant-units","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Thermostats and Vacant Units"}]}]
+3a:["$","li","energy-savings-calculations",{"className":"","children":["$","a",null,{"href":"#energy-savings-calculations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Energy Savings Calculations"}]}]
+3b:["$","li","lease-and-policy-provisions",{"className":"","children":["$","a",null,{"href":"#lease-and-policy-provisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lease and Policy Provisions"}]}]
+3c:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Installing Smart Thermostats in Rental Units | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A landlord's guide to installing smart thermostats in rental units, covering top models, installation, tenant consent, remote monitoring, and energy savings benefits."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"smart thermostat,property technology,smart home,energy efficiency,landlord tips"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/smart-thermostat-rental-property"}],["$","meta","6",{"property":"og:title","content":"Installing Smart Thermostats in Rental Units"}],["$","meta","7",{"property":"og:description","content":"A landlord's guide to installing smart thermostats in rental units, covering top models, installation, tenant consent, remote monitoring, and energy savings benefits."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/smart-thermostat-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Installing Smart Thermostats in Rental Units"}],["$","meta","15",{"name":"twitter:description","content":"A landlord's guide to installing smart thermostats in rental units, covering top models, installation, tenant consent, remote monitoring, and energy savings benefits."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

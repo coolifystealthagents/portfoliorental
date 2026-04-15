@@ -1,0 +1,258 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","keyless-entry-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","keyless-entry-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","keyless-entry-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Keyless Entry Systems for Multi-Family Rentals\",\"description\":\"A guide to keyless entry systems for multi-family rental properties, covering building access control, intercom systems, fob and mobile entry, and top product recommendations.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/keyless-entry-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Keyless Entry Systems for Multi-Family Rentals\",\"item\":\"https://portfoliorental.com/blog/keyless-entry-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Keyless Entry Systems for Multi-Family Rentals"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-multi-family-access-control-challenge",{"className":"","children":["$","a",null,{"href":"#the-multi-family-access-control-challenge","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Multi-Family Access Control Challenge"}]}],["$","li","components-of-a-multi-family-keyless-entry-system",{"className":"","children":["$","a",null,{"href":"#components-of-a-multi-family-keyless-entry-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Components of a Multi-Family Keyless Entry System"}]}],["$","li","1-building-entry-lobby-access",{"className":"ml-4","children":["$","a",null,{"href":"#1-building-entry-lobby-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Building Entry / Lobby Access"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}]]}],"$L26","$L27"]}],"$L28","$L29"]}],"$L2a"]}]]}],"$L2b"]
+11:["$","li","2-package-room-access",{"className":"ml-4","children":["$","a",null,{"href":"#2-package-room-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Package Room Access"}]}]
+12:["$","li","3-amenity-space-access",{"className":"ml-4","children":["$","a",null,{"href":"#3-amenity-space-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Amenity Space Access"}]}]
+13:["$","li","4-parking-garage-access",{"className":"ml-4","children":["$","a",null,{"href":"#4-parking-garage-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Parking Garage Access"}]}]
+14:["$","li","5-individual-unit-doors",{"className":"ml-4","children":["$","a",null,{"href":"#5-individual-unit-doors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Individual Unit Doors"}]}]
+15:["$","li","top-keyless-entry-products-for-multi-family",{"className":"","children":["$","a",null,{"href":"#top-keyless-entry-products-for-multi-family","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Top Keyless Entry Products for Multi-Family"}]}]
+16:["$","li","latch-building-access-platform",{"className":"ml-4","children":["$","a",null,{"href":"#latch-building-access-platform","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Latch (Building Access Platform)"}]}]
+17:["$","li","butterflymx-smart-video-intercom",{"className":"ml-4","children":["$","a",null,{"href":"#butterflymx-smart-video-intercom","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ButterflyMX Smart Video Intercom"}]}]
+18:["$","li","salto-ks-keys-as-a-service",{"className":"ml-4","children":["$","a",null,{"href":"#salto-ks-keys-as-a-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Salto KS (Keys as a Service)"}]}]
+19:["$","li","kisi",{"className":"ml-4","children":["$","a",null,{"href":"#kisi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"KISI"}]}]
+1a:["$","li","aiphone-gt-series-traditional-video-intercom",{"className":"ml-4","children":["$","a",null,{"href":"#aiphone-gt-series-traditional-video-intercom","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Aiphone GT Series (Traditional Video Intercom)"}]}]
+1b:["$","li","implementation-considerations",{"className":"","children":["$","a",null,{"href":"#implementation-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Implementation Considerations"}]}]
+1c:["$","li","building-infrastructure",{"className":"ml-4","children":["$","a",null,{"href":"#building-infrastructure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Infrastructure"}]}]
+1d:["$","li","tenant-onboarding",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-onboarding","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Onboarding"}]}]
+1e:["$","li","vendor-and-maintenance-access",{"className":"ml-4","children":["$","a",null,{"href":"#vendor-and-maintenance-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Vendor and Maintenance Access"}]}]
+1f:["$","li","emergency-services-access",{"className":"ml-4","children":["$","a",null,{"href":"#emergency-services-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Emergency Services Access"}]}]
+20:["$","li","cost-overview",{"className":"","children":["$","a",null,{"href":"#cost-overview","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cost Overview"}]}]
+21:["$","li","roi-and-tenant-impact",{"className":"","children":["$","a",null,{"href":"#roi-and-tenant-impact","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ROI and Tenant Impact"}]}]
+22:["$","li","reduced-administrative-costs",{"className":"ml-4","children":["$","a",null,{"href":"#reduced-administrative-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reduced Administrative Costs"}]}]
+23:["$","li","rent-premium-and-competitive-advantage",{"className":"ml-4","children":["$","a",null,{"href":"#rent-premium-and-competitive-advantage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rent Premium and Competitive Advantage"}]}]
+24:["$","li","reduced-liability",{"className":"ml-4","children":["$","a",null,{"href":"#reduced-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reduced Liability"}]}]
+25:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2c:T3109,<p>Managing access to multi-family rental properties presents unique challenges that single-family landlords do not face. Building entry, package rooms, amenity spaces, parking garages, and individual unit doors all require controlled access for tenants, guests, vendors, and delivery personnel. A comprehensive keyless entry system simplifies this complexity, improves security, reduces key management headaches, and delivers a premium experience that attracts quality tenants.</p>
+<p>This guide covers the full spectrum of keyless entry technology for multi-family properties — from building entry and intercoms to unit door locks and package delivery access.</p>
+<hr>
+<h2 id="the-multi-family-access-control-challenge">The Multi-Family Access Control Challenge</h2>
+<p>Traditional key-based access for multi-family properties creates a cascade of management problems:</p>
+<ul>
+<li><strong>Key proliferation</strong> — Tenants lose keys, share keys, and make unauthorized copies</li>
+<li><strong>Turnover costs</strong> — Rekeying all affected locks at every turnover is expensive and time-consuming</li>
+<li><strong>Guest and vendor access</strong> — Managing building entry for guests, contractors, cleaners, and delivery services requires human coordination</li>
+<li><strong>Security gaps</strong> — Traditional intercoms can be easily bypassed; physical keys can be copied</li>
+</ul>
+<p>Keyless entry systems address all of these issues while providing an access audit trail that traditional keys cannot.</p>
+<hr>
+<h2 id="components-of-a-multi-family-keyless-entry-system">Components of a Multi-Family Keyless Entry System</h2>
+<p>A comprehensive system addresses multiple access points:</p>
+<h3 id="1-building-entry-lobby-access">1. Building Entry / Lobby Access</h3>
+<p>The front entry is the most critical control point. Options range from basic keypad entry to sophisticated video intercom systems with remote access.</p>
+<p><strong>Keypad Entry</strong></p>
+<ul>
+<li>Simple numeric keypad at the main entry</li>
+<li>Tenant enters a code to access the building</li>
+<li>Pros: Simple, low cost; Cons: Codes can be shared widely, no guest management</li>
+</ul>
+<p><strong>Key Fob / Proximity Card Systems</strong></p>
+<ul>
+<li>Tenants carry a key fob or card that is read by a wireless reader at entry points</li>
+<li>Easily deactivated when a fob is lost or a tenant moves out</li>
+<li>Can control multiple access points (garage, pool, package room, lobby) with a single credential</li>
+<li>Industry standard for mid-size to large multi-family properties</li>
+</ul>
+<p><strong>Smart Intercom / Video Intercom Systems</strong></p>
+<ul>
+<li>Visitors ring the unit intercom; tenant can see and speak with the visitor</li>
+<li>Tenant remotely unlocks the door via intercom panel or smartphone app</li>
+<li>Modern systems like Latch, Butterfly MX, Salto, and 2N offer full smartphone-based management</li>
+<li>Package delivery integration: provide delivery carriers (Amazon, FedEx, USPS) with time-limited PIN access</li>
+</ul>
+<h3 id="2-package-room-access">2. Package Room Access</h3>
+<p>Package theft is one of the top concerns for apartment renters. Smart package room solutions:</p>
+<ul>
+<li><strong>Smart locker systems</strong> (Amazon Hub, Luxer One, Parcel Pending) — Automatically assign packages to lockers; tenants receive unique retrieval codes</li>
+<li><strong>Controlled-access package rooms</strong> — Smart lock on the package room door; only tenants can enter; carriers are given time-limited access</li>
+</ul>
+<h3 id="3-amenity-space-access">3. Amenity Space Access</h3>
+<p>Pool, gym, rooftop, and other amenity spaces benefit from controlled access to ensure only current tenants use these spaces:</p>
+<ul>
+<li>Key fob readers on amenity space doors (same credential as building entry)</li>
+<li>Time-limited access schedules (pool closed after 10 PM)</li>
+<li>Access logging for liability documentation</li>
+</ul>
+<h3 id="4-parking-garage-access">4. Parking Garage Access</h3>
+<ul>
+<li>Vehicle gate controllers with key fob or license plate recognition</li>
+<li>Prevents non-tenant use of parking spaces</li>
+<li>Remote gate management for landlord and vendors</li>
+</ul>
+<h3 id="5-individual-unit-doors">5. Individual Unit Doors</h3>
+<p>For individual unit doors in multi-family properties, see our detailed guide on <a href="/blog/smart-locks-rental-property">smart locks for rental properties</a>.</p>
+<hr>
+<h2 id="top-keyless-entry-products-for-multi-family">Top Keyless Entry Products for Multi-Family</h2>
+<h3 id="latch-building-access-platform">Latch (Building Access Platform)</h3>
+<p>Latch is a purpose-built multi-family access platform offering:</p>
+<ul>
+<li>L series hardware for unit doors</li>
+<li>R series for common area doors (lobbies, amenity spaces, package rooms)</li>
+<li>Full property management platform with resident app</li>
+<li>Multiple access credentials: app, NFC card, pin code</li>
+<li>Works with property management software including Yardi and RealPage</li>
+<li>Built-in guest access management and delivery access</li>
+<li><strong>Best for:</strong> Mid-size to large apartment buildings (20+ units)</li>
+</ul>
+<h3 id="butterflymx-smart-video-intercom">ButterflyMX Smart Video Intercom</h3>
+<p>ButterflyMX focuses specifically on the video intercom use case:</p>
+<ul>
+<li>Full video intercom with resident smartphone app</li>
+<li>Residents can unlock from anywhere via phone</li>
+<li>Virtual keys for guests (time-limited)</li>
+<li>Package delivery integration</li>
+<li>Works with existing building wiring in many installations</li>
+<li><strong>Best for:</strong> Buildings that need a best-in-class entry intercom</li>
+</ul>
+<h3 id="salto-ks-keys-as-a-service">Salto KS (Keys as a Service)</h3>
+<p>Salto KS is a cloud-based access control platform:</p>
+<ul>
+<li>Works with Salto's electronic door hardware</li>
+<li>Mobile credentials on resident smartphones</li>
+<li>Online access management without physical key distribution</li>
+<li>Good for multi-family buildings of any size</li>
+<li><strong>Best for:</strong> Landlords who want a scalable, enterprise-grade platform</li>
+</ul>
+<h3 id="kisi">KISI</h3>
+<p>KISI is a cloud-based access control platform suitable for multi-family:</p>
+<ul>
+<li>Works with standard electronic locks and readers</li>
+<li>Mobile app access with backup PIN codes</li>
+<li>Detailed access logs</li>
+<li>Integrates with many property management systems</li>
+<li><strong>Best for:</strong> Tech-forward landlords who want API integration flexibility</li>
+</ul>
+<h3 id="aiphone-gt-series-traditional-video-intercom">Aiphone GT Series (Traditional Video Intercom)</h3>
+<p>For landlords who prefer proven technology over cutting-edge platforms:</p>
+<ul>
+<li>Hardwired video intercom system</li>
+<li>Unit intercom panels allow residents to see and speak with visitors</li>
+<li>Door release from intercom panel</li>
+<li>Highly reliable; minimal technology dependence</li>
+<li><strong>Best for:</strong> Properties where smartphone-dependent systems raise usability concerns for older residents</li>
+</ul>
+<hr>
+<h2 id="implementation-considerations">Implementation Considerations</h2>
+<h3 id="building-infrastructure">Building Infrastructure</h3>
+<p>Before selecting a system, assess your building's infrastructure:</p>
+<ul>
+<li><strong>Existing wiring</strong> — Can existing intercom wiring be repurposed, or is new wiring needed?</li>
+<li><strong>Internet/Wi-Fi</strong> — Cloud-based systems require reliable internet at entry points; consider a dedicated connection for access control</li>
+<li><strong>Power</strong> — Electronic access control requires constant power; battery backup is essential for entry systems</li>
+<li><strong>Door hardware compatibility</strong> — Assess whether existing door hardware can be retrofitted or must be replaced</li>
+</ul>
+<h3 id="tenant-onboarding">Tenant Onboarding</h3>
+<p>When transitioning from physical keys to keyless entry:</p>
+<ul>
+<li>Conduct a building meeting or individual orientations to demonstrate the system</li>
+<li>Provide written instructions and tech support resources</li>
+<li>Offer a transition period where both physical keys and the new system work simultaneously</li>
+<li>Ensure all tenants are successfully onboarded before retiring physical keys</li>
+</ul>
+<h3 id="vendor-and-maintenance-access">Vendor and Maintenance Access</h3>
+<p>A key advantage of smart access systems is simplifying vendor access:</p>
+<ul>
+<li>Issue time-limited PINs for contractors. See <a href="/blog/find-reliable-contractors-rental">find reliable contractors</a> for sourcing tips</li>
+<li>Issue scheduled PINs for recurring vendors (cleaners, landscapers)</li>
+<li>All vendor access is logged with timestamp</li>
+<li>No need to physically hand off keys or be present for access</li>
+</ul>
+<h3 id="emergency-services-access">Emergency Services Access</h3>
+<p>Work with your local fire department on emergency access:</p>
+<ul>
+<li>Many buildings install a Knox Box at the main entry containing emergency access keys or master fobs</li>
+<li>Ensure your electronic access system has manual override capability (physical key backup)</li>
+<li>Confirm your fire suppression and alarm systems are compatible with any door control systems (doors must unlock automatically when fire alarm activates in most codes). Check <a href="https://www.fema.gov/emergency-managers/risk-management/fire">FEMA fire safety resources</a> for guidance.</li>
+</ul>
+<hr>
+<h2 id="cost-overview">Cost Overview</h2>
+<table>
+<thead>
+<tr>
+<th>System Component</th>
+<th>Estimated Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Video intercom (per building entry)</td>
+<td>$1,500-$5,000</td>
+</tr>
+<tr>
+<td>Key fob reader per door</td>
+<td>$400-$800</td>
+</tr>
+<tr>
+<td>Key fob per resident</td>
+<td>$10-$25</td>
+</tr>
+<tr>
+<td>Smart locker system (12 lockers)</td>
+<td>$8,000-$15,000</td>
+</tr>
+<tr>
+<td>Parking gate controller</td>
+<td>$2,000-$6,000</td>
+</tr>
+<tr>
+<td>Monthly software/platform fee</td>
+<td>$50-$300/month depending on units</td>
+</tr>
+<tr>
+<td>Professional installation</td>
+<td>$500-$2,000+ per project</td>
+</tr>
+</tbody>
+</table>
+<p>For a 20-unit building, a complete keyless entry system with building intercom, common area access control, and smart unit door locks typically costs $15,000-$40,000 installed — a significant capital investment that should be evaluated against tenant retention, reduced administrative costs, and potential rent premium.</p>
+<hr>
+<h2 id="roi-and-tenant-impact">ROI and Tenant Impact</h2>
+<h3 id="reduced-administrative-costs">Reduced Administrative Costs</h3>
+<ul>
+<li>Eliminate physical key management — no cutting, tracking, or replacing lost keys</li>
+<li>No rekeying costs at turnover — deactivate the prior tenant's credential in seconds</li>
+<li>Reduced need for staff presence during vendor access</li>
+</ul>
+<h3 id="rent-premium-and-competitive-advantage">Rent Premium and Competitive Advantage</h3>
+<p>In competitive markets, keyless entry is a top <a href="/blog/rental-property-amenity-upgrades">rental property amenity upgrade</a>. <a href="https://www.nar.realtor/research-and-statistics">NAR's technology survey</a> confirms rising tenant demand for smart features. Buildings with modern access systems attract better tenants and can charge a modest premium ($25-$75/month) for the convenience and security.</p>
+<h3 id="reduced-liability">Reduced Liability</h3>
+<p>Comprehensive access logs provide documentation of who accessed the building and when. This is valuable for:</p>
+<ul>
+<li>Investigating incidents (theft, vandalism)</li>
+<li>Demonstrating proper access control to insurers. <a href="https://www.forbes.com/home-improvement/home-security/best-smart-locks/">Forbes covers access control</a> trends.</li>
+<li>Responding to tenant disputes about unauthorized access</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Keyless entry systems for multi-family rental properties represent a significant but worthwhile investment in operational efficiency, tenant experience, and building security. The most effective systems take a comprehensive approach — building entry, amenity access, package delivery, and individual unit locks — creating a seamless experience from the street to the apartment door.</p>
+<p>For related technology guidance, see our articles on <a href="/blog/smart-locks-rental-property">smart locks for rental properties</a> and <a href="/blog/security-cameras-rental-property">security camera rules for rental properties</a>.</p>
+26:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2c"}}]
+27:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","keyless entry",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"keyless entry"}],["$","span","access control",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"access control"}],["$","span","property technology",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property technology"}],["$","span","multi-family",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"multi-family"}],["$","span","smart home",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"smart home"}]]}]
+28:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+29:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","smart-locks-rental-property",{"href":"/blog/smart-locks-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Smart Locks for Rental Properties: Best Options"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","smart-thermostat-rental-property",{"href":"/blog/smart-thermostat-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Installing Smart Thermostats in Rental Units"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","property-monitoring-system",{"href":"/blog/property-monitoring-system","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Remote Property Monitoring Systems for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+2a:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-multi-family-access-control-challenge",{"className":"","children":["$","a",null,{"href":"#the-multi-family-access-control-challenge","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Multi-Family Access Control Challenge"}]}],["$","li","components-of-a-multi-family-keyless-entry-system",{"className":"","children":["$","a",null,{"href":"#components-of-a-multi-family-keyless-entry-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Components of a Multi-Family Keyless Entry System"}]}],["$","li","1-building-entry-lobby-access",{"className":"ml-4","children":["$","a",null,{"href":"#1-building-entry-lobby-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Building Entry / Lobby Access"}]}],["$","li","2-package-room-access",{"className":"ml-4","children":["$","a",null,{"href":"#2-package-room-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Package Room Access"}]}],["$","li","3-amenity-space-access",{"className":"ml-4","children":["$","a",null,{"href":"#3-amenity-space-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Amenity Space Access"}]}],["$","li","4-parking-garage-access",{"className":"ml-4","children":["$","a",null,{"href":"#4-parking-garage-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Parking Garage Access"}]}],["$","li","5-individual-unit-doors",{"className":"ml-4","children":["$","a",null,{"href":"#5-individual-unit-doors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Individual Unit Doors"}]}],["$","li","top-keyless-entry-products-for-multi-family",{"className":"","children":["$","a",null,{"href":"#top-keyless-entry-products-for-multi-family","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Top Keyless Entry Products for Multi-Family"}]}],["$","li","latch-building-access-platform",{"className":"ml-4","children":["$","a",null,{"href":"#latch-building-access-platform","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Latch (Building Access Platform)"}]}],["$","li","butterflymx-smart-video-intercom",{"className":"ml-4","children":["$","a",null,{"href":"#butterflymx-smart-video-intercom","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ButterflyMX Smart Video Intercom"}]}],["$","li","salto-ks-keys-as-a-service",{"className":"ml-4","children":["$","a",null,{"href":"#salto-ks-keys-as-a-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Salto KS (Keys as a Service)"}]}],["$","li","kisi",{"className":"ml-4","children":["$","a",null,{"href":"#kisi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"KISI"}]}],["$","li","aiphone-gt-series-traditional-video-intercom",{"className":"ml-4","children":["$","a",null,{"href":"#aiphone-gt-series-traditional-video-intercom","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Aiphone GT Series (Traditional Video Intercom)"}]}],["$","li","implementation-considerations",{"className":"","children":["$","a",null,{"href":"#implementation-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Implementation Considerations"}]}],["$","li","building-infrastructure",{"className":"ml-4","children":"$L2d"}],"$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36"]}]]}]}]
+2b:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2d:["$","a",null,{"href":"#building-infrastructure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Infrastructure"}]
+2e:["$","li","tenant-onboarding",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-onboarding","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Onboarding"}]}]
+2f:["$","li","vendor-and-maintenance-access",{"className":"ml-4","children":["$","a",null,{"href":"#vendor-and-maintenance-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Vendor and Maintenance Access"}]}]
+30:["$","li","emergency-services-access",{"className":"ml-4","children":["$","a",null,{"href":"#emergency-services-access","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Emergency Services Access"}]}]
+31:["$","li","cost-overview",{"className":"","children":["$","a",null,{"href":"#cost-overview","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cost Overview"}]}]
+32:["$","li","roi-and-tenant-impact",{"className":"","children":["$","a",null,{"href":"#roi-and-tenant-impact","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ROI and Tenant Impact"}]}]
+33:["$","li","reduced-administrative-costs",{"className":"ml-4","children":["$","a",null,{"href":"#reduced-administrative-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reduced Administrative Costs"}]}]
+34:["$","li","rent-premium-and-competitive-advantage",{"className":"ml-4","children":["$","a",null,{"href":"#rent-premium-and-competitive-advantage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rent Premium and Competitive Advantage"}]}]
+35:["$","li","reduced-liability",{"className":"ml-4","children":["$","a",null,{"href":"#reduced-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reduced Liability"}]}]
+36:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Keyless Entry Systems for Multi-Family Rentals | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A guide to keyless entry systems for multi-family rental properties, covering building access control, intercom systems, fob and mobile entry, and top product recommendations."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"keyless entry,access control,property technology,multi-family,smart home"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/keyless-entry-rental-property"}],["$","meta","6",{"property":"og:title","content":"Keyless Entry Systems for Multi-Family Rentals"}],["$","meta","7",{"property":"og:description","content":"A guide to keyless entry systems for multi-family rental properties, covering building access control, intercom systems, fob and mobile entry, and top product recommendations."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/keyless-entry-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Keyless Entry Systems for Multi-Family Rentals"}],["$","meta","15",{"name":"twitter:description","content":"A guide to keyless entry systems for multi-family rental properties, covering building access control, intercom systems, fob and mobile entry, and top product recommendations."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

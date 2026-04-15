@@ -1,0 +1,282 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","appliance-maintenance-schedule-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","appliance-maintenance-schedule-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","appliance-maintenance-schedule-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Appliance Maintenance Schedule for Landlords\",\"description\":\"A complete appliance maintenance schedule for landlords covering refrigerators, ovens, dishwashers, washers and dryers, and water heaters to extend lifespan and reduce repair costs.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/appliance-maintenance-schedule-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Appliance Maintenance Schedule for Landlords\",\"item\":\"https://portfoliorental.com/blog/appliance-maintenance-schedule-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Appliance Maintenance Schedule for Landlords"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-appliance-maintenance-matters-for-landlords",{"className":"","children":["$","a",null,{"href":"#why-appliance-maintenance-matters-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Appliance Maintenance Matters for Landlords"}]}],["$","li","appliance-lifespan-reference",{"className":"","children":["$","a",null,{"href":"#appliance-lifespan-reference","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Appliance Lifespan Reference"}]}],["$","li","refrigerator-maintenance",{"className":"","children":["$","a",null,{"href":"#refrigerator-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Refrigerator Maintenance"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a"]}]}]]}],"$L2b","$L2c"]}],"$L2d","$L2e"]}],"$L2f"]}]]}],"$L30"]
+11:["$","li","every-6-months",{"className":"ml-4","children":["$","a",null,{"href":"#every-6-months","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Every 6 Months"}]}]
+12:["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}]
+13:["$","li","stove-and-oven-maintenance",{"className":"","children":["$","a",null,{"href":"#stove-and-oven-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Stove and Oven Maintenance"}]}]
+14:["$","li","after-each-tenant-turnover",{"className":"ml-4","children":["$","a",null,{"href":"#after-each-tenant-turnover","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"After Each Tenant Turnover"}]}]
+15:["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}]
+16:["$","li","safety-check",{"className":"ml-4","children":["$","a",null,{"href":"#safety-check","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Safety Check"}]}]
+17:["$","li","dishwasher-maintenance",{"className":"","children":["$","a",null,{"href":"#dishwasher-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Dishwasher Maintenance"}]}]
+18:["$","li","monthly",{"className":"ml-4","children":["$","a",null,{"href":"#monthly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monthly"}]}]
+19:["$","li","every-6-months",{"className":"ml-4","children":["$","a",null,{"href":"#every-6-months","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Every 6 Months"}]}]
+1a:["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}]
+1b:["$","li","washer-and-dryer-maintenance",{"className":"","children":["$","a",null,{"href":"#washer-and-dryer-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Washer and Dryer Maintenance"}]}]
+1c:["$","li","dryer-critical-fire-safety",{"className":"ml-4","children":["$","a",null,{"href":"#dryer-critical-fire-safety","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Dryer (Critical: Fire Safety)"}]}]
+1d:["$","li","washer-maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#washer-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Washer Maintenance"}]}]
+1e:["$","li","garbage-disposal-maintenance",{"className":"","children":["$","a",null,{"href":"#garbage-disposal-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Garbage Disposal Maintenance"}]}]
+1f:["$","li","monthly",{"className":"ml-4","children":["$","a",null,{"href":"#monthly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monthly"}]}]
+20:["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}]
+21:["$","li","tenant-instructions",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-instructions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Instructions"}]}]
+22:["$","li","microwave-maintenance",{"className":"","children":["$","a",null,{"href":"#microwave-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Microwave Maintenance"}]}]
+23:["$","li","after-each-tenant-turnover",{"className":"ml-4","children":["$","a",null,{"href":"#after-each-tenant-turnover","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"After Each Tenant Turnover"}]}]
+24:["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}]
+25:["$","li","building-an-appliance-maintenance-program",{"className":"","children":["$","a",null,{"href":"#building-an-appliance-maintenance-program","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building an Appliance Maintenance Program"}]}]
+26:["$","li","appliance-inventory",{"className":"ml-4","children":["$","a",null,{"href":"#appliance-inventory","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Appliance Inventory"}]}]
+27:["$","li","maintenance-trigger-points",{"className":"ml-4","children":["$","a",null,{"href":"#maintenance-trigger-points","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance Trigger Points"}]}]
+28:["$","li","budget-allocation",{"className":"ml-4","children":["$","a",null,{"href":"#budget-allocation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Budget Allocation"}]}]
+29:["$","li","repair-vs-replace-decisions",{"className":"","children":["$","a",null,{"href":"#repair-vs-replace-decisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Repair vs Replace Decisions"}]}]
+2a:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+31:T354f,<p>Appliances are among the most tenant-visible elements of a rental unit and among the most frequent sources of maintenance requests. A refrigerator that stops cooling, a dryer that takes two cycles to dry a load, or a dishwasher that leaks onto the floor — these are the maintenance calls that disrupt tenants and drain your maintenance budget. Yet most appliance failures are preventable with a systematic maintenance schedule.</p>
+<p>This guide covers maintenance tasks for every major appliance found in rental properties, organized by frequency, along with guidance on repair versus replacement decisions and how to extend appliance lifespan in a rental environment. Pair it with a <a href="/blog/preventive-maintenance-schedule-rental">preventive maintenance schedule</a> to cover your full property.</p>
+<hr>
+<h2 id="why-appliance-maintenance-matters-for-landlords">Why Appliance Maintenance Matters for Landlords</h2>
+<p>The financial argument for appliance maintenance is straightforward:</p>
+<ul>
+<li><strong>Extended lifespan</strong> — Properly maintained appliances last significantly longer. A refrigerator with clean condenser coils and proper door seals can easily reach 15+ years; one that is neglected may fail at 8-10 years.</li>
+<li><strong>Lower repair costs</strong> — Maintenance prevents small issues from becoming major failures. A dryer duct cleaned annually costs $100-$150; a dryer fire or duct replacement costs $500-$2,000. The <a href="https://www.energy.gov/energysaver/thermostats">Energy.gov appliance guide</a> offers tips on improving energy efficiency.</li>
+<li><strong>Tenant satisfaction</strong> — Tenants who have well-functioning appliances require fewer urgent maintenance calls and are more likely to renew their leases.</li>
+<li><strong>Legal compliance</strong> — In many states, appliances specified in the lease (refrigerator, stove, etc.) must be maintained in working order as part of the landlord's <a href="https://www.nolo.com/legal-encyclopedia/landlord-tenant-law">habitability obligation</a>. The <a href="https://www.irs.gov/publications/p527">IRS rental property guide</a> covers deducting appliance costs.</li>
+</ul>
+<hr>
+<h2 id="appliance-lifespan-reference">Appliance Lifespan Reference</h2>
+<p>Use these averages to plan capital reserves and replacement timing:</p>
+<table>
+<thead>
+<tr>
+<th>Appliance</th>
+<th>Average Lifespan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Refrigerator</td>
+<td>12-15 years</td>
+</tr>
+<tr>
+<td>Electric range/oven</td>
+<td>13-15 years</td>
+</tr>
+<tr>
+<td>Gas range/oven</td>
+<td>15-17 years</td>
+</tr>
+<tr>
+<td>Dishwasher</td>
+<td>9-12 years</td>
+</tr>
+<tr>
+<td>Microwave (built-in/OTR)</td>
+<td>9-10 years</td>
+</tr>
+<tr>
+<td>Washer (top-load)</td>
+<td>10-12 years</td>
+</tr>
+<tr>
+<td>Washer (front-load)</td>
+<td>11-14 years</td>
+</tr>
+<tr>
+<td>Dryer</td>
+<td>13-14 years</td>
+</tr>
+<tr>
+<td>Garbage disposal</td>
+<td>10-12 years</td>
+</tr>
+<tr>
+<td>Water heater (tank)</td>
+<td>8-12 years</td>
+</tr>
+<tr>
+<td>Water heater (tankless)</td>
+<td>18-25 years</td>
+</tr>
+</tbody>
+</table>
+<p>These are averages for well-maintained appliances. Heavy use by rental tenants, combined with neglect, can shorten these lifespans significantly.</p>
+<hr>
+<h2 id="refrigerator-maintenance">Refrigerator Maintenance</h2>
+<h3 id="every-6-months">Every 6 Months</h3>
+<ul>
+<li><strong>Clean condenser coils</strong> — Dust and pet hair on condenser coils (located at the bottom front or back of the refrigerator) reduce efficiency and cause overheating. Clean with a coil brush or vacuum. This is the single most important refrigerator maintenance task.</li>
+<li><strong>Check door gaskets</strong> — Inspect the rubber door seals for cracks, tears, or gaps. A loose seal allows cold air to escape and the compressor to overwork. Test by closing the door on a piece of paper — it should grip firmly.</li>
+<li><strong>Clean door gaskets</strong> — Wipe gaskets with warm soapy water to remove food residue that causes them to deteriorate</li>
+</ul>
+<h3 id="annually">Annually</h3>
+<ul>
+<li><strong>Check drip pan and drain tube</strong> — The defrost drip pan collects condensate. Clean it and confirm the defrost drain tube is clear to prevent overflow and odor.</li>
+<li><strong>Verify temperature settings</strong> — Refrigerator should be set to 35-38°F; freezer to 0-5°F. Improper settings cause food spoilage and inefficiency.</li>
+<li><strong>Inspect ice maker and water lines</strong> — If present, check water supply lines for kinking, calcium buildup, and connection integrity.</li>
+</ul>
+<hr>
+<h2 id="stove-and-oven-maintenance">Stove and Oven Maintenance</h2>
+<h3 id="after-each-tenant-turnover">After Each Tenant Turnover</h3>
+<ul>
+<li>Deep clean oven interior, burners, grates, and drip pans</li>
+<li>Test all burners and oven heating elements for proper operation</li>
+<li>Test oven thermostat accuracy with an oven thermometer</li>
+<li>Inspect oven door gasket (ceramic fiber seal around door opening)</li>
+</ul>
+<h3 id="annually">Annually</h3>
+<ul>
+<li><strong>Gas stoves</strong> — Check burner ports for clogging; clean with a fine wire or toothpick. Clogged ports cause uneven, yellow flames (should be blue).</li>
+<li><strong>Electric stoves</strong> — Check heating coils for hot spots or burning; replace damaged coils</li>
+<li><strong>Range hood and filter</strong> — Clean or replace range hood grease filter; check fan operation and vent duct for grease buildup</li>
+</ul>
+<h3 id="safety-check">Safety Check</h3>
+<ul>
+<li>Test the smoke detector near the kitchen annually</li>
+<li>Ensure the gas shut-off valve behind a gas stove is accessible and operational</li>
+</ul>
+<hr>
+<h2 id="dishwasher-maintenance">Dishwasher Maintenance</h2>
+<h3 id="monthly">Monthly</h3>
+<ul>
+<li><strong>Clean the filter</strong> — Most modern dishwashers have a removable filter at the bottom of the tub. Remove and rinse monthly to prevent odor and drainage issues.</li>
+</ul>
+<h3 id="every-6-months">Every 6 Months</h3>
+<ul>
+<li><strong>Inspect door gasket</strong> — Check the rubber door seal for cracks or food debris causing improper sealing</li>
+<li><strong>Run a cleaning cycle</strong> — Use a commercial dishwasher cleaner (like Affresh) or place a cup of white vinegar in the upper rack and run a hot cycle to remove mineral deposits and odor</li>
+<li><strong>Check spray arms</strong> — Confirm spray arm holes are not clogged; clear any blockages with a toothpick</li>
+</ul>
+<h3 id="annually">Annually</h3>
+<ul>
+<li><strong>Inspect water supply line and drain hose</strong> — Check for kinking, cracks, and secure connections</li>
+<li><strong>Check float switch</strong> — The float switch prevents overfilling; ensure it moves freely</li>
+<li><strong>Check door latch</strong> — Verify the door latch mechanism engages securely</li>
+</ul>
+<hr>
+<h2 id="washer-and-dryer-maintenance">Washer and Dryer Maintenance</h2>
+<h3 id="dryer-critical-fire-safety">Dryer (Critical: Fire Safety)</h3>
+<p>The dryer duct is a significant fire hazard. Lint accumulation in dryer ducts is responsible for approximately 15,000 dryer fires annually.</p>
+<p><strong>Every 6 Months:</strong></p>
+<ul>
+<li><strong>Professional duct cleaning</strong> — Have a professional clean the dryer vent duct from the dryer to the exterior termination. This is non-negotiable for tenant-occupied units.</li>
+<li><strong>Inspect the duct at the dryer connection</strong> — Check for kinking or compression of flexible duct; replace with rigid metal duct where possible</li>
+<li><strong>Verify exterior termination</strong> — Confirm the exterior vent flap opens and closes freely; clear bird nests or debris</li>
+</ul>
+<p><strong>Annually:</strong></p>
+<ul>
+<li><strong>Clean the dryer interior</strong> — Remove the lint trap housing and vacuum interior lint from the area around the drum</li>
+<li><strong>Test heating element</strong> — Verify the dryer heats properly; a dryer that takes multiple cycles indicates a failing heating element or blocked duct</li>
+</ul>
+<p><strong>For Stacked or Combination Units:</strong> These are especially prone to duct issues. Inspect and clean duct connections semi-annually.</p>
+<h3 id="washer-maintenance">Washer Maintenance</h3>
+<p><strong>Monthly:</strong></p>
+<ul>
+<li><strong>Leave door open</strong> (front-load washers) — After each use, leave the door slightly ajar to allow drying and prevent mold growth in the drum seal</li>
+</ul>
+<p><strong>Every 6 Months:</strong></p>
+<ul>
+<li><strong>Run a cleaning cycle</strong> — Use a washer cleaner tablet (Affresh, for example) in an empty hot cycle to remove soap scum and mildew</li>
+<li><strong>Inspect door seal</strong> (front-load) — Check the rubber gasket for mold, debris buildup, and tears; clean with a bleach solution</li>
+<li><strong>Check water supply hoses</strong> — Inspect braided stainless steel supply hoses for kinking, bulging, or corrosion. Replace standard rubber hoses with braided stainless steel. Replace hoses every 5-7 years as preventive maintenance — a burst washing machine hose is one of the most common sources of catastrophic water damage in rental units.</li>
+</ul>
+<p><strong>Annually:</strong></p>
+<ul>
+<li><strong>Inspect drain hose</strong> — Confirm the drain hose is properly secured in the standpipe and not kinked</li>
+<li><strong>Test water level settings</strong> — Verify proper water fill for different load sizes</li>
+</ul>
+<hr>
+<h2 id="garbage-disposal-maintenance">Garbage Disposal Maintenance</h2>
+<h3 id="monthly">Monthly</h3>
+<ul>
+<li><strong>Run cold water with ice cubes</strong> — Running the disposal with ice sharpens the grinding components and clears light buildup</li>
+<li><strong>Freshen with citrus</strong> — Grinding lemon or orange peels reduces odor</li>
+</ul>
+<h3 id="annually">Annually</h3>
+<ul>
+<li><strong>Test reset button</strong> — Locate the reset button (usually on the bottom of the unit) and confirm it is accessible</li>
+<li><strong>Inspect under-sink connections</strong> — Check the disposal mounting, drain connections, and power cord for secure installation</li>
+</ul>
+<h3 id="tenant-instructions">Tenant Instructions</h3>
+<p>Educate tenants on what should NOT go in the disposal:</p>
+<ul>
+<li>Grease and cooking oils</li>
+<li>Fibrous vegetables (celery, artichokes)</li>
+<li>Eggshells (in large quantities)</li>
+<li>Coffee grounds</li>
+<li>Pasta, rice, and bread (swell and clog drains)</li>
+<li>Bones and hard items</li>
+</ul>
+<hr>
+<h2 id="microwave-maintenance">Microwave Maintenance</h2>
+<h3 id="after-each-tenant-turnover">After Each Tenant Turnover</h3>
+<ul>
+<li>Clean interior thoroughly, including the turntable and support ring</li>
+<li>Inspect door seal and hinges</li>
+<li>Test all functions including the light and fan</li>
+</ul>
+<h3 id="annually">Annually</h3>
+<ul>
+<li>Clean range hood filter if it is an over-the-range unit</li>
+<li>Inspect the power cord and mounting brackets</li>
+</ul>
+<hr>
+<h2 id="building-an-appliance-maintenance-program">Building an Appliance Maintenance Program</h2>
+<p>For landlords with multiple units, an organized approach is essential:</p>
+<h3 id="appliance-inventory">Appliance Inventory</h3>
+<p>Maintain a spreadsheet or property management software record for each unit listing:</p>
+<ul>
+<li>Each appliance's make, model, and serial number</li>
+<li>Purchase or installation date</li>
+<li>Warranty status</li>
+<li>Service history</li>
+</ul>
+<h3 id="maintenance-trigger-points">Maintenance Trigger Points</h3>
+<p>Schedule appliance inspections at:</p>
+<ul>
+<li>Each unit turnover (thorough inspection of all appliances)</li>
+<li>Semi-annual maintenance visits (even for occupied units)</li>
+</ul>
+<h3 id="budget-allocation">Budget Allocation</h3>
+<p>Budget approximately $200-$400 per unit per year for appliance maintenance and minor repairs, plus a capital reserve of $200-$300 per unit per year for eventual replacement. See our guide on <a href="/blog/property-maintenance-cost-budgeting">maintenance cost budgeting</a> for a full framework.</p>
+<hr>
+<h2 id="repair-vs-replace-decisions">Repair vs Replace Decisions</h2>
+<p>Use these rules of thumb:</p>
+<ul>
+<li><strong>Age threshold</strong> — If the appliance is within 3-4 years of its expected lifespan, replacement is often more cost-effective than a major repair</li>
+<li><strong>Repair cost rule</strong> — If the repair cost exceeds 50% of the replacement cost, replace</li>
+<li><strong>Reliability history</strong> — A second major repair in two years is a strong signal to replace</li>
+<li><strong>Energy efficiency</strong> — Older appliances are significantly less efficient; a new refrigerator uses 40-60% less electricity than one from 15 years ago</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Appliance maintenance is a high-value, low-cost investment in your rental property portfolio. A systematic schedule — combining tenant turnover inspections, semi-annual service tasks, and annual checks — prevents the expensive <a href="/blog/emergency-maintenance-rental-property">emergency maintenance calls</a> and premature replacements that erode rental income. The most important individual tasks are dryer duct cleaning (fire safety), refrigerator coil cleaning (efficiency and lifespan), and washer supply hose inspection (flood prevention).</p>
+<p>For related maintenance guidance, see our articles on <a href="/blog/hvac-maintenance-rental-property">HVAC maintenance for rental properties</a> and <a href="/blog/plumbing-maintenance-rental-property">plumbing maintenance for landlords</a>.</p>
+2b:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$31"}}]
+2c:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","appliance maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"appliance maintenance"}],["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","preventive maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"preventive maintenance"}],["$","span","rental appliances",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental appliances"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}]]}]
+2d:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+2e:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","gutter-cleaning-rental-property",{"href":"/blog/gutter-cleaning-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Gutter Cleaning Schedule for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","hvac-maintenance-rental-property",{"href":"/blog/hvac-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"HVAC Maintenance Schedule for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","plumbing-maintenance-rental-property",{"href":"/blog/plumbing-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Plumbing Maintenance Guide for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+2f:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-appliance-maintenance-matters-for-landlords",{"className":"","children":["$","a",null,{"href":"#why-appliance-maintenance-matters-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Appliance Maintenance Matters for Landlords"}]}],["$","li","appliance-lifespan-reference",{"className":"","children":["$","a",null,{"href":"#appliance-lifespan-reference","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Appliance Lifespan Reference"}]}],["$","li","refrigerator-maintenance",{"className":"","children":["$","a",null,{"href":"#refrigerator-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Refrigerator Maintenance"}]}],["$","li","every-6-months",{"className":"ml-4","children":["$","a",null,{"href":"#every-6-months","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Every 6 Months"}]}],["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}],["$","li","stove-and-oven-maintenance",{"className":"","children":["$","a",null,{"href":"#stove-and-oven-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Stove and Oven Maintenance"}]}],["$","li","after-each-tenant-turnover",{"className":"ml-4","children":["$","a",null,{"href":"#after-each-tenant-turnover","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"After Each Tenant Turnover"}]}],["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}],["$","li","safety-check",{"className":"ml-4","children":["$","a",null,{"href":"#safety-check","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Safety Check"}]}],["$","li","dishwasher-maintenance",{"className":"","children":["$","a",null,{"href":"#dishwasher-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Dishwasher Maintenance"}]}],["$","li","monthly",{"className":"ml-4","children":["$","a",null,{"href":"#monthly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monthly"}]}],["$","li","every-6-months",{"className":"ml-4","children":["$","a",null,{"href":"#every-6-months","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Every 6 Months"}]}],["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}],["$","li","washer-and-dryer-maintenance",{"className":"","children":["$","a",null,{"href":"#washer-and-dryer-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Washer and Dryer Maintenance"}]}],["$","li","dryer-critical-fire-safety",{"className":"ml-4","children":["$","a",null,{"href":"#dryer-critical-fire-safety","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Dryer (Critical: Fire Safety)"}]}],["$","li","washer-maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#washer-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Washer Maintenance"}]}],["$","li","garbage-disposal-maintenance",{"className":"","children":["$","a",null,{"href":"#garbage-disposal-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Garbage Disposal Maintenance"}]}],"$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d"]}]]}]}]
+30:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+32:["$","li","monthly",{"className":"ml-4","children":["$","a",null,{"href":"#monthly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monthly"}]}]
+33:["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}]
+34:["$","li","tenant-instructions",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-instructions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Instructions"}]}]
+35:["$","li","microwave-maintenance",{"className":"","children":["$","a",null,{"href":"#microwave-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Microwave Maintenance"}]}]
+36:["$","li","after-each-tenant-turnover",{"className":"ml-4","children":["$","a",null,{"href":"#after-each-tenant-turnover","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"After Each Tenant Turnover"}]}]
+37:["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}]
+38:["$","li","building-an-appliance-maintenance-program",{"className":"","children":["$","a",null,{"href":"#building-an-appliance-maintenance-program","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building an Appliance Maintenance Program"}]}]
+39:["$","li","appliance-inventory",{"className":"ml-4","children":["$","a",null,{"href":"#appliance-inventory","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Appliance Inventory"}]}]
+3a:["$","li","maintenance-trigger-points",{"className":"ml-4","children":["$","a",null,{"href":"#maintenance-trigger-points","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance Trigger Points"}]}]
+3b:["$","li","budget-allocation",{"className":"ml-4","children":["$","a",null,{"href":"#budget-allocation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Budget Allocation"}]}]
+3c:["$","li","repair-vs-replace-decisions",{"className":"","children":["$","a",null,{"href":"#repair-vs-replace-decisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Repair vs Replace Decisions"}]}]
+3d:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Appliance Maintenance Schedule for Landlords | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A complete appliance maintenance schedule for landlords covering refrigerators, ovens, dishwashers, washers and dryers, and water heaters to extend lifespan and reduce repair costs."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"appliance maintenance,property maintenance,preventive maintenance,rental appliances,landlord tips"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/appliance-maintenance-schedule-rental"}],["$","meta","6",{"property":"og:title","content":"Appliance Maintenance Schedule for Landlords"}],["$","meta","7",{"property":"og:description","content":"A complete appliance maintenance schedule for landlords covering refrigerators, ovens, dishwashers, washers and dryers, and water heaters to extend lifespan and reduce repair costs."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/appliance-maintenance-schedule-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Appliance Maintenance Schedule for Landlords"}],["$","meta","15",{"name":"twitter:description","content":"A complete appliance maintenance schedule for landlords covering refrigerators, ovens, dishwashers, washers and dryers, and water heaters to extend lifespan and reduce repair costs."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,215 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","gutter-cleaning-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","gutter-cleaning-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","gutter-cleaning-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Gutter Cleaning Schedule for Rental Properties\",\"description\":\"Learn how often to clean gutters on rental properties, the best schedule for different climates, how to assign responsibility, and what happens when gutters are neglected.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/gutter-cleaning-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Gutter Cleaning Schedule for Rental Properties\",\"item\":\"https://portfoliorental.com/blog/gutter-cleaning-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Gutter Cleaning Schedule for Rental Properties"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-gutter-maintenance-matters",{"className":"","children":["$","a",null,{"href":"#why-gutter-maintenance-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Gutter Maintenance Matters"}]}],["$","li","how-often-to-clean-gutters",{"className":"","children":["$","a",null,{"href":"#how-often-to-clean-gutters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Often to Clean Gutters"}]}],["$","li","factors-that-require-more-frequent-cleaning",{"className":"ml-4","children":["$","a",null,{"href":"#factors-that-require-more-frequent-cleaning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Factors That Require More Frequent Cleaning"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]}]]}],"$L22","$L23"]}],"$L24","$L25"]}],"$L26"]}]]}],"$L27"]
+11:["$","li","standard-two-cleaning-annual-schedule",{"className":"ml-4","children":["$","a",null,{"href":"#standard-two-cleaning-annual-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Standard Two-Cleaning Annual Schedule"}]}]
+12:["$","li","what-gutter-cleaning-includes",{"className":"","children":["$","a",null,{"href":"#what-gutter-cleaning-includes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Gutter Cleaning Includes"}]}]
+13:["$","li","gutter-inspection-what-to-look-for",{"className":"","children":["$","a",null,{"href":"#gutter-inspection-what-to-look-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Inspection: What to Look For"}]}]
+14:["$","li","gutter-slope",{"className":"ml-4","children":["$","a",null,{"href":"#gutter-slope","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Slope"}]}]
+15:["$","li","hanger-spacing-and-condition",{"className":"ml-4","children":["$","a",null,{"href":"#hanger-spacing-and-condition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hanger Spacing and Condition"}]}]
+16:["$","li","fascia-board-condition",{"className":"ml-4","children":["$","a",null,{"href":"#fascia-board-condition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fascia Board Condition"}]}]
+17:["$","li","downspout-extensions",{"className":"ml-4","children":["$","a",null,{"href":"#downspout-extensions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Downspout Extensions"}]}]
+18:["$","li","landlord-vs-tenant-responsibility-for-gutters",{"className":"","children":["$","a",null,{"href":"#landlord-vs-tenant-responsibility-for-gutters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord vs Tenant Responsibility for Gutters"}]}]
+19:["$","li","tenant-responsibilities-related-to-gutters",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-responsibilities-related-to-gutters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Responsibilities Related to Gutters"}]}]
+1a:["$","li","diy-vs-hiring-a-service",{"className":"","children":["$","a",null,{"href":"#diy-vs-hiring-a-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"DIY vs Hiring a Service"}]}]
+1b:["$","li","diy-gutter-cleaning",{"className":"ml-4","children":["$","a",null,{"href":"#diy-gutter-cleaning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"DIY Gutter Cleaning"}]}]
+1c:["$","li","hiring-a-gutter-cleaning-service",{"className":"ml-4","children":["$","a",null,{"href":"#hiring-a-gutter-cleaning-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hiring a Gutter Cleaning Service"}]}]
+1d:["$","li","gutter-cleaning-services-on-annual-contract",{"className":"ml-4","children":["$","a",null,{"href":"#gutter-cleaning-services-on-annual-contract","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Cleaning Services on Annual Contract"}]}]
+1e:["$","li","gutter-guards-worth-the-investment",{"className":"","children":["$","a",null,{"href":"#gutter-guards-worth-the-investment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Guards: Worth the Investment?"}]}]
+1f:["$","li","budgeting-for-gutter-maintenance",{"className":"","children":["$","a",null,{"href":"#budgeting-for-gutter-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Budgeting for Gutter Maintenance"}]}]
+20:["$","li","connecting-gutters-to-broader-maintenance",{"className":"","children":["$","a",null,{"href":"#connecting-gutters-to-broader-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Connecting Gutters to Broader Maintenance"}]}]
+21:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+28:T3133,<p>Gutters are one of the most overlooked maintenance items on rental properties — and one of the most consequential when neglected. Clogged gutters are a leading cause of foundation damage, ice dams, fascia rot, basement flooding, and siding damage. For the cost of a $100-$200 cleaning visit, landlords can prevent thousands of dollars in structural repairs. The <a href="https://www.epa.gov/watersense">EPA WaterSense program</a> also highlights proper drainage as key to water efficiency.</p>
+<p>This guide covers how often to clean gutters on rental properties, how to set up a practical schedule, how to assign responsibility, and what to look for when inspecting your gutters.</p>
+<hr>
+<h2 id="why-gutter-maintenance-matters">Why Gutter Maintenance Matters</h2>
+<p>Gutters perform a simple but critical function: they channel water from the roof away from the foundation. When they fail — whether due to clogging, damage, or improper installation — water goes where it should not:</p>
+<ul>
+<li><strong>Foundation damage</strong> — Water that overflows clogged gutters pools against the foundation and seeps into basement walls, causing hydrostatic pressure and cracking</li>
+<li><strong>Fascia and soffit rot</strong> — Overflow saturates the wood fascia boards behind the gutters, leading to rot and eventual structural damage</li>
+<li><strong>Ice dams</strong> — In cold climates, ice in clogged gutters extends back under shingles, forcing meltwater into the wall or ceiling</li>
+<li><strong>Siding damage</strong> — Overflow stains and erodes siding surfaces</li>
+<li><strong>Landscape erosion</strong> — Concentrated water flow from gutters damages mulch, grass, and soil near the foundation</li>
+</ul>
+<p>None of these consequences are covered by standard homeowner's or landlord insurance as "maintenance neglect." The cost of repairs comes entirely out of your pocket. Review <a href="https://www.osha.gov/workers">OSHA safety guidelines</a> before any ladder or roof work.</p>
+<hr>
+<h2 id="how-often-to-clean-gutters">How Often to Clean Gutters</h2>
+<p>The standard recommendation is <strong>twice a year</strong> — once in late spring (after tree pollen and seed pods have fallen) and once in late fall (after the majority of leaves have fallen). However, the right frequency for your property depends on:</p>
+<h3 id="factors-that-require-more-frequent-cleaning">Factors That Require More Frequent Cleaning</h3>
+<ul>
+<li><strong>Large deciduous trees near or overhanging the roof</strong> — Trees that drop leaves, seeds, pine needles, or seed pods directly into or near gutters may require cleaning 3-4 times per year</li>
+<li><strong>Pine trees</strong> — Pine needles are particularly problematic because they accumulate quickly and hold moisture, accelerating corrosion in aluminum gutters</li>
+<li><strong>Location</strong> — Properties in heavily wooded areas need more frequent attention than those in open settings</li>
+<li><strong>History of ice dam problems</strong> — If your property has experienced ice dams, add a late-September cleaning before the freeze season</li>
+</ul>
+<h3 id="standard-two-cleaning-annual-schedule">Standard Two-Cleaning Annual Schedule</h3>
+<p><strong>Cleaning 1: Late Spring (May–June)</strong></p>
+<ul>
+<li>After spring pollen and seed pods have fallen</li>
+<li>Clear debris from winter and spring</li>
+<li>Inspect for damage from winter ice and freeze cycles</li>
+<li>Verify downspouts are clear and directing water away from the foundation</li>
+</ul>
+<p><strong>Cleaning 2: Late Fall (November–December)</strong></p>
+<ul>
+<li>After leaves have fallen but before the first freeze</li>
+<li>Most critical cleaning of the year for ice dam prevention in cold climates</li>
+<li>Inspect fascia and soffit for any signs of rot or moisture damage</li>
+<li>Confirm downspout extensions are in place</li>
+</ul>
+<hr>
+<h2 id="what-gutter-cleaning-includes">What Gutter Cleaning Includes</h2>
+<p>A thorough gutter cleaning should include:</p>
+<ol>
+<li><strong>Removing debris</strong> — Leaves, twigs, seed pods, dirt buildup, and any other material clogging the gutters</li>
+<li><strong>Flushing with water</strong> — Running water through the gutters and downspouts confirms they are clear and draining properly</li>
+<li><strong>Clearing downspouts</strong> — Downspout blockages are common and prevent proper drainage even when the gutters themselves are clean</li>
+<li><strong>Visual inspection</strong> — Check for:
+<ul>
+<li>Sagging sections (hangers have failed)</li>
+<li>Separations at joints</li>
+<li>Holes or cracks in the gutter</li>
+<li>Fascia boards showing rot or moisture damage</li>
+<li>Downspout extensions directing water away from the foundation (at least 3-5 feet)</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2 id="gutter-inspection-what-to-look-for">Gutter Inspection: What to Look For</h2>
+<p>Beyond clearing debris, use each cleaning as an opportunity to assess gutter condition:</p>
+<h3 id="gutter-slope">Gutter Slope</h3>
+<p>Gutters should slope toward the downspout at approximately 1/4 inch per 10 feet of run. If you see standing water in gutters after cleaning, the slope may have shifted and hangers need readjustment.</p>
+<h3 id="hanger-spacing-and-condition">Hanger Spacing and Condition</h3>
+<p>Gutters should be supported by hangers approximately every 24-36 inches. Missing or bent hangers allow gutters to sag and pull away from the fascia, creating gaps where water overflows against the house.</p>
+<h3 id="fascia-board-condition">Fascia Board Condition</h3>
+<p>Inspect the wood fascia behind the gutters at each cleaning. Soft, discolored, or crumbling fascia boards indicate water has been getting behind the gutters — a repair that needs attention before the gutter problem will be permanently solved.</p>
+<h3 id="downspout-extensions">Downspout Extensions</h3>
+<p>Confirm that downspout extensions or splash blocks are directing water at least 3-5 feet away from the foundation. This is a cheap maintenance item (a plastic extension costs $8-$15) that prevents expensive foundation and basement water issues.</p>
+<hr>
+<h2 id="landlord-vs-tenant-responsibility-for-gutters">Landlord vs Tenant Responsibility for Gutters</h2>
+<p>Gutter cleaning is almost universally the landlord's responsibility. Even in single-family rental homes where tenants have many outdoor maintenance obligations, gutter cleaning typically remains with the landlord because:</p>
+<ul>
+<li>It requires ladder access and poses a fall risk</li>
+<li>Failure to clean properly can cause structural damage</li>
+<li>Tenants often lack equipment (tall ladders for 2-story homes) to do it safely</li>
+</ul>
+<p>If you do assign gutter cleaning to a tenant (usually only for single-story homes), specify:</p>
+<ul>
+<li>How many times per year (at minimum twice)</li>
+<li>That cleaning includes flushing downspouts</li>
+<li>That the tenant must notify you of any gutter damage found</li>
+</ul>
+<h3 id="tenant-responsibilities-related-to-gutters">Tenant Responsibilities Related to Gutters</h3>
+<p>While cleaning is typically the landlord's domain, tenants can help by:</p>
+<ul>
+<li>Reporting visible gutter damage or overflow during rainstorms</li>
+<li>Keeping roof access areas clear (not blocking ladders stored on the property)</li>
+<li>Noting and reporting ice buildup on gutters or eaves in winter</li>
+</ul>
+<hr>
+<h2 id="diy-vs-hiring-a-service">DIY vs Hiring a Service</h2>
+<h3 id="diy-gutter-cleaning">DIY Gutter Cleaning</h3>
+<p><strong>Best for:</strong> Single-story properties, landlords comfortable on ladders, small portfolios</p>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li>Extension ladder reaching the roofline</li>
+<li>Work gloves and eye protection</li>
+<li>Garden hose or gutter cleaning wand attachment</li>
+<li>Trash bags for debris</li>
+</ul>
+<p><strong>Time:</strong> 1-3 hours per property depending on size and debris volume</p>
+<p><strong>Cost:</strong> $0 in labor (time only) + minimal supplies</p>
+<h3 id="hiring-a-gutter-cleaning-service">Hiring a Gutter Cleaning Service</h3>
+<p><strong>Best for:</strong> Multi-story properties, large portfolios, landlords who prefer to outsource</p>
+<p><strong>Cost:</strong> $100-$250 per cleaning for a single-family home; $200-$500 for larger multi-family buildings</p>
+<p><strong>Benefits:</strong> Professionals have the right equipment, carry liability insurance, and often identify and report gutter damage as part of the service</p>
+<h3 id="gutter-cleaning-services-on-annual-contract">Gutter Cleaning Services on Annual Contract</h3>
+<p>For multi-unit portfolios, negotiate an annual contract with a local service provider. A contracted relationship typically means:</p>
+<ul>
+<li>Scheduled cleanings at agreed times (no chasing down contractors seasonally)</li>
+<li>Consistent quality from the same crew</li>
+<li>Better pricing than per-visit rates</li>
+<li>Priority response when storms cause emergency cleaning needs</li>
+</ul>
+<hr>
+<h2 id="gutter-guards-worth-the-investment">Gutter Guards: Worth the Investment?</h2>
+<p>Gutter guards — mesh or solid covers that prevent debris from entering gutters — reduce cleaning frequency but do not eliminate it. Key considerations:</p>
+<p><strong>Types of gutter guards:</strong></p>
+<ul>
+<li><strong>Micro-mesh guards</strong> — Best performance; fine mesh screens out most debris while allowing water to pass. Installed by professionals, cost $1,500-$4,000 per house.</li>
+<li><strong>Reverse curve guards</strong> — Water flows around a curved surface; debris falls off. Variable performance in heavy leaf fall.</li>
+<li><strong>Foam inserts</strong> — Sponge material fills the gutter; debris sits on top. Collects debris and seeds in the foam itself over time.</li>
+<li><strong>Basic screen guards</strong> — Inexpensive but prone to clogging with pine needles and small debris.</li>
+</ul>
+<p><strong>Verdict for rental properties:</strong> High-quality micro-mesh gutter guards can reduce cleaning to once a year and provide a reasonable ROI over 5-7 years for properties with heavy leaf loads. For properties with minimal tree debris, the cost may not justify the investment.</p>
+<hr>
+<h2 id="budgeting-for-gutter-maintenance">Budgeting for Gutter Maintenance</h2>
+<p>Annual gutter maintenance budget per property:</p>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Estimated Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Two annual cleanings (professional)</td>
+<td>$200-$500</td>
+</tr>
+<tr>
+<td>Minor repairs (sealant, hanger replacement)</td>
+<td>$50-$150</td>
+</tr>
+<tr>
+<td>Downspout extensions</td>
+<td>$20-$50</td>
+</tr>
+<tr>
+<td>Gutter section replacement (as needed)</td>
+<td>$100-$300</td>
+</tr>
+<tr>
+<td><strong>Annual total</strong></td>
+<td><strong>$370-$1,000</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Add this to your annual maintenance budget per property. Properties with heavy tree canopy or on the higher end of age should budget toward the upper range.</p>
+<hr>
+<h2 id="connecting-gutters-to-broader-maintenance">Connecting Gutters to Broader Maintenance</h2>
+<p>Gutter maintenance is closely connected to several other property maintenance priorities:</p>
+<ul>
+<li><strong>Roof maintenance</strong> — Clogged gutters are a primary cause of ice dams, which damage shingles and allow water into walls. See our guide on <a href="/blog/roof-maintenance-rental">roof maintenance for rental properties</a>.</li>
+<li><strong>Winterization</strong> — Pre-freeze gutter cleaning is a critical winterization step. See our <a href="/blog/winterizing-rental-property">winterizing rental property guide</a>.</li>
+<li><strong>Foundation issues</strong> — Long-term gutter neglect can contribute to foundation problems. See our article on <a href="/blog/foundation-issues-rental-property">foundation issues in rental properties</a>.</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Gutter cleaning is a low-cost, high-impact maintenance task that every landlord should build into their annual schedule. Twice-yearly cleaning — once in late spring and once in late fall — prevents the cascade of expensive problems that clogged gutters cause. Treat gutter maintenance as a non-negotiable annual expense rather than an optional task, and your roof, foundation, fascia, and siding will remain protected for decades.</p>
+<p>For related maintenance guidance, see our articles on <a href="/blog/roof-maintenance-rental">roof maintenance for rental properties</a> and <a href="/blog/spring-maintenance-checklist-rental">spring maintenance checklist for rental properties</a>.</p>
+22:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$28"}}]
+23:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","gutter cleaning",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"gutter cleaning"}],["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","preventive maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"preventive maintenance"}],["$","span","seasonal maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"seasonal maintenance"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}]]}]
+24:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+25:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","winterizing-rental-property",{"href":"/blog/winterizing-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Winterizing Your Rental Property: Step-by-Step"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","appliance-maintenance-schedule-rental",{"href":"/blog/appliance-maintenance-schedule-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Appliance Maintenance Schedule for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","hvac-maintenance-rental-property",{"href":"/blog/hvac-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"HVAC Maintenance Schedule for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+26:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-gutter-maintenance-matters",{"className":"","children":["$","a",null,{"href":"#why-gutter-maintenance-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Gutter Maintenance Matters"}]}],["$","li","how-often-to-clean-gutters",{"className":"","children":["$","a",null,{"href":"#how-often-to-clean-gutters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Often to Clean Gutters"}]}],["$","li","factors-that-require-more-frequent-cleaning",{"className":"ml-4","children":["$","a",null,{"href":"#factors-that-require-more-frequent-cleaning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Factors That Require More Frequent Cleaning"}]}],["$","li","standard-two-cleaning-annual-schedule",{"className":"ml-4","children":["$","a",null,{"href":"#standard-two-cleaning-annual-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Standard Two-Cleaning Annual Schedule"}]}],["$","li","what-gutter-cleaning-includes",{"className":"","children":["$","a",null,{"href":"#what-gutter-cleaning-includes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Gutter Cleaning Includes"}]}],["$","li","gutter-inspection-what-to-look-for",{"className":"","children":["$","a",null,{"href":"#gutter-inspection-what-to-look-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Inspection: What to Look For"}]}],["$","li","gutter-slope",{"className":"ml-4","children":["$","a",null,{"href":"#gutter-slope","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Slope"}]}],["$","li","hanger-spacing-and-condition",{"className":"ml-4","children":["$","a",null,{"href":"#hanger-spacing-and-condition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hanger Spacing and Condition"}]}],["$","li","fascia-board-condition",{"className":"ml-4","children":["$","a",null,{"href":"#fascia-board-condition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fascia Board Condition"}]}],["$","li","downspout-extensions",{"className":"ml-4","children":["$","a",null,{"href":"#downspout-extensions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Downspout Extensions"}]}],["$","li","landlord-vs-tenant-responsibility-for-gutters",{"className":"","children":["$","a",null,{"href":"#landlord-vs-tenant-responsibility-for-gutters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord vs Tenant Responsibility for Gutters"}]}],["$","li","tenant-responsibilities-related-to-gutters",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-responsibilities-related-to-gutters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Responsibilities Related to Gutters"}]}],["$","li","diy-vs-hiring-a-service",{"className":"","children":["$","a",null,{"href":"#diy-vs-hiring-a-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"DIY vs Hiring a Service"}]}],["$","li","diy-gutter-cleaning",{"className":"ml-4","children":["$","a",null,{"href":"#diy-gutter-cleaning","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"DIY Gutter Cleaning"}]}],["$","li","hiring-a-gutter-cleaning-service",{"className":"ml-4","children":["$","a",null,{"href":"#hiring-a-gutter-cleaning-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hiring a Gutter Cleaning Service"}]}],"$L29","$L2a","$L2b","$L2c","$L2d"]}]]}]}]
+27:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+29:["$","li","gutter-cleaning-services-on-annual-contract",{"className":"ml-4","children":["$","a",null,{"href":"#gutter-cleaning-services-on-annual-contract","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Cleaning Services on Annual Contract"}]}]
+2a:["$","li","gutter-guards-worth-the-investment",{"className":"","children":["$","a",null,{"href":"#gutter-guards-worth-the-investment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Gutter Guards: Worth the Investment?"}]}]
+2b:["$","li","budgeting-for-gutter-maintenance",{"className":"","children":["$","a",null,{"href":"#budgeting-for-gutter-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Budgeting for Gutter Maintenance"}]}]
+2c:["$","li","connecting-gutters-to-broader-maintenance",{"className":"","children":["$","a",null,{"href":"#connecting-gutters-to-broader-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Connecting Gutters to Broader Maintenance"}]}]
+2d:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Gutter Cleaning Schedule for Rental Properties | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn how often to clean gutters on rental properties, the best schedule for different climates, how to assign responsibility, and what happens when gutters are neglected."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"gutter cleaning,property maintenance,preventive maintenance,seasonal maintenance,landlord tips"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/gutter-cleaning-rental-property"}],["$","meta","6",{"property":"og:title","content":"Gutter Cleaning Schedule for Rental Properties"}],["$","meta","7",{"property":"og:description","content":"Learn how often to clean gutters on rental properties, the best schedule for different climates, how to assign responsibility, and what happens when gutters are neglected."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/gutter-cleaning-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Gutter Cleaning Schedule for Rental Properties"}],["$","meta","15",{"name":"twitter:description","content":"Learn how often to clean gutters on rental properties, the best schedule for different climates, how to assign responsibility, and what happens when gutters are neglected."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,222 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","occupancy-rate-optimization-str"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","occupancy-rate-optimization-str","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","occupancy-rate-optimization-str","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"How to Optimize Occupancy Rate for Your STR\",\"description\":\"Learn proven occupancy rate optimization strategies for short-term rentals — from dynamic pricing to minimum stay rules that fill your calendar year-round.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/occupancy-rate-optimization-str\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"How to Optimize Occupancy Rate for Your STR\",\"item\":\"https://portfoliorental.com/blog/occupancy-rate-optimization-str\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"How to Optimize Occupancy Rate for Your STR"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-a-good-occupancy-rate-for-an-str",{"className":"","children":["$","a",null,{"href":"#what-is-a-good-occupancy-rate-for-an-str","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is a Good Occupancy Rate for an STR?"}]}],["$","li","1-nail-your-pricing-strategy-first",{"className":"","children":["$","a",null,{"href":"#1-nail-your-pricing-strategy-first","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Nail Your Pricing Strategy First"}]}],["$","li","use-dynamic-pricing-software",{"className":"ml-4","children":["$","a",null,{"href":"#use-dynamic-pricing-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Dynamic Pricing Software"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]}]]}],"$L23","$L24"]}],"$L25","$L26"]}],"$L27"]}]]}],"$L28"]
+11:["$","li","set-competitive-base-rates",{"className":"ml-4","children":["$","a",null,{"href":"#set-competitive-base-rates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Set Competitive Base Rates"}]}]
+12:["$","li","2-optimize-your-minimum-stay-settings",{"className":"","children":["$","a",null,{"href":"#2-optimize-your-minimum-stay-settings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Optimize Your Minimum Stay Settings"}]}]
+13:["$","li","the-orphan-day-problem",{"className":"ml-4","children":["$","a",null,{"href":"#the-orphan-day-problem","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Orphan Day Problem"}]}]
+14:["$","li","weekend-vs-weekday-minimums",{"className":"ml-4","children":["$","a",null,{"href":"#weekend-vs-weekday-minimums","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Weekend vs. Weekday Minimums"}]}]
+15:["$","li","3-strengthen-your-listing-quality",{"className":"","children":["$","a",null,{"href":"#3-strengthen-your-listing-quality","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Strengthen Your Listing Quality"}]}]
+16:["$","li","photography",{"className":"ml-4","children":["$","a",null,{"href":"#photography","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Photography"}]}]
+17:["$","li","title-optimization",{"className":"ml-4","children":["$","a",null,{"href":"#title-optimization","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Title Optimization"}]}]
+18:["$","li","review-velocity",{"className":"ml-4","children":["$","a",null,{"href":"#review-velocity","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Review Velocity"}]}]
+19:["$","li","4-master-your-availability-settings",{"className":"","children":["$","a",null,{"href":"#4-master-your-availability-settings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Master Your Availability Settings"}]}]
+1a:["$","li","keep-your-calendar-current",{"className":"ml-4","children":["$","a",null,{"href":"#keep-your-calendar-current","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep Your Calendar Current"}]}]
+1b:["$","li","instant-book",{"className":"ml-4","children":["$","a",null,{"href":"#instant-book","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Instant Book"}]}]
+1c:["$","li","5-leverage-last-minute-and-early-bird-strategies",{"className":"","children":["$","a",null,{"href":"#5-leverage-last-minute-and-early-bird-strategies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Leverage Last-Minute and Early-Bird Strategies"}]}]
+1d:["$","li","last-minute-discounts",{"className":"ml-4","children":["$","a",null,{"href":"#last-minute-discounts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Last-Minute Discounts"}]}]
+1e:["$","li","early-bird-premiums",{"className":"ml-4","children":["$","a",null,{"href":"#early-bird-premiums","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Early-Bird Premiums"}]}]
+1f:["$","li","6-analyze-and-iterate-monthly",{"className":"","children":["$","a",null,{"href":"#6-analyze-and-iterate-monthly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Analyze and Iterate Monthly"}]}]
+20:["$","li","7-consider-mid-term-rentals-for-off-peak-periods",{"className":"","children":["$","a",null,{"href":"#7-consider-mid-term-rentals-for-off-peak-periods","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Consider Mid-Term Rentals for Off-Peak Periods"}]}]
+21:["$","li","8-manage-your-reviews-and-ratings-proactively",{"className":"","children":["$","a",null,{"href":"#8-manage-your-reviews-and-ratings-proactively","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Manage Your Reviews and Ratings Proactively"}]}]
+22:["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]
+29:T303a,<p>Occupancy rate is the heartbeat of every short-term rental business. It measures the percentage of available nights that are actually booked and generating revenue. A listing that sits empty is a liability, not an asset. But chasing 100% occupancy at the wrong price can be just as damaging — turning your property into a low-rate motel when you could be a high-margin boutique rental.</p>
+<p>The goal of <strong>occupancy rate optimization for your STR</strong> is not maximum occupancy at any cost. It is maximum <strong>RevPAR</strong> — revenue per available room — which balances occupancy with nightly rate. This guide walks through the strategies that move that number up and keep it there.</p>
+<hr>
+<h2 id="what-is-a-good-occupancy-rate-for-an-str">What Is a Good Occupancy Rate for an STR?</h2>
+<p>Industry benchmarks vary by market, property type, and season, but a general framework is:</p>
+<ul>
+<li><strong>Below 50%</strong> — Underperforming. Pricing, listing quality, or both likely need attention.</li>
+<li><strong>50–65%</strong> — Average. There is meaningful revenue being left on the table.</li>
+<li><strong>65–80%</strong> — Strong. You are competitive in your market with room to test higher rates.</li>
+<li><strong>Above 80%</strong> — Excellent. You may actually be priced too low — demand exceeds your capacity.</li>
+</ul>
+<p>AirDNA tracks market-level occupancy rates and publishes benchmarks by city and property type. Checking your market's typical occupancy gives you a realistic target before you optimize.</p>
+<p>Remember: a listing with 70% occupancy at $200/night outperforms one with 90% occupancy at $130/night. <a href="https://www.investopedia.com/terms/r/revpar.asp">Investopedia explains RevPAR</a> calculation clearly. Always optimize for revenue, not just bookings.</p>
+<hr>
+<h2 id="1-nail-your-pricing-strategy-first">1. Nail Your Pricing Strategy First</h2>
+<p>Pricing is the single biggest driver of occupancy. Too high and guests skip your listing. Too low and you fill up fast but earn less than you could — and attract guests who don't value your property.</p>
+<h3 id="use-dynamic-pricing-software">Use Dynamic Pricing Software</h3>
+<p>Static pricing cannot respond to real-time demand signals. Dynamic pricing tools like PriceLabs and Beyond Pricing automatically adjust your rates based on:</p>
+<ul>
+<li>Local events and holidays</li>
+<li>Competitor availability and pricing</li>
+<li>Booking pace (how fast your market is filling up)</li>
+<li>Day-of-week demand patterns</li>
+</ul>
+<p>Even a modest 10% improvement in rate optimization can translate to thousands of additional dollars per year. Review our <a href="/blog/short-term-rental-pricing-strategy">short-term rental pricing strategy</a> guide for a full breakdown of pricing approaches.</p>
+<h3 id="set-competitive-base-rates">Set Competitive Base Rates</h3>
+<p>Before enabling dynamic pricing, calibrate your base rate by:</p>
+<ol>
+<li>Searching for comparable listings (similar size, amenities, location) in your area</li>
+<li>Filtering for the next 30 days of availability</li>
+<li>Averaging the rates of the top 5–10 ranked listings</li>
+<li>Setting your base rate within 10–15% of that average while you build reviews</li>
+</ol>
+<p>Once you have 10+ reviews and a Superhost badge, you can push rates above market average for your property tier.</p>
+<hr>
+<h2 id="2-optimize-your-minimum-stay-settings">2. Optimize Your Minimum Stay Settings</h2>
+<p>Minimum night requirements have a massive impact on occupancy because they determine which bookings can fill your calendar. Too-long minimums leave orphan gaps; too-short minimums invite problem guests and increase turnover costs.</p>
+<h3 id="the-orphan-day-problem">The Orphan Day Problem</h3>
+<p>An "orphan day" is a single open night sandwiched between bookings that is nearly impossible to fill with a 2-night minimum. If you have a Friday–Sunday booking and a Tuesday–Thursday booking, Monday sits empty and loses you revenue.</p>
+<p><strong>Tactics to reduce orphan days:</strong></p>
+<ul>
+<li>Use 1-night minimums for dates that are already surrounded by bookings</li>
+<li>Enable gap-filling rules in your dynamic pricing tool</li>
+<li>Drop minimums to 1 night in the final 3–7 days before the open date</li>
+</ul>
+<p>Our detailed <a href="/blog/minimum-stay-strategy-airbnb">minimum stay strategy for Airbnb</a> covers this topic comprehensively.</p>
+<h3 id="weekend-vs-weekday-minimums">Weekend vs. Weekday Minimums</h3>
+<p>Many successful hosts apply different minimums by day type:</p>
+<ul>
+<li><strong>Weekends</strong> (Fri–Sun check-in): 2–3 night minimum to attract leisure travelers</li>
+<li><strong>Weekdays</strong> (Mon–Thu): 1–2 night minimum to capture business travel and reduce gaps</li>
+<li><strong>Holiday weekends</strong>: 3–5 night minimum to capture premium stays</li>
+</ul>
+<hr>
+<h2 id="3-strengthen-your-listing-quality">3. Strengthen Your Listing Quality</h2>
+<p>Occupancy optimization is not just about pricing. Guests evaluate your listing in the first 8 seconds — if your photos, title, and description don't convert browsers into bookers, no pricing strategy will save you.</p>
+<h3 id="photography">Photography</h3>
+<p>Professional photography is the single highest-ROI investment a new host can make. <a href="https://www.nar.realtor/research-and-statistics">NAR research confirms listing photos</a> drive buyer engagement. Listings with professional photos receive significantly more clicks than those with smartphone shots. Make sure your photos:</p>
+<ul>
+<li>Are taken during daylight with natural light</li>
+<li>Show every room, including bathrooms and outdoor spaces</li>
+<li>Lead with your best, most aspirational shot</li>
+<li>Include lifestyle shots (outdoor seating, kitchen with food)</li>
+</ul>
+<h3 id="title-optimization">Title Optimization</h3>
+<p>Your listing title is indexed by Airbnb's search algorithm and read by guests. Include:</p>
+<ul>
+<li>Your top 1–2 amenities (pool, hot tub, mountain views)</li>
+<li>Property type and size ("3BR Cottage", "Entire Loft")</li>
+<li>Proximity to a landmark or attraction if relevant</li>
+<li>A compelling descriptor ("Serene", "Designer", "Walkable")</li>
+</ul>
+<p>For a full checklist, see our guide on <a href="/blog/airbnb-listing-optimization">Airbnb listing optimization</a>.</p>
+<h3 id="review-velocity">Review Velocity</h3>
+<p>Airbnb's algorithm rewards listings that generate reviews quickly and consistently. To accelerate review velocity:</p>
+<ul>
+<li>Send a check-in message within 30 minutes of guest arrival</li>
+<li>Check in mid-stay to address any issues before checkout</li>
+<li>Send a thank-you message at checkout and politely request a review</li>
+<li>Leave a 5-star guest review promptly — it often triggers a reciprocal review</li>
+</ul>
+<hr>
+<h2 id="4-master-your-availability-settings">4. Master Your Availability Settings</h2>
+<h3 id="keep-your-calendar-current">Keep Your Calendar Current</h3>
+<p>Airbnb penalizes listings with stale calendars. If your calendar has large blocked periods without explanation, the algorithm may suppress your listing in search results. Keep your calendar updated:</p>
+<ul>
+<li>Block dates proactively when you know you cannot host</li>
+<li>Open your calendar at least 12 months forward</li>
+<li>Unblock dates as soon as plans change</li>
+</ul>
+<h3 id="instant-book">Instant Book</h3>
+<p>Enabling Instant Book removes the friction of a manual approval step. Guests who are ready to book now often skip listings that require a request. Studies consistently show Instant Book listings receive 20–30% more bookings than equivalent listings without it.</p>
+<p>You can still protect yourself by:</p>
+<ul>
+<li>Requiring verified ID</li>
+<li>Requiring a positive review history</li>
+<li>Setting messaging requirements before booking</li>
+</ul>
+<hr>
+<h2 id="5-leverage-last-minute-and-early-bird-strategies">5. Leverage Last-Minute and Early-Bird Strategies</h2>
+<h3 id="last-minute-discounts">Last-Minute Discounts</h3>
+<p>Empty nights 3–7 days out are revenue lost forever. Strategic last-minute discounts fill these gaps at a lower rate — but some revenue is always better than zero. Learn more about implementing this in our <a href="/blog/last-minute-discount-airbnb">last-minute discount strategy guide</a>.</p>
+<p>A typical discount structure:</p>
+<ul>
+<li>7 days out: 10% discount</li>
+<li>3 days out: 20% discount</li>
+<li>Day before: 30% discount (your floor)</li>
+</ul>
+<h3 id="early-bird-premiums">Early-Bird Premiums</h3>
+<p>On the flip side, guests who book 60–90+ days in advance are often more committed and plan-oriented. You can charge a slight premium (5–10%) for far-out bookings in high-demand markets, then gradually lower rates as the date approaches if the calendar isn't filling.</p>
+<hr>
+<h2 id="6-analyze-and-iterate-monthly">6. Analyze and Iterate Monthly</h2>
+<p>Occupancy optimization is not a one-time setup. It requires monthly review of your data:</p>
+<p><strong>Key metrics to track:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>What It Tells You</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Occupancy rate</td>
+<td>% of available nights booked</td>
+</tr>
+<tr>
+<td>RevPAR</td>
+<td>Revenue per available night (rate × occupancy)</td>
+</tr>
+<tr>
+<td>Average daily rate (ADR)</td>
+<td>Your typical nightly rate for booked nights</td>
+</tr>
+<tr>
+<td>Booking lead time</td>
+<td>How far in advance guests book</td>
+</tr>
+<tr>
+<td>Cancellation rate</td>
+<td>Quality signal for your guest screening</td>
+</tr>
+</tbody>
+</table>
+<p>If your occupancy is high but RevPAR is low, you are likely underpriced. If your occupancy is low and RevPAR is also low, your listing quality or pricing floor is the issue.</p>
+<p>Use these insights to adjust your strategy quarterly. Every market has seasonal shifts, and what works in summer may need adjustment for shoulder season.</p>
+<hr>
+<h2 id="7-consider-mid-term-rentals-for-off-peak-periods">7. Consider Mid-Term Rentals for Off-Peak Periods</h2>
+<p>If your market has a defined slow season — say, a beach market in winter — consider transitioning to a <a href="/blog/mid-term-rental-strategy">mid-term rental strategy</a> for those months. Targeting guests who need 30–90 night stays (traveling nurses, corporate relocators, remote workers) can fill revenue gaps that short-term bookings cannot.</p>
+<p>The tradeoff: lower nightly rates but dramatically lower cleaning and turnover costs, plus guaranteed income for the slow period.</p>
+<hr>
+<h2 id="8-manage-your-reviews-and-ratings-proactively">8. Manage Your Reviews and Ratings Proactively</h2>
+<p>Airbnb's search algorithm heavily weights your overall rating and review count. A listing with a 4.7 rating and 50 reviews will outrank a 4.9 with 10 reviews in most cases, because volume signals consistent quality.</p>
+<p>Steps to protect your ratings:</p>
+<ul>
+<li>Address maintenance issues before they generate complaints</li>
+<li>Set accurate expectations in your listing (don't oversell your space)</li>
+<li>Respond to every review — positive and negative — professionally</li>
+<li>Use a <a href="/blog/airbnb-property-management-tips">property management tips</a> framework to systematize quality control</li>
+</ul>
+<hr>
+<h2 id="summary">Summary</h2>
+<p>Optimizing your STR occupancy rate is a multi-layered process that combines pricing intelligence, listing quality, availability settings, and ongoing analysis. Key takeaways:</p>
+<ol>
+<li>Target RevPAR optimization, not just occupancy — rate and volume work together</li>
+<li>Use dynamic pricing software to automate rate adjustments</li>
+<li>Control minimum stay rules to eliminate orphan days</li>
+<li>Invest in professional photography and listing optimization</li>
+<li>Enable Instant Book with appropriate guest requirements</li>
+<li>Deploy last-minute discounts strategically to fill gaps</li>
+<li>Review your data monthly and adjust your strategy seasonally</li>
+<li>Consider mid-term rentals during slow seasons to maintain cash flow</li>
+</ol>
+<p>For a complete framework connecting all these strategies, see our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a> — the definitive resource for building a high-performing STR business.</p>
+23:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$29"}}]
+24:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","occupancy rate",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"occupancy rate"}],["$","span","STR strategy",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"STR strategy"}],["$","span","airbnb optimization",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb optimization"}],["$","span","revenue management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"revenue management"}],["$","span","short-term rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rental"}]]}]
+25:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+26:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","airbnb-listing-optimization",{"href":"/blog/airbnb-listing-optimization","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb Listing Optimization for Higher Rankings"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","last-minute-discount-airbnb",{"href":"/blog/last-minute-discount-airbnb","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Last-Minute Discount Strategy for Airbnb Bookings"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","minimum-stay-strategy-airbnb",{"href":"/blog/minimum-stay-strategy-airbnb","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Minimum Stay Strategy for Airbnb Profitability"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+27:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-a-good-occupancy-rate-for-an-str",{"className":"","children":["$","a",null,{"href":"#what-is-a-good-occupancy-rate-for-an-str","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is a Good Occupancy Rate for an STR?"}]}],["$","li","1-nail-your-pricing-strategy-first",{"className":"","children":["$","a",null,{"href":"#1-nail-your-pricing-strategy-first","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Nail Your Pricing Strategy First"}]}],["$","li","use-dynamic-pricing-software",{"className":"ml-4","children":["$","a",null,{"href":"#use-dynamic-pricing-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Dynamic Pricing Software"}]}],["$","li","set-competitive-base-rates",{"className":"ml-4","children":["$","a",null,{"href":"#set-competitive-base-rates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Set Competitive Base Rates"}]}],["$","li","2-optimize-your-minimum-stay-settings",{"className":"","children":["$","a",null,{"href":"#2-optimize-your-minimum-stay-settings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Optimize Your Minimum Stay Settings"}]}],["$","li","the-orphan-day-problem",{"className":"ml-4","children":["$","a",null,{"href":"#the-orphan-day-problem","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Orphan Day Problem"}]}],["$","li","weekend-vs-weekday-minimums",{"className":"ml-4","children":["$","a",null,{"href":"#weekend-vs-weekday-minimums","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Weekend vs. Weekday Minimums"}]}],["$","li","3-strengthen-your-listing-quality",{"className":"","children":["$","a",null,{"href":"#3-strengthen-your-listing-quality","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Strengthen Your Listing Quality"}]}],["$","li","photography",{"className":"ml-4","children":["$","a",null,{"href":"#photography","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Photography"}]}],["$","li","title-optimization",{"className":"ml-4","children":["$","a",null,{"href":"#title-optimization","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Title Optimization"}]}],["$","li","review-velocity",{"className":"ml-4","children":["$","a",null,{"href":"#review-velocity","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Review Velocity"}]}],["$","li","4-master-your-availability-settings",{"className":"","children":["$","a",null,{"href":"#4-master-your-availability-settings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Master Your Availability Settings"}]}],["$","li","keep-your-calendar-current",{"className":"ml-4","children":["$","a",null,{"href":"#keep-your-calendar-current","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep Your Calendar Current"}]}],["$","li","instant-book",{"className":"ml-4","children":["$","a",null,{"href":"#instant-book","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Instant Book"}]}],["$","li","5-leverage-last-minute-and-early-bird-strategies",{"className":"","children":["$","a",null,{"href":"#5-leverage-last-minute-and-early-bird-strategies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Leverage Last-Minute and Early-Bird Strategies"}]}],"$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]]}]}]
+28:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2a:["$","li","last-minute-discounts",{"className":"ml-4","children":["$","a",null,{"href":"#last-minute-discounts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Last-Minute Discounts"}]}]
+2b:["$","li","early-bird-premiums",{"className":"ml-4","children":["$","a",null,{"href":"#early-bird-premiums","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Early-Bird Premiums"}]}]
+2c:["$","li","6-analyze-and-iterate-monthly",{"className":"","children":["$","a",null,{"href":"#6-analyze-and-iterate-monthly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Analyze and Iterate Monthly"}]}]
+2d:["$","li","7-consider-mid-term-rentals-for-off-peak-periods",{"className":"","children":["$","a",null,{"href":"#7-consider-mid-term-rentals-for-off-peak-periods","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Consider Mid-Term Rentals for Off-Peak Periods"}]}]
+2e:["$","li","8-manage-your-reviews-and-ratings-proactively",{"className":"","children":["$","a",null,{"href":"#8-manage-your-reviews-and-ratings-proactively","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Manage Your Reviews and Ratings Proactively"}]}]
+2f:["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"How to Optimize Occupancy Rate for Your STR | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn proven occupancy rate optimization strategies for short-term rentals — from dynamic pricing to minimum stay rules that fill your calendar year-round."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"occupancy rate,STR strategy,airbnb optimization,revenue management,short-term rental"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/occupancy-rate-optimization-str"}],["$","meta","6",{"property":"og:title","content":"How to Optimize Occupancy Rate for Your STR"}],["$","meta","7",{"property":"og:description","content":"Learn proven occupancy rate optimization strategies for short-term rentals — from dynamic pricing to minimum stay rules that fill your calendar year-round."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/occupancy-rate-optimization-str"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"How to Optimize Occupancy Rate for Your STR"}],["$","meta","15",{"name":"twitter:description","content":"Learn proven occupancy rate optimization strategies for short-term rentals — from dynamic pricing to minimum stay rules that fill your calendar year-round."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

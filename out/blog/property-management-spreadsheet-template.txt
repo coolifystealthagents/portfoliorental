@@ -1,0 +1,213 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","property-management-spreadsheet-template"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","property-management-spreadsheet-template","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","property-management-spreadsheet-template","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Free Property Management Spreadsheet Templates\",\"description\":\"Free property management spreadsheet templates for tracking rent, expenses, leases, and cash flow. Download-ready formats with guidance on what to include and when to upgrade to software.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/property-management-spreadsheet-template\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Management\",\"item\":\"https://portfoliorental.com/blog/category/property-management\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Free Property Management Spreadsheet Templates\",\"item\":\"https://portfoliorental.com/blog/property-management-spreadsheet-template\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-management","className":"hover:text-blue-600","children":"Property Management"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Management"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Free Property Management Spreadsheet Templates"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-landlords-still-use-spreadsheets",{"className":"","children":["$","a",null,{"href":"#why-landlords-still-use-spreadsheets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Landlords Still Use Spreadsheets"}]}],["$","li","essential-property-management-spreadsheet-templates",{"className":"","children":["$","a",null,{"href":"#essential-property-management-spreadsheet-templates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Essential Property Management Spreadsheet Templates"}]}],["$","li","1-rent-roll-template",{"className":"ml-4","children":["$","a",null,{"href":"#1-rent-roll-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Rent Roll Template"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}]]}],"$L1c","$L1d"]}],"$L1e","$L1f"]}],"$L20"]}]]}],"$L21"]
+11:["$","li","2-income-and-expense-tracker",{"className":"ml-4","children":["$","a",null,{"href":"#2-income-and-expense-tracker","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Income and Expense Tracker"}]}]
+12:["$","li","3-lease-tracking-template",{"className":"ml-4","children":["$","a",null,{"href":"#3-lease-tracking-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Lease Tracking Template"}]}]
+13:["$","li","4-maintenance-request-log",{"className":"ml-4","children":["$","a",null,{"href":"#4-maintenance-request-log","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Maintenance Request Log"}]}]
+14:["$","li","5-cash-flow-analysis-template",{"className":"ml-4","children":["$","a",null,{"href":"#5-cash-flow-analysis-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Cash Flow Analysis Template"}]}]
+15:["$","li","6-security-deposit-tracker",{"className":"ml-4","children":["$","a",null,{"href":"#6-security-deposit-tracker","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Security Deposit Tracker"}]}]
+16:["$","li","building-a-property-management-spreadsheet-system",{"className":"","children":["$","a",null,{"href":"#building-a-property-management-spreadsheet-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Property Management Spreadsheet System"}]}]
+17:["$","li","spreadsheet-limitations-to-know-before-you-scale",{"className":"","children":["$","a",null,{"href":"#spreadsheet-limitations-to-know-before-you-scale","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spreadsheet Limitations to Know Before You Scale"}]}]
+18:["$","li","where-to-find-free-property-management-spreadsheet-templates",{"className":"","children":["$","a",null,{"href":"#where-to-find-free-property-management-spreadsheet-templates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Find Free Property Management Spreadsheet Templates"}]}]
+19:["$","li","when-to-move-from-spreadsheets-to-software",{"className":"","children":["$","a",null,{"href":"#when-to-move-from-spreadsheets-to-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When to Move From Spreadsheets to Software"}]}]
+1a:["$","li","external-resources",{"className":"","children":["$","a",null,{"href":"#external-resources","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"External Resources"}]}]
+1b:["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]
+22:T3270,<p>Spreadsheets remain one of the most practical starting points for new landlords. Before investing in property management software, many landlords build workable systems in Excel or Google Sheets that handle rent tracking, expense logging, tenant records, and basic cash flow reporting. A well-designed property management spreadsheet template can handle most administrative needs for portfolios of one to five properties.</p>
+<p>This guide covers the essential templates every landlord should have, what each should include, and when a spreadsheet stops being enough.</p>
+<h2 id="why-landlords-still-use-spreadsheets">Why Landlords Still Use Spreadsheets</h2>
+<p>Dedicated property management software has clear advantages at scale, but spreadsheets persist for good reasons:</p>
+<ul>
+<li><strong>Zero cost</strong>: Google Sheets is free. Excel is widely available. No subscription required.</li>
+<li><strong>Full control</strong>: You design the structure, choose the categories, and modify anything without waiting for a software update.</li>
+<li><strong>Flexibility</strong>: A spreadsheet can be adapted to any portfolio structure, unusual lease arrangement, or custom reporting need.</li>
+<li><strong>Portability</strong>: A spreadsheet lives in your Google Drive or local folder—no vendor dependency, no login issues, no platform shutdowns.</li>
+</ul>
+<p>The trade-offs become significant once you manage more than five units or have multiple team members who need to access records. Manual data entry creates error risk, and spreadsheets have no built-in automation for late fees, payment reminders, or maintenance tracking.</p>
+<h2 id="essential-property-management-spreadsheet-templates">Essential Property Management Spreadsheet Templates</h2>
+<h3 id="1-rent-roll-template">1. Rent Roll Template</h3>
+<p>The rent roll is the single most important landlord spreadsheet. It gives you a real-time view of every unit, its lease status, rent amount, and payment record.</p>
+<p><strong>What to include in your rent roll:</strong></p>
+<ul>
+<li>Unit number or address</li>
+<li>Tenant name</li>
+<li>Lease start and end date</li>
+<li>Monthly rent amount</li>
+<li>Security deposit held</li>
+<li>Payment due date</li>
+<li>Payment received date</li>
+<li>Amount paid</li>
+<li>Balance due / overpaid</li>
+<li>Lease renewal status</li>
+</ul>
+<p><strong>Structure tips:</strong>
+Set up one row per unit per month, with conditional formatting that highlights overdue balances in red and paid-in-full rows in green. Add a summary row at the top that totals expected income, received income, and outstanding balances for quick scanning.</p>
+<p>A well-maintained rent roll is the first document a lender, accountant, or potential buyer will ask for when evaluating your portfolio.</p>
+<h3 id="2-income-and-expense-tracker">2. Income and Expense Tracker</h3>
+<p>This template logs every financial transaction related to your rental properties and is essential for tax preparation.</p>
+<p><strong>Income categories to track:</strong></p>
+<ul>
+<li>Rent collected</li>
+<li>Late fees</li>
+<li>Pet fees or pet rent</li>
+<li>Parking fees</li>
+<li>Laundry income</li>
+<li>Other fees</li>
+</ul>
+<p><strong>Expense categories to track:</strong></p>
+<ul>
+<li>Mortgage or loan payments (principal and interest)</li>
+<li>Property taxes</li>
+<li>Insurance</li>
+<li>Repairs and maintenance</li>
+<li>Property management fees</li>
+<li>Utilities (if landlord-paid)</li>
+<li>HOA fees</li>
+<li>Professional services (attorney, CPA, inspector)</li>
+<li>Advertising and marketing</li>
+<li>Supplies and materials</li>
+<li>Mileage and travel</li>
+<li>Depreciation (tracked separately for tax purposes)</li>
+</ul>
+<p><strong>Structure tips:</strong>
+Use one tab per property, with a summary tab that consolidates all properties. Include columns for date, vendor or description, category, amount, payment method, and receipt reference. This structure maps directly to Schedule E categories, making tax preparation straightforward.</p>
+<p>For more on setting up a tracking system that works for tax filing, see our guide to <a href="/blog/rental-property-expense-tracking">rental property expense tracking</a>.</p>
+<h3 id="3-lease-tracking-template">3. Lease Tracking Template</h3>
+<p>A lease tracking spreadsheet helps you stay ahead of renewals, rent increases, and lease expirations.</p>
+<p><strong>What to include:</strong></p>
+<ul>
+<li>Property address / unit</li>
+<li>Tenant name and contact information</li>
+<li>Lease start date</li>
+<li>Lease end date</li>
+<li>Rent amount</li>
+<li>Scheduled rent increase date and amount</li>
+<li>Security deposit amount and deposit account held in</li>
+<li>Pet deposit (if applicable)</li>
+<li>Notice required for non-renewal (from lease)</li>
+<li>Renewal offer sent date</li>
+<li>Tenant response</li>
+<li>Move-out date (if applicable)</li>
+</ul>
+<p><strong>Structure tips:</strong>
+Add a column that calculates "days until lease expiration" using a simple formula (<code>=end_date - TODAY()</code>). Sort by this column weekly to see which leases need attention. Set up conditional formatting to flag leases expiring within 90 days.</p>
+<p>This template pairs well with a <a href="/blog/rental-property-record-keeping">rental property record keeping</a> system that archives signed leases, addenda, and correspondence.</p>
+<h3 id="4-maintenance-request-log">4. Maintenance Request Log</h3>
+<p>A maintenance log creates a documented history of every repair request, vendor hired, and amount spent.</p>
+<p><strong>Columns to include:</strong></p>
+<ul>
+<li>Date submitted</li>
+<li>Property / unit</li>
+<li>Tenant name</li>
+<li>Description of issue</li>
+<li>Priority (urgent, routine, non-urgent)</li>
+<li>Date assigned to vendor</li>
+<li>Vendor name and contact</li>
+<li>Estimated cost</li>
+<li>Date completed</li>
+<li>Actual cost</li>
+<li>Invoice number</li>
+<li>Notes</li>
+</ul>
+<p><strong>Structure tips:</strong>
+Keep open items at the top with a status column (open, in-progress, completed). Archive completed items to a separate tab monthly. This log becomes invaluable if a tenant disputes a repair, if you're evaluating a vendor's performance, or if you're preparing a capital expense report.</p>
+<h3 id="5-cash-flow-analysis-template">5. Cash Flow Analysis Template</h3>
+<p>This template calculates net operating income, cash flow, and key return metrics for each property.</p>
+<p><strong>What to include:</strong></p>
+<ul>
+<li>Gross scheduled rent</li>
+<li>Vacancy allowance (typically 5–10%)</li>
+<li>Effective gross income</li>
+<li>Operating expenses (taxes, insurance, maintenance, management, etc.)</li>
+<li>Net operating income (NOI)</li>
+<li>Debt service (mortgage payment)</li>
+<li>Net cash flow</li>
+<li>Cash-on-cash return</li>
+<li>Cap rate</li>
+</ul>
+<p><strong>Structure tips:</strong>
+Use this template monthly to track actual performance against projections. Add a year-to-date column that accumulates totals automatically.</p>
+<p>For a deeper framework on evaluating rental property cash flow, see our article on <a href="/blog/rental-property-cash-flow-analysis">rental property cash flow analysis</a>.</p>
+<h3 id="6-security-deposit-tracker">6. Security Deposit Tracker</h3>
+<p>Security deposit handling is heavily regulated in most states. A dedicated tracker keeps you in compliance and protects you if disputes arise.</p>
+<p><strong>What to include:</strong></p>
+<ul>
+<li>Tenant name</li>
+<li>Unit</li>
+<li>Deposit amount received</li>
+<li>Date received</li>
+<li>Bank account held in (many states require segregated accounts)</li>
+<li>Interest accrued (required in some jurisdictions)</li>
+<li>Deductions at move-out</li>
+<li>Remaining refund amount</li>
+<li>Date refunded</li>
+<li>Itemized deduction documentation reference</li>
+</ul>
+<p>Keep this spreadsheet updated at every move-in and move-out. Late return of security deposits or improper deductions are among the most common sources of landlord-tenant disputes.</p>
+<h2 id="building-a-property-management-spreadsheet-system">Building a Property Management Spreadsheet System</h2>
+<p>Individual templates are useful, but they work best as an integrated system. Here is a practical structure for managing multiple properties in Google Sheets:</p>
+<p><strong>Workbook structure:</strong></p>
+<ul>
+<li>Tab 1: Dashboard (summary of all properties, current month totals, upcoming expirations)</li>
+<li>Tab 2: Rent Roll (all units, current period)</li>
+<li>Tab 3–N: Individual property expense logs</li>
+<li>Tab N+1: Consolidated income and expense summary</li>
+<li>Tab N+2: Lease tracker</li>
+<li>Tab N+3: Maintenance log</li>
+<li>Tab N+4: Security deposit tracker</li>
+</ul>
+<p>Link the individual tabs to the dashboard with summary formulas so your current financial picture is always visible at a glance.</p>
+<h2 id="spreadsheet-limitations-to-know-before-you-scale">Spreadsheet Limitations to Know Before You Scale</h2>
+<p>Spreadsheets have hard limits that become apparent as portfolios grow:</p>
+<p><strong>No automation</strong>: Late payment notices, rent reminders, and lease renewal prompts don't happen automatically. Every action requires manual input.</p>
+<p><strong>Version control issues</strong>: If multiple people edit the same spreadsheet, conflicts and errors occur. Google Sheets handles simultaneous editing better than Excel, but it's still prone to issues.</p>
+<p><strong>No tenant-facing portal</strong>: Tenants can't submit maintenance requests, pay rent, or access their lease documents through a spreadsheet system.</p>
+<p><strong>Limited audit trail</strong>: It's difficult to track who changed what and when, which matters for financial audits and tenant disputes.</p>
+<p><strong>No receipt scanning or bank sync</strong>: Expense data must be entered manually. This creates both time cost and error risk.</p>
+<p>For landlords managing 5+ units who are feeling these limitations, evaluating dedicated software makes sense. Our guide to <a href="/blog/property-management-vs-self-managing">property management vs. self-managing</a> discusses when the investment in professional tools pays off.</p>
+<h2 id="where-to-find-free-property-management-spreadsheet-templates">Where to Find Free Property Management Spreadsheet Templates</h2>
+<p>Several sources offer downloadable templates at no cost:</p>
+<ul>
+<li><strong>Stessa</strong>: Offers a free rental property spreadsheet alongside their software product. Clean formatting and Schedule E-aligned categories.</li>
+<li><strong>Vertex42</strong>: A broad template library with real estate and rental property-specific options for Excel and Google Sheets.</li>
+<li><strong>Biggerpockets.com</strong>: The investor community regularly shares templates in the forums, including rent rolls, cash flow analyzers, and expense trackers.</li>
+<li><strong>SCORE.org</strong>: Free business templates including financial tracking tools adaptable to rental property management.</li>
+</ul>
+<p>Always customize any downloaded template to match your actual categories, lease structures, and reporting needs before relying on it.</p>
+<h2 id="when-to-move-from-spreadsheets-to-software">When to Move From Spreadsheets to Software</h2>
+<p>The right time to upgrade is when manual maintenance of your spreadsheets takes more than two hours per week, or when you've crossed one of these thresholds:</p>
+<ul>
+<li>Managing 5 or more rental units</li>
+<li>Working with a partner or property manager who needs separate access</li>
+<li>Filing taxes with multiple Schedule E properties and needing clean, categorized data</li>
+<li>Dealing with frequent tenant turnover that makes manual tracking unsustainable</li>
+</ul>
+<p>At that point, reviewing purpose-built platforms is worth the time. The right software often pays for itself in reduced errors and time savings within the first year.</p>
+<h2 id="external-resources">External Resources</h2>
+<ul>
+<li><a href="https://www.irs.gov/forms-pubs/about-schedule-e-form-1040">IRS Schedule E Instructions</a> — the official guide to rental property tax reporting, directly relevant to expense category setup</li>
+<li><a href="https://www.biggerpockets.com/forums/52">Biggerpockets Rental Property Spreadsheet Forum</a> — community-shared templates and discussions on tracking systems</li>
+</ul>
+<h2 id="summary">Summary</h2>
+<p>A complete property management spreadsheet system includes a rent roll, income and expense tracker, lease tracker, maintenance log, cash flow analyzer, and security deposit tracker. Each template serves a distinct purpose and together they give you a full administrative picture of your portfolio.</p>
+<p>Spreadsheets work well up to about five properties. Beyond that, the manual work and lack of automation become limiting. Start with well-structured templates, run them consistently, and evaluate software when friction from manual management starts costing you time and money.</p>
+1c:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$22"}}]
+1d:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","property management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","property management software",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management software"}]]}]
+1e:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Management"]}],["$","$L10",null,{"href":"/blog/category/property-management","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-property-management-approaches",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-property-management-approaches","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Property Management Approaches"}],["$","span",null,{"className":"text-xs text-gray-400","children":[5," min"]}]]}]}],["$","li","addendum-property-management-agreement",{"children":["$","$L10",null,{"href":"/blog/addendum-property-management-agreement","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Addendum to Property Management Agreement: When and How to Use One"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-fees",{"children":["$","$L10",null,{"href":"/blog/akron-fees","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Property Management Fees in Akron: What to Expect"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-guide",{"children":["$","$L10",null,{"href":"/blog/akron-guide","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Complete Guide to Property Management in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+1f:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","property-management-accounting-software",{"href":"/blog/property-management-accounting-software","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Accounting Software Options for Rental Property Owners"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","ai-property-management-tools",{"href":"/blog/ai-property-management-tools","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"AI-Powered Property Management Tools Worth Trying"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","property-management-crm",{"href":"/blog/property-management-crm","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Best CRM Tools for Property Managers"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+20:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-landlords-still-use-spreadsheets",{"className":"","children":["$","a",null,{"href":"#why-landlords-still-use-spreadsheets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Landlords Still Use Spreadsheets"}]}],["$","li","essential-property-management-spreadsheet-templates",{"className":"","children":["$","a",null,{"href":"#essential-property-management-spreadsheet-templates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Essential Property Management Spreadsheet Templates"}]}],["$","li","1-rent-roll-template",{"className":"ml-4","children":["$","a",null,{"href":"#1-rent-roll-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Rent Roll Template"}]}],["$","li","2-income-and-expense-tracker",{"className":"ml-4","children":["$","a",null,{"href":"#2-income-and-expense-tracker","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Income and Expense Tracker"}]}],["$","li","3-lease-tracking-template",{"className":"ml-4","children":["$","a",null,{"href":"#3-lease-tracking-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Lease Tracking Template"}]}],["$","li","4-maintenance-request-log",{"className":"ml-4","children":["$","a",null,{"href":"#4-maintenance-request-log","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Maintenance Request Log"}]}],["$","li","5-cash-flow-analysis-template",{"className":"ml-4","children":["$","a",null,{"href":"#5-cash-flow-analysis-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Cash Flow Analysis Template"}]}],["$","li","6-security-deposit-tracker",{"className":"ml-4","children":["$","a",null,{"href":"#6-security-deposit-tracker","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Security Deposit Tracker"}]}],["$","li","building-a-property-management-spreadsheet-system",{"className":"","children":["$","a",null,{"href":"#building-a-property-management-spreadsheet-system","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Property Management Spreadsheet System"}]}],["$","li","spreadsheet-limitations-to-know-before-you-scale",{"className":"","children":["$","a",null,{"href":"#spreadsheet-limitations-to-know-before-you-scale","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spreadsheet Limitations to Know Before You Scale"}]}],["$","li","where-to-find-free-property-management-spreadsheet-templates",{"className":"","children":["$","a",null,{"href":"#where-to-find-free-property-management-spreadsheet-templates","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Find Free Property Management Spreadsheet Templates"}]}],["$","li","when-to-move-from-spreadsheets-to-software",{"className":"","children":["$","a",null,{"href":"#when-to-move-from-spreadsheets-to-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When to Move From Spreadsheets to Software"}]}],["$","li","external-resources",{"className":"","children":["$","a",null,{"href":"#external-resources","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"External Resources"}]}],["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]]}]]}]}]
+21:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Free Property Management Spreadsheet Templates | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Free property management spreadsheet templates for tracking rent, expenses, leases, and cash flow. Download-ready formats with guidance on what to include and when to upgrade to software."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"property management,landlord tips,property management software"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/property-management-spreadsheet-template"}],["$","meta","6",{"property":"og:title","content":"Free Property Management Spreadsheet Templates"}],["$","meta","7",{"property":"og:description","content":"Free property management spreadsheet templates for tracking rent, expenses, leases, and cash flow. Download-ready formats with guidance on what to include and when to upgrade to software."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/property-management-spreadsheet-template"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Free Property Management Spreadsheet Templates"}],["$","meta","15",{"name":"twitter:description","content":"Free property management spreadsheet templates for tracking rent, expenses, leases, and cash flow. Download-ready formats with guidance on what to include and when to upgrade to software."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

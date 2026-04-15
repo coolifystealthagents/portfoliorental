@@ -1,0 +1,287 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","reduce-days-on-market-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","reduce-days-on-market-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","reduce-days-on-market-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"How to Reduce Days on Market for Your Rental Property\",\"description\":\"Learn proven strategies to reduce days on market for your rental property. From pre-listing prep to application streamlining, fill vacancies faster and cut lost income.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/reduce-days-on-market-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Marketing & Leasing\",\"item\":\"https://portfoliorental.com/blog/category/marketing-and-leasing\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"How to Reduce Days on Market for Your Rental Property\",\"item\":\"https://portfoliorental.com/blog/reduce-days-on-market-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/marketing-and-leasing","className":"hover:text-blue-600","children":"Marketing & Leasing"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Marketing & Leasing"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"How to Reduce Days on Market for Your Rental Property"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[11," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","understanding-days-on-market",{"className":"","children":["$","a",null,{"href":"#understanding-days-on-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Understanding Days on Market"}]}],["$","li","1-start-pre-listing-preparation-early",{"className":"","children":["$","a",null,{"href":"#1-start-pre-listing-preparation-early","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Start Pre-Listing Preparation Early"}]}],["$","li","2-price-your-rental-strategically",{"className":"","children":["$","a",null,{"href":"#2-price-your-rental-strategically","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Price Your Rental Strategically"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]}]]}],"$L1d","$L1e"]}],"$L1f","$L20"]}],"$L21"]}]]}],"$L22"]
+11:["$","li","3-optimize-your-listing-for-maximum-impact",{"className":"","children":["$","a",null,{"href":"#3-optimize-your-listing-for-maximum-impact","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Optimize Your Listing for Maximum Impact"}]}]
+12:["$","li","4-respond-to-inquiries-immediately",{"className":"","children":["$","a",null,{"href":"#4-respond-to-inquiries-immediately","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Respond to Inquiries Immediately"}]}]
+13:["$","li","5-make-showings-easy-and-flexible",{"className":"","children":["$","a",null,{"href":"#5-make-showings-easy-and-flexible","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Make Showings Easy and Flexible"}]}]
+14:["$","li","6-streamline-your-application-process",{"className":"","children":["$","a",null,{"href":"#6-streamline-your-application-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Streamline Your Application Process"}]}]
+15:["$","li","7-pre-screen-effectively",{"className":"","children":["$","a",null,{"href":"#7-pre-screen-effectively","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Pre-Screen Effectively"}]}]
+16:["$","li","8-time-the-market-wisely",{"className":"","children":["$","a",null,{"href":"#8-time-the-market-wisely","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Time the Market Wisely"}]}]
+17:["$","li","9-do-a-competitive-analysis",{"className":"","children":["$","a",null,{"href":"#9-do-a-competitive-analysis","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"9. Do a Competitive Analysis"}]}]
+18:["$","li","10-overlap-turnovers-when-possible",{"className":"","children":["$","a",null,{"href":"#10-overlap-turnovers-when-possible","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"10. Overlap Turnovers When Possible"}]}]
+19:["$","li","tracking-your-days-on-market",{"className":"","children":["$","a",null,{"href":"#tracking-your-days-on-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tracking Your Days on Market"}]}]
+1a:["$","li","quick-wins-to-try-today",{"className":"","children":["$","a",null,{"href":"#quick-wins-to-try-today","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quick Wins to Try Today"}]}]
+1b:["$","li","the-cost-of-vacancy-vs-the-cost-of-action",{"className":"","children":["$","a",null,{"href":"#the-cost-of-vacancy-vs-the-cost-of-action","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Cost of Vacancy vs. the Cost of Action"}]}]
+1c:["$","li","putting-it-all-together",{"className":"","children":["$","a",null,{"href":"#putting-it-all-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Putting It All Together"}]}]
+23:T46b4,<p>Every day your rental property sits on the market is a day of lost income. If your property rents for 1,800 dollars per month, each vacant day costs you about 60 dollars. A property that sits empty for 30 days costs you the entire month of rent, plus you still pay the mortgage, insurance, and taxes.</p>
+<p>The average rental property in the US sits vacant for 25 to 30 days between tenants. But well-managed properties can cut that down to 7 to 14 days, or even zero days with proper planning.</p>
+<p>This guide walks you through ten strategies to reduce days on market for your rental property and keep your cash flow steady. These tips are part of a broader <a href="/blog/rental-property-marketing-strategies">rental property marketing strategy</a> that every landlord should have in place.</p>
+<h2 id="understanding-days-on-market">Understanding Days on Market</h2>
+<p>Days on market measures the time from when you list your property until a new tenant signs a lease. It is one of the most important metrics for rental property owners because it directly affects your bottom line.</p>
+<p>Several factors influence your days on market:</p>
+<ul>
+<li><strong>Local market conditions</strong> such as supply, demand, and seasonal trends</li>
+<li><strong>Your asking rent</strong> compared to similar properties nearby</li>
+<li><strong>Property condition</strong> and curb appeal</li>
+<li><strong>Marketing quality</strong> including photos, descriptions, and distribution</li>
+<li><strong>Your responsiveness</strong> to inquiries and showing requests</li>
+<li><strong>How easy your application process is</strong> for prospective tenants</li>
+</ul>
+<p>You cannot control the market. But you can control everything else. Let us look at how.</p>
+<h2 id="1-start-pre-listing-preparation-early">1. Start Pre-Listing Preparation Early</h2>
+<p>The biggest time waster in the leasing process is the gap between when a tenant moves out and when the property is ready to show. You can shrink this gap by preparing before the current tenant leaves.</p>
+<p><strong>60 days before lease expiration:</strong></p>
+<ul>
+<li>Ask your current tenant if they plan to renew</li>
+<li>If they are leaving, schedule a pre-move-out inspection</li>
+<li>Identify repairs and improvements needed</li>
+<li>Line up contractors and cleaning crews</li>
+<li>Order materials for any updates</li>
+</ul>
+<p><strong>30 days before move-out:</strong></p>
+<ul>
+<li>Begin marketing the property (more on this below)</li>
+<li>Schedule showings for the final week of the current lease, if your tenant agrees</li>
+<li>Prepare the lease and application materials for the next tenant</li>
+</ul>
+<p><strong>Move-out day:</strong></p>
+<ul>
+<li>Conduct the move-out inspection immediately</li>
+<li>Start turnover work the same day</li>
+<li>Have your cleaning crew on standby</li>
+</ul>
+<p>The goal is zero gap between when the old tenant leaves and the new one moves in. That requires starting early and having a plan.</p>
+<h2 id="2-price-your-rental-strategically">2. Price Your Rental Strategically</h2>
+<p>Nothing kills days on market faster than wrong pricing. Overpriced properties sit vacant while the landlord slowly reduces rent. Underpriced properties fill fast but leave money on the table.</p>
+<p>Here is how to find the sweet spot:</p>
+<p><strong>Research comparable rentals:</strong></p>
+<ul>
+<li>Search for similar properties within a one-mile radius</li>
+<li>Match on bedrooms, bathrooms, square footage, and condition</li>
+<li>Check what active listings are asking (your competition)</li>
+<li>Check what recently rented properties actually got (the market rate)</li>
+</ul>
+<p><strong>Price at or slightly below market:</strong></p>
+<ul>
+<li>Pricing at market rate fills vacancies in a reasonable time</li>
+<li>Pricing 3 to 5 percent below market creates urgency and multiple applications</li>
+<li>The cost of pricing slightly low is far less than the cost of extra vacancy days</li>
+</ul>
+<p><strong>Adjust quickly if needed:</strong></p>
+<ul>
+<li>If you get zero inquiries in the first week, your price is too high</li>
+<li>If you get 20-plus inquiries in the first day, you may be priced too low</li>
+<li>Drop the price in meaningful increments (50 to 100 dollars) rather than small 25-dollar cuts</li>
+</ul>
+<p>For a deep dive into rental pricing, check out our <a href="/blog/rental-pricing-strategy">rental pricing strategy guide</a>.</p>
+<h2 id="3-optimize-your-listing-for-maximum-impact">3. Optimize Your Listing for Maximum Impact</h2>
+<p>Your listing is your sales pitch. A weak listing gets ignored even if the property is great. A strong listing generates excitement and urgency.</p>
+<p><strong>Essential elements of an optimized listing:</strong></p>
+<ul>
+<li><strong>Headline that grabs attention:</strong> Use the best feature plus location. "Renovated 2BR with Rooftop Deck in Midtown" beats "2 Bedroom Apartment for Rent."</li>
+<li><strong>Professional-quality photos:</strong> At least 15 photos showing every room, the exterior, and key amenities. Bad photos are the number one reason renters skip a listing. Our <a href="/blog/rental-property-photography-tips">rental property photography tips</a> guide can help.</li>
+<li><strong>Complete and accurate details:</strong> Rent, deposit, square footage, bedrooms, bathrooms, pet policy, parking, laundry, lease term, and available date.</li>
+<li><strong>Compelling description:</strong> Highlight what makes this property special. Focus on benefits, not just features. See our guide on <a href="/blog/writing-rental-listing-descriptions">writing rental listing descriptions</a> for templates and tips.</li>
+<li><strong>Clear next steps:</strong> Tell renters exactly how to schedule a showing or submit an application.</li>
+</ul>
+<p>Post your listing on multiple platforms. Use the <a href="/blog/best-rental-listing-sites">best rental listing sites</a> to reach the widest audience. The more eyeballs on your listing, the faster you fill the vacancy.</p>
+<h2 id="4-respond-to-inquiries-immediately">4. Respond to Inquiries Immediately</h2>
+<p>Speed matters more than almost anything else in the leasing process. When a renter reaches out about your property, they are also contacting two to five other landlords at the same time. The first landlord to respond is most likely to book the showing.</p>
+<p><strong>Response time benchmarks:</strong></p>
+<ul>
+<li><strong>Under 5 minutes:</strong> Excellent. You will book more showings than your competition.</li>
+<li><strong>Under 1 hour:</strong> Good. Most renters will still be interested.</li>
+<li><strong>Under 4 hours:</strong> Acceptable. You may lose some prospects to faster landlords.</li>
+<li><strong>Over 24 hours:</strong> Poor. Most renters have moved on by now.</li>
+</ul>
+<p><strong>How to speed up your response time:</strong></p>
+<ul>
+<li>Turn on push notifications for your listing platforms</li>
+<li>Create template responses for common questions</li>
+<li>Use a property management app that centralizes all inquiries</li>
+<li>Set up auto-replies that confirm receipt and provide next steps</li>
+<li>If you cannot respond during work hours, hire a leasing agent or virtual assistant</li>
+</ul>
+<h2 id="5-make-showings-easy-and-flexible">5. Make Showings Easy and Flexible</h2>
+<p>If renters cannot see the property, they cannot apply. Make showings as easy as possible.</p>
+<p><strong>Strategies for maximizing showings:</strong></p>
+<ul>
+<li>Offer weekday evening and weekend time slots</li>
+<li>Allow self-guided tours using a lockbox or smart lock</li>
+<li>Host open houses to show multiple people at once</li>
+<li>Offer virtual tours for out-of-town renters or busy schedules</li>
+<li>Confirm showings the morning of to reduce no-shows</li>
+</ul>
+<p><strong>During the showing:</strong></p>
+<ul>
+<li>Have the property clean, well-lit, and at a comfortable temperature</li>
+<li>Provide printed information sheets with property details and application instructions</li>
+<li>Point out features that photos may not capture, like closet space and water pressure</li>
+<li>Answer questions honestly and completely</li>
+<li>Let the renter take their time and explore on their own</li>
+</ul>
+<p>The easier you make it for people to see the property, the more applications you will receive.</p>
+<h2 id="6-streamline-your-application-process">6. Streamline Your Application Process</h2>
+<p>A complicated application process loses qualified tenants. If your application requires a paper form, a trip to your office, and a two-week wait, good renters will go elsewhere.</p>
+<p><strong>Modernize your application process:</strong></p>
+<ul>
+<li>Use an online application that renters can complete on their phone</li>
+<li>Accept applications before the showing or immediately after</li>
+<li>Be clear about what documents you need (ID, pay stubs, references)</li>
+<li>Set a reasonable application fee (typically 25 to 50 dollars)</li>
+<li>Process applications within 24 to 48 hours, not a week</li>
+</ul>
+<p><strong>Popular online application tools:</strong></p>
+<ul>
+<li>Zillow Rental Manager (free)</li>
+<li>Avail (free basic plan)</li>
+<li>TenantCloud (free for small portfolios)</li>
+<li>Buildium and AppFolio (for larger portfolios)</li>
+</ul>
+<p>The faster someone can apply, the faster you can fill your vacancy.</p>
+<h2 id="7-pre-screen-effectively">7. Pre-Screen Effectively</h2>
+<p>Pre-screening saves time for both you and the renter. It filters out people who do not meet your basic requirements before they waste time on a showing or application.</p>
+<p><strong>Key pre-screening questions:</strong></p>
+<ul>
+<li>When are you looking to move in?</li>
+<li>How many people will be living in the unit?</li>
+<li>Do you have pets? If so, what type and size?</li>
+<li>What is your monthly household income?</li>
+<li>Have you ever been evicted or broken a lease?</li>
+<li>Are you willing to undergo a credit and background check?</li>
+</ul>
+<p>You can ask these questions by phone, text, or through a simple online form. Be consistent and ask every prospect the same questions.</p>
+<p><strong>Important:</strong> Make sure your screening criteria comply with fair housing laws. You cannot screen based on race, religion, sex, national origin, familial status, or disability. Focus on objective, financially based criteria like income, credit, and rental history.</p>
+<h2 id="8-time-the-market-wisely">8. Time the Market Wisely</h2>
+<p>When you list matters. Rental demand is seasonal in most markets, and listing at the wrong time can add weeks to your vacancy.</p>
+<p><strong>Best months to list:</strong> April through August. Demand peaks during late spring and summer when families want to move before the school year, college students need housing, and the weather makes moving easier.</p>
+<p><strong>Toughest months to list:</strong> November through February. Fewer people move during the holidays and winter months. If you must list during this period, be more aggressive on pricing and marketing.</p>
+<p><strong>Best day to list:</strong> Thursday or Friday. This gives renters the weekend to schedule showings and maximizes your first-weekend traffic.</p>
+<p><strong>Lease expiration planning:</strong> If possible, set your leases to expire in spring or early summer. This way, if a tenant moves out, you are marketing during peak season. For more on minimizing vacancy, check out our guide on <a href="/blog/reduce-vacancy-rate-rental-property">how to reduce your vacancy rate</a>.</p>
+<h2 id="9-do-a-competitive-analysis">9. Do a Competitive Analysis</h2>
+<p>You are not marketing in a vacuum. Your property competes against every other rental in the area. Understanding your competition helps you position your listing to win.</p>
+<p><strong>How to do a quick competitive analysis:</strong></p>
+<ol>
+<li>Search for rentals within a one-mile radius on Zillow and Apartments.com</li>
+<li>Filter for similar size, type, and price range</li>
+<li>Note how many competing listings exist</li>
+<li>Study their photos, descriptions, and pricing</li>
+<li>Identify what they offer that you do not (and vice versa)</li>
+</ol>
+<p><strong>Use your findings to:</strong></p>
+<ul>
+<li>Price your property competitively</li>
+<li>Highlight features your competitors lack</li>
+<li>Improve your photos and descriptions to beat the competition</li>
+<li>Adjust your marketing spend based on competition level</li>
+</ul>
+<p>If there are 20 similar listings in your area, you need to work harder to stand out. If there are only 2, you can be less aggressive since demand will likely come to you.</p>
+<h2 id="10-overlap-turnovers-when-possible">10. Overlap Turnovers When Possible</h2>
+<p>The ultimate goal is zero vacancy between tenants. This requires overlap: having a new tenant ready to move in the day after the old one leaves.</p>
+<p><strong>How to achieve turnover overlap:</strong></p>
+<ul>
+<li><strong>Start marketing 30 to 45 days before the current tenant moves out.</strong> Most tenants will allow showings with proper notice.</li>
+<li><strong>Accept applications before the unit is empty.</strong> Qualified renters are often willing to commit based on showings of an occupied unit.</li>
+<li><strong>Have your new tenant sign the lease before the old one moves out.</strong> Set the new lease start date for one to two days after the move-out date to allow for cleaning and inspection.</li>
+<li><strong>Speed up turnover work.</strong> Have your cleaning crew and maintenance team ready to go on move-out day. A unit in good condition might only need a day of cleaning and touch-up.</li>
+</ul>
+<p><strong>The overlap timeline:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Activity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Day 1 (move-out)</td>
+<td>Move-out inspection, begin cleaning</td>
+</tr>
+<tr>
+<td>Day 2</td>
+<td>Complete cleaning, touch-up paint, minor repairs</td>
+</tr>
+<tr>
+<td>Day 3</td>
+<td>Final walkthrough and move-in inspection with new tenant</td>
+</tr>
+<tr>
+<td>Day 3 or 4</td>
+<td>New tenant moves in</td>
+</tr>
+</tbody>
+</table>
+<p>This three- to four-day turnaround is achievable for well-maintained properties with a solid plan in place.</p>
+<h2 id="tracking-your-days-on-market">Tracking Your Days on Market</h2>
+<p>You cannot improve what you do not measure. Track your days on market for every vacancy and look for patterns.</p>
+<p><strong>Key metrics to track:</strong></p>
+<ul>
+<li>Days from listing to first inquiry</li>
+<li>Days from listing to first showing</li>
+<li>Days from listing to application received</li>
+<li>Days from application to lease signed</li>
+<li>Days from move-out to move-in (total vacancy)</li>
+</ul>
+<p><strong>What the numbers tell you:</strong></p>
+<ul>
+<li><strong>Long time to first inquiry:</strong> Your pricing or listing quality needs work</li>
+<li><strong>Inquiries but few showings:</strong> Your showing process is too difficult</li>
+<li><strong>Showings but few applications:</strong> The property does not match expectations set by the listing</li>
+<li><strong>Applications but slow approval:</strong> Your screening process is too slow</li>
+</ul>
+<p>Review these numbers after every vacancy. Over time, you will identify your bottleneck and fix it.</p>
+<h2 id="quick-wins-to-try-today">Quick Wins to Try Today</h2>
+<p>If you need to reduce days on market right now, here are the fastest changes you can make:</p>
+<ol>
+<li><strong>Drop your price by 5 percent.</strong> More inquiries come in immediately.</li>
+<li><strong>Add professional photos.</strong> Replace dark or blurry shots with bright, clean images.</li>
+<li><strong>Post on three more listing sites.</strong> Wider distribution means more eyeballs.</li>
+<li><strong>Turn on instant notifications.</strong> Respond to every inquiry within 15 minutes.</li>
+<li><strong>Offer flexible showing times.</strong> Add evening and weekend slots.</li>
+<li><strong>Switch to online applications.</strong> Remove the friction from applying.</li>
+</ol>
+<p>These six changes alone can cut your days on market in half.</p>
+<h2 id="the-cost-of-vacancy-vs-the-cost-of-action">The Cost of Vacancy vs. the Cost of Action</h2>
+<p>Some landlords hesitate to spend money on marketing, photography, or pricing concessions. But the math is simple.</p>
+<p>If your property rents for 2,000 dollars per month:</p>
+<ul>
+<li>Each vacant day costs about 67 dollars</li>
+<li>A two-week vacancy costs about 933 dollars</li>
+<li>A one-month vacancy costs 2,000 dollars</li>
+</ul>
+<p>Now compare that to the cost of action:</p>
+<ul>
+<li>Professional photos: 200 dollars (one-time)</li>
+<li>Featured listing: 50 dollars</li>
+<li>Slight rent reduction: 50 to 100 dollars per month</li>
+<li>Online application tool: 0 to 30 dollars per month</li>
+</ul>
+<p>Spending 300 dollars to fill your vacancy two weeks sooner saves you over 900 dollars. The return on investment is clear.</p>
+<h2 id="putting-it-all-together">Putting It All Together</h2>
+<p>Reducing days on market is not about any single tactic. It is about building a system that moves efficiently from one step to the next. Prepare early, price right, market aggressively, respond fast, show flexibly, and process applications quickly.</p>
+<p>When every part of your leasing process runs smoothly, vacancies shrink from weeks to days. That means more income, less stress, and a healthier rental property portfolio.</p>
+<p>Start with the strategies that address your biggest bottleneck. If you are not sure where your process breaks down, track the metrics above for your next vacancy. The data will show you exactly where to focus your effort.</p>
+<p>Your rental property is a business. Market it like one, and the results will follow. For market-level data on rental trends and vacancy rates, <a href="https://www.zillow.com/research" rel="noopener" target="_blank">Zillow Research</a> publishes monthly reports that can inform your pricing and timing decisions. The <a href="https://www.nar.realtor" rel="noopener" target="_blank">National Association of Realtors</a> also provides statistics on rental market conditions by region.</p>
+1d:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$23"}}]
+1e:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","marketing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"marketing"}],["$","span","vacancy reduction",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacancy reduction"}],["$","span","rental listings",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental listings"}],["$","span","reduce days on market rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"reduce days on market rental"}]]}]
+1f:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Marketing & Leasing"]}],["$","$L10",null,{"href":"/blog/category/marketing-and-leasing","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","lease-up-strategy-new-rental-properties",{"children":["$","$L10",null,{"href":"/blog/lease-up-strategy-new-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Lease-Up Strategy for New Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","market-luxury-rental-properties-affluent",{"children":["$","$L10",null,{"href":"/blog/market-luxury-rental-properties-affluent","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Market Luxury Rental Properties to High-Net-Worth Tenants"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","rental-property-showing-schedule-efficiency",{"children":["$","$L10",null,{"href":"/blog/rental-property-showing-schedule-efficiency","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Set Up a Rental Property Showing Schedule That Maximizes Efficiency"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","run-rental-property-showing-converts",{"children":["$","$L10",null,{"href":"/blog/run-rental-property-showing-converts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Run a Rental Property Showing That Converts"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+20:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","best-rental-listing-sites",{"href":"/blog/best-rental-listing-sites","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Best Rental Listing Sites to Advertise Your Property in 2026"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","rental-property-branding",{"href":"/blog/rental-property-branding","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Rental Property Branding: How to Build a Brand That Attracts and Retains Tenants"}],["$","p",null,{"className":"text-sm text-gray-500","children":[12," min read"]}]]}],["$","$L10","rental-property-competitive-analysis",{"href":"/blog/rental-property-competitive-analysis","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing & Leasing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Rental Property Competitive Analysis: How to Outsmart Your Local Market"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}]]}]]}]
+21:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","understanding-days-on-market",{"className":"","children":["$","a",null,{"href":"#understanding-days-on-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Understanding Days on Market"}]}],["$","li","1-start-pre-listing-preparation-early",{"className":"","children":["$","a",null,{"href":"#1-start-pre-listing-preparation-early","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Start Pre-Listing Preparation Early"}]}],["$","li","2-price-your-rental-strategically",{"className":"","children":["$","a",null,{"href":"#2-price-your-rental-strategically","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Price Your Rental Strategically"}]}],["$","li","3-optimize-your-listing-for-maximum-impact",{"className":"","children":["$","a",null,{"href":"#3-optimize-your-listing-for-maximum-impact","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Optimize Your Listing for Maximum Impact"}]}],["$","li","4-respond-to-inquiries-immediately",{"className":"","children":["$","a",null,{"href":"#4-respond-to-inquiries-immediately","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Respond to Inquiries Immediately"}]}],["$","li","5-make-showings-easy-and-flexible",{"className":"","children":["$","a",null,{"href":"#5-make-showings-easy-and-flexible","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Make Showings Easy and Flexible"}]}],["$","li","6-streamline-your-application-process",{"className":"","children":["$","a",null,{"href":"#6-streamline-your-application-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Streamline Your Application Process"}]}],["$","li","7-pre-screen-effectively",{"className":"","children":["$","a",null,{"href":"#7-pre-screen-effectively","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Pre-Screen Effectively"}]}],["$","li","8-time-the-market-wisely",{"className":"","children":["$","a",null,{"href":"#8-time-the-market-wisely","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Time the Market Wisely"}]}],["$","li","9-do-a-competitive-analysis",{"className":"","children":["$","a",null,{"href":"#9-do-a-competitive-analysis","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"9. Do a Competitive Analysis"}]}],["$","li","10-overlap-turnovers-when-possible",{"className":"","children":["$","a",null,{"href":"#10-overlap-turnovers-when-possible","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"10. Overlap Turnovers When Possible"}]}],["$","li","tracking-your-days-on-market",{"className":"","children":["$","a",null,{"href":"#tracking-your-days-on-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tracking Your Days on Market"}]}],["$","li","quick-wins-to-try-today",{"className":"","children":["$","a",null,{"href":"#quick-wins-to-try-today","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quick Wins to Try Today"}]}],["$","li","the-cost-of-vacancy-vs-the-cost-of-action",{"className":"","children":["$","a",null,{"href":"#the-cost-of-vacancy-vs-the-cost-of-action","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Cost of Vacancy vs. the Cost of Action"}]}],["$","li","putting-it-all-together",{"className":"","children":"$L24"}]]}]]}]}]
+22:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+24:["$","a",null,{"href":"#putting-it-all-together","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Putting It All Together"}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"How to Reduce Days on Market for Your Rental Property | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn proven strategies to reduce days on market for your rental property. From pre-listing prep to application streamlining, fill vacancies faster and cut lost income."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"marketing,vacancy reduction,rental listings,reduce days on market rental"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/reduce-days-on-market-rental"}],["$","meta","6",{"property":"og:title","content":"How to Reduce Days on Market for Your Rental Property"}],["$","meta","7",{"property":"og:description","content":"Learn proven strategies to reduce days on market for your rental property. From pre-listing prep to application streamlining, fill vacancies faster and cut lost income."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/reduce-days-on-market-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"How to Reduce Days on Market for Your Rental Property"}],["$","meta","15",{"name":"twitter:description","content":"Learn proven strategies to reduce days on market for your rental property. From pre-listing prep to application streamlining, fill vacancies faster and cut lost income."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

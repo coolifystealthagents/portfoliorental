@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","handyman-vs-licensed-contractor"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","handyman-vs-licensed-contractor","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","handyman-vs-licensed-contractor","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Handyman vs Licensed Contractor: When to Hire Which\",\"description\":\"Learn when to hire a handyman vs a licensed contractor for your rental properties, including legal requirements, cost comparisons, and which repairs require licensed professionals.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/handyman-vs-licensed-contractor\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Handyman vs Licensed Contractor: When to Hire Which\",\"item\":\"https://portfoliorental.com/blog/handyman-vs-licensed-contractor\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Handyman vs Licensed Contractor: When to Hire Which"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[5," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","defining-the-difference",{"className":"","children":["$","a",null,{"href":"#defining-the-difference","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Defining the Difference"}]}],["$","li","handyman",{"className":"ml-4","children":["$","a",null,{"href":"#handyman","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handyman"}]}],["$","li","licensed-contractor",{"className":"ml-4","children":["$","a",null,{"href":"#licensed-contractor","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Licensed Contractor"}]}],["$","li","work-that-a-handyman-can-handle",{"className":"","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}]]}],"$L26","$L27"]}],"$L28","$L29"]}],"$L2a"]}]]}],"$L2b"]
+11:["$","a",null,{"href":"#work-that-a-handyman-can-handle","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Work That a Handyman Can Handle"}]
+12:["$","li","interior-repairs",{"className":"ml-4","children":["$","a",null,{"href":"#interior-repairs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interior Repairs"}]}]
+13:["$","li","exterior-maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Maintenance"}]}]
+14:["$","li","appliance-and-fixture-tasks",{"className":"ml-4","children":["$","a",null,{"href":"#appliance-and-fixture-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Appliance and Fixture Tasks"}]}]
+15:["$","li","turnover-tasks",{"className":"ml-4","children":["$","a",null,{"href":"#turnover-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Turnover Tasks"}]}]
+16:["$","li","work-that-requires-a-licensed-contractor",{"className":"","children":["$","a",null,{"href":"#work-that-requires-a-licensed-contractor","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Work That Requires a Licensed Contractor"}]}]
+17:["$","li","electrical-work",{"className":"ml-4","children":["$","a",null,{"href":"#electrical-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Electrical Work"}]}]
+18:["$","li","plumbing-work",{"className":"ml-4","children":["$","a",null,{"href":"#plumbing-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing Work"}]}]
+19:["$","li","hvac-work",{"className":"ml-4","children":["$","a",null,{"href":"#hvac-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC Work"}]}]
+1a:["$","li","structural-work",{"className":"ml-4","children":["$","a",null,{"href":"#structural-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Structural Work"}]}]
+1b:["$","li","specialized-work",{"className":"ml-4","children":["$","a",null,{"href":"#specialized-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Specialized Work"}]}]
+1c:["$","li","the-gray-area",{"className":"","children":["$","a",null,{"href":"#the-gray-area","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Gray Area"}]}]
+1d:["$","li","cost-comparison",{"className":"","children":["$","a",null,{"href":"#cost-comparison","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cost Comparison"}]}]
+1e:["$","li","liability-considerations",{"className":"","children":["$","a",null,{"href":"#liability-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Liability Considerations"}]}]
+1f:["$","li","using-an-unlicensed-worker-for-licensed-work",{"className":"ml-4","children":["$","a",null,{"href":"#using-an-unlicensed-worker-for-licensed-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Using an Unlicensed Worker for Licensed Work"}]}]
+20:["$","li","insurance-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#insurance-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance Requirements"}]}]
+21:["$","li","building-a-balanced-team",{"className":"","children":["$","a",null,{"href":"#building-a-balanced-team","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Balanced Team"}]}]
+22:["$","li","1-2-reliable-handymen",{"className":"ml-4","children":["$","a",null,{"href":"#1-2-reliable-handymen","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1-2 Reliable Handymen"}]}]
+23:["$","li","licensed-tradespeople-on-call",{"className":"ml-4","children":["$","a",null,{"href":"#licensed-tradespeople-on-call","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Licensed Tradespeople on Call"}]}]
+24:["$","li","a-general-contractor",{"className":"ml-4","children":["$","a",null,{"href":"#a-general-contractor","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"A General Contractor"}]}]
+25:["$","li","key-takeaways",{"className":"","children":["$","a",null,{"href":"#key-takeaways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Takeaways"}]}]
+2c:T2505,<p>Every landlord faces this decision regularly: does this job need a licensed contractor, or can a handyman handle it? Hiring the wrong one costs money either way. Overpaying a licensed electrician to swap a light fixture wastes your budget. Having a handyman do electrical panel work risks code violations, insurance claims, and tenant safety.</p>
+<p>This guide draws a clear line between handyman work and licensed contractor work for rental properties.</p>
+<h2 id="defining-the-difference">Defining the Difference</h2>
+<h3 id="handyman">Handyman</h3>
+<p>A handyman is a generalist who handles minor repairs and maintenance tasks. In most states, handymen:</p>
+<ul>
+<li>Do not need a contractor's license for jobs under a state-defined dollar threshold (often $500 to $1,000)</li>
+<li>Handle cosmetic and minor functional repairs</li>
+<li>Charge lower hourly rates than licensed tradespeople</li>
+<li>May not carry the same level of insurance as licensed contractors</li>
+</ul>
+<h3 id="licensed-contractor">Licensed Contractor</h3>
+<p>A licensed contractor has passed trade-specific exams, meets bonding and insurance requirements, and is authorized to perform work that affects building systems. Licensed categories typically include:</p>
+<ul>
+<li><strong>General contractor</strong> — Oversees larger renovation projects</li>
+<li><strong>Electrician</strong> — Electrical systems and wiring</li>
+<li><strong>Plumber</strong> — Water supply, drainage, and gas lines</li>
+<li><strong>HVAC technician</strong> — Heating, cooling, and ventilation systems</li>
+<li><strong>Roofer</strong> — Roof installation and major repairs</li>
+</ul>
+<h2 id="work-that-a-handyman-can-handle">Work That a Handyman Can Handle</h2>
+<p>These tasks generally fall within handyman scope and do not require licensing:</p>
+<h3 id="interior-repairs">Interior Repairs</h3>
+<ul>
+<li>Patching drywall holes and nail pops</li>
+<li>Painting walls, ceilings, trim, and doors</li>
+<li>Replacing interior door hardware (knobs, hinges, stops)</li>
+<li>Fixing sticking doors and windows</li>
+<li>Caulking tubs, showers, and sinks</li>
+<li>Replacing toilet seats, faucet aerators, and showerheads</li>
+<li>Installing curtain rods, blinds, and shelving</li>
+<li>Minor tile grout repair</li>
+</ul>
+<h3 id="exterior-maintenance">Exterior Maintenance</h3>
+<ul>
+<li>Power washing siding, decks, and walkways</li>
+<li>Minor fence repairs</li>
+<li>Gutter cleaning</li>
+<li>Replacing exterior light bulbs and covers</li>
+<li>Basic landscaping and yard cleanup</li>
+</ul>
+<h3 id="appliance-and-fixture-tasks">Appliance and Fixture Tasks</h3>
+<ul>
+<li>Replacing garbage disposal units (in some states)</li>
+<li>Swapping light fixtures (when no rewiring is needed)</li>
+<li>Installing basic appliances (dishwashers, microwaves)</li>
+<li>Adjusting cabinet doors and drawer slides</li>
+</ul>
+<h3 id="turnover-tasks">Turnover Tasks</h3>
+<ul>
+<li>Deep cleaning between tenants</li>
+<li>Touch-up painting</li>
+<li>Replacing outlet covers and switch plates</li>
+<li>Installing smoke detector batteries</li>
+<li>Minor carpet repairs</li>
+</ul>
+<h2 id="work-that-requires-a-licensed-contractor">Work That Requires a Licensed Contractor</h2>
+<p>These tasks involve building systems, structural elements, or safety components that require licensed professionals:</p>
+<h3 id="electrical-work">Electrical Work</h3>
+<ul>
+<li>Any work inside the electrical panel</li>
+<li>Installing new circuits or outlets</li>
+<li>Rewiring any portion of the property</li>
+<li>Upgrading electrical service capacity</li>
+<li>Installing hardwired smoke and CO detectors</li>
+<li>Any electrical work requiring a permit</li>
+</ul>
+<h3 id="plumbing-work">Plumbing Work</h3>
+<ul>
+<li>Replacing or relocating water supply lines</li>
+<li>Drain line repair or replacement</li>
+<li>Water heater installation</li>
+<li>Gas line work of any kind</li>
+<li>Sewer line repair</li>
+<li>Installing new plumbing fixtures where new supply or drain connections are needed</li>
+</ul>
+<h3 id="hvac-work">HVAC Work</h3>
+<ul>
+<li>Installing or replacing furnaces, boilers, or air conditioners</li>
+<li>Refrigerant handling (requires EPA certification)</li>
+<li>Ductwork installation or modification</li>
+<li>Gas furnace repair</li>
+</ul>
+<h3 id="structural-work">Structural Work</h3>
+<ul>
+<li>Load-bearing wall removal or modification</li>
+<li>Foundation repair</li>
+<li>Roof replacement or major repair</li>
+<li>Deck construction</li>
+<li>Window and door framing</li>
+</ul>
+<h3 id="specialized-work">Specialized Work</h3>
+<ul>
+<li>Asbestos or lead paint remediation</li>
+<li>Mold remediation above certain thresholds</li>
+<li>Fire damage restoration</li>
+<li>Elevator maintenance and repair</li>
+</ul>
+<h2 id="the-gray-area">The Gray Area</h2>
+<p>Some tasks fall into a gray area where state and local laws vary:</p>
+<ul>
+<li><strong>Replacing a water heater</strong> — Some states allow handymen for like-for-like replacement; others require a licensed plumber</li>
+<li><strong>Installing a garbage disposal</strong> — May or may not require a plumber depending on jurisdiction</li>
+<li><strong>Replacing a toilet</strong> — A handyman can usually replace a toilet on an existing flange, but moving or installing a new drain connection requires a plumber</li>
+<li><strong>Deck repair vs deck construction</strong> — Repairing a few boards is handyman work; building a new deck requires a general contractor</li>
+</ul>
+<p>Always check your state's contractor licensing laws for specific dollar thresholds and task definitions. The <a href="https://www.sba.gov/business-guide/launch-your-business">SBA business guide</a> can help you understand licensing requirements for contractors.</p>
+<h2 id="cost-comparison">Cost Comparison</h2>
+<p>Understanding typical rate differences helps you allocate your maintenance budget:</p>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Handyman</th>
+<th>Licensed Contractor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Hourly rate</strong></td>
+<td>$40 - $80</td>
+<td>$75 - $200+</td>
+</tr>
+<tr>
+<td><strong>Minimum charge</strong></td>
+<td>$50 - $150</td>
+<td>$100 - $300</td>
+</tr>
+<tr>
+<td><strong>Permits included</strong></td>
+<td>Rarely</td>
+<td>Usually</td>
+</tr>
+<tr>
+<td><strong>Insurance level</strong></td>
+<td>Basic or none</td>
+<td>Full liability + workers' comp</td>
+</tr>
+<tr>
+<td><strong>Warranty</strong></td>
+<td>Informal</td>
+<td>Written warranty standard</td>
+</tr>
+</tbody>
+</table>
+<p>For a single small task, the cost difference is modest. But across a portfolio with dozens of maintenance requests per month, using handymen for appropriate tasks can save thousands annually. See our <a href="/blog/property-maintenance-cost-budgeting">maintenance cost budgeting guide</a> for portfolio-level strategies.</p>
+<h2 id="liability-considerations">Liability Considerations</h2>
+<h3 id="using-an-unlicensed-worker-for-licensed-work">Using an Unlicensed Worker for Licensed Work</h3>
+<p>If an unlicensed handyman does work that requires a license and something goes wrong, you face serious consequences. <a href="https://www.osha.gov/workers">OSHA worker protections</a> may also apply if injuries occur on the job site. Specifically:</p>
+<ul>
+<li>Your insurance may deny the claim</li>
+<li>You face code violation fines</li>
+<li>Tenant injury liability falls on you</li>
+<li>You may be liable for property damage to neighboring units</li>
+<li>Corrective work costs more than doing it right the first time</li>
+</ul>
+<h3 id="insurance-requirements">Insurance Requirements</h3>
+<p>For handymen, verify at minimum:</p>
+<ul>
+<li>General liability insurance</li>
+<li>Workers' compensation (if they have employees)</li>
+</ul>
+<p>For licensed contractors, also require:</p>
+<ul>
+<li>Trade-specific licensing verification</li>
+<li>Bonding where applicable</li>
+<li>Additional insured endorsement naming you</li>
+</ul>
+<p>See our <a href="/blog/contractor-insurance-verification">contractor insurance verification guide</a> for the complete process.</p>
+<h2 id="building-a-balanced-team">Building a Balanced Team</h2>
+<p>For most rental portfolios, the ideal setup includes:</p>
+<h3 id="1-2-reliable-handymen">1-2 Reliable Handymen</h3>
+<p>For routine maintenance, turnover prep, and minor repairs. These are your most frequently used vendors.</p>
+<h3 id="licensed-tradespeople-on-call">Licensed Tradespeople on Call</h3>
+<p>A plumber, electrician, and HVAC technician you can reach for emergency and scheduled licensed work. You may not use them monthly, but you need them available.</p>
+<h3 id="a-general-contractor">A General Contractor</h3>
+<p>For larger renovation projects, unit rehabs, and capital improvement work. Used less frequently but critical for major projects.</p>
+<p>For more on building your complete vendor network, see our <a href="/blog/vendor-management-property-maintenance">vendor management best practices guide</a> and <a href="/blog/find-reliable-contractors-rental">finding reliable contractors</a>.</p>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<p>The handyman vs licensed contractor decision is primarily a legal and safety question, not just a cost question. Use handymen for cosmetic, minor, and non-system work. Use licensed contractors whenever a job touches electrical, plumbing, HVAC, structural, or other regulated building systems. Know your state's specific thresholds and requirements. Getting this wrong exposes you to liability that far exceeds any savings on labor rates.</p>
+26:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2c"}}]
+27:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","vendor management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vendor management"}],["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","contractor hiring",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"contractor hiring"}],["$","span","landlord operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord operations"}],["$","span","cost management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"cost management"}]]}]
+28:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+29:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","find-reliable-contractors-rental",{"href":"/blog/find-reliable-contractors-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Find Reliable Contractors for Your Rentals"}],["$","p",null,{"className":"text-sm text-gray-500","children":[5," min read"]}]]}],["$","$L10","property-maintenance-bid-process",{"href":"/blog/property-maintenance-bid-process","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Run a Property Maintenance Bid Process"}],["$","p",null,{"className":"text-sm text-gray-500","children":[5," min read"]}]]}],["$","$L10","negotiating-contractor-rates",{"href":"/blog/negotiating-contractor-rates","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Tips for Negotiating Better Contractor Rates"}],["$","p",null,{"className":"text-sm text-gray-500","children":[6," min read"]}]]}]]}]]}]
+2a:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","defining-the-difference",{"className":"","children":["$","a",null,{"href":"#defining-the-difference","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Defining the Difference"}]}],["$","li","handyman",{"className":"ml-4","children":["$","a",null,{"href":"#handyman","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handyman"}]}],["$","li","licensed-contractor",{"className":"ml-4","children":["$","a",null,{"href":"#licensed-contractor","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Licensed Contractor"}]}],["$","li","work-that-a-handyman-can-handle",{"className":"","children":["$","a",null,{"href":"#work-that-a-handyman-can-handle","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Work That a Handyman Can Handle"}]}],["$","li","interior-repairs",{"className":"ml-4","children":["$","a",null,{"href":"#interior-repairs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interior Repairs"}]}],["$","li","exterior-maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Maintenance"}]}],["$","li","appliance-and-fixture-tasks",{"className":"ml-4","children":["$","a",null,{"href":"#appliance-and-fixture-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Appliance and Fixture Tasks"}]}],["$","li","turnover-tasks",{"className":"ml-4","children":["$","a",null,{"href":"#turnover-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Turnover Tasks"}]}],["$","li","work-that-requires-a-licensed-contractor",{"className":"","children":["$","a",null,{"href":"#work-that-requires-a-licensed-contractor","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Work That Requires a Licensed Contractor"}]}],["$","li","electrical-work",{"className":"ml-4","children":["$","a",null,{"href":"#electrical-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Electrical Work"}]}],["$","li","plumbing-work",{"className":"ml-4","children":["$","a",null,{"href":"#plumbing-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing Work"}]}],["$","li","hvac-work",{"className":"ml-4","children":["$","a",null,{"href":"#hvac-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC Work"}]}],["$","li","structural-work",{"className":"ml-4","children":["$","a",null,{"href":"#structural-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Structural Work"}]}],["$","li","specialized-work",{"className":"ml-4","children":["$","a",null,{"href":"#specialized-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Specialized Work"}]}],["$","li","the-gray-area",{"className":"","children":["$","a",null,{"href":"#the-gray-area","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Gray Area"}]}],["$","li","cost-comparison",{"className":"","children":["$","a",null,{"href":"#cost-comparison","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cost Comparison"}]}],["$","li","liability-considerations",{"className":"","children":["$","a",null,{"href":"#liability-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Liability Considerations"}]}],["$","li","using-an-unlicensed-worker-for-licensed-work",{"className":"ml-4","children":"$L2d"}],"$L2e","$L2f","$L30","$L31","$L32","$L33"]}]]}]}]
+2b:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2d:["$","a",null,{"href":"#using-an-unlicensed-worker-for-licensed-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Using an Unlicensed Worker for Licensed Work"}]
+2e:["$","li","insurance-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#insurance-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance Requirements"}]}]
+2f:["$","li","building-a-balanced-team",{"className":"","children":["$","a",null,{"href":"#building-a-balanced-team","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Balanced Team"}]}]
+30:["$","li","1-2-reliable-handymen",{"className":"ml-4","children":["$","a",null,{"href":"#1-2-reliable-handymen","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1-2 Reliable Handymen"}]}]
+31:["$","li","licensed-tradespeople-on-call",{"className":"ml-4","children":["$","a",null,{"href":"#licensed-tradespeople-on-call","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Licensed Tradespeople on Call"}]}]
+32:["$","li","a-general-contractor",{"className":"ml-4","children":["$","a",null,{"href":"#a-general-contractor","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"A General Contractor"}]}]
+33:["$","li","key-takeaways",{"className":"","children":["$","a",null,{"href":"#key-takeaways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Takeaways"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Handyman vs Licensed Contractor: When to Hire Which | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn when to hire a handyman vs a licensed contractor for your rental properties, including legal requirements, cost comparisons, and which repairs require licensed professionals."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"vendor management,property maintenance,contractor hiring,landlord operations,cost management"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/handyman-vs-licensed-contractor"}],["$","meta","6",{"property":"og:title","content":"Handyman vs Licensed Contractor: When to Hire Which"}],["$","meta","7",{"property":"og:description","content":"Learn when to hire a handyman vs a licensed contractor for your rental properties, including legal requirements, cost comparisons, and which repairs require licensed professionals."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/handyman-vs-licensed-contractor"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Handyman vs Licensed Contractor: When to Hire Which"}],["$","meta","15",{"name":"twitter:description","content":"Learn when to hire a handyman vs a licensed contractor for your rental properties, including legal requirements, cost comparisons, and which repairs require licensed professionals."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

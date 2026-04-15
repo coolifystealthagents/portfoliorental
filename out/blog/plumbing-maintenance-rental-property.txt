@@ -1,0 +1,263 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","plumbing-maintenance-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","plumbing-maintenance-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","plumbing-maintenance-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Plumbing Maintenance Guide for Landlords\",\"description\":\"A comprehensive plumbing maintenance guide for landlords, covering inspection schedules, common repairs, tenant responsibilities, and how to prevent costly plumbing emergencies.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/plumbing-maintenance-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Plumbing Maintenance Guide for Landlords\",\"item\":\"https://portfoliorental.com/blog/plumbing-maintenance-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Plumbing Maintenance Guide for Landlords"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","plumbing-systems-overview",{"className":"","children":["$","a",null,{"href":"#plumbing-systems-overview","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing Systems Overview"}]}],["$","li","annual-plumbing-inspection-checklist",{"className":"","children":["$","a",null,{"href":"#annual-plumbing-inspection-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annual Plumbing Inspection Checklist"}]}],["$","li","water-heater",{"className":"ml-4","children":["$","a",null,{"href":"#water-heater","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Water Heater"}]}],["$","li","supply-lines-and-shut-off-valves",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21"]}]}]]}],"$L22","$L23"]}],"$L24","$L25"]}],"$L26"]}]]}],"$L27"]
+11:["$","a",null,{"href":"#supply-lines-and-shut-off-valves","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Supply Lines and Shut-Off Valves"}]
+12:["$","li","toilets",{"className":"ml-4","children":["$","a",null,{"href":"#toilets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Toilets"}]}]
+13:["$","li","sinks-and-faucets",{"className":"ml-4","children":["$","a",null,{"href":"#sinks-and-faucets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sinks and Faucets"}]}]
+14:["$","li","showers-and-bathtubs",{"className":"ml-4","children":["$","a",null,{"href":"#showers-and-bathtubs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Showers and Bathtubs"}]}]
+15:["$","li","exterior-hose-bibs",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-hose-bibs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Hose Bibs"}]}]
+16:["$","li","water-heater-replacement-and-upgrades",{"className":"","children":["$","a",null,{"href":"#water-heater-replacement-and-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Water Heater Replacement and Upgrades"}]}]
+17:["$","li","drain-maintenance",{"className":"","children":["$","a",null,{"href":"#drain-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Drain Maintenance"}]}]
+18:["$","li","monthly-or-quarterly",{"className":"ml-4","children":["$","a",null,{"href":"#monthly-or-quarterly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monthly or Quarterly"}]}]
+19:["$","li","semi-annual",{"className":"ml-4","children":["$","a",null,{"href":"#semi-annual","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Semi-Annual"}]}]
+1a:["$","li","annual-professional-services",{"className":"ml-4","children":["$","a",null,{"href":"#annual-professional-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annual Professional Services"}]}]
+1b:["$","li","sewer-line-camera-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#sewer-line-camera-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sewer Line Camera Inspection"}]}]
+1c:["$","li","tenant-education-and-reporting",{"className":"","children":["$","a",null,{"href":"#tenant-education-and-reporting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Education and Reporting"}]}]
+1d:["$","li","common-plumbing-repairs-and-costs",{"className":"","children":["$","a",null,{"href":"#common-plumbing-repairs-and-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Plumbing Repairs and Costs"}]}]
+1e:["$","li","handling-plumbing-emergencies",{"className":"","children":["$","a",null,{"href":"#handling-plumbing-emergencies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handling Plumbing Emergencies"}]}]
+1f:["$","li","plumbing-documentation-and-records",{"className":"","children":["$","a",null,{"href":"#plumbing-documentation-and-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing Documentation and Records"}]}]
+20:["$","li","plumbing-and-habitability-law",{"className":"","children":["$","a",null,{"href":"#plumbing-and-habitability-law","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing and Habitability Law"}]}]
+21:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+28:T3611,<p>Plumbing problems are among the most frequent maintenance issues in rental properties — and among the most expensive when they escalate. A slow drain that goes unreported becomes a full blockage. A dripping water heater connection becomes a flood. A small leak behind a toilet leads to subfloor rot. The common thread in most plumbing catastrophes is that they were preventable with routine maintenance and prompt response.</p>
+<p>For landlords, plumbing maintenance serves two equally important purposes: protecting the property from water damage and fulfilling the legal obligation to provide tenants with functioning plumbing — a fundamental component of habitability under every state's landlord-tenant law.</p>
+<p>This guide covers a systematic plumbing maintenance program for rental properties, from routine inspection schedules to handling specific plumbing systems and components.</p>
+<hr>
+<h2 id="plumbing-systems-overview">Plumbing Systems Overview</h2>
+<p>Before setting up a maintenance program, understand the key plumbing components in your properties:</p>
+<ul>
+<li><strong>Supply system</strong> — Delivers hot and cold water from the main supply to fixtures throughout the unit</li>
+<li><strong>Drain-waste-vent (DWV) system</strong> — Removes wastewater and provides venting to prevent sewer gas from entering the unit</li>
+<li><strong>Water heater</strong> — Heats domestic hot water (tank or tankless)</li>
+<li><strong>Fixtures</strong> — Toilets, sinks, showers, bathtubs, dishwashers, washing machine connections</li>
+<li><strong>Shut-off valves</strong> — Individual fixture shut-offs and the main supply shut-off</li>
+<li><strong>Outdoor plumbing</strong> — Hose bibs, irrigation systems, outdoor utility connections</li>
+</ul>
+<hr>
+<h2 id="annual-plumbing-inspection-checklist">Annual Plumbing Inspection Checklist</h2>
+<p>Conduct a thorough plumbing inspection at least once a year — ideally at tenant turnover, but also as a scheduled annual walkthrough if tenants are long-term.</p>
+<h3 id="water-heater">Water Heater</h3>
+<p>The water heater is the plumbing component most likely to cause catastrophic water damage when it fails. Inspect:</p>
+<ul>
+<li><strong>Age</strong> — Most tank water heaters last 8-12 years. If yours is over 10 years old, budget for replacement.</li>
+<li><strong>Anode rod</strong> — The sacrificial anode rod inside the tank prevents corrosion. It should be inspected every 2-3 years and replaced when depleted. This is the single most effective way to extend water heater life.</li>
+<li><strong>Temperature and pressure relief valve (TPR valve)</strong> — This safety device prevents tank explosion under excessive pressure or temperature. Test annually by briefly lifting the lever — if it doesn't release water, or if water continues to flow after releasing, the valve needs replacement. Cost: $15-$30.</li>
+<li><strong>Sediment flush</strong> — Flush 1-2 gallons from the tank drain valve annually to remove sediment accumulation, which reduces efficiency and contributes to tank corrosion.</li>
+<li><strong>Connections and fittings</strong> — Inspect all pipe connections for corrosion, mineral deposits, or moisture.</li>
+<li><strong>Temperature setting</strong> — Set to 120°F to prevent scalding while maintaining effectiveness against bacterial growth.</li>
+</ul>
+<h3 id="supply-lines-and-shut-off-valves">Supply Lines and Shut-Off Valves</h3>
+<ul>
+<li>Test all fixture shut-off valves (under sinks, behind toilets, at washing machine connections) annually — valves that are never operated can seize and become non-functional in an emergency</li>
+<li>Inspect braided stainless steel supply lines under sinks and at toilets — replace any that show kinking, bulging, or corrosion (replace every 5-7 years as preventive maintenance). Older properties should also be checked for <a href="https://www.epa.gov/lead">lead pipe hazards</a></li>
+<li>Confirm the location of the main water shut-off and verify it operates smoothly</li>
+<li>Provide tenants with the location of the main shut-off and instructions for use</li>
+</ul>
+<h3 id="toilets">Toilets</h3>
+<ul>
+<li>Check for rocking or movement at the base (can indicate wax ring failure or subfloor damage)</li>
+<li>Test the flush mechanism for proper operation</li>
+<li>Inspect the supply line and shut-off valve</li>
+<li>Check for continuous running — a running toilet wastes 200+ gallons per day according to the <a href="https://www.epa.gov/watersense">EPA WaterSense program</a>, and is a common, easily repaired issue (often just a flapper replacement)</li>
+<li>Inspect caulking at the base of the toilet</li>
+</ul>
+<h3 id="sinks-and-faucets">Sinks and Faucets</h3>
+<ul>
+<li>Test hot and cold water pressure and flow</li>
+<li>Check for drips — a single dripping faucet wastes significant water and is typically inexpensive to repair</li>
+<li>Inspect drain stoppers for proper operation</li>
+<li>Clear and test p-trap drain (run water and confirm it drains freely)</li>
+<li>Check under-cabinet areas for any moisture, corrosion, or evidence of past leaks</li>
+</ul>
+<h3 id="showers-and-bathtubs">Showers and Bathtubs</h3>
+<ul>
+<li>Inspect caulking at tub/shower surround — deteriorated caulk allows water infiltration into walls and floors</li>
+<li>Check grout in tile surrounds for cracks and gaps</li>
+<li>Test shower heads for proper flow and check for mineral buildup</li>
+<li>Inspect drain strainers — clean and clear any buildup</li>
+<li>Check overflow and drain hardware for proper operation</li>
+</ul>
+<h3 id="exterior-hose-bibs">Exterior Hose Bibs</h3>
+<ul>
+<li>Operate each exterior hose bib to confirm it works</li>
+<li>Check for leaks at the packing nut when the faucet is open</li>
+<li>Before winter, shut off interior supply valves and drain hose bibs (see <a href="/blog/winterizing-rental-property">winterizing your rental property</a>)</li>
+</ul>
+<hr>
+<h2 id="water-heater-replacement-and-upgrades">Water Heater Replacement and Upgrades</h2>
+<p>Given the failure consequences, proactively replacing aging water heaters is often the most cost-effective approach:</p>
+<ul>
+<li><strong>Tank water heaters</strong> (40-50 gallon standard): $600-$1,200 installed</li>
+<li><strong>Tankless (on-demand) water heaters</strong>: $1,500-$3,500 installed; they last 20+ years and are more energy efficient, but have higher upfront costs</li>
+<li><strong>Heat pump water heaters</strong>: $1,000-$2,000 for the unit; excellent efficiency (2-3x more efficient than standard electric)</li>
+</ul>
+<p>When replacing, consider upgrading to a tankless or heat pump water heater — these can reduce energy costs by $200-$400 per year and have longer lifespans. Some states offer tax credits for qualifying units.</p>
+<hr>
+<h2 id="drain-maintenance">Drain Maintenance</h2>
+<p>Clogged drains are the most common tenant plumbing complaint. Build a proactive drain maintenance program:</p>
+<h3 id="monthly-or-quarterly">Monthly or Quarterly</h3>
+<ul>
+<li>Flush main floor drains (laundry room, basement) with a bucket of hot water</li>
+<li>Pour a pot of boiling water down slow bathroom drains to dissolve soap scum buildup</li>
+</ul>
+<h3 id="semi-annual">Semi-Annual</h3>
+<ul>
+<li>Clean P-traps under bathroom sinks if they are showing slow drainage</li>
+<li>Use an enzyme drain treatment (like BioClean) in kitchen drains to prevent grease buildup</li>
+</ul>
+<h3 id="annual-professional-services">Annual Professional Services</h3>
+<p>Consider scheduling a professional hydro-jetting of main drain lines every 3-5 years, particularly for:</p>
+<ul>
+<li>Older properties with cast iron drain pipes (prone to scale buildup)</li>
+<li>Properties with mature trees near sewer lines (root intrusion is a common cause of recurring blockages)</li>
+<li>Properties where tenants repeatedly report slow drains</li>
+</ul>
+<h3 id="sewer-line-camera-inspection">Sewer Line Camera Inspection</h3>
+<p>For any property over 30 years old with no prior sewer inspection history, a video camera inspection of the main sewer line ($200-$400) is a worthwhile investment. Identifying issues like root intrusion, pipe collapse, or offset joints proactively can save you from a $5,000+ emergency repair.</p>
+<hr>
+<h2 id="tenant-education-and-reporting">Tenant Education and Reporting</h2>
+<p>Tenants play a significant role in plumbing maintenance outcomes. Communicate these guidelines clearly at move-in and in your lease:</p>
+<p><strong>What tenants should NOT put down drains:</strong></p>
+<ul>
+<li>Grease, oils, or fats</li>
+<li>"Flushable" wipes (they are not plumbing-safe)</li>
+<li>Cotton swabs, dental floss, hair</li>
+<li>Food scraps (without a garbage disposal)</li>
+<li>Paper towels, feminine hygiene products, medications</li>
+</ul>
+<p><strong>Tenant reporting obligations:</strong></p>
+<ul>
+<li>Report any running toilets, dripping faucets, or slow drains promptly</li>
+<li>Report any visible water under sinks or around the base of toilets</li>
+<li>Report any water stains on ceilings or walls that might indicate a leak above</li>
+</ul>
+<p>Emphasize that early reporting saves everyone from more significant problems and is required by the lease. Many leases include language holding tenants responsible for damage caused by failure to report known plumbing issues.</p>
+<hr>
+<h2 id="common-plumbing-repairs-and-costs">Common Plumbing Repairs and Costs</h2>
+<p>Understanding typical repair costs helps you evaluate service quotes and make repair vs replace decisions:</p>
+<table>
+<thead>
+<tr>
+<th>Repair</th>
+<th>Typical Cost Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Toilet flapper replacement</td>
+<td>$10-$30 DIY / $75-$150 plumber</td>
+</tr>
+<tr>
+<td>Faucet repair/washer replacement</td>
+<td>$50-$200</td>
+</tr>
+<tr>
+<td>Supply line replacement (toilet/sink)</td>
+<td>$30-$100</td>
+</tr>
+<tr>
+<td>P-trap replacement</td>
+<td>$50-$150</td>
+</tr>
+<tr>
+<td>Drain snake (basic blockage)</td>
+<td>$75-$200</td>
+</tr>
+<tr>
+<td>Hydro-jetting main drain</td>
+<td>$300-$600</td>
+</tr>
+<tr>
+<td>Water heater replacement (tank, 40 gal)</td>
+<td>$700-$1,500 installed</td>
+</tr>
+<tr>
+<td>Anode rod replacement</td>
+<td>$100-$200</td>
+</tr>
+<tr>
+<td>Outdoor hose bib replacement</td>
+<td>$150-$300</td>
+</tr>
+<tr>
+<td>Main shut-off valve replacement</td>
+<td>$200-$500</td>
+</tr>
+<tr>
+<td>Sewer line camera inspection</td>
+<td>$200-$400</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="handling-plumbing-emergencies">Handling Plumbing Emergencies</h2>
+<p>Despite the best maintenance program, plumbing emergencies happen. Be prepared:</p>
+<ul>
+<li><strong>Know your plumbers</strong> — Have a licensed plumber and an emergency plumber contact on file for each property</li>
+<li><strong>Main shut-off locations</strong> — Know and document the location of the main water shut-off for every property; confirm tenants know it too</li>
+<li><strong>Response time obligations</strong> — Most states require landlords to address plumbing emergencies affecting habitability (loss of hot water, sewage backup, burst pipes) within 24 hours. <a href="https://www.hud.gov/topics/rental_assistance">HUD rental assistance</a> resources cover tenant rights in these situations.</li>
+<li><strong>Tenant emergency instructions</strong> — Provide tenants with written instructions for the most common emergency: how to turn off the main water supply</li>
+</ul>
+<p>For burst pipe emergencies specifically, see our guide on <a href="/blog/burst-pipe-rental-response">burst pipe emergency response for landlords</a>. For water damage resulting from plumbing failures, see <a href="/blog/water-damage-rental-property">handling water damage in a rental property</a>.</p>
+<hr>
+<h2 id="plumbing-documentation-and-records">Plumbing Documentation and Records</h2>
+<p>Maintain a plumbing maintenance log for each property:</p>
+<ul>
+<li>Date and description of each inspection</li>
+<li>Any issues found and how they were addressed</li>
+<li>Service providers used and their invoices</li>
+<li>Water heater age and service history</li>
+<li>Any major repairs or replacements</li>
+</ul>
+<p>This documentation is valuable for:</p>
+<ul>
+<li>Demonstrating maintenance to tenants who report problems</li>
+<li>Supporting warranty claims on new fixtures</li>
+<li>Providing accurate information at property sale</li>
+<li>Defending against claims that you ignored a known issue</li>
+</ul>
+<hr>
+<h2 id="plumbing-and-habitability-law">Plumbing and Habitability Law</h2>
+<p>Every state's landlord-tenant statute requires landlords to maintain functioning plumbing. Specific requirements typically include:</p>
+<ul>
+<li>Hot and cold running water</li>
+<li>A properly functioning toilet</li>
+<li>Functioning sink and bathtub/shower in each bathroom</li>
+<li>Working drain connections to the municipal sewer or septic system</li>
+</ul>
+<p>Failure to maintain these systems gives tenants remedies that vary by state, including:</p>
+<ul>
+<li>Repair-and-deduct (tenant arranges repair and deducts the cost from rent)</li>
+<li>Rent withholding</li>
+<li>Rent abatement</li>
+<li>Lease termination in cases of severe habitability failure</li>
+<li>Right to report to housing code enforcement</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>A systematic plumbing maintenance program — annual inspections, proactive water heater management, drain maintenance, and tenant education — dramatically reduces the frequency and severity of plumbing failures in rental properties. The goal is to address small issues (a slow drain, a dripping faucet) before they become large ones (a flooded bathroom, a burst water heater).</p>
+<p>For related maintenance guidance, see our articles on <a href="/blog/winterizing-rental-property">winterizing your rental property</a> and <a href="/blog/burst-pipe-rental-response">burst pipe emergency response</a>.</p>
+22:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$28"}}]
+23:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","plumbing maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"plumbing maintenance"}],["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","preventive maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"preventive maintenance"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","water damage prevention",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"water damage prevention"}]]}]
+24:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+25:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","appliance-maintenance-schedule-rental",{"href":"/blog/appliance-maintenance-schedule-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Appliance Maintenance Schedule for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","gutter-cleaning-rental-property",{"href":"/blog/gutter-cleaning-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Gutter Cleaning Schedule for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","hvac-maintenance-rental-property",{"href":"/blog/hvac-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"HVAC Maintenance Schedule for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+26:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","plumbing-systems-overview",{"className":"","children":["$","a",null,{"href":"#plumbing-systems-overview","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing Systems Overview"}]}],["$","li","annual-plumbing-inspection-checklist",{"className":"","children":["$","a",null,{"href":"#annual-plumbing-inspection-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annual Plumbing Inspection Checklist"}]}],["$","li","water-heater",{"className":"ml-4","children":["$","a",null,{"href":"#water-heater","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Water Heater"}]}],["$","li","supply-lines-and-shut-off-valves",{"className":"ml-4","children":["$","a",null,{"href":"#supply-lines-and-shut-off-valves","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Supply Lines and Shut-Off Valves"}]}],["$","li","toilets",{"className":"ml-4","children":["$","a",null,{"href":"#toilets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Toilets"}]}],["$","li","sinks-and-faucets",{"className":"ml-4","children":["$","a",null,{"href":"#sinks-and-faucets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sinks and Faucets"}]}],["$","li","showers-and-bathtubs",{"className":"ml-4","children":["$","a",null,{"href":"#showers-and-bathtubs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Showers and Bathtubs"}]}],["$","li","exterior-hose-bibs",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-hose-bibs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Hose Bibs"}]}],["$","li","water-heater-replacement-and-upgrades",{"className":"","children":["$","a",null,{"href":"#water-heater-replacement-and-upgrades","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Water Heater Replacement and Upgrades"}]}],["$","li","drain-maintenance",{"className":"","children":["$","a",null,{"href":"#drain-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Drain Maintenance"}]}],["$","li","monthly-or-quarterly",{"className":"ml-4","children":["$","a",null,{"href":"#monthly-or-quarterly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monthly or Quarterly"}]}],["$","li","semi-annual",{"className":"ml-4","children":["$","a",null,{"href":"#semi-annual","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Semi-Annual"}]}],["$","li","annual-professional-services",{"className":"ml-4","children":["$","a",null,{"href":"#annual-professional-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annual Professional Services"}]}],["$","li","sewer-line-camera-inspection",{"className":"ml-4","children":["$","a",null,{"href":"#sewer-line-camera-inspection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sewer Line Camera Inspection"}]}],["$","li","tenant-education-and-reporting",{"className":"","children":["$","a",null,{"href":"#tenant-education-and-reporting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Education and Reporting"}]}],["$","li","common-plumbing-repairs-and-costs",{"className":"","children":["$","a",null,{"href":"#common-plumbing-repairs-and-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Plumbing Repairs and Costs"}]}],"$L29","$L2a","$L2b","$L2c"]}]]}]}]
+27:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+29:["$","li","handling-plumbing-emergencies",{"className":"","children":["$","a",null,{"href":"#handling-plumbing-emergencies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handling Plumbing Emergencies"}]}]
+2a:["$","li","plumbing-documentation-and-records",{"className":"","children":["$","a",null,{"href":"#plumbing-documentation-and-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing Documentation and Records"}]}]
+2b:["$","li","plumbing-and-habitability-law",{"className":"","children":["$","a",null,{"href":"#plumbing-and-habitability-law","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Plumbing and Habitability Law"}]}]
+2c:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Plumbing Maintenance Guide for Landlords | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A comprehensive plumbing maintenance guide for landlords, covering inspection schedules, common repairs, tenant responsibilities, and how to prevent costly plumbing emergencies."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"plumbing maintenance,property maintenance,preventive maintenance,landlord tips,water damage prevention"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/plumbing-maintenance-rental-property"}],["$","meta","6",{"property":"og:title","content":"Plumbing Maintenance Guide for Landlords"}],["$","meta","7",{"property":"og:description","content":"A comprehensive plumbing maintenance guide for landlords, covering inspection schedules, common repairs, tenant responsibilities, and how to prevent costly plumbing emergencies."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/plumbing-maintenance-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Plumbing Maintenance Guide for Landlords"}],["$","meta","15",{"name":"twitter:description","content":"A comprehensive plumbing maintenance guide for landlords, covering inspection schedules, common repairs, tenant responsibilities, and how to prevent costly plumbing emergencies."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,239 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","hvac-maintenance-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","hvac-maintenance-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","hvac-maintenance-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"HVAC Maintenance Schedule for Rental Properties\",\"description\":\"A complete HVAC maintenance schedule for rental properties, covering seasonal tasks, filter schedules, and how to extend system life while keeping tenants comfortable.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/hvac-maintenance-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"HVAC Maintenance Schedule for Rental Properties\",\"item\":\"https://portfoliorental.com/blog/hvac-maintenance-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"HVAC Maintenance Schedule for Rental Properties"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-hvac-maintenance-is-non-negotiable-for-landlords",{"className":"","children":["$","a",null,{"href":"#why-hvac-maintenance-is-non-negotiable-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why HVAC Maintenance Is Non-Negotiable for Landlords"}]}],["$","li","understanding-your-hvac-systems",{"className":"","children":["$","a",null,{"href":"#understanding-your-hvac-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Understanding Your HVAC Systems"}]}],["$","li","annual-hvac-maintenance-schedule",{"className":"","children":["$","a",null,{"href":"#annual-hvac-maintenance-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annual HVAC Maintenance Schedule"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}]]}],"$L20","$L21"]}],"$L22","$L23"]}],"$L24"]}]]}],"$L25"]
+11:["$","li","spring-april-may-cooling-system-preparation",{"className":"ml-4","children":["$","a",null,{"href":"#spring-april-may-cooling-system-preparation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring (April–May): Cooling System Preparation"}]}]
+12:["$","li","summer-june-august-in-season-monitoring",{"className":"ml-4","children":["$","a",null,{"href":"#summer-june-august-in-season-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summer (June–August): In-Season Monitoring"}]}]
+13:["$","li","fall-september-october-heating-system-preparation",{"className":"ml-4","children":["$","a",null,{"href":"#fall-september-october-heating-system-preparation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall (September–October): Heating System Preparation"}]}]
+14:["$","li","winter-november-march-in-season-monitoring",{"className":"ml-4","children":["$","a",null,{"href":"#winter-november-march-in-season-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter (November–March): In-Season Monitoring"}]}]
+15:["$","li","filter-replacement-the-highest-impact-task",{"className":"","children":["$","a",null,{"href":"#filter-replacement-the-highest-impact-task","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Filter Replacement: The Highest-Impact Task"}]}]
+16:["$","li","filter-change-frequency",{"className":"ml-4","children":["$","a",null,{"href":"#filter-change-frequency","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Filter Change Frequency"}]}]
+17:["$","li","merv-ratings",{"className":"ml-4","children":["$","a",null,{"href":"#merv-ratings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"MERV Ratings"}]}]
+18:["$","li","who-changes-the-filter",{"className":"ml-4","children":["$","a",null,{"href":"#who-changes-the-filter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Who Changes the Filter?"}]}]
+19:["$","li","heat-pump-maintenance-special-considerations",{"className":"","children":["$","a",null,{"href":"#heat-pump-maintenance-special-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Heat Pump Maintenance: Special Considerations"}]}]
+1a:["$","li","ductwork-inspection-and-sealing",{"className":"","children":["$","a",null,{"href":"#ductwork-inspection-and-sealing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ductwork Inspection and Sealing"}]}]
+1b:["$","li","when-to-replace-vs-repair",{"className":"","children":["$","a",null,{"href":"#when-to-replace-vs-repair","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When to Replace vs Repair"}]}]
+1c:["$","li","documentation-and-record-keeping",{"className":"","children":["$","a",null,{"href":"#documentation-and-record-keeping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documentation and Record-Keeping"}]}]
+1d:["$","li","tenant-communication-about-hvac",{"className":"","children":["$","a",null,{"href":"#tenant-communication-about-hvac","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Communication About HVAC"}]}]
+1e:["$","li","budgeting-for-hvac-maintenance",{"className":"","children":["$","a",null,{"href":"#budgeting-for-hvac-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Budgeting for HVAC Maintenance"}]}]
+1f:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+26:T36dd,<p>The HVAC system is the most expensive mechanical system in a rental property. A central air conditioning and heating system can cost $5,000 to $15,000 to replace — and most systems fail prematurely due to inadequate maintenance. Conversely, a properly maintained HVAC system can last 15-20 years while running efficiently and keeping tenants comfortable year-round.</p>
+<p>For rental property owners, HVAC maintenance is not just about protecting equipment — it is a legal obligation. Most states require landlords to provide functioning heat, and many also require functioning cooling in certain climates. A maintenance program that prevents breakdowns protects both your asset and your legal compliance.</p>
+<hr>
+<h2 id="why-hvac-maintenance-is-non-negotiable-for-landlords">Why HVAC Maintenance Is Non-Negotiable for Landlords</h2>
+<p>The consequences of HVAC neglect are significant:</p>
+<ul>
+<li><strong>Equipment failure</strong> — Ignored maintenance leads to premature compressor failure (the most expensive component), heat exchanger cracks, and blower motor burnout</li>
+<li><strong>Habitability violations</strong> — A heating or cooling failure that renders a unit uninhabitable gives the tenant grounds for rent withholding, repair-and-deduct remedies, or in some states, lease termination. <a href="https://www.hud.gov/topics/rental_assistance">HUD rental assistance</a> resources outline tenant protections in more detail.</li>
+<li><strong>Energy waste</strong> — A dirty or unmaintained system consumes 15-25% more energy than a properly maintained one; see our guide on <a href="/blog/energy-efficiency-upgrades-rental">energy efficiency upgrades</a> to recoup those costs</li>
+<li><strong>Indoor air quality</strong> — Clogged filters and dirty coils can circulate dust, allergens, and potentially mold spores throughout the unit</li>
+</ul>
+<p>A systematic HVAC maintenance program eliminates most of these risks.</p>
+<hr>
+<h2 id="understanding-your-hvac-systems">Understanding Your HVAC Systems</h2>
+<p>Before building a maintenance schedule, identify what type of HVAC equipment your properties use:</p>
+<ul>
+<li><strong>Gas furnace + central AC</strong> — The most common configuration in most U.S. markets. Requires separate seasonal attention for both heating and cooling.</li>
+<li><strong>Heat pump (air-source)</strong> — Provides both heating and cooling; requires year-round maintenance</li>
+<li><strong>Boiler + radiator or baseboard</strong> — Common in older multi-family properties in the Northeast. Hot water or steam heat; separate cooling is often window units or mini-splits.</li>
+<li><strong>Mini-split/ductless systems</strong> — Increasingly common in renovated units; require regular filter cleaning and coil maintenance</li>
+<li><strong>Window AC units</strong> — Often tenant-supplied but landlord-maintained in some agreements; requires cleaning and storage protocols</li>
+</ul>
+<hr>
+<h2 id="annual-hvac-maintenance-schedule">Annual HVAC Maintenance Schedule</h2>
+<h3 id="spring-april-may-cooling-system-preparation">Spring (April–May): Cooling System Preparation</h3>
+<p><strong>Professional Tasks (Schedule a Licensed HVAC Technician)</strong></p>
+<ul>
+<li>Check refrigerant charge (low refrigerant is the leading cause of compressor failure)</li>
+<li>Inspect and clean condenser coils on the outdoor unit</li>
+<li>Check and tighten electrical connections</li>
+<li>Test capacitors and contactors</li>
+<li>Check and lubricate fan motors</li>
+<li>Verify proper drainage — clean condensate drain line to prevent overflow and water damage</li>
+<li>Test <a href="https://www.energy.gov/energysaver/thermostats">thermostat operation</a> in cooling mode — installing a <a href="/blog/smart-thermostat-rental-savings">smart thermostat</a> can reduce energy costs while improving tenant comfort</li>
+<li>Check and calibrate refrigerant pressures</li>
+</ul>
+<p><strong>Landlord or Property Manager Tasks</strong></p>
+<ul>
+<li>Replace or check air filters — change to a fresh filter before cooling season begins</li>
+<li>Clear vegetation, debris, and overgrowth from around outdoor condenser unit (maintain 18-24 inches of clearance)</li>
+<li>Straighten any bent condenser fins with a fin comb</li>
+<li>Inspect ductwork for visible damage, disconnections, or significant leaks (tape or mastic sealer can address minor leaks)</li>
+</ul>
+<h3 id="summer-june-august-in-season-monitoring">Summer (June–August): In-Season Monitoring</h3>
+<ul>
+<li>Replace filters every 30-60 days during peak cooling season (especially important if tenants have pets)</li>
+<li>Monitor for any tenant complaints about cooling performance — address promptly</li>
+<li>Inspect outdoor unit after major storms for debris or damage</li>
+<li>Check condensate drain monthly if the unit has had drainage issues in the past</li>
+</ul>
+<h3 id="fall-september-october-heating-system-preparation">Fall (September–October): Heating System Preparation</h3>
+<p><strong>Professional Tasks (Schedule Before Heating Season)</strong></p>
+<ul>
+<li>Inspect and clean heat exchanger (a cracked heat exchanger is a carbon monoxide risk)</li>
+<li>Test ignition system and burner operation</li>
+<li>Check and adjust gas pressure and combustion efficiency</li>
+<li>Inspect flue pipe for cracks, proper pitch, and secure connections</li>
+<li>Test safety controls (high-limit switch, pressure relief)</li>
+<li>Clean blower assembly and check belt tension (belt-drive systems)</li>
+<li>Check and clean pilot light or hot-surface igniter</li>
+<li>For boilers: test pressure relief valve, check and adjust boiler pressure, bleed radiators of air</li>
+</ul>
+<p><strong>Landlord or Property Manager Tasks</strong></p>
+<ul>
+<li>Replace air filter before heating season</li>
+<li>Test thermostat in heating mode — verify it calls for heat correctly</li>
+<li>Check and replace CO detector batteries; test all CO alarms</li>
+<li>Clear any debris from flue termination caps on exterior walls or rooftop</li>
+<li>Verify that outdoor AC unit is properly covered or protected (optional — many systems are designed to remain uncovered)</li>
+</ul>
+<h3 id="winter-november-march-in-season-monitoring">Winter (November–March): In-Season Monitoring</h3>
+<ul>
+<li>Replace filters every 60-90 days (sooner in heavy-use periods)</li>
+<li>Monitor for tenant complaints about heating performance</li>
+<li>Have a 24/7 emergency HVAC contact available — heating failures during extreme cold are emergency situations</li>
+<li>After significant snowfall, check that outdoor heat pump units and boiler/furnace flue exhausts are not buried or blocked by snow and ice</li>
+</ul>
+<hr>
+<h2 id="filter-replacement-the-highest-impact-task">Filter Replacement: The Highest-Impact Task</h2>
+<p>Filter replacement is the single most impactful maintenance task landlords can control. A clogged filter:</p>
+<ul>
+<li>Restricts airflow and causes the system to work harder</li>
+<li>Can freeze evaporator coils (AC mode) or overheat the heat exchanger (heating mode)</li>
+<li>Dramatically increases energy consumption</li>
+<li>Allows dust and debris to coat internal components</li>
+</ul>
+<h3 id="filter-change-frequency">Filter Change Frequency</h3>
+<table>
+<thead>
+<tr>
+<th>Situation</th>
+<th>Recommended Frequency</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No pets, no allergies, lightly occupied</td>
+<td>Every 90 days</td>
+</tr>
+<tr>
+<td>One pet or mild allergies</td>
+<td>Every 60 days</td>
+</tr>
+<tr>
+<td>Multiple pets or severe allergies</td>
+<td>Every 30 days</td>
+</tr>
+<tr>
+<td>Vacant unit</td>
+<td>Every 6 months (inspect quarterly)</td>
+</tr>
+<tr>
+<td>High-use commercial-adjacent (dust-heavy)</td>
+<td>Every 30 days</td>
+</tr>
+</tbody>
+</table>
+<h3 id="merv-ratings">MERV Ratings</h3>
+<p>Use a filter with a MERV rating appropriate for the system:</p>
+<ul>
+<li><strong>MERV 7-8</strong> — Standard residential filtration; good for most rental units</li>
+<li><strong>MERV 11-12</strong> — Better filtration; good for pet-owning tenants or those with allergies</li>
+<li><strong>MERV 13+</strong> — High efficiency; only use if the system's blower motor is rated for the added resistance</li>
+</ul>
+<p>Do not use high-MERV filters in older systems without verifying the blower can handle the added airflow restriction.</p>
+<h3 id="who-changes-the-filter">Who Changes the Filter?</h3>
+<p>The question of whether the landlord or tenant changes filters is important and should be specified in the lease:</p>
+<ul>
+<li>If the landlord changes filters, schedule quarterly inspections to do so (this also allows a walkthrough of the unit)</li>
+<li>If the tenant changes filters, provide them with replacement filters at move-in and include a filter change schedule in the move-in materials</li>
+<li>Require that filter change receipts or photos be provided upon request</li>
+</ul>
+<hr>
+<h2 id="heat-pump-maintenance-special-considerations">Heat Pump Maintenance: Special Considerations</h2>
+<p>Heat pumps require year-round maintenance since they provide both heating and cooling:</p>
+<ul>
+<li>Keep the outdoor unit clear of snow and ice — never block airflow or attempt to chip ice off the unit</li>
+<li>The system has a built-in defrost cycle; if it runs frequently but the home is not heating adequately, the refrigerant charge or defrost board may need service</li>
+<li>Heat pumps are less effective below 30-35°F; verify that backup heat strips are operational for very cold days</li>
+<li>Service the coils and refrigerant annually, ideally in late spring before the cooling season</li>
+</ul>
+<hr>
+<h2 id="ductwork-inspection-and-sealing">Ductwork Inspection and Sealing</h2>
+<p>Ductwork in rental properties often receives no attention for decades. Leaky ducts waste 20-30% of heating and cooling energy. Every 5-7 years, consider:</p>
+<ul>
+<li>Hiring a duct cleaning service to remove accumulated dust, debris, and potential mold</li>
+<li>Sealing leaky duct joints with mastic sealant or foil tape (not standard duct tape, which deteriorates)</li>
+<li>Adding duct insulation in unconditioned spaces (attic, crawl space) to reduce energy loss</li>
+</ul>
+<hr>
+<h2 id="when-to-replace-vs-repair">When to Replace vs Repair</h2>
+<p>Use the following guidelines to decide when replacement makes more financial sense than continued repair:</p>
+<ul>
+<li><strong>Age</strong> — If the system is more than 15 years old, replacement is often more cost-effective than major repairs</li>
+<li><strong>Efficiency</strong> — Systems older than 10 years are significantly less efficient than modern units; the energy savings from replacement can partially offset the cost</li>
+<li><strong>Repair cost rule</strong> — If a single repair will cost more than 50% of the replacement cost, replacement is generally preferable</li>
+<li><strong>R-22 refrigerant</strong> — Systems using the now-phased-out R-22 refrigerant are expensive to recharge and should be prioritized for replacement</li>
+</ul>
+<p>When replacing, choose systems with a SEER rating of 16 or higher for central AC and an AFUE of 96% or higher for gas furnaces. These high-efficiency units qualify for <a href="https://www.irs.gov/publications/p527">federal tax credits</a> and can significantly reduce tenant utility bills.</p>
+<hr>
+<h2 id="documentation-and-record-keeping">Documentation and Record-Keeping</h2>
+<p>Maintain a service log for each HVAC unit including:</p>
+<ul>
+<li>Date of each service visit</li>
+<li>Name of HVAC contractor and license number</li>
+<li>Work performed</li>
+<li>Parts replaced</li>
+<li>Any issues noted</li>
+<li>Next recommended service date</li>
+</ul>
+<p>This documentation is valuable if a tenant complains about HVAC performance, if a warranty claim is needed, or when selling the property (demonstrating well-maintained systems).</p>
+<hr>
+<h2 id="tenant-communication-about-hvac">Tenant Communication About HVAC</h2>
+<p>Tenants can help or hurt your HVAC system's longevity. Educate them on:</p>
+<ul>
+<li>How to operate the thermostat correctly (avoiding extreme setbacks that stress the system)</li>
+<li>Not blocking vents with furniture or drapes</li>
+<li>Reporting any unusual sounds, smells, or performance issues immediately</li>
+<li>Not adjusting or tampering with system controls beyond basic thermostat use</li>
+</ul>
+<p>Some landlords include an HVAC care addendum in the lease that specifies tenant responsibilities (filter changes, keeping vents clear) and documents what the landlord will maintain.</p>
+<hr>
+<h2 id="budgeting-for-hvac-maintenance">Budgeting for HVAC Maintenance</h2>
+<p>Factor these costs into your annual maintenance budget:</p>
+<ul>
+<li><strong>Annual professional service visit</strong> — $100-$250 per system</li>
+<li><strong>Filter replacement</strong> — $30-$100 per year depending on filter type and frequency</li>
+<li><strong>Emergency service calls</strong> — Budget $200-$500 per year per property as a reserve</li>
+<li><strong>Duct cleaning</strong> — $300-$700 every 5-7 years</li>
+<li><strong>Major component replacements</strong> (compressor, furnace heat exchanger, blower motor) — Budget a reserve of $300-$500 per year per unit toward eventual capital replacement</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>A disciplined HVAC maintenance schedule is one of the highest-ROI investments a rental property owner can make. Annual professional service, regular filter changes, and prompt responses to tenant complaints about heating and cooling keep systems running reliably, extend equipment life, reduce energy costs, and help you meet your legal habitability obligations. Incorporate these tasks into a broader <a href="/blog/seasonal-property-maintenance-guide">seasonal maintenance guide</a> to stay on top of your full property.</p>
+<p>For related maintenance guidance, see our articles on <a href="/blog/winterizing-rental-property">winterizing your rental property</a> and <a href="/blog/appliance-maintenance-schedule-rental">appliance maintenance schedules for landlords</a>.</p>
+20:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$26"}}]
+21:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","HVAC maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"HVAC maintenance"}],["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","preventive maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"preventive maintenance"}],["$","span","heating and cooling",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"heating and cooling"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}]]}]
+22:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+23:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","appliance-maintenance-schedule-rental",{"href":"/blog/appliance-maintenance-schedule-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Appliance Maintenance Schedule for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","gutter-cleaning-rental-property",{"href":"/blog/gutter-cleaning-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Gutter Cleaning Schedule for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","plumbing-maintenance-rental-property",{"href":"/blog/plumbing-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Plumbing Maintenance Guide for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+24:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-hvac-maintenance-is-non-negotiable-for-landlords",{"className":"","children":["$","a",null,{"href":"#why-hvac-maintenance-is-non-negotiable-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why HVAC Maintenance Is Non-Negotiable for Landlords"}]}],["$","li","understanding-your-hvac-systems",{"className":"","children":["$","a",null,{"href":"#understanding-your-hvac-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Understanding Your HVAC Systems"}]}],["$","li","annual-hvac-maintenance-schedule",{"className":"","children":["$","a",null,{"href":"#annual-hvac-maintenance-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annual HVAC Maintenance Schedule"}]}],["$","li","spring-april-may-cooling-system-preparation",{"className":"ml-4","children":["$","a",null,{"href":"#spring-april-may-cooling-system-preparation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring (April–May): Cooling System Preparation"}]}],["$","li","summer-june-august-in-season-monitoring",{"className":"ml-4","children":["$","a",null,{"href":"#summer-june-august-in-season-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summer (June–August): In-Season Monitoring"}]}],["$","li","fall-september-october-heating-system-preparation",{"className":"ml-4","children":["$","a",null,{"href":"#fall-september-october-heating-system-preparation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall (September–October): Heating System Preparation"}]}],["$","li","winter-november-march-in-season-monitoring",{"className":"ml-4","children":["$","a",null,{"href":"#winter-november-march-in-season-monitoring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter (November–March): In-Season Monitoring"}]}],["$","li","filter-replacement-the-highest-impact-task",{"className":"","children":["$","a",null,{"href":"#filter-replacement-the-highest-impact-task","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Filter Replacement: The Highest-Impact Task"}]}],["$","li","filter-change-frequency",{"className":"ml-4","children":["$","a",null,{"href":"#filter-change-frequency","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Filter Change Frequency"}]}],["$","li","merv-ratings",{"className":"ml-4","children":["$","a",null,{"href":"#merv-ratings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"MERV Ratings"}]}],["$","li","who-changes-the-filter",{"className":"ml-4","children":["$","a",null,{"href":"#who-changes-the-filter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Who Changes the Filter?"}]}],["$","li","heat-pump-maintenance-special-considerations",{"className":"","children":["$","a",null,{"href":"#heat-pump-maintenance-special-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Heat Pump Maintenance: Special Considerations"}]}],["$","li","ductwork-inspection-and-sealing",{"className":"","children":["$","a",null,{"href":"#ductwork-inspection-and-sealing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ductwork Inspection and Sealing"}]}],["$","li","when-to-replace-vs-repair",{"className":"","children":"$L27"}],"$L28","$L29","$L2a","$L2b"]}]]}]}]
+25:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+27:["$","a",null,{"href":"#when-to-replace-vs-repair","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When to Replace vs Repair"}]
+28:["$","li","documentation-and-record-keeping",{"className":"","children":["$","a",null,{"href":"#documentation-and-record-keeping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documentation and Record-Keeping"}]}]
+29:["$","li","tenant-communication-about-hvac",{"className":"","children":["$","a",null,{"href":"#tenant-communication-about-hvac","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Communication About HVAC"}]}]
+2a:["$","li","budgeting-for-hvac-maintenance",{"className":"","children":["$","a",null,{"href":"#budgeting-for-hvac-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Budgeting for HVAC Maintenance"}]}]
+2b:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"HVAC Maintenance Schedule for Rental Properties | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A complete HVAC maintenance schedule for rental properties, covering seasonal tasks, filter schedules, and how to extend system life while keeping tenants comfortable."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"HVAC maintenance,property maintenance,preventive maintenance,heating and cooling,landlord tips"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/hvac-maintenance-rental-property"}],["$","meta","6",{"property":"og:title","content":"HVAC Maintenance Schedule for Rental Properties"}],["$","meta","7",{"property":"og:description","content":"A complete HVAC maintenance schedule for rental properties, covering seasonal tasks, filter schedules, and how to extend system life while keeping tenants comfortable."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/hvac-maintenance-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"HVAC Maintenance Schedule for Rental Properties"}],["$","meta","15",{"name":"twitter:description","content":"A complete HVAC maintenance schedule for rental properties, covering seasonal tasks, filter schedules, and how to extend system life while keeping tenants comfortable."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

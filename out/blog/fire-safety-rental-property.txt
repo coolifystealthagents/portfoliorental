@@ -1,0 +1,251 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","fire-safety-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","fire-safety-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","fire-safety-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Fire Safety Requirements for Rental Properties\",\"description\":\"A complete guide to fire safety requirements for rental properties, including smoke detector laws, fire extinguisher rules, exit requirements, and landlord compliance obligations.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/fire-safety-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Fire Safety Requirements for Rental Properties\",\"item\":\"https://portfoliorental.com/blog/fire-safety-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Fire Safety Requirements for Rental Properties"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","smoke-detector-requirements",{"className":"","children":["$","a",null,{"href":"#smoke-detector-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smoke Detector Requirements"}]}],["$","li","federal-standards",{"className":"ml-4","children":["$","a",null,{"href":"#federal-standards","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Federal Standards"}]}],["$","li","placement-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#placement-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Placement Requirements"}]}],["$","li","alarm-types",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}]]}],"$L2a","$L2b"]}],"$L2c","$L2d"]}],"$L2e"]}]]}],"$L2f"]
+11:["$","a",null,{"href":"#alarm-types","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Alarm Types"}]
+12:["$","li","who-provides-and-maintains-alarms",{"className":"ml-4","children":["$","a",null,{"href":"#who-provides-and-maintains-alarms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Who Provides and Maintains Alarms?"}]}]
+13:["$","li","carbon-monoxide-detector-requirements",{"className":"","children":["$","a",null,{"href":"#carbon-monoxide-detector-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Carbon Monoxide Detector Requirements"}]}]
+14:["$","li","co-detector-placement",{"className":"ml-4","children":["$","a",null,{"href":"#co-detector-placement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"CO Detector Placement"}]}]
+15:["$","li","states-with-co-detector-laws-for-rentals",{"className":"ml-4","children":["$","a",null,{"href":"#states-with-co-detector-laws-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"States With CO Detector Laws for Rentals"}]}]
+16:["$","li","fire-extinguisher-requirements",{"className":"","children":["$","a",null,{"href":"#fire-extinguisher-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fire Extinguisher Requirements"}]}]
+17:["$","li","single-family-and-small-multi-family",{"className":"ml-4","children":["$","a",null,{"href":"#single-family-and-small-multi-family","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Single-Family and Small Multi-Family"}]}]
+18:["$","li","multi-family-and-larger-properties",{"className":"ml-4","children":["$","a",null,{"href":"#multi-family-and-larger-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Multi-Family and Larger Properties"}]}]
+19:["$","li","fire-extinguisher-classes",{"className":"ml-4","children":["$","a",null,{"href":"#fire-extinguisher-classes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fire Extinguisher Classes"}]}]
+1a:["$","li","egress-requirements",{"className":"","children":["$","a",null,{"href":"#egress-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Egress Requirements"}]}]
+1b:["$","li","bedroom-egress-windows",{"className":"ml-4","children":["$","a",null,{"href":"#bedroom-egress-windows","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedroom Egress Windows"}]}]
+1c:["$","li","common-area-egress",{"className":"ml-4","children":["$","a",null,{"href":"#common-area-egress","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Area Egress"}]}]
+1d:["$","li","sprinkler-systems",{"className":"","children":["$","a",null,{"href":"#sprinkler-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sprinkler Systems"}]}]
+1e:["$","li","when-required",{"className":"ml-4","children":["$","a",null,{"href":"#when-required","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When Required"}]}]
+1f:["$","li","maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance"}]}]
+20:["$","li","building-fire-systems-multi-family",{"className":"","children":["$","a",null,{"href":"#building-fire-systems-multi-family","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Fire Systems (Multi-Family)"}]}]
+21:["$","li","fire-alarm-systems",{"className":"ml-4","children":["$","a",null,{"href":"#fire-alarm-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fire Alarm Systems"}]}]
+22:["$","li","fire-doors",{"className":"ml-4","children":["$","a",null,{"href":"#fire-doors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fire Doors"}]}]
+23:["$","li","exit-signage-and-emergency-lighting",{"className":"ml-4","children":["$","a",null,{"href":"#exit-signage-and-emergency-lighting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exit Signage and Emergency Lighting"}]}]
+24:["$","li","dryer-duct-fire-safety",{"className":"","children":["$","a",null,{"href":"#dryer-duct-fire-safety","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Dryer Duct Fire Safety"}]}]
+25:["$","li","fireplace-and-chimney-safety",{"className":"","children":["$","a",null,{"href":"#fireplace-and-chimney-safety","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fireplace and Chimney Safety"}]}]
+26:["$","li","documenting-fire-safety-compliance",{"className":"","children":["$","a",null,{"href":"#documenting-fire-safety-compliance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documenting Fire Safety Compliance"}]}]
+27:["$","li","landlord-liability-for-fire-safety-violations",{"className":"","children":["$","a",null,{"href":"#landlord-liability-for-fire-safety-violations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Liability for Fire Safety Violations"}]}]
+28:["$","li","tenant-fire-safety-responsibilities",{"className":"","children":["$","a",null,{"href":"#tenant-fire-safety-responsibilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Fire Safety Responsibilities"}]}]
+29:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+30:T37c9,<p>Fire safety compliance is one of the most serious legal obligations landlords carry. A fire in a rental property that is traced to inadequate smoke detectors, blocked exits, or missing fire suppression equipment can result in criminal liability, substantial civil damages, and — most importantly — the loss of life. Fire safety is not a checkbox on a maintenance form; it is a matter of life and property that requires consistent attention and documentation.</p>
+<p>This guide covers the core fire safety requirements for rental properties, including smoke detectors, carbon monoxide detectors, fire extinguishers, egress requirements, and building fire systems.</p>
+<hr>
+<h2 id="smoke-detector-requirements">Smoke Detector Requirements</h2>
+<p>Every state in the U.S. requires smoke detectors in residential rental units. The specific requirements — number, placement, type, and who provides and maintains them — vary by state and local jurisdiction.</p>
+<h3 id="federal-standards">Federal Standards</h3>
+<p>The <a href="https://www.nfpa.org/codes-and-standards/nfpa-72-standard-development/72" rel="noopener" target="_blank">NFPA Standard 72</a> provides the model framework for smoke alarm placement, though states set their own legal requirements. The International Building Code (IBC) and International Residential Code (IRC) also establish baseline standards that many jurisdictions adopt.</p>
+<h3 id="placement-requirements">Placement Requirements</h3>
+<p>As a general standard (many states mandate this specifically):</p>
+<ul>
+<li><strong>One smoke alarm in every bedroom</strong></li>
+<li><strong>One smoke alarm outside every sleeping area</strong> (hallway adjacent to bedrooms)</li>
+<li><strong>One smoke alarm on every level</strong> of the dwelling, including the basement</li>
+<li>In newer construction or after renovation, interconnected alarms (when one goes off, all go off) are often required</li>
+</ul>
+<h3 id="alarm-types">Alarm Types</h3>
+<p>Modern requirements in many states mandate:</p>
+<ul>
+<li><strong>Combination smoke/CO alarms</strong> in units with gas appliances or attached garages</li>
+<li><strong>10-year sealed lithium battery alarms</strong> — These are required or strongly encouraged in many states because standard battery-powered alarms are frequently disabled when batteries die. States including California, Florida, and New York City have enacted laws requiring 10-year sealed battery alarms.</li>
+<li><strong>Photoelectric vs ionization technology</strong> — Both types are acceptable in most jurisdictions; some experts and some local codes prefer photoelectric for detecting smoldering fires.</li>
+</ul>
+<h3 id="who-provides-and-maintains-alarms">Who Provides and Maintains Alarms?</h3>
+<ul>
+<li><strong>Landlord's obligation</strong>: Provide and install functioning smoke detectors at the start of each tenancy and test them before tenant move-in</li>
+<li><strong>Tenant's obligation</strong>: Notify the landlord of malfunctions, replace batteries in standard battery-powered units (in states that allow this allocation), and not remove or disable detectors</li>
+<li><strong>Landlord's ongoing obligation</strong>: Repair or replace alarms when notified of malfunction; test alarms at each lease renewal or annually</li>
+</ul>
+<p>Document your alarm tests and inspections in writing.</p>
+<hr>
+<h2 id="carbon-monoxide-detector-requirements">Carbon Monoxide Detector Requirements</h2>
+<p>Carbon monoxide is an odorless, colorless gas produced by combustion appliances. CO detectors are now required in most states in rental properties that have:</p>
+<ul>
+<li>Gas appliances (furnace, water heater, stove, dryer)</li>
+<li>Attached garages</li>
+<li>Fireplaces or wood-burning appliances</li>
+<li>Fuel-burning generators (if permitted)</li>
+</ul>
+<h3 id="co-detector-placement">CO Detector Placement</h3>
+<p>Standard requirements (verify your state and local ordinances):</p>
+<ul>
+<li>Within 15 feet of each sleeping area</li>
+<li>On each level of the dwelling</li>
+<li>Near (but not immediately adjacent to) combustion appliances</li>
+</ul>
+<h3 id="states-with-co-detector-laws-for-rentals">States With CO Detector Laws for Rentals</h3>
+<p>Nearly every state now requires CO detectors in rental properties with combustion appliances. States that have enacted specific CO detector laws include California, New York, New Jersey, Massachusetts, Illinois, Oregon, and Washington, among many others.</p>
+<p>For a complete breakdown of CO detector requirements, see our dedicated guide on <a href="/blog/carbon-monoxide-detector-rental">carbon monoxide detector requirements for rentals</a>.</p>
+<hr>
+<h2 id="fire-extinguisher-requirements">Fire Extinguisher Requirements</h2>
+<h3 id="single-family-and-small-multi-family">Single-Family and Small Multi-Family</h3>
+<p>While not universally required by all states in single-family rentals, fire extinguishers are broadly recommended and required in many jurisdictions, including:</p>
+<ul>
+<li>Kitchen fire extinguisher (Class ABC, 2.5 lb minimum) — required by many local fire codes in residential kitchens</li>
+<li>Any multi-family building with a commercial kitchen or common laundry room</li>
+</ul>
+<h3 id="multi-family-and-larger-properties">Multi-Family and Larger Properties</h3>
+<p>Most multi-family residential buildings are required to have:</p>
+<ul>
+<li>Fire extinguishers in hallways and common areas at specified intervals (typically one per floor or per 75 feet of travel)</li>
+<li>Annual inspection of all fire extinguishers by a licensed fire protection service</li>
+<li>Tagged documentation showing the last inspection date</li>
+</ul>
+<h3 id="fire-extinguisher-classes">Fire Extinguisher Classes</h3>
+<ul>
+<li><strong>Class A</strong> — Wood, paper, cloth (ordinary combustibles)</li>
+<li><strong>Class B</strong> — Flammable liquids (grease, oil)</li>
+<li><strong>Class C</strong> — Electrical equipment</li>
+<li><strong>Class K</strong> — Commercial kitchen grease fires</li>
+</ul>
+<p>For rental units, a standard Class ABC dry chemical extinguisher is appropriate for most areas. Kitchens should have a Class K extinguisher if cooking equipment is significant.</p>
+<hr>
+<h2 id="egress-requirements">Egress Requirements</h2>
+<p>Every sleeping room in a rental property must have a safe means of egress in case of fire.</p>
+<h3 id="bedroom-egress-windows">Bedroom Egress Windows</h3>
+<p>Under the International Residential Code (adopted in most states):</p>
+<ul>
+<li>Each bedroom must have at least one egress window</li>
+<li>Minimum opening width: 20 inches</li>
+<li>Minimum opening height: 24 inches</li>
+<li>Minimum net opening area: 5.7 square feet (5 square feet at grade level)</li>
+<li>Maximum sill height: 44 inches from floor</li>
+</ul>
+<p>Basement bedrooms are frequently non-compliant — if you are creating or renting a basement bedroom, verify that egress requirements are met. A bedroom without proper egress cannot legally be rented as a bedroom.</p>
+<h3 id="common-area-egress">Common Area Egress</h3>
+<p>Multi-family properties must maintain:</p>
+<ul>
+<li>Clear, marked, and unobstructed exit pathways</li>
+<li>Exit signage illuminated at all times</li>
+<li>Emergency lighting that activates during power outages</li>
+<li>Fire doors in designated locations (often required to be self-closing and rated)</li>
+</ul>
+<hr>
+<h2 id="sprinkler-systems">Sprinkler Systems</h2>
+<h3 id="when-required">When Required</h3>
+<p>Residential fire sprinkler systems are required in:</p>
+<ul>
+<li>All new multi-family construction in many states (California, Maryland, and others have statewide requirements)</li>
+<li>Many jurisdictions require sprinklers in all new single-family construction as well</li>
+<li>Older buildings undergoing substantial renovation may trigger sprinkler retrofit requirements</li>
+</ul>
+<h3 id="maintenance">Maintenance</h3>
+<p>If your rental property has a sprinkler system:</p>
+<ul>
+<li>Annual inspection by a licensed fire protection contractor is required</li>
+<li>Keep a minimum 18-inch clearance below all sprinkler heads at all times (tenant storage cannot obstruct sprinkler heads)</li>
+<li>Notify your fire protection contractor and local fire department before any construction work near sprinkler components</li>
+<li>Never paint sprinkler heads — painted heads must be replaced</li>
+</ul>
+<hr>
+<h2 id="building-fire-systems-multi-family">Building Fire Systems (Multi-Family)</h2>
+<p>Larger multi-family properties often have fire alarm systems, fire doors, and standpipe systems beyond individual unit smoke detectors:</p>
+<h3 id="fire-alarm-systems">Fire Alarm Systems</h3>
+<ul>
+<li>Annual inspection by a licensed fire alarm contractor (required in most jurisdictions)</li>
+<li>Semi-annual testing in many jurisdictions</li>
+<li>5-year full inspection (required under NFPA 72 for most systems)</li>
+<li>Fire alarm monitoring contracts (24/7 monitoring is required in many markets for larger systems)</li>
+</ul>
+<h3 id="fire-doors">Fire Doors</h3>
+<ul>
+<li>Self-closing mechanism must be functional — propped fire doors are a code violation and a serious safety hazard</li>
+<li>Fire door labels (indicating the rating) must remain intact and readable</li>
+<li>Damaged fire doors must be replaced; do not repair fire doors with non-rated materials</li>
+</ul>
+<h3 id="exit-signage-and-emergency-lighting">Exit Signage and Emergency Lighting</h3>
+<ul>
+<li>Monthly: Test exit signs and emergency lighting for 30 seconds</li>
+<li>Annual: Test exit signs and emergency lighting for 90 minutes (full battery discharge test)</li>
+<li>Document all tests in your fire safety log</li>
+</ul>
+<hr>
+<h2 id="dryer-duct-fire-safety">Dryer Duct Fire Safety</h2>
+<p>Dryer duct fires are a significant source of residential fires, with the <a href="https://www.usfa.fema.gov/statistics/residential-fires/dryers.html" rel="noopener" target="_blank">U.S. Fire Administration</a> reporting approximately 15,000 per year. Landlord obligations:</p>
+<ul>
+<li>Ensure dryer ducts vent to the exterior through rigid metal duct (not flexible plastic or foil)</li>
+<li>Clean dryer ducts annually — this is not optional, it is a fire safety obligation</li>
+<li>After tenant move-out, inspect and clean the dryer duct before new occupancy</li>
+<li>Verify the exterior duct termination flap opens and closes freely</li>
+</ul>
+<p>For more detail, see our guide on <a href="/blog/appliance-maintenance-schedule-rental">appliance maintenance schedules for landlords</a>.</p>
+<hr>
+<h2 id="fireplace-and-chimney-safety">Fireplace and Chimney Safety</h2>
+<p>If your rental has a wood-burning or gas fireplace:</p>
+<ul>
+<li><strong>Annual chimney inspection and cleaning</strong> by a certified chimney sweep (required in many jurisdictions)</li>
+<li>Clean a wood-burning chimney flue annually to remove creosote (a leading cause of chimney fires)</li>
+<li>Inspect and test gas fireplace ignition and gas valve annually</li>
+<li>Install a chimney cap to prevent debris and animal nesting</li>
+<li>Ensure the fireplace damper operates correctly</li>
+</ul>
+<hr>
+<h2 id="documenting-fire-safety-compliance">Documenting Fire Safety Compliance</h2>
+<p>Maintain a fire safety compliance log for each property including:</p>
+<ul>
+<li>Smoke detector installation dates and model information</li>
+<li>Smoke detector test dates (at least annually)</li>
+<li>CO detector installation dates and model information</li>
+<li>Fire extinguisher inspection dates and service provider</li>
+<li>Dryer duct cleaning dates</li>
+<li>Chimney inspection dates</li>
+<li>Any fire system inspection reports</li>
+</ul>
+<p>Provide copies of smoke and CO detector test documentation to new tenants at move-in.</p>
+<hr>
+<h2 id="landlord-liability-for-fire-safety-violations">Landlord Liability for Fire Safety Violations</h2>
+<p>Landlords who fail to maintain required fire safety equipment face severe consequences:</p>
+<ul>
+<li><strong>Civil liability</strong> — If a tenant is injured or killed in a fire where required safety equipment was absent or non-functional, the landlord faces potentially catastrophic civil liability</li>
+<li><strong>Criminal liability</strong> — Some states allow criminal prosecution of landlords whose negligence contributes to tenant death or injury in fires</li>
+<li><strong>Insurance denial</strong> — Insurance companies may deny claims if required fire safety equipment was not present or maintained, as the <a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Smoke-Alarms" rel="noopener" target="_blank">CPSC smoke alarm guidance</a> emphasizes</li>
+<li><strong>Fines and housing code violations</strong> — Local fire departments and housing inspectors routinely cite landlords for missing or non-functional fire safety equipment</li>
+</ul>
+<p>The combination of proactive installation, consistent testing, and thorough documentation is your best protection.</p>
+<hr>
+<h2 id="tenant-fire-safety-responsibilities">Tenant Fire Safety Responsibilities</h2>
+<p>While landlords bear primary responsibility for equipment and maintenance, tenants have obligations too:</p>
+<ul>
+<li>Do not disable or remove smoke or CO detectors</li>
+<li>Notify the landlord immediately if any detector is malfunctioning</li>
+<li>Do not block or obstruct egress windows or exit pathways</li>
+<li>Follow building rules about prohibited items (grills on balconies, space heaters)</li>
+<li>Test detectors monthly (in states where battery replacement is the tenant's responsibility)</li>
+</ul>
+<p>Include fire safety obligations in your lease and your move-in materials.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Fire safety compliance is non-negotiable for rental property owners. A systematic approach — installing required equipment at every property, testing annually, documenting everything, and staying current with state and local requirements — keeps your tenants safe and protects you from the severe legal and financial consequences of fire safety failures.</p>
+<p>For related safety guidance, see our articles on <a href="/blog/carbon-monoxide-detector-rental">carbon monoxide detector requirements for rentals</a> and <a href="/blog/hvac-maintenance-rental-property">HVAC maintenance for rental properties</a>.</p>
+2a:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$30"}}]
+2b:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","fire safety",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"fire safety"}],["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","landlord compliance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord compliance"}],["$","span","safety requirements",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"safety requirements"}],["$","span","habitability",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"habitability"}]]}]
+2c:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+2d:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","carbon-monoxide-detector-rental",{"href":"/blog/carbon-monoxide-detector-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Carbon Monoxide Detector Requirements for Rentals"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","mold-in-rental-property",{"href":"/blog/mold-in-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Mold in Rental Property: Remediation and Liability"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","pest-control-rental-property",{"href":"/blog/pest-control-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Pest Control for Rental Properties: Responsibilities"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+2e:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","smoke-detector-requirements",{"className":"","children":["$","a",null,{"href":"#smoke-detector-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smoke Detector Requirements"}]}],["$","li","federal-standards",{"className":"ml-4","children":["$","a",null,{"href":"#federal-standards","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Federal Standards"}]}],["$","li","placement-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#placement-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Placement Requirements"}]}],["$","li","alarm-types",{"className":"ml-4","children":["$","a",null,{"href":"#alarm-types","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Alarm Types"}]}],["$","li","who-provides-and-maintains-alarms",{"className":"ml-4","children":["$","a",null,{"href":"#who-provides-and-maintains-alarms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Who Provides and Maintains Alarms?"}]}],["$","li","carbon-monoxide-detector-requirements",{"className":"","children":["$","a",null,{"href":"#carbon-monoxide-detector-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Carbon Monoxide Detector Requirements"}]}],["$","li","co-detector-placement",{"className":"ml-4","children":["$","a",null,{"href":"#co-detector-placement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"CO Detector Placement"}]}],["$","li","states-with-co-detector-laws-for-rentals",{"className":"ml-4","children":["$","a",null,{"href":"#states-with-co-detector-laws-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"States With CO Detector Laws for Rentals"}]}],["$","li","fire-extinguisher-requirements",{"className":"","children":["$","a",null,{"href":"#fire-extinguisher-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fire Extinguisher Requirements"}]}],["$","li","single-family-and-small-multi-family",{"className":"ml-4","children":["$","a",null,{"href":"#single-family-and-small-multi-family","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Single-Family and Small Multi-Family"}]}],["$","li","multi-family-and-larger-properties",{"className":"ml-4","children":["$","a",null,{"href":"#multi-family-and-larger-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Multi-Family and Larger Properties"}]}],["$","li","fire-extinguisher-classes",{"className":"ml-4","children":["$","a",null,{"href":"#fire-extinguisher-classes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fire Extinguisher Classes"}]}],["$","li","egress-requirements",{"className":"","children":["$","a",null,{"href":"#egress-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Egress Requirements"}]}],["$","li","bedroom-egress-windows",{"className":"ml-4","children":["$","a",null,{"href":"#bedroom-egress-windows","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedroom Egress Windows"}]}],["$","li","common-area-egress",{"className":"ml-4","children":["$","a",null,{"href":"#common-area-egress","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Area Egress"}]}],["$","li","sprinkler-systems",{"className":"","children":"$L31"}],"$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d"]}]]}]}]
+2f:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+31:["$","a",null,{"href":"#sprinkler-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sprinkler Systems"}]
+32:["$","li","when-required",{"className":"ml-4","children":["$","a",null,{"href":"#when-required","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When Required"}]}]
+33:["$","li","maintenance",{"className":"ml-4","children":["$","a",null,{"href":"#maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance"}]}]
+34:["$","li","building-fire-systems-multi-family",{"className":"","children":["$","a",null,{"href":"#building-fire-systems-multi-family","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Fire Systems (Multi-Family)"}]}]
+35:["$","li","fire-alarm-systems",{"className":"ml-4","children":["$","a",null,{"href":"#fire-alarm-systems","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fire Alarm Systems"}]}]
+36:["$","li","fire-doors",{"className":"ml-4","children":["$","a",null,{"href":"#fire-doors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fire Doors"}]}]
+37:["$","li","exit-signage-and-emergency-lighting",{"className":"ml-4","children":["$","a",null,{"href":"#exit-signage-and-emergency-lighting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exit Signage and Emergency Lighting"}]}]
+38:["$","li","dryer-duct-fire-safety",{"className":"","children":["$","a",null,{"href":"#dryer-duct-fire-safety","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Dryer Duct Fire Safety"}]}]
+39:["$","li","fireplace-and-chimney-safety",{"className":"","children":["$","a",null,{"href":"#fireplace-and-chimney-safety","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fireplace and Chimney Safety"}]}]
+3a:["$","li","documenting-fire-safety-compliance",{"className":"","children":["$","a",null,{"href":"#documenting-fire-safety-compliance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documenting Fire Safety Compliance"}]}]
+3b:["$","li","landlord-liability-for-fire-safety-violations",{"className":"","children":["$","a",null,{"href":"#landlord-liability-for-fire-safety-violations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Liability for Fire Safety Violations"}]}]
+3c:["$","li","tenant-fire-safety-responsibilities",{"className":"","children":["$","a",null,{"href":"#tenant-fire-safety-responsibilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Fire Safety Responsibilities"}]}]
+3d:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Fire Safety Requirements for Rental Properties | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A complete guide to fire safety requirements for rental properties, including smoke detector laws, fire extinguisher rules, exit requirements, and landlord compliance obligations."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"fire safety,property maintenance,landlord compliance,safety requirements,habitability"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/fire-safety-rental-property"}],["$","meta","6",{"property":"og:title","content":"Fire Safety Requirements for Rental Properties"}],["$","meta","7",{"property":"og:description","content":"A complete guide to fire safety requirements for rental properties, including smoke detector laws, fire extinguisher rules, exit requirements, and landlord compliance obligations."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/fire-safety-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Fire Safety Requirements for Rental Properties"}],["$","meta","15",{"name":"twitter:description","content":"A complete guide to fire safety requirements for rental properties, including smoke detector laws, fire extinguisher rules, exit requirements, and landlord compliance obligations."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

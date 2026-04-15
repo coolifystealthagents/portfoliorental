@@ -1,0 +1,447 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","rent-increase-limits-by-state"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","rent-increase-limits-by-state","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rent-increase-limits-by-state","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Rent Increase Limits by State in 2026\",\"description\":\"A state-by-state guide to rent increase limits in 2026, including which states have rent control, how much you can raise rent, and required notice periods.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/rent-increase-limits-by-state\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Legal & Compliance\",\"item\":\"https://portfoliorental.com/blog/category/legal-and-compliance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Rent Increase Limits by State in 2026\",\"item\":\"https://portfoliorental.com/blog/rent-increase-limits-by-state\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"hover:text-blue-600","children":"Legal & Compliance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Legal & Compliance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Rent Increase Limits by State in 2026"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[10," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","states-with-statewide-rent-increase-limits",{"className":"","children":["$","a",null,{"href":"#states-with-statewide-rent-increase-limits","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"States With Statewide Rent Increase Limits"}]}],["$","li","california",{"className":"ml-4","children":["$","a",null,{"href":"#california","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"California"}]}],["$","li","oregon",{"className":"ml-4","children":["$","a",null,{"href":"#oregon","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Oregon"}]}],["$","li","washington",{"className":"ml-4","children":["$","a",null,{"href":"#washington","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Washington"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]}]]}],"$L27","$L28"]}],"$L29","$L2a"]}],"$L2b"]}]]}],"$L2c"]
+11:["$","li","new-jersey",{"className":"ml-4","children":["$","a",null,{"href":"#new-jersey","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"New Jersey"}]}]
+12:["$","li","notice-requirements-for-rent-increases",{"className":"","children":["$","a",null,{"href":"#notice-requirements-for-rent-increases","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Notice Requirements for Rent Increases"}]}]
+13:["$","li","common-notice-periods-by-state-month-to-month-tenancies",{"className":"ml-4","children":["$","a",null,{"href":"#common-notice-periods-by-state-month-to-month-tenancies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Notice Periods by State (Month-to-Month Tenancies)"}]}]
+14:["$","li","states-that-preempt-local-rent-control",{"className":"","children":["$","a",null,{"href":"#states-that-preempt-local-rent-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"States That Preempt Local Rent Control"}]}]
+15:["$","li","cities-and-counties-with-local-rent-increase-caps",{"className":"","children":["$","a",null,{"href":"#cities-and-counties-with-local-rent-increase-caps","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cities and Counties With Local Rent Increase Caps"}]}]
+16:["$","li","california-cities-with-local-rent-control",{"className":"ml-4","children":["$","a",null,{"href":"#california-cities-with-local-rent-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"California Cities With Local Rent Control"}]}]
+17:["$","li","new-jersey-cities",{"className":"ml-4","children":["$","a",null,{"href":"#new-jersey-cities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"New Jersey Cities"}]}]
+18:["$","li","new-york-city",{"className":"ml-4","children":["$","a",null,{"href":"#new-york-city","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"New York City"}]}]
+19:["$","li","rent-increases-during-a-fixed-term-lease",{"className":"","children":["$","a",null,{"href":"#rent-increases-during-a-fixed-term-lease","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rent Increases During a Fixed-Term Lease"}]}]
+1a:["$","li","rent-increases-and-retaliation",{"className":"","children":["$","a",null,{"href":"#rent-increases-and-retaliation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rent Increases and Retaliation"}]}]
+1b:["$","li","above-guideline-increases-in-regulated-markets",{"className":"","children":["$","a",null,{"href":"#above-guideline-increases-in-regulated-markets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Above-Guideline Increases in Regulated Markets"}]}]
+1c:["$","li","practical-steps-for-implementing-a-rent-increase",{"className":"","children":["$","a",null,{"href":"#practical-steps-for-implementing-a-rent-increase","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Practical Steps for Implementing a Rent Increase"}]}]
+1d:["$","li","step-1-verify-your-legal-authority",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-verify-your-legal-authority","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Verify Your Legal Authority"}]}]
+1e:["$","li","step-2-draft-a-written-notice",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-draft-a-written-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Draft a Written Notice"}]}]
+1f:["$","li","step-3-deliver-notice-correctly",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-deliver-notice-correctly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Deliver Notice Correctly"}]}]
+20:["$","li","step-4-update-your-lease-records",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-update-your-lease-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Update Your Lease Records"}]}]
+21:["$","li","frequently-asked-questions",{"className":"","children":["$","a",null,{"href":"#frequently-asked-questions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Frequently Asked Questions"}]}]
+22:["$","li","can-i-raise-rent-every-month-on-a-month-to-month-tenancy",{"className":"ml-4","children":["$","a",null,{"href":"#can-i-raise-rent-every-month-on-a-month-to-month-tenancy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Can I raise rent every month on a month-to-month tenancy?"}]}]
+23:["$","li","what-happens-if-i-raise-rent-without-giving-proper-notice",{"className":"ml-4","children":["$","a",null,{"href":"#what-happens-if-i-raise-rent-without-giving-proper-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What happens if I raise rent without giving proper notice?"}]}]
+24:["$","li","can-i-raise-rent-to-cover-a-large-repair-or-improvement",{"className":"ml-4","children":["$","a",null,{"href":"#can-i-raise-rent-to-cover-a-large-repair-or-improvement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Can I raise rent to cover a large repair or improvement?"}]}]
+25:["$","li","how-do-i-know-if-my-property-is-rent-stabilized",{"className":"ml-4","children":["$","a",null,{"href":"#how-do-i-know-if-my-property-is-rent-stabilized","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How do I know if my property is rent stabilized?"}]}]
+26:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2d:T4015,<p>Knowing how much you can legally raise rent — and when and how you must notify tenants — is a fundamental part of running a rental business. As more states and cities enact <a href="/blog/rent-stabilization-vs-rent-control">rent stabilization laws</a>, the landscape has grown significantly more complex. Failing to follow the correct procedures for a rent increase can result in the increase being void, penalties, or eviction cases being dismissed.</p>
+<p>This guide provides a comprehensive overview of rent increase limits by state in 2026, the notice requirements that apply, and best practices for implementing rent increases effectively. The <a href="https://www.consumerfinance.gov/housing">CFPB housing portal</a> is also a useful resource for tenants and landlords navigating these regulations.</p>
+<hr>
+<h2 id="states-with-statewide-rent-increase-limits">States With Statewide Rent Increase Limits</h2>
+<p>Most states in the U.S. do not have statewide rent control. Landlords in unregulated states may raise rent by any amount — but only at the end of a lease term (for fixed-term leases) or with proper notice (for month-to-month tenancies). However, a growing number of states have enacted statewide limits:</p>
+<h3 id="california">California</h3>
+<p>California's AB 1482 (Tenant Protection Act of 2019) caps annual rent increases for covered units at <strong>5% plus local CPI, with a maximum of 10% per year</strong>. The 2026 allowable increase varies by region based on each area's CPI. Exemptions include:</p>
+<ul>
+<li>Single-family homes and condos not owned by corporations or REITs (with proper notice to tenant)</li>
+<li>Units built within the last 15 years (rolling exemption)</li>
+<li>Units already subject to stricter local rent control</li>
+</ul>
+<p>Many California cities (Los Angeles, San Francisco, Oakland, Santa Monica, Berkeley, etc.) have local ordinances with lower caps — the more restrictive rule governs.</p>
+<h3 id="oregon">Oregon</h3>
+<p>Oregon's statewide rent stabilization law caps annual increases at <strong>7% plus the annual change in the Consumer Price Index (CPI)</strong>. For 2025, the Oregon Rental Housing Association reported allowable increases in the range of 9-10%, subject to annual recalculation. Exemptions include units with a certificate of occupancy issued within the last 15 years.</p>
+<h3 id="washington">Washington</h3>
+<p>Washington's statewide just cause protections are paired with notice requirements. While Washington does not currently have a hard statewide rent increase cap, the legislature has actively debated caps and notice requirements have been strengthened. Always verify current Washington law as this has been a rapidly changing area.</p>
+<h3 id="new-jersey">New Jersey</h3>
+<p>New Jersey does not have a statewide rent cap but allows individual municipalities to enact rent control. More than 100 NJ municipalities have local rent control ordinances, including Newark, Jersey City, Hoboken, and others.</p>
+<hr>
+<h2 id="notice-requirements-for-rent-increases">Notice Requirements for Rent Increases</h2>
+<p>Regardless of the amount of the increase, landlords in every state must provide advance written notice before a rent increase takes effect. The required notice period depends on:</p>
+<ul>
+<li>The type of tenancy (month-to-month vs. fixed-term lease)</li>
+<li>The amount of the increase (many states require longer notice for large increases)</li>
+<li>State-specific statute</li>
+</ul>
+<h3 id="common-notice-periods-by-state-month-to-month-tenancies">Common Notice Periods by State (Month-to-Month Tenancies)</h3>
+<table>
+<thead>
+<tr>
+<th>State</th>
+<th>Standard Notice</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alabama</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Alaska</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Arizona</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Arkansas</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>California</td>
+<td>30 days (&#x3C;10%); 90 days (≥10%)</td>
+<td>Local ordinances may require more</td>
+</tr>
+<tr>
+<td>Colorado</td>
+<td>21 days</td>
+<td>60 days for 10%+ increase</td>
+</tr>
+<tr>
+<td>Connecticut</td>
+<td>Same as notice to terminate</td>
+<td>Typically 30 days</td>
+</tr>
+<tr>
+<td>Delaware</td>
+<td>60 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Florida</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Georgia</td>
+<td>60 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hawaii</td>
+<td>45 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Idaho</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Illinois</td>
+<td>30 days (Chicago: 60 days for 10%+ increase)</td>
+<td>Chicago has stricter local rules</td>
+</tr>
+<tr>
+<td>Indiana</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Iowa</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Kansas</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Kentucky</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Louisiana</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Maine</td>
+<td>45 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Maryland</td>
+<td>90 days</td>
+<td>One of the longer state requirements</td>
+</tr>
+<tr>
+<td>Massachusetts</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Michigan</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Minnesota</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mississippi</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Missouri</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Montana</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Nebraska</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Nevada</td>
+<td>45 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>New Hampshire</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>New Jersey</td>
+<td>30 days (local ordinances may require more)</td>
+<td>—</td>
+</tr>
+<tr>
+<td>New Mexico</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>New York</td>
+<td>30 days (&#x3C;5% increase or under 3 years); 60 days (3-9 yrs); 90 days (10+ yrs)</td>
+<td>HSTPA 2019 provisions</td>
+</tr>
+<tr>
+<td>North Carolina</td>
+<td>7 days</td>
+<td>Low notice requirement</td>
+</tr>
+<tr>
+<td>North Dakota</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Ohio</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Oklahoma</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Oregon</td>
+<td>90 days</td>
+<td>One of the longer requirements</td>
+</tr>
+<tr>
+<td>Pennsylvania</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rhode Island</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>South Carolina</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>South Dakota</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Tennessee</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Texas</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Utah</td>
+<td>15 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Vermont</td>
+<td>60 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Virginia</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Washington</td>
+<td>60 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>West Virginia</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Wisconsin</td>
+<td>28 days</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Wyoming</td>
+<td>30 days</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="states-that-preempt-local-rent-control">States That Preempt Local Rent Control</h2>
+<p>Many states expressly prohibit cities and counties from enacting rent control or rent stabilization:</p>
+<ul>
+<li><strong>Arizona</strong> — State law prohibits local rent control ordinances</li>
+<li><strong>Florida</strong> — State law preempts local rent control (with limited exceptions for declared housing emergencies)</li>
+<li><strong>Georgia</strong> — Preempts local rent control</li>
+<li><strong>Idaho</strong> — Preempts local rent control</li>
+<li><strong>Indiana</strong> — Preempts local rent control</li>
+<li><strong>Iowa</strong> — Preempts local rent control</li>
+<li><strong>Minnesota</strong> — Historically prohibited local rent control; Minneapolis and St. Paul passed local ordinances in 2021, leading to ongoing litigation</li>
+<li><strong>Missouri</strong> — Preempts local rent control</li>
+<li><strong>North Carolina</strong> — Preempts local rent control</li>
+<li><strong>Ohio</strong> — Preempts local rent control</li>
+<li><strong>South Carolina</strong> — Preempts local rent control</li>
+<li><strong>Tennessee</strong> — Preempts local rent control</li>
+<li><strong>Texas</strong> — Preempts local rent control</li>
+<li><strong>Wisconsin</strong> — Preempts local rent control</li>
+</ul>
+<p>If you own property in a state with preemption, you can raise rent by any amount — subject only to the notice requirements above and general anti-discrimination and retaliation laws.</p>
+<hr>
+<h2 id="cities-and-counties-with-local-rent-increase-caps">Cities and Counties With Local Rent Increase Caps</h2>
+<p>Even in states without statewide rent limits, certain cities may have enacted local ordinances before preemption laws were passed or through other legal authority:</p>
+<h3 id="california-cities-with-local-rent-control">California Cities With Local Rent Control</h3>
+<p>California's statewide AB 1482 does not supersede stricter local ordinances. Major California cities with their own annual increase limits:</p>
+<ul>
+<li><strong>Los Angeles</strong> — Annual increases for RSO units are determined by LAHD; typically 3%-8% depending on utility passthroughs</li>
+<li><strong>San Francisco</strong> — Annual increases based on CPI; 2025-2026 increase was approximately 1.4%</li>
+<li><strong>Oakland</strong> — Annual Consumer Price Index adjustment; typically 2%-4%</li>
+<li><strong>Santa Monica</strong> — Annual increase tied to CPI with a cap; historically in the 2%-4% range</li>
+<li><strong>Berkeley</strong> — Annual increase tied to CPI</li>
+</ul>
+<h3 id="new-jersey-cities">New Jersey Cities</h3>
+<p>Multiple NJ cities cap annual rent increases at 4%-6% depending on the municipality.</p>
+<h3 id="new-york-city">New York City</h3>
+<p>New York City's Rent Guidelines Board sets annual increases for rent-stabilized units. For the 2025-2026 lease year, the RGB approved increases of approximately 2.75% for one-year leases and 5.25% for two-year leases for stabilized apartments.</p>
+<hr>
+<h2 id="rent-increases-during-a-fixed-term-lease">Rent Increases During a Fixed-Term Lease</h2>
+<p>In nearly every state, a landlord <strong>cannot raise rent during a fixed-term lease</strong> unless the lease specifically provides for it (through a <a href="/blog/rent-escalation-clause">rent escalation clause</a>). A rent increase mid-lease is generally not enforceable.</p>
+<p>At the end of a fixed-term lease, the landlord may:</p>
+<ol>
+<li>Offer a renewal lease at a higher rent — review <a href="/blog/lease-renewal-strategies">lease renewal strategies</a> to approach this effectively</li>
+<li>Convert to a month-to-month tenancy with an increased rent (with proper notice)</li>
+<li>Decline to renew the lease (subject to just cause requirements where applicable)</li>
+</ol>
+<hr>
+<h2 id="rent-increases-and-retaliation">Rent Increases and Retaliation</h2>
+<p>Rent increases must not be retaliatory. A retaliatory rent increase — raising rent because a tenant exercised a legal right, such as reporting housing code violations to a government agency, organizing a tenant union, or requesting repairs — is illegal in virtually every state. Courts may void such increases and order the return of any amounts paid under a retaliatory increase.</p>
+<p>Always have a documented, legitimate business reason for any rent increase (market conditions, increased operating costs, capital improvements) and ensure the timing does not correspond with protected tenant activity. <a href="https://www.census.gov/housing">Census housing data</a> can help document market-rate trends in your area.</p>
+<hr>
+<h2 id="above-guideline-increases-in-regulated-markets">Above-Guideline Increases in Regulated Markets</h2>
+<p>If your property is subject to rent stabilization and you need to increase rent above the guideline amount, you must file a petition with the local rent board. Common qualifying grounds include:</p>
+<ul>
+<li><strong>Capital improvements</strong> — New roof, HVAC system replacement, seismic retrofitting, major plumbing or electrical work</li>
+<li><strong>Operating cost increases</strong> — Extraordinary increases in property taxes, insurance, or utility costs</li>
+<li><strong>Debt service</strong> — Some jurisdictions allow petitions based on financing costs</li>
+</ul>
+<p>The petition process involves:</p>
+<ol>
+<li>Filing an application with the rent board and paying a filing fee</li>
+<li>Providing documentation of costs (invoices, tax bills, contracts)</li>
+<li>Attending a hearing</li>
+<li>Receiving a written decision with the approved increase amount</li>
+</ol>
+<p>Processing times of 6-18 months are common. Plan capital improvement projects with this timeline in mind.</p>
+<hr>
+<h2 id="practical-steps-for-implementing-a-rent-increase">Practical Steps for Implementing a Rent Increase</h2>
+<h3 id="step-1-verify-your-legal-authority">Step 1: Verify Your Legal Authority</h3>
+<p>Before any increase, confirm:</p>
+<ul>
+<li>Is your unit subject to rent stabilization (local or state)?</li>
+<li>What is the maximum allowable increase for the current year?</li>
+<li>What notice period is required?</li>
+</ul>
+<h3 id="step-2-draft-a-written-notice">Step 2: Draft a Written Notice</h3>
+<p>Your rent increase notice should include:</p>
+<ul>
+<li>The current rent amount</li>
+<li>The new rent amount</li>
+<li>The effective date of the increase</li>
+<li>The amount of the increase as a dollar amount and percentage</li>
+<li>Your signature and contact information</li>
+</ul>
+<h3 id="step-3-deliver-notice-correctly">Step 3: Deliver Notice Correctly</h3>
+<p>Send the notice via certified mail with return receipt requested, or deliver it in person with a signed receipt. Keep a copy in the tenant's file with proof of delivery.</p>
+<h3 id="step-4-update-your-lease-records">Step 4: Update Your Lease Records</h3>
+<p>When the increase takes effect, update your lease records and property management software to reflect the new rent. Issue a written lease amendment or confirmation letter.</p>
+<hr>
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+<h3 id="can-i-raise-rent-every-month-on-a-month-to-month-tenancy">Can I raise rent every month on a month-to-month tenancy?</h3>
+<p>Technically, yes — with proper notice each time. But frequent increases damage your tenant relationships and may raise questions about retaliation. Most landlords implement annual increases.</p>
+<h3 id="what-happens-if-i-raise-rent-without-giving-proper-notice">What happens if I raise rent without giving proper notice?</h3>
+<p>The increase is typically voidable. The tenant can refuse to pay the increased amount until proper notice is given and the required notice period expires. In regulated markets, improper increases can result in penalties.</p>
+<h3 id="can-i-raise-rent-to-cover-a-large-repair-or-improvement">Can I raise rent to cover a large repair or improvement?</h3>
+<p>In unregulated markets, yes — you can raise rent for any reason with proper notice. In stabilized markets, above-guideline increases for improvements require a petition process.</p>
+<h3 id="how-do-i-know-if-my-property-is-rent-stabilized">How do I know if my property is rent stabilized?</h3>
+<p>In California, the local rent board or housing department maintains a registry. For other states, check the local housing authority website or consult a landlord-tenant attorney. <a href="https://www.nar.realtor/research-and-statistics">NAR research data</a> also publishes rental market statistics by region.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Rent increase rules vary dramatically by state and city. In most states, you can raise rent by any amount — but only with proper notice and never during a fixed-term lease. In states and cities with rent stabilization, annual increases are capped and above-guideline increases require a formal petition process. Understanding the rules that apply to each property in your portfolio is essential before implementing any rent increase.</p>
+<p>For related guidance on managing regulated properties, see our articles on <a href="/blog/rent-stabilization-vs-rent-control">rent stabilization vs rent control</a> and <a href="/blog/just-cause-eviction-laws">just cause eviction laws</a>.</p>
+27:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2d"}}]
+28:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","rent increase",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rent increase"}],["$","span","rent control",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rent control"}],["$","span","landlord compliance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord compliance"}],["$","span","rental regulations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental regulations"}],["$","span","state rental laws",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"state rental laws"}]]}]
+29:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Legal & Compliance"]}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-legal-structures-and-asset-protection",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-legal-structures-and-asset-protection","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Legal Structures and Asset Protection"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ada-compliance-for-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ada-compliance-for-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ADA Compliance for Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-eviction-process",{"children":["$","$L10",null,{"href":"/blog/akron-eviction-process","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Eviction Process in Akron: Step-by-Step Guide"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-rent-increase",{"children":["$","$L10",null,{"href":"/blog/akron-rent-increase","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Issue a Rent Increase Notice in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+2a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","rent-stabilization-vs-rent-control",{"href":"/blog/rent-stabilization-vs-rent-control","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Rent Stabilization vs Rent Control: Key Differences"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","alabama-rent-control-and-rent-stabilization-laws-explained",{"href":"/blog/alabama-rent-control-and-rent-stabilization-laws-explained","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Alabama Rent Control and Rent Stabilization Laws Explained"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","alaska-rent-control-and-rent-stabilization-laws-explained",{"href":"/blog/alaska-rent-control-and-rent-stabilization-laws-explained","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Alaska Rent Control and Rent Stabilization Laws Explained"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+2b:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","states-with-statewide-rent-increase-limits",{"className":"","children":["$","a",null,{"href":"#states-with-statewide-rent-increase-limits","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"States With Statewide Rent Increase Limits"}]}],["$","li","california",{"className":"ml-4","children":["$","a",null,{"href":"#california","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"California"}]}],["$","li","oregon",{"className":"ml-4","children":["$","a",null,{"href":"#oregon","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Oregon"}]}],["$","li","washington",{"className":"ml-4","children":["$","a",null,{"href":"#washington","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Washington"}]}],["$","li","new-jersey",{"className":"ml-4","children":["$","a",null,{"href":"#new-jersey","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"New Jersey"}]}],["$","li","notice-requirements-for-rent-increases",{"className":"","children":["$","a",null,{"href":"#notice-requirements-for-rent-increases","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Notice Requirements for Rent Increases"}]}],["$","li","common-notice-periods-by-state-month-to-month-tenancies",{"className":"ml-4","children":["$","a",null,{"href":"#common-notice-periods-by-state-month-to-month-tenancies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Notice Periods by State (Month-to-Month Tenancies)"}]}],["$","li","states-that-preempt-local-rent-control",{"className":"","children":["$","a",null,{"href":"#states-that-preempt-local-rent-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"States That Preempt Local Rent Control"}]}],["$","li","cities-and-counties-with-local-rent-increase-caps",{"className":"","children":["$","a",null,{"href":"#cities-and-counties-with-local-rent-increase-caps","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cities and Counties With Local Rent Increase Caps"}]}],["$","li","california-cities-with-local-rent-control",{"className":"ml-4","children":["$","a",null,{"href":"#california-cities-with-local-rent-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"California Cities With Local Rent Control"}]}],["$","li","new-jersey-cities",{"className":"ml-4","children":["$","a",null,{"href":"#new-jersey-cities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"New Jersey Cities"}]}],["$","li","new-york-city",{"className":"ml-4","children":["$","a",null,{"href":"#new-york-city","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"New York City"}]}],["$","li","rent-increases-during-a-fixed-term-lease",{"className":"","children":["$","a",null,{"href":"#rent-increases-during-a-fixed-term-lease","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rent Increases During a Fixed-Term Lease"}]}],["$","li","rent-increases-and-retaliation",{"className":"","children":["$","a",null,{"href":"#rent-increases-and-retaliation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rent Increases and Retaliation"}]}],["$","li","above-guideline-increases-in-regulated-markets",{"className":"","children":["$","a",null,{"href":"#above-guideline-increases-in-regulated-markets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Above-Guideline Increases in Regulated Markets"}]}],"$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38"]}]]}]}]
+2c:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2e:["$","li","practical-steps-for-implementing-a-rent-increase",{"className":"","children":["$","a",null,{"href":"#practical-steps-for-implementing-a-rent-increase","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Practical Steps for Implementing a Rent Increase"}]}]
+2f:["$","li","step-1-verify-your-legal-authority",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-verify-your-legal-authority","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Verify Your Legal Authority"}]}]
+30:["$","li","step-2-draft-a-written-notice",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-draft-a-written-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Draft a Written Notice"}]}]
+31:["$","li","step-3-deliver-notice-correctly",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-deliver-notice-correctly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Deliver Notice Correctly"}]}]
+32:["$","li","step-4-update-your-lease-records",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-update-your-lease-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Update Your Lease Records"}]}]
+33:["$","li","frequently-asked-questions",{"className":"","children":["$","a",null,{"href":"#frequently-asked-questions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Frequently Asked Questions"}]}]
+34:["$","li","can-i-raise-rent-every-month-on-a-month-to-month-tenancy",{"className":"ml-4","children":["$","a",null,{"href":"#can-i-raise-rent-every-month-on-a-month-to-month-tenancy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Can I raise rent every month on a month-to-month tenancy?"}]}]
+35:["$","li","what-happens-if-i-raise-rent-without-giving-proper-notice",{"className":"ml-4","children":["$","a",null,{"href":"#what-happens-if-i-raise-rent-without-giving-proper-notice","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What happens if I raise rent without giving proper notice?"}]}]
+36:["$","li","can-i-raise-rent-to-cover-a-large-repair-or-improvement",{"className":"ml-4","children":["$","a",null,{"href":"#can-i-raise-rent-to-cover-a-large-repair-or-improvement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Can I raise rent to cover a large repair or improvement?"}]}]
+37:["$","li","how-do-i-know-if-my-property-is-rent-stabilized",{"className":"ml-4","children":["$","a",null,{"href":"#how-do-i-know-if-my-property-is-rent-stabilized","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How do I know if my property is rent stabilized?"}]}]
+38:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Rent Increase Limits by State in 2026 | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"A state-by-state guide to rent increase limits in 2026, including which states have rent control, how much you can raise rent, and required notice periods."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"rent increase,rent control,landlord compliance,rental regulations,state rental laws"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/rent-increase-limits-by-state"}],["$","meta","6",{"property":"og:title","content":"Rent Increase Limits by State in 2026"}],["$","meta","7",{"property":"og:description","content":"A state-by-state guide to rent increase limits in 2026, including which states have rent control, how much you can raise rent, and required notice periods."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/rent-increase-limits-by-state"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Rent Increase Limits by State in 2026"}],["$","meta","15",{"name":"twitter:description","content":"A state-by-state guide to rent increase limits in 2026, including which states have rent control, how much you can raise rent, and required notice periods."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,262 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","video-walkthrough-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","video-walkthrough-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","video-walkthrough-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Creating Video Walkthroughs for Rental Properties\",\"description\":\"Learn how to create compelling video walkthroughs for rental properties that attract serious tenants, reduce unnecessary showings, and cut vacancy time.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/video-walkthrough-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Marketing\",\"item\":\"https://portfoliorental.com/blog/category/marketing\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Creating Video Walkthroughs for Rental Properties\",\"item\":\"https://portfoliorental.com/blog/video-walkthrough-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/marketing","className":"hover:text-blue-600","children":"Marketing"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Marketing"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Creating Video Walkthroughs for Rental Properties"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-video-walkthroughs-work",{"className":"","children":["$","a",null,{"href":"#why-video-walkthroughs-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Video Walkthroughs Work"}]}],["$","li","equipment-you-need",{"className":"","children":["$","a",null,{"href":"#equipment-you-need","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Equipment You Need"}]}],["$","li","minimum-equipment-setup",{"className":"ml-4","children":["$","a",null,{"href":"#minimum-equipment-setup","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Minimum Equipment Setup"}]}],["$","li","upgraded-equipment-for-multiple-properties",{"className":"ml-4","children":["$","a",null,{"href":"#upgraded-equipment-for-multiple-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Upgraded Equipment (for multiple properties)"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}]]}],"$L26","$L27"]}],"$L28","$L29"]}],"$L2a"]}]]}],"$L2b"]
+11:["$","li","planning-your-video-walkthrough",{"className":"","children":["$","a",null,{"href":"#planning-your-video-walkthrough","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Planning Your Video Walkthrough"}]}]
+12:["$","li","step-1-clean-and-stage-the-property",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-clean-and-stage-the-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Clean and Stage the Property"}]}]
+13:["$","li","step-2-plan-your-route",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-plan-your-route","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Plan Your Route"}]}]
+14:["$","li","step-3-decide-on-narration-vs-music",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-decide-on-narration-vs-music","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Decide on Narration vs. Music"}]}]
+15:["$","li","filming-techniques-for-professional-results",{"className":"","children":["$","a",null,{"href":"#filming-techniques-for-professional-results","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Filming Techniques for Professional Results"}]}]
+16:["$","li","shoot-in-landscape-mode",{"className":"ml-4","children":["$","a",null,{"href":"#shoot-in-landscape-mode","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Shoot in Landscape Mode"}]}]
+17:["$","li","use-slow-deliberate-movements",{"className":"ml-4","children":["$","a",null,{"href":"#use-slow-deliberate-movements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Slow, Deliberate Movements"}]}]
+18:["$","li","start-wide-move-closer",{"className":"ml-4","children":["$","a",null,{"href":"#start-wide-move-closer","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Start Wide, Move Closer"}]}]
+19:["$","li","use-static-shots-for-key-features",{"className":"ml-4","children":["$","a",null,{"href":"#use-static-shots-for-key-features","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Static Shots for Key Features"}]}]
+1a:["$","li","film-at-the-right-time-of-day",{"className":"ml-4","children":["$","a",null,{"href":"#film-at-the-right-time-of-day","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Film at the Right Time of Day"}]}]
+1b:["$","li","editing-your-rental-video-walkthrough",{"className":"","children":["$","a",null,{"href":"#editing-your-rental-video-walkthrough","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Editing Your Rental Video Walkthrough"}]}]
+1c:["$","li","recommended-editing-tools",{"className":"ml-4","children":["$","a",null,{"href":"#recommended-editing-tools","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Recommended Editing Tools"}]}]
+1d:["$","li","editing-best-practices",{"className":"ml-4","children":["$","a",null,{"href":"#editing-best-practices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Editing Best Practices"}]}]
+1e:["$","li","where-to-publish-and-share-your-video",{"className":"","children":["$","a",null,{"href":"#where-to-publish-and-share-your-video","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Publish and Share Your Video"}]}]
+1f:["$","li","rental-listing-platforms",{"className":"ml-4","children":["$","a",null,{"href":"#rental-listing-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rental Listing Platforms"}]}]
+20:["$","li","video-hosting-platforms",{"className":"ml-4","children":["$","a",null,{"href":"#video-hosting-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Video Hosting Platforms"}]}]
+21:["$","li","social-media",{"className":"ml-4","children":["$","a",null,{"href":"#social-media","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Social Media"}]}]
+22:["$","li","your-property-management-website",{"className":"ml-4","children":["$","a",null,{"href":"#your-property-management-website","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Your Property Management Website"}]}]
+23:["$","li","video-walkthrough-vs-3d-virtual-tour",{"className":"","children":["$","a",null,{"href":"#video-walkthrough-vs-3d-virtual-tour","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Video Walkthrough vs. 3D Virtual Tour"}]}]
+24:["$","li","quick-checklist-before-you-film",{"className":"","children":["$","a",null,{"href":"#quick-checklist-before-you-film","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quick Checklist: Before You Film"}]}]
+25:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2c:T37c6,<p>A video walkthrough gives prospective tenants something static photos simply cannot: the experience of moving through a space. When a renter watches a well-produced video tour of your property, they can assess room flow, ceiling heights, natural light at different times of day, and the overall feel of the home — all before scheduling a single showing.</p>
+<p>For landlords and property managers, this translates into fewer wasted showings, more qualified applicants, and faster lease-up times. This guide walks you through everything you need to know to create effective rental property video walkthroughs, from equipment and planning to filming, editing, and distribution.</p>
+<hr>
+<h2 id="why-video-walkthroughs-work">Why Video Walkthroughs Work</h2>
+<p>The data on video marketing in real estate is compelling. Listings with video receive dramatically more inquiries than those without, and tenants who view a video before scheduling a showing are far more likely to apply after the visit. Video reduces uncertainty — and uncertainty is what keeps prospective tenants from committing.</p>
+<p><strong>Key benefits of rental video walkthroughs:</strong></p>
+<ul>
+<li><strong>Higher inquiry rates</strong> — Video listings stand out in crowded search results and generate more clicks</li>
+<li><strong>Pre-qualified leads</strong> — Tenants who've watched a full video tour are more serious and better informed</li>
+<li><strong>Fewer no-shows</strong> — Tenants who've seen the property via video have more realistic expectations and fewer reasons to cancel</li>
+<li><strong>Remote tenant access</strong> — Critical for corporate relocation, military, and out-of-state tenants who can't visit in person. <a href="https://www.hud.gov/topics/rental_assistance">HUD rental assistance programs</a> connect relocating tenants with housing.</li>
+<li><strong>Reusable marketing asset</strong> — A high-quality video can be reused every time the property turns over</li>
+</ul>
+<p>Video is one component of a strong <a href="/blog/rental-property-marketing-strategies">rental property marketing strategies</a> approach, best combined with professional photography and compelling written descriptions.</p>
+<hr>
+<h2 id="equipment-you-need">Equipment You Need</h2>
+<p>You don't need a Hollywood budget to produce an effective rental video walkthrough. Many successful landlords film entirely on a smartphone. What matters more than equipment is technique and planning.</p>
+<h3 id="minimum-equipment-setup">Minimum Equipment Setup</h3>
+<ul>
+<li><strong>Smartphone with a good camera</strong> — iPhone 14 or newer, Google Pixel, or Samsung Galaxy all produce excellent video</li>
+<li><strong>Gimbal or stabilizer</strong> — Essential for smooth movement; a handheld gimbal costs $80-150 and eliminates shaky footage</li>
+<li><strong>External microphone</strong> — If you're narrating, a clip-on lavalier mic dramatically improves audio quality</li>
+<li><strong>Tripod</strong> — For static shots of individual rooms</li>
+<li><strong>Portable LED light panel</strong> — One or two panels ($30-60 each) help in darker rooms and basements</li>
+</ul>
+<h3 id="upgraded-equipment-for-multiple-properties">Upgraded Equipment (for multiple properties)</h3>
+<ul>
+<li><strong>Mirrorless camera or DSLR</strong> — Produces more cinematic footage with better low-light performance</li>
+<li><strong>Wide-angle lens</strong> — Essential for small rooms; makes spaces look larger and more inviting</li>
+<li><strong>Drone</strong> — For capturing the exterior, yard, neighborhood, and building (check <a href="https://www.faa.gov/uas">FAA drone regulations</a> before flying)</li>
+</ul>
+<hr>
+<h2 id="planning-your-video-walkthrough">Planning Your Video Walkthrough</h2>
+<p>Poor planning is the number one reason rental videos fall flat. Before you press record, take 20-30 minutes to plan the shoot.</p>
+<h3 id="step-1-clean-and-stage-the-property">Step 1: Clean and Stage the Property</h3>
+<p>A video amplifies everything — including clutter, scuffed walls, and dated fixtures. Before filming:</p>
+<ul>
+<li>Deep clean every room, including baseboards and windows</li>
+<li>Remove all personal items if the unit is occupied</li>
+<li>Stage each room with simple, neutral decor</li>
+<li>Ensure all light bulbs are working and matching in color temperature</li>
+<li>Open all blinds and curtains for maximum natural light</li>
+</ul>
+<p>Review our tips on <a href="/blog/rental-property-staging-tips">rental property staging</a> for a complete pre-shoot checklist.</p>
+<h3 id="step-2-plan-your-route">Step 2: Plan Your Route</h3>
+<p>Walk through the property once before filming and map out your camera path. A logical route mimics how a tenant would actually tour the home:</p>
+<ol>
+<li>Exterior — Building front, entrance, parking</li>
+<li>Entry/foyer</li>
+<li>Living room</li>
+<li>Dining area</li>
+<li>Kitchen</li>
+<li>Hallways and storage</li>
+<li>Bedrooms (largest first)</li>
+<li>Bathrooms</li>
+<li>Utility areas (laundry, mechanical room)</li>
+<li>Outdoor spaces (yard, balcony, patio)</li>
+<li>Building amenities (lobby, gym, pool)</li>
+</ol>
+<h3 id="step-3-decide-on-narration-vs-music">Step 3: Decide on Narration vs. Music</h3>
+<p>Video walkthroughs work with either narration or background music. Each has advantages:</p>
+<table>
+<thead>
+<tr>
+<th>Format</th>
+<th>Best For</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Narrated</td>
+<td>Explaining features tenants can't see visually (neighborhood, utility costs, lease terms)</td>
+</tr>
+<tr>
+<td>Music only</td>
+<td>Letting the property speak for itself; avoids landlord nervousness on camera</td>
+</tr>
+<tr>
+<td>On-screen text overlay</td>
+<td>Hybrid approach; highlights key features without narration</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="filming-techniques-for-professional-results">Filming Techniques for Professional Results</h2>
+<h3 id="shoot-in-landscape-mode">Shoot in Landscape Mode</h3>
+<p>Always film horizontally (landscape orientation). Vertical video works for Instagram Stories but looks unprofessional on YouTube, Zillow, and most listing platforms. Set your phone to landscape before you start.</p>
+<h3 id="use-slow-deliberate-movements">Use Slow, Deliberate Movements</h3>
+<p>The biggest mistake first-time rental videographers make is moving the camera too fast. Walk slowly — about half your normal pace. Pan across rooms slowly. Give each space time to breathe on screen. Rushed footage feels chaotic and exhausting to watch.</p>
+<h3 id="start-wide-move-closer">Start Wide, Move Closer</h3>
+<p>For each room, begin with a wide establishing shot from the doorway, then slowly move into the room to highlight specific features. This mimics how a person naturally enters and experiences a space.</p>
+<h3 id="use-static-shots-for-key-features">Use Static Shots for Key Features</h3>
+<p>Not every shot needs to be moving. Pause on:</p>
+<ul>
+<li>Kitchen countertops and appliances</li>
+<li>Bathroom vanities and fixtures</li>
+<li>Built-in storage and closets</li>
+<li>Unique architectural details (vaulted ceilings, exposed brick, built-ins)</li>
+<li>Views from windows</li>
+</ul>
+<h3 id="film-at-the-right-time-of-day">Film at the Right Time of Day</h3>
+<p>Natural light dramatically affects how a property looks on video. For most units:</p>
+<ul>
+<li><strong>Morning light</strong> suits east-facing rooms</li>
+<li><strong>Afternoon light</strong> suits west-facing rooms</li>
+<li><strong>Overcast days</strong> actually produce the most even, flattering light with no harsh shadows</li>
+</ul>
+<p>Avoid filming in direct harsh sunlight, which creates blown-out windows and deep shadows.</p>
+<hr>
+<h2 id="editing-your-rental-video-walkthrough">Editing Your Rental Video Walkthrough</h2>
+<p>You don't need to be a professional editor to produce a polished video. Several free and low-cost tools make editing accessible to anyone.</p>
+<h3 id="recommended-editing-tools">Recommended Editing Tools</h3>
+<ul>
+<li><strong>iMovie (free, Mac/iOS)</strong> — Simple, intuitive, and produces professional results</li>
+<li><strong>CapCut (free, iOS/Android)</strong> — Excellent for adding text overlays and transitions</li>
+<li><strong>DaVinci Resolve (free, desktop)</strong> — Professional-grade tool with a learning curve but powerful output</li>
+<li><strong>Adobe Premiere Rush (subscription)</strong> — Cross-platform, excellent for multi-property landlords</li>
+</ul>
+<h3 id="editing-best-practices">Editing Best Practices</h3>
+<ul>
+<li><strong>Keep it under 3-4 minutes</strong> — Attention spans are short; hit every room without lingering too long</li>
+<li><strong>Add a title card</strong> — Open with the property address or a key feature ("3BR/2BA in the Heart of Midtown")</li>
+<li><strong>Include text overlays</strong> — Highlight key specs (bed/bath count, square footage, price, available date)</li>
+<li><strong>Use consistent transitions</strong> — Simple cuts or smooth fades; avoid flashy transitions that distract</li>
+<li><strong>End with a clear call to action</strong> — "Schedule a Showing at [phone/website]" or "Apply Now at [URL]"</li>
+<li><strong>Color correct if needed</strong> — Boost brightness slightly and reduce yellow tones for a clean, fresh look</li>
+</ul>
+<hr>
+<h2 id="where-to-publish-and-share-your-video">Where to Publish and Share Your Video</h2>
+<p>A video walkthrough is only effective if the right people see it. Distribute it across every channel in your marketing mix.</p>
+<h3 id="rental-listing-platforms">Rental Listing Platforms</h3>
+<ul>
+<li><strong>Zillow</strong> — Accepts embedded video links (YouTube, Vimeo) and has its own 3D Home video tool</li>
+<li><strong>Apartments.com</strong> — Allows video uploads on enhanced listings</li>
+<li><strong>Facebook Marketplace</strong> — Video listings stand out significantly in the feed</li>
+<li><strong>Realtor.com</strong> — Supports video on premium listings</li>
+</ul>
+<h3 id="video-hosting-platforms">Video Hosting Platforms</h3>
+<p>Upload your video to YouTube and/or Vimeo first, then share the link across platforms. The <a href="https://www.ftc.gov/business-guidance/advertising-and-marketing">FTC advertising guidelines</a> apply to all rental marketing content. YouTube videos are indexed by Google, meaning your property video can actually appear in Google search results — a major bonus for <a href="/blog/rental-listing-seo">rental listing SEO</a>.</p>
+<h3 id="social-media">Social Media</h3>
+<p>Share clips or the full video on:</p>
+<ul>
+<li>Instagram Reels (15-60 second highlights work best)</li>
+<li>Facebook (full video or a 60-second teaser with a link to the full version)</li>
+<li>TikTok (if your target market skews younger)</li>
+<li>LinkedIn (for corporate or executive rentals)</li>
+</ul>
+<p>See our guide on <a href="/blog/social-media-marketing-rental-property">social media marketing for rental properties</a> for platform-specific content strategies.</p>
+<h3 id="your-property-management-website">Your Property Management Website</h3>
+<p>Embed the video directly on your property listing page. Videos on landing pages increase the time visitors spend on the page, which signals quality to Google and improves your SEO performance.</p>
+<hr>
+<h2 id="video-walkthrough-vs-3d-virtual-tour">Video Walkthrough vs. 3D Virtual Tour</h2>
+<p>Video walkthroughs and 3D virtual tours serve similar purposes but have distinct differences. Understanding when to use each helps you allocate your marketing budget effectively.</p>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Video Walkthrough</th>
+<th>3D Virtual Tour</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Production cost</td>
+<td>Low ($0 with smartphone)</td>
+<td>Moderate ($100-400 with Matterport)</td>
+</tr>
+<tr>
+<td>Viewer experience</td>
+<td>Passive (watches a fixed path)</td>
+<td>Interactive (explores freely)</td>
+</tr>
+<tr>
+<td>Time investment</td>
+<td>30-90 min filming + editing</td>
+<td>1-2 hrs scanning</td>
+</tr>
+<tr>
+<td>Platform compatibility</td>
+<td>Universal</td>
+<td>Requires platform support</td>
+</tr>
+<tr>
+<td>Best for</td>
+<td>All property types</td>
+<td>Larger, more complex units</td>
+</tr>
+</tbody>
+</table>
+<p>For properties that warrant the investment, combining a video walkthrough with a 3D virtual tour creates the most complete remote viewing experience. See our dedicated guide on <a href="/blog/3d-virtual-tour-rental">3D virtual tours for rental properties</a> for a full comparison of tools and pricing.</p>
+<hr>
+<h2 id="quick-checklist-before-you-film">Quick Checklist: Before You Film</h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled> Property is clean, staged, and clutter-free</li>
+<li class="task-list-item"><input type="checkbox" disabled> All light bulbs working, warm-white preferred</li>
+<li class="task-list-item"><input type="checkbox" disabled> Blinds and curtains open for natural light</li>
+<li class="task-list-item"><input type="checkbox" disabled> Camera charged and storage cleared</li>
+<li class="task-list-item"><input type="checkbox" disabled> Gimbal charged and calibrated</li>
+<li class="task-list-item"><input type="checkbox" disabled> Route planned and practiced once</li>
+<li class="task-list-item"><input type="checkbox" disabled> Thermostat set (no HVAC noise during narration)</li>
+<li class="task-list-item"><input type="checkbox" disabled> Pets and people removed from the unit</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Video walkthroughs are no longer a luxury reserved for high-end or luxury rental listings. They've become a standard expectation in competitive rental markets, and landlords who adopt them early gain a significant advantage in attracting serious, qualified tenants.</p>
+<p>The investment is modest — often just a few hours of your time and a smartphone. The return is fewer vacancy days, better-qualified applicants, and a reusable marketing asset that works for every future turn.</p>
+<p>Pair your video walkthrough strategy with professional photography, compelling written descriptions, and a strong multi-platform distribution plan as part of your complete <a href="/blog/rental-property-marketing-strategies">rental property marketing strategies</a> approach.</p>
+26:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2c"}}]
+27:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","video marketing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"video marketing"}],["$","span","rental listings",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental listings"}],["$","span","virtual tours",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"virtual tours"}],["$","span","tenant attraction",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant attraction"}],["$","span","listing optimization",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"listing optimization"}]]}]
+28:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Marketing"]}],["$","$L10",null,{"href":"/blog/category/marketing","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-marketing-and-advertising-strategies",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-marketing-and-advertising-strategies","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Marketing and Advertising Strategies"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","april-marketing-and-leasing-strategies",{"children":["$","$L10",null,{"href":"/blog/april-marketing-and-leasing-strategies","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"April Marketing and Leasing Strategies"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}],["$","li","april-vacancy-reduction-strategies",{"children":["$","$L10",null,{"href":"/blog/april-vacancy-reduction-strategies","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"April Vacancy Reduction Strategies"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}],["$","li","august-marketing-and-leasing-strategies",{"children":["$","$L10",null,{"href":"/blog/august-marketing-and-leasing-strategies","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"August Marketing and Leasing Strategies"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}]]}]]}]
+29:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","rental-listing-headline-examples",{"href":"/blog/rental-listing-headline-examples","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Rental Listing Headlines That Attract Quality Tenants"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","3d-virtual-tour-rental",{"href":"/blog/3d-virtual-tour-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"3D Virtual Tour Tools for Rental Property Marketing"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","zillow-rental-listing-tips",{"href":"/blog/zillow-rental-listing-tips","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Zillow Rental Listing Tips for More Inquiries"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+2a:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-video-walkthroughs-work",{"className":"","children":["$","a",null,{"href":"#why-video-walkthroughs-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Video Walkthroughs Work"}]}],["$","li","equipment-you-need",{"className":"","children":["$","a",null,{"href":"#equipment-you-need","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Equipment You Need"}]}],["$","li","minimum-equipment-setup",{"className":"ml-4","children":["$","a",null,{"href":"#minimum-equipment-setup","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Minimum Equipment Setup"}]}],["$","li","upgraded-equipment-for-multiple-properties",{"className":"ml-4","children":["$","a",null,{"href":"#upgraded-equipment-for-multiple-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Upgraded Equipment (for multiple properties)"}]}],["$","li","planning-your-video-walkthrough",{"className":"","children":["$","a",null,{"href":"#planning-your-video-walkthrough","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Planning Your Video Walkthrough"}]}],["$","li","step-1-clean-and-stage-the-property",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-clean-and-stage-the-property","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Clean and Stage the Property"}]}],["$","li","step-2-plan-your-route",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-plan-your-route","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Plan Your Route"}]}],["$","li","step-3-decide-on-narration-vs-music",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-decide-on-narration-vs-music","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Decide on Narration vs. Music"}]}],["$","li","filming-techniques-for-professional-results",{"className":"","children":["$","a",null,{"href":"#filming-techniques-for-professional-results","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Filming Techniques for Professional Results"}]}],["$","li","shoot-in-landscape-mode",{"className":"ml-4","children":["$","a",null,{"href":"#shoot-in-landscape-mode","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Shoot in Landscape Mode"}]}],["$","li","use-slow-deliberate-movements",{"className":"ml-4","children":["$","a",null,{"href":"#use-slow-deliberate-movements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Slow, Deliberate Movements"}]}],["$","li","start-wide-move-closer",{"className":"ml-4","children":["$","a",null,{"href":"#start-wide-move-closer","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Start Wide, Move Closer"}]}],["$","li","use-static-shots-for-key-features",{"className":"ml-4","children":["$","a",null,{"href":"#use-static-shots-for-key-features","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Static Shots for Key Features"}]}],["$","li","film-at-the-right-time-of-day",{"className":"ml-4","children":["$","a",null,{"href":"#film-at-the-right-time-of-day","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Film at the Right Time of Day"}]}],["$","li","editing-your-rental-video-walkthrough",{"className":"","children":["$","a",null,{"href":"#editing-your-rental-video-walkthrough","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Editing Your Rental Video Walkthrough"}]}],"$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36"]}]]}]}]
+2b:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2d:["$","li","recommended-editing-tools",{"className":"ml-4","children":["$","a",null,{"href":"#recommended-editing-tools","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Recommended Editing Tools"}]}]
+2e:["$","li","editing-best-practices",{"className":"ml-4","children":["$","a",null,{"href":"#editing-best-practices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Editing Best Practices"}]}]
+2f:["$","li","where-to-publish-and-share-your-video",{"className":"","children":["$","a",null,{"href":"#where-to-publish-and-share-your-video","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Publish and Share Your Video"}]}]
+30:["$","li","rental-listing-platforms",{"className":"ml-4","children":["$","a",null,{"href":"#rental-listing-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Rental Listing Platforms"}]}]
+31:["$","li","video-hosting-platforms",{"className":"ml-4","children":["$","a",null,{"href":"#video-hosting-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Video Hosting Platforms"}]}]
+32:["$","li","social-media",{"className":"ml-4","children":["$","a",null,{"href":"#social-media","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Social Media"}]}]
+33:["$","li","your-property-management-website",{"className":"ml-4","children":["$","a",null,{"href":"#your-property-management-website","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Your Property Management Website"}]}]
+34:["$","li","video-walkthrough-vs-3d-virtual-tour",{"className":"","children":["$","a",null,{"href":"#video-walkthrough-vs-3d-virtual-tour","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Video Walkthrough vs. 3D Virtual Tour"}]}]
+35:["$","li","quick-checklist-before-you-film",{"className":"","children":["$","a",null,{"href":"#quick-checklist-before-you-film","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quick Checklist: Before You Film"}]}]
+36:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Creating Video Walkthroughs for Rental Properties | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn how to create compelling video walkthroughs for rental properties that attract serious tenants, reduce unnecessary showings, and cut vacancy time."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"video marketing,rental listings,virtual tours,tenant attraction,listing optimization"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/video-walkthrough-rental"}],["$","meta","6",{"property":"og:title","content":"Creating Video Walkthroughs for Rental Properties"}],["$","meta","7",{"property":"og:description","content":"Learn how to create compelling video walkthroughs for rental properties that attract serious tenants, reduce unnecessary showings, and cut vacancy time."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/video-walkthrough-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Creating Video Walkthroughs for Rental Properties"}],["$","meta","15",{"name":"twitter:description","content":"Learn how to create compelling video walkthroughs for rental properties that attract serious tenants, reduce unnecessary showings, and cut vacancy time."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

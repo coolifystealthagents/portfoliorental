@@ -1,0 +1,275 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","property-management-cost-per-door"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","property-management-cost-per-door","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","property-management-cost-per-door","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Property Management Cost Per Door: What You Should Pay Per Unit\",\"description\":\"Analyze property management cost per door across portfolio sizes, regions, and property types. Find the right per-unit cost for your rentals.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/property-management-cost-per-door\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Management\",\"item\":\"https://portfoliorental.com/blog/category/property-management\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Property Management Cost Per Door: What You Should Pay Per Unit\",\"item\":\"https://portfoliorental.com/blog/property-management-cost-per-door\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-management","className":"hover:text-blue-600","children":"Property Management"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Management"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Property Management Cost Per Door: What You Should Pay Per Unit"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[10," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-cost-per-door",{"className":"","children":["$","a",null,{"href":"#what-is-cost-per-door","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Cost Per Door?"}]}],["$","li","average-property-management-cost-per-door",{"className":"","children":["$","a",null,{"href":"#average-property-management-cost-per-door","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Average Property Management Cost Per Door"}]}],["$","li","by-portfolio-size",{"className":"ml-4","children":["$","a",null,{"href":"#by-portfolio-size","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"By Portfolio Size"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}]]}],"$L2a","$L2b"]}],"$L2c","$L2d"]}],"$L2e"]}]]}],"$L2f"]
+11:["$","li","by-property-type",{"className":"ml-4","children":["$","a",null,{"href":"#by-property-type","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"By Property Type"}]}]
+12:["$","li","by-region",{"className":"ml-4","children":["$","a",null,{"href":"#by-region","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"By Region"}]}]
+13:["$","li","factors-that-affect-your-cost-per-door",{"className":"","children":["$","a",null,{"href":"#factors-that-affect-your-cost-per-door","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Factors That Affect Your Cost Per Door"}]}]
+14:["$","li","1-property-age-and-condition",{"className":"ml-4","children":["$","a",null,{"href":"#1-property-age-and-condition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Property Age and Condition"}]}]
+15:["$","li","2-tenant-quality",{"className":"ml-4","children":["$","a",null,{"href":"#2-tenant-quality","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Tenant Quality"}]}]
+16:["$","li","3-turnover-rate",{"className":"ml-4","children":["$","a",null,{"href":"#3-turnover-rate","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Turnover Rate"}]}]
+17:["$","li","4-geographic-concentration",{"className":"ml-4","children":["$","a",null,{"href":"#4-geographic-concentration","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Geographic Concentration"}]}]
+18:["$","li","5-level-of-service",{"className":"ml-4","children":["$","a",null,{"href":"#5-level-of-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Level of Service"}]}]
+19:["$","li","6-local-market-competition",{"className":"ml-4","children":["$","a",null,{"href":"#6-local-market-competition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Local Market Competition"}]}]
+1a:["$","li","how-to-calculate-your-true-cost-per-door",{"className":"","children":["$","a",null,{"href":"#how-to-calculate-your-true-cost-per-door","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Calculate Your True Cost Per Door"}]}]
+1b:["$","li","step-1-list-all-annual-fees",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-list-all-annual-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: List All Annual Fees"}]}]
+1c:["$","li","step-2-divide-by-units",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-divide-by-units","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Divide by Units"}]}]
+1d:["$","li","step-3-compare",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-compare","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Compare"}]}]
+1e:["$","li","example-calculation",{"className":"ml-4","children":["$","a",null,{"href":"#example-calculation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Example Calculation"}]}]
+1f:["$","li","strategies-to-reduce-your-cost-per-door",{"className":"","children":["$","a",null,{"href":"#strategies-to-reduce-your-cost-per-door","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Strategies to Reduce Your Cost Per Door"}]}]
+20:["$","li","1-consolidate-your-portfolio",{"className":"ml-4","children":["$","a",null,{"href":"#1-consolidate-your-portfolio","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Consolidate Your Portfolio"}]}]
+21:["$","li","2-negotiate-volume-discounts",{"className":"ml-4","children":["$","a",null,{"href":"#2-negotiate-volume-discounts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Negotiate Volume Discounts"}]}]
+22:["$","li","3-reduce-turnover",{"className":"ml-4","children":["$","a",null,{"href":"#3-reduce-turnover","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Reduce Turnover"}]}]
+23:["$","li","4-invest-in-property-condition",{"className":"ml-4","children":["$","a",null,{"href":"#4-invest-in-property-condition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Invest in Property Condition"}]}]
+24:["$","li","5-switch-to-flat-fee-management",{"className":"ml-4","children":["$","a",null,{"href":"#5-switch-to-flat-fee-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Switch to Flat-Fee Management"}]}]
+25:["$","li","6-self-manage-where-it-makes-sense",{"className":"ml-4","children":["$","a",null,{"href":"#6-self-manage-where-it-makes-sense","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Self-Manage Where It Makes Sense"}]}]
+26:["$","li","7-audit-your-current-costs",{"className":"ml-4","children":["$","a",null,{"href":"#7-audit-your-current-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Audit Your Current Costs"}]}]
+27:["$","li","when-a-higher-cost-per-door-is-justified",{"className":"","children":["$","a",null,{"href":"#when-a-higher-cost-per-door-is-justified","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When a Higher Cost Per Door Is Justified"}]}]
+28:["$","li","tracking-cost-per-door-over-time",{"className":"","children":["$","a",null,{"href":"#tracking-cost-per-door-over-time","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tracking Cost Per Door Over Time"}]}]
+29:["$","li","the-bottom-line",{"className":"","children":["$","a",null,{"href":"#the-bottom-line","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Bottom Line"}]}]
+30:T3e3d,<p>When you manage multiple rental units, the most useful way to measure management cost is per door. Not as a percentage of rent. Not as a lump sum. Per door.</p>
+<p>Property management cost per door tells you exactly how much you spend to manage each individual unit in your portfolio. This number lets you compare companies, measure efficiency, and find the pricing sweet spot for your investment strategy.</p>
+<p>Whether you own 5 units or 500, understanding your cost per door helps you make smarter financial decisions. This guide breaks down the averages, the variables, and the strategies for getting the best value from your property management spend.</p>
+<p>For a broader view of all management fees, see our <a href="/blog/property-management-fees-breakdown">property management fees breakdown</a>. For help deciding if professional management is right for you, start with our <a href="/blog/property-management-services-complete-guide">complete guide to property management services</a>.</p>
+<h2 id="what-is-cost-per-door">What Is Cost Per Door?</h2>
+<p>Cost per door is the total annual property management expense divided by the number of units in your portfolio. It includes every fee you pay, not just the monthly management charge.</p>
+<p><strong>Formula:</strong></p>
+<p>Total Annual Management Cost / Number of Units = Cost Per Door</p>
+<p>For example, if you pay $12,000 per year to manage 5 rental units, your cost per door is $2,400 per year or $200 per month.</p>
+<p>This number is more useful than a percentage because it accounts for all fees: management, leasing, maintenance markups, inspection charges, and everything else. A company quoting 8% monthly management may actually cost more per door than a company quoting 10% once you add in all the extra fees.</p>
+<h2 id="average-property-management-cost-per-door">Average Property Management Cost Per Door</h2>
+<p>Based on industry data and market surveys, including <a href="https://www.narpm.org/" rel="noopener" target="_blank">cost standards published by NARPM</a>, here are the typical cost-per-door ranges for residential property management in the U.S.</p>
+<h3 id="by-portfolio-size">By Portfolio Size</h3>
+<table>
+<thead>
+<tr>
+<th>Portfolio Size</th>
+<th>Average Monthly Cost Per Door</th>
+<th>Average Annual Cost Per Door</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1-4 units</td>
+<td>$175 - $275</td>
+<td>$2,100 - $3,300</td>
+</tr>
+<tr>
+<td>5-19 units</td>
+<td>$140 - $220</td>
+<td>$1,680 - $2,640</td>
+</tr>
+<tr>
+<td>20-49 units</td>
+<td>$110 - $180</td>
+<td>$1,320 - $2,160</td>
+</tr>
+<tr>
+<td>50-99 units</td>
+<td>$85 - $150</td>
+<td>$1,020 - $1,800</td>
+</tr>
+<tr>
+<td>100+ units</td>
+<td>$65 - $120</td>
+<td>$780 - $1,440</td>
+</tr>
+</tbody>
+</table>
+<p>The pattern is clear: as your portfolio grows, the cost per door drops. This is the economy of scale at work. A property manager visiting 10 units in one apartment building is far more efficient than visiting 10 scattered single-family homes.</p>
+<h3 id="by-property-type">By Property Type</h3>
+<table>
+<thead>
+<tr>
+<th>Property Type</th>
+<th>Average Monthly Cost Per Door</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single-family home</td>
+<td>$175 - $250</td>
+</tr>
+<tr>
+<td>Small multifamily (2-4 units)</td>
+<td>$140 - $200</td>
+</tr>
+<tr>
+<td>Midsize multifamily (5-20 units)</td>
+<td>$100 - $160</td>
+</tr>
+<tr>
+<td>Large multifamily (20+ units)</td>
+<td>$70 - $130</td>
+</tr>
+<tr>
+<td>Condo/townhome</td>
+<td>$150 - $225</td>
+</tr>
+</tbody>
+</table>
+<p>Single-family homes cost the most per door because each property requires individual attention: separate showings, separate inspections, separate vendor dispatches. Multifamily properties benefit from consolidation.</p>
+<h3 id="by-region">By Region</h3>
+<table>
+<thead>
+<tr>
+<th>Region</th>
+<th>Average Monthly Cost Per Door</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Northeast (NYC, Boston, Philly)</td>
+<td>$175 - $300</td>
+</tr>
+<tr>
+<td>Southeast (Atlanta, Charlotte, Nashville)</td>
+<td>$120 - $200</td>
+</tr>
+<tr>
+<td>Midwest (Chicago, Indianapolis, Columbus)</td>
+<td>$100 - $175</td>
+</tr>
+<tr>
+<td>Southwest (Dallas, Phoenix, Las Vegas)</td>
+<td>$125 - $200</td>
+</tr>
+<tr>
+<td>West Coast (LA, San Francisco, Seattle)</td>
+<td>$175 - $325</td>
+</tr>
+</tbody>
+</table>
+<p>High-cost-of-living areas have higher management costs. However, rents are also higher in these markets, so the cost as a percentage of revenue may actually be lower.</p>
+<h2 id="factors-that-affect-your-cost-per-door">Factors That Affect Your Cost Per Door</h2>
+<p>The averages above are useful benchmarks, but your actual cost depends on several specific factors.</p>
+<h3 id="1-property-age-and-condition">1. Property Age and Condition</h3>
+<p>Older properties require more maintenance, which drives up the cost per door. A 1960s rental home with original plumbing and electrical will generate more repair requests than a 2020 build. If your properties need frequent attention, expect to pay more in maintenance markups and coordination fees.</p>
+<h3 id="2-tenant-quality">2. Tenant Quality</h3>
+<p>Higher-quality tenants generate fewer issues. They pay rent on time, take care of the property, and communicate reasonably. If your properties attract stable, long-term tenants, your management costs will be lower because there is less leasing, fewer disputes, and less damage.</p>
+<p>Strong tenant screening is one of the most valuable services a property manager provides. It directly affects your cost per door over time. Learn more about this in our guide on <a href="/blog/what-does-a-property-manager-do">what a property manager does</a>.</p>
+<h3 id="3-turnover-rate">3. Turnover Rate</h3>
+<p>Every tenant turnover triggers expenses: leasing fees, cleaning costs, repair costs, and vacancy loss. If your portfolio has high turnover, your cost per door will spike. A property with 50% annual turnover costs far more to manage than one with 20% turnover.</p>
+<p>The national average turnover rate for rental properties is about 54% annually. Properties with rents below $1,000 tend to turn over faster. Higher-rent units and well-maintained properties retain tenants longer.</p>
+<h3 id="4-geographic-concentration">4. Geographic Concentration</h3>
+<p>If your properties are spread across a wide area, management costs increase. The property manager spends more time and fuel traveling between properties. Concentrated portfolios, especially multifamily buildings, drive costs down.</p>
+<p>If you own 10 single-family homes in 10 different zip codes, expect to pay 20-40% more per door than an investor with 10 units in a single building.</p>
+<h3 id="5-level-of-service">5. Level of Service</h3>
+<p>Full-service management costs more per door than partial service. If you only need tenant placement and occasional maintenance coordination, your cost per door will be significantly lower than a fully managed setup. Our <a href="/blog/property-management-services-complete-guide">property management services guide</a> explains the different service levels available.</p>
+<h3 id="6-local-market-competition">6. Local Market Competition</h3>
+<p>In markets with many property management companies, competition drives prices down. In smaller markets with fewer options, companies can charge more. Before negotiating, research how many companies operate in your area and what they charge.</p>
+<h2 id="how-to-calculate-your-true-cost-per-door">How to Calculate Your True Cost Per Door</h2>
+<p>Many landlords underestimate their cost per door because they only count the monthly management fee. Here is how to calculate the real number.</p>
+<h3 id="step-1-list-all-annual-fees">Step 1: List All Annual Fees</h3>
+<p>Add up every fee you pay to your property management company over one year:</p>
+<ul>
+<li>Monthly management fees (x12)</li>
+<li>Leasing fees (number of turnovers x leasing fee)</li>
+<li>Lease renewal fees</li>
+<li>Maintenance markups</li>
+<li>Inspection fees</li>
+<li>Setup or onboarding fees</li>
+<li>Any other charges</li>
+</ul>
+<h3 id="step-2-divide-by-units">Step 2: Divide by Units</h3>
+<p>Take the total from Step 1 and divide by the number of units in your portfolio.</p>
+<h3 id="step-3-compare">Step 3: Compare</h3>
+<p>Compare your cost per door to the benchmarks in this article. If you are significantly above the average for your portfolio size and property type, it is time to negotiate or shop for a new manager. If you are below average, make sure you are not sacrificing quality for price.</p>
+<h3 id="example-calculation">Example Calculation</h3>
+<p>Let us say you own 8 single-family homes that each rent for $1,600 per month. Your property management company charges:</p>
+<ul>
+<li>10% monthly management fee: $1,600 x 10% x 12 months x 8 units = $15,360</li>
+<li>Leasing fee (75% of first month's rent, 3 turnovers per year): $1,600 x 75% x 3 = $3,600</li>
+<li>Lease renewal fee ($200 per renewal, 5 renewals): $1,000</li>
+<li>Maintenance markup (15% on $8,000 total repairs): $1,200</li>
+<li>Inspection fees ($100 x 8 units x 2 per year): $1,600</li>
+</ul>
+<p><strong>Total annual cost: $22,760</strong></p>
+<p><strong>Cost per door: $22,760 / 8 = $2,845 per year or $237 per month</strong></p>
+<p>At $237 per month per door, this falls within the expected range for single-family homes. But is there room to improve? Almost certainly.</p>
+<h2 id="strategies-to-reduce-your-cost-per-door">Strategies to Reduce Your Cost Per Door</h2>
+<p>Here are practical ways to bring down your per-unit management cost without sacrificing quality.</p>
+<h3 id="1-consolidate-your-portfolio">1. Consolidate Your Portfolio</h3>
+<p>If you are buying more properties, focus on geographic concentration. Purchase in the same neighborhoods or even the same buildings. This reduces travel time for your property manager and opens the door to volume discounts.</p>
+<h3 id="2-negotiate-volume-discounts">2. Negotiate Volume Discounts</h3>
+<p>As your portfolio grows, renegotiate your management fees. Most companies offer discounted rates at 5, 10, 20, and 50-unit thresholds. If you are close to a threshold, ask the company to apply the lower rate in exchange for your growth commitment.</p>
+<h3 id="3-reduce-turnover">3. Reduce Turnover</h3>
+<p>Tenant retention is one of the most powerful ways to reduce your cost per door. Each avoided turnover saves you a leasing fee, turnover maintenance costs, and vacancy loss. Work with your property manager to implement retention strategies:</p>
+<ul>
+<li>Respond to maintenance requests quickly</li>
+<li>Consider modest rent increases rather than large jumps</li>
+<li>Offer lease renewal incentives</li>
+<li>Maintain the property well</li>
+</ul>
+<p>For more revenue-boosting tactics, explore our <a href="/blog/maximize-rental-income-strategies">strategies to maximize rental income</a>.</p>
+<h3 id="4-invest-in-property-condition">4. Invest in Property Condition</h3>
+<p>Properties in good condition generate fewer maintenance requests and attract better tenants. Spending money upfront on capital improvements, like new HVAC systems, modern appliances, and updated flooring, reduces ongoing maintenance costs and can lower your cost per door over time.</p>
+<h3 id="5-switch-to-flat-fee-management">5. Switch to Flat-Fee Management</h3>
+<p>If your rents are above $1,500 per month, a flat-fee management company may save you money compared to a percentage-based model. At $2,000 per month rent, a 10% fee costs $200 per door. A flat fee of $125-$150 saves $50-$75 per unit per month. Over a year across 10 units, that is $6,000-$9,000 in savings.</p>
+<p>For a detailed comparison of fee structures, review our <a href="/blog/property-management-fees-breakdown">property management fees breakdown</a>.</p>
+<h3 id="6-self-manage-where-it-makes-sense">6. Self-Manage Where It Makes Sense</h3>
+<p>Some landlords take a hybrid approach. They self-manage nearby properties and hire a property manager for distant ones. This keeps costs low on local units while maintaining professional oversight where you cannot be present.</p>
+<h3 id="7-audit-your-current-costs">7. Audit Your Current Costs</h3>
+<p>Review your management company's invoices line by line at least once a year. Look for:</p>
+<ul>
+<li>Maintenance charges that seem high</li>
+<li>Fees that were not in your original agreement</li>
+<li>Services you are paying for but not receiving</li>
+<li>Opportunities to consolidate or eliminate charges</li>
+</ul>
+<p>A simple annual audit can uncover hundreds or thousands of dollars in unnecessary costs.</p>
+<h2 id="when-a-higher-cost-per-door-is-justified">When a Higher Cost Per Door Is Justified</h2>
+<p>Lower is not always better. There are situations where paying a premium per door makes good business sense.</p>
+<p><strong>High-value properties.</strong> If your units rent for $3,000+ per month, spending $250 per door for excellent management is a tiny fraction of revenue. The stakes are higher, and you want the best service available.</p>
+<p><strong>Difficult properties.</strong> Older properties, student housing, or units in challenging neighborhoods require more management attention. A company willing to handle these properties well deserves higher compensation.</p>
+<p><strong>Growth phase.</strong> If you are actively acquiring properties and need your manager to handle onboarding, renovations, and initial lease-up, the additional work justifies a higher cost per door during that period.</p>
+<p><strong>Premium services.</strong> Some managers offer extras like detailed market analysis, acquisition advisory, or renovation management. If these services help you grow your portfolio and increase returns, the higher cost per door pays for itself.</p>
+<h2 id="tracking-cost-per-door-over-time">Tracking Cost Per Door Over Time</h2>
+<p>Once you know your cost per door, track it quarterly. Create a simple spreadsheet that records:</p>
+<ul>
+<li>Total management fees paid</li>
+<li>Number of units managed</li>
+<li>Cost per door</li>
+<li>Vacancy rate</li>
+<li>Turnover rate</li>
+<li>Maintenance costs per unit</li>
+</ul>
+<p>Over time, you will see trends. Rising costs per door with stable performance may signal fee creep. Declining costs with stable performance may indicate efficiency gains. Use this data in annual reviews with your property manager.</p>
+<p>Understanding your cost per door also helps you evaluate new acquisitions. Before buying another property, estimate the management cost per door and factor it into your <a href="/blog/rental-property-roi-calculator">rental property ROI calculator</a> projections.</p>
+<h2 id="the-bottom-line">The Bottom Line</h2>
+<p>Property management cost per door is the single best metric for evaluating your management spend. It cuts through confusing fee structures and gives you a clear, comparable number.</p>
+<p>For most residential landlords, a cost per door between $150 and $250 per month is reasonable for single-family homes, with lower costs for multifamily units and larger portfolios. If you are paying significantly more, look for ways to negotiate, consolidate, or switch providers.</p>
+<p>The goal is not to minimize cost per door at all costs. The goal is to find the right balance between cost and quality, a principle echoed by the <a href="https://www.irem.org/" rel="noopener" target="_blank">Institute of Real Estate Management (IREM)</a> in their best practices for property management operations. A property manager who charges $200 per door and delivers excellent service, low vacancy, and strong tenant retention is worth far more than one who charges $120 and lets your properties deteriorate.</p>
+<p>Choose wisely. Use our <a href="/blog/how-to-choose-property-manager">guide on how to choose a property manager</a> to find the right fit, and review our <a href="/blog/property-management-services-complete-guide">complete guide to property management services</a> to understand exactly what you should expect.</p>
+2a:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$30"}}]
+2b:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","property management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","rental management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental management"}],["$","span","property management basics",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management basics"}],["$","span","property management cost per door",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management cost per door"}]]}]
+2c:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Management"]}],["$","$L10",null,{"href":"/blog/category/property-management","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-property-management-approaches",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-property-management-approaches","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Property Management Approaches"}],["$","span",null,{"className":"text-xs text-gray-400","children":[5," min"]}]]}]}],["$","li","addendum-property-management-agreement",{"children":["$","$L10",null,{"href":"/blog/addendum-property-management-agreement","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Addendum to Property Management Agreement: When and How to Use One"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-fees",{"children":["$","$L10",null,{"href":"/blog/akron-fees","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Property Management Fees in Akron: What to Expect"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-guide",{"children":["$","$L10",null,{"href":"/blog/akron-guide","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Complete Guide to Property Management in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+2d:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","full-service-property-management",{"href":"/blog/full-service-property-management","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Full Service Property Management: What It Includes and Who Needs It"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","hiring-property-manager-checklist",{"href":"/blog/hiring-property-manager-checklist","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Hiring a Property Manager Checklist: 15 Steps to Find the Right Fit"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","how-to-choose-property-manager",{"href":"/blog/how-to-choose-property-manager","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Choose a Property Manager: A Step-by-Step Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}]]}]]}]
+2e:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-cost-per-door",{"className":"","children":["$","a",null,{"href":"#what-is-cost-per-door","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Cost Per Door?"}]}],["$","li","average-property-management-cost-per-door",{"className":"","children":["$","a",null,{"href":"#average-property-management-cost-per-door","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Average Property Management Cost Per Door"}]}],["$","li","by-portfolio-size",{"className":"ml-4","children":["$","a",null,{"href":"#by-portfolio-size","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"By Portfolio Size"}]}],["$","li","by-property-type",{"className":"ml-4","children":["$","a",null,{"href":"#by-property-type","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"By Property Type"}]}],["$","li","by-region",{"className":"ml-4","children":["$","a",null,{"href":"#by-region","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"By Region"}]}],["$","li","factors-that-affect-your-cost-per-door",{"className":"","children":["$","a",null,{"href":"#factors-that-affect-your-cost-per-door","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Factors That Affect Your Cost Per Door"}]}],["$","li","1-property-age-and-condition",{"className":"ml-4","children":["$","a",null,{"href":"#1-property-age-and-condition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Property Age and Condition"}]}],["$","li","2-tenant-quality",{"className":"ml-4","children":["$","a",null,{"href":"#2-tenant-quality","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Tenant Quality"}]}],["$","li","3-turnover-rate",{"className":"ml-4","children":["$","a",null,{"href":"#3-turnover-rate","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Turnover Rate"}]}],["$","li","4-geographic-concentration",{"className":"ml-4","children":["$","a",null,{"href":"#4-geographic-concentration","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Geographic Concentration"}]}],["$","li","5-level-of-service",{"className":"ml-4","children":["$","a",null,{"href":"#5-level-of-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Level of Service"}]}],["$","li","6-local-market-competition",{"className":"ml-4","children":["$","a",null,{"href":"#6-local-market-competition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Local Market Competition"}]}],["$","li","how-to-calculate-your-true-cost-per-door",{"className":"","children":["$","a",null,{"href":"#how-to-calculate-your-true-cost-per-door","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Calculate Your True Cost Per Door"}]}],["$","li","step-1-list-all-annual-fees",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-list-all-annual-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: List All Annual Fees"}]}],["$","li","step-2-divide-by-units",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-divide-by-units","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Divide by Units"}]}],["$","li","step-3-compare",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-compare","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Compare"}]}],"$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c"]}]]}]}]
+2f:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+31:["$","li","example-calculation",{"className":"ml-4","children":["$","a",null,{"href":"#example-calculation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Example Calculation"}]}]
+32:["$","li","strategies-to-reduce-your-cost-per-door",{"className":"","children":["$","a",null,{"href":"#strategies-to-reduce-your-cost-per-door","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Strategies to Reduce Your Cost Per Door"}]}]
+33:["$","li","1-consolidate-your-portfolio",{"className":"ml-4","children":["$","a",null,{"href":"#1-consolidate-your-portfolio","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Consolidate Your Portfolio"}]}]
+34:["$","li","2-negotiate-volume-discounts",{"className":"ml-4","children":["$","a",null,{"href":"#2-negotiate-volume-discounts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Negotiate Volume Discounts"}]}]
+35:["$","li","3-reduce-turnover",{"className":"ml-4","children":["$","a",null,{"href":"#3-reduce-turnover","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Reduce Turnover"}]}]
+36:["$","li","4-invest-in-property-condition",{"className":"ml-4","children":["$","a",null,{"href":"#4-invest-in-property-condition","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Invest in Property Condition"}]}]
+37:["$","li","5-switch-to-flat-fee-management",{"className":"ml-4","children":["$","a",null,{"href":"#5-switch-to-flat-fee-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Switch to Flat-Fee Management"}]}]
+38:["$","li","6-self-manage-where-it-makes-sense",{"className":"ml-4","children":["$","a",null,{"href":"#6-self-manage-where-it-makes-sense","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Self-Manage Where It Makes Sense"}]}]
+39:["$","li","7-audit-your-current-costs",{"className":"ml-4","children":["$","a",null,{"href":"#7-audit-your-current-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Audit Your Current Costs"}]}]
+3a:["$","li","when-a-higher-cost-per-door-is-justified",{"className":"","children":["$","a",null,{"href":"#when-a-higher-cost-per-door-is-justified","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When a Higher Cost Per Door Is Justified"}]}]
+3b:["$","li","tracking-cost-per-door-over-time",{"className":"","children":["$","a",null,{"href":"#tracking-cost-per-door-over-time","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tracking Cost Per Door Over Time"}]}]
+3c:["$","li","the-bottom-line",{"className":"","children":["$","a",null,{"href":"#the-bottom-line","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Bottom Line"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Property Management Cost Per Door: What You Should Pay Per Unit | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Analyze property management cost per door across portfolio sizes, regions, and property types. Find the right per-unit cost for your rentals."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"property management,landlord tips,rental management,property management basics,property management cost per door"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/property-management-cost-per-door"}],["$","meta","6",{"property":"og:title","content":"Property Management Cost Per Door: What You Should Pay Per Unit"}],["$","meta","7",{"property":"og:description","content":"Analyze property management cost per door across portfolio sizes, regions, and property types. Find the right per-unit cost for your rentals."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/property-management-cost-per-door"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Property Management Cost Per Door: What You Should Pay Per Unit"}],["$","meta","15",{"name":"twitter:description","content":"Analyze property management cost per door across portfolio sizes, regions, and property types. Find the right per-unit cost for your rentals."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

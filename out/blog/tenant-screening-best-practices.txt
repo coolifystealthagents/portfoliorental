@@ -1,0 +1,214 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","tenant-screening-best-practices"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","tenant-screening-best-practices","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","tenant-screening-best-practices","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Tenant Screening Best Practices: How to Find Great Renters Every Time\",\"description\":\"Learn the top tenant screening best practices to find reliable renters. This step-by-step guide covers credit checks, background checks, income verification, and fair housing compliance.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/tenant-screening-best-practices\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tenant Management\",\"item\":\"https://portfoliorental.com/blog/category/tenant-management\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Tenant Screening Best Practices: How to Find Great Renters Every Time\",\"item\":\"https://portfoliorental.com/blog/tenant-screening-best-practices\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/tenant-management","className":"hover:text-blue-600","children":"Tenant Management"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Tenant Management"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Tenant Screening Best Practices: How to Find Great Renters Every Time"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[9," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-tenant-screening-matters-for-landlords",{"className":"","children":["$","a",null,{"href":"#why-tenant-screening-matters-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Tenant Screening Matters for Landlords"}]}],["$","li","step-1-set-clear-screening-criteria-before-you-start",{"className":"","children":["$","a",null,{"href":"#step-1-set-clear-screening-criteria-before-you-start","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Set Clear Screening Criteria Before You Start"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b"]}]}]]}],"$L1c","$L1d"]}],"$L1e","$L1f"]}],"$L20"]}]]}],"$L21"]
+11:["$","li","step-2-run-a-thorough-credit-check",{"className":"","children":["$","a",null,{"href":"#step-2-run-a-thorough-credit-check","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Run a Thorough Credit Check"}]}]
+12:["$","li","step-3-conduct-a-background-check",{"className":"","children":["$","a",null,{"href":"#step-3-conduct-a-background-check","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Conduct a Background Check"}]}]
+13:["$","li","step-4-verify-income-and-employment",{"className":"","children":["$","a",null,{"href":"#step-4-verify-income-and-employment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Verify Income and Employment"}]}]
+14:["$","li","step-5-check-rental-history-and-references",{"className":"","children":["$","a",null,{"href":"#step-5-check-rental-history-and-references","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Check Rental History and References"}]}]
+15:["$","li","step-6-use-a-tenant-screening-service",{"className":"","children":["$","a",null,{"href":"#step-6-use-a-tenant-screening-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 6: Use a Tenant Screening Service"}]}]
+16:["$","li","step-7-follow-fair-housing-laws-at-every-step",{"className":"","children":["$","a",null,{"href":"#step-7-follow-fair-housing-laws-at-every-step","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 7: Follow Fair Housing Laws at Every Step"}]}]
+17:["$","li","common-red-flags-during-tenant-screening",{"className":"","children":["$","a",null,{"href":"#common-red-flags-during-tenant-screening","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Red Flags During Tenant Screening"}]}]
+18:["$","li","how-to-handle-denials-the-right-way",{"className":"","children":["$","a",null,{"href":"#how-to-handle-denials-the-right-way","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Handle Denials the Right Way"}]}]
+19:["$","li","building-a-consistent-screening-process",{"className":"","children":["$","a",null,{"href":"#building-a-consistent-screening-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Consistent Screening Process"}]}]
+1a:["$","li","when-to-hire-a-professional-for-tenant-screening",{"className":"","children":["$","a",null,{"href":"#when-to-hire-a-professional-for-tenant-screening","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When to Hire a Professional for Tenant Screening"}]}]
+1b:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+22:T3987,<p>Finding a good tenant can make or break your rental investment. A bad tenant can cost you thousands of dollars in unpaid rent, property damage, and legal fees. A great tenant pays on time, takes care of your property, and stays for years.</p>
+<p>That is why tenant screening matters so much. A solid screening process helps you pick renters who will treat your property with respect. It also protects you from costly mistakes.</p>
+<p>In this guide, you will learn the best practices for tenant screening. We will cover every step, from credit checks to fair housing rules. By the end, you will have a clear system you can use for every applicant.</p>
+<h2 id="why-tenant-screening-matters-for-landlords">Why Tenant Screening Matters for Landlords</h2>
+<p>Skipping the screening process is one of the biggest mistakes a landlord can make. It might save you a few days upfront, but it can lead to months of headaches later.</p>
+<p>Here is what proper screening helps you avoid:</p>
+<ul>
+<li><strong>Unpaid rent.</strong> Late or missed payments hurt your cash flow. Screening helps you find tenants who can afford the rent.</li>
+<li><strong>Property damage.</strong> Some tenants do not take care of the space they live in. Checking rental history reveals patterns.</li>
+<li><strong>Evictions.</strong> The eviction process is long, stressful, and expensive. Good screening reduces the chance you will ever need one.</li>
+<li><strong>Legal trouble.</strong> Fair and consistent screening keeps you on the right side of the law.</li>
+</ul>
+<p>A <a href="/blog/property-management-services-complete-guide">full-service property manager</a> will handle screening for you. But even if you self-manage, you can follow these steps to screen tenants like a pro.</p>
+<h2 id="step-1-set-clear-screening-criteria-before-you-start">Step 1: Set Clear Screening Criteria Before You Start</h2>
+<p>Before you review a single application, write down your screening criteria. This is one of the most important tenant screening best practices.</p>
+<p>Your criteria should include minimum standards for:</p>
+<ul>
+<li>Credit score (many landlords set a floor of 620 or 650)</li>
+<li>Monthly income (at least 3 times the monthly rent)</li>
+<li>Rental history (no prior evictions)</li>
+<li>Criminal background (relevant convictions only)</li>
+<li>Employment status (steady job or verifiable income)</li>
+</ul>
+<p>Write these standards down and apply them the same way to every applicant. This keeps you consistent and protects you from fair housing complaints.</p>
+<p><strong>Pro tip:</strong> Share your criteria in the listing or on your website. This saves time because unqualified applicants will often screen themselves out.</p>
+<h2 id="step-2-run-a-thorough-credit-check">Step 2: Run a Thorough Credit Check</h2>
+<p>A credit check is the backbone of tenant screening. It tells you how a person handles money.</p>
+<p>When you pull a credit report, look for:</p>
+<ul>
+<li><strong>Credit score.</strong> A score above 650 is a good sign. Scores below 580 may signal risk.</li>
+<li><strong>Payment history.</strong> Look for late payments, especially on rent or utilities.</li>
+<li><strong>Outstanding debt.</strong> High debt can make it hard for a tenant to pay rent on time.</li>
+<li><strong>Collections.</strong> Multiple accounts in collections is a red flag.</li>
+<li><strong>Bankruptcies.</strong> A recent bankruptcy may suggest financial trouble.</li>
+</ul>
+<p>Keep in mind that a low credit score does not always mean a bad tenant. Some people have low scores because of medical debt or student loans. Look at the full picture before you decide.</p>
+<p>You will need the applicant's written consent before pulling their credit, as required by the <a href="https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/" rel="noopener" target="_blank">Fair Credit Reporting Act (FCRA)</a>. Most tenant screening services handle this for you.</p>
+<h2 id="step-3-conduct-a-background-check">Step 3: Conduct a Background Check</h2>
+<p>A background check reveals criminal history and other public records. This step helps you protect your property and other tenants.</p>
+<p>Here is what to look for:</p>
+<ul>
+<li><strong>Criminal convictions.</strong> Focus on convictions, not arrests. Look for crimes that relate to property damage, violence, or fraud.</li>
+<li><strong>Sex offender registry.</strong> Check if the applicant appears on any registry.</li>
+<li><strong>Eviction records.</strong> Some background checks include eviction history. This is very useful.</li>
+</ul>
+<p><strong>Important:</strong> You cannot reject someone just because they have a criminal record. The <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp" rel="noopener" target="_blank">Department of Housing and Urban Development (HUD)</a> says blanket bans on criminal records can violate fair housing laws. You must consider each case on its own merits.</p>
+<p>Think about:</p>
+<ul>
+<li>How long ago the offense happened</li>
+<li>What the offense was</li>
+<li>Whether it relates to the tenancy</li>
+</ul>
+<p>Document your reasoning for every decision. This protects you if anyone questions your choice later.</p>
+<h2 id="step-4-verify-income-and-employment">Step 4: Verify Income and Employment</h2>
+<p>Even a tenant with perfect credit needs the income to cover rent. Income verification confirms they can afford your property.</p>
+<p>Ask for at least two of the following:</p>
+<ul>
+<li><strong>Recent pay stubs.</strong> Two to three months of pay stubs show current earnings.</li>
+<li><strong>Tax returns.</strong> Self-employed tenants should provide one to two years of returns.</li>
+<li><strong>Bank statements.</strong> These show consistent deposits and available funds.</li>
+<li><strong>Employment verification letter.</strong> A letter from the employer confirms job status and salary.</li>
+</ul>
+<p>The standard rule is simple: the tenant's gross monthly income should be at least three times the monthly rent. If your rent is $1,500, the tenant should earn at least $4,500 per month before taxes.</p>
+<p>For self-employed applicants, look at the average monthly income over the past year. Their income may vary month to month, but the average should meet your threshold.</p>
+<h2 id="step-5-check-rental-history-and-references">Step 5: Check Rental History and References</h2>
+<p>Past behavior is the best predictor of future behavior. That is why rental history is so valuable.</p>
+<p>Contact the applicant's previous landlords and ask these questions:</p>
+<ul>
+<li>Did the tenant pay rent on time?</li>
+<li>Did they keep the property in good condition?</li>
+<li>Were there any lease violations?</li>
+<li>Did they give proper notice before moving out?</li>
+<li>Would you rent to them again?</li>
+</ul>
+<p>Try to reach at least two previous landlords. The current landlord might give a glowing review just to get rid of a problem tenant. A previous landlord has no reason to stretch the truth.</p>
+<p><strong>Red flags to watch for:</strong></p>
+<ul>
+<li>Gaps in rental history with no explanation</li>
+<li>Frequent moves (every 6 to 12 months)</li>
+<li>Refusal to provide landlord references</li>
+<li>Stories that do not match across references</li>
+</ul>
+<p>Understanding <a href="/blog/what-does-a-property-manager-do">what a property manager does</a> can help you see why professionals take reference checks so seriously. It is a step that many DIY landlords skip, and it often leads to problems.</p>
+<h2 id="step-6-use-a-tenant-screening-service">Step 6: Use a Tenant Screening Service</h2>
+<p>You do not have to do everything by hand. Tenant screening services make the process faster and more reliable.</p>
+<p>Popular screening services include:</p>
+<ul>
+<li><strong>TransUnion SmartMove.</strong> Offers credit, criminal, and eviction reports.</li>
+<li><strong>RentPrep.</strong> Provides background checks and income insights.</li>
+<li><strong>MyRental.</strong> Covers credit, criminal, and eviction screening.</li>
+<li><strong>Buildium.</strong> Built into property management software for easy tracking.</li>
+</ul>
+<p>Most services cost between $25 and $50 per applicant. Many landlords pass this cost to the applicant as an application fee. Just make sure your local laws allow it.</p>
+<p>A good screening service will give you a complete report in minutes. It pulls data from multiple sources, so you get a fuller picture than you would on your own.</p>
+<h2 id="step-7-follow-fair-housing-laws-at-every-step">Step 7: Follow Fair Housing Laws at Every Step</h2>
+<p>Fair housing compliance is not optional. It is the law. And violations can lead to fines, lawsuits, and serious damage to your reputation.</p>
+<p>The Federal Fair Housing Act protects people from discrimination based on:</p>
+<ul>
+<li>Race</li>
+<li>Color</li>
+<li>National origin</li>
+<li>Religion</li>
+<li>Sex (including gender identity and sexual orientation)</li>
+<li>Familial status (families with children)</li>
+<li>Disability</li>
+</ul>
+<p>Many states and cities add extra protected classes, such as source of income, marital status, or age.</p>
+<p>Here is how to stay compliant:</p>
+<ul>
+<li><strong>Apply the same criteria to every applicant.</strong> Never make exceptions based on a protected class.</li>
+<li><strong>Use objective standards.</strong> Base decisions on credit scores, income, and rental history, not gut feelings.</li>
+<li><strong>Document everything.</strong> Keep records of why you approved or denied each applicant.</li>
+<li><strong>Avoid illegal questions.</strong> Do not ask about family plans, religion, disability, or country of origin.</li>
+<li><strong>Provide adverse action notices.</strong> If you deny someone based on their credit report, you must tell them why and how to get a free copy of the report.</li>
+</ul>
+<p>Fair housing laws protect both tenants and landlords. Following them builds trust and keeps your business safe.</p>
+<h2 id="common-red-flags-during-tenant-screening">Common Red Flags During Tenant Screening</h2>
+<p>Even with a structured process, you need to watch for warning signs. Here are the most common red flags:</p>
+<ul>
+<li><strong>Incomplete application.</strong> A tenant who skips questions may be hiding something.</li>
+<li><strong>Pressure to move in fast.</strong> Urgency can mean they are running from a problem.</li>
+<li><strong>Cash-only offers.</strong> Offering extra cash upfront can signal unstable income.</li>
+<li><strong>Inconsistent information.</strong> If the story changes between the application and the interview, dig deeper.</li>
+<li><strong>No rental references.</strong> Everyone has lived somewhere. No references is a concern.</li>
+<li><strong>Prior evictions.</strong> One eviction may have context. Multiple evictions are a clear pattern.</li>
+<li><strong>Negative landlord feedback.</strong> If a past landlord would not rent to them again, listen closely.</li>
+</ul>
+<p>Not every red flag means you should reject an applicant. But each one deserves a closer look. Ask follow-up questions and verify the facts.</p>
+<h2 id="how-to-handle-denials-the-right-way">How to Handle Denials the Right Way</h2>
+<p>Saying no is part of the process. But you need to do it the right way.</p>
+<p>When you deny an applicant:</p>
+<ol>
+<li><strong>Send a written denial.</strong> Do not just stop responding. Put it in writing.</li>
+<li><strong>State the reason.</strong> Be clear about why. For example, "Your income did not meet our minimum requirement of 3x monthly rent."</li>
+<li><strong>Provide an adverse action notice</strong> if the denial was based on a credit report or background check. This is required by the Fair Credit Reporting Act.</li>
+<li><strong>Keep your records.</strong> Save the application, your notes, and the denial letter for at least three years.</li>
+</ol>
+<p>A professional denial protects you legally and treats the applicant with respect. It also shows that your process is fair and consistent.</p>
+<p>If you later need to <a href="/blog/handle-difficult-tenants">handle a difficult tenant</a>, your screening records prove that you followed a solid process from the start.</p>
+<h2 id="building-a-consistent-screening-process">Building a Consistent Screening Process</h2>
+<p>The best tenant screening process is one you follow every single time. Here is a simple checklist you can use:</p>
+<ol>
+<li>Post your screening criteria in the listing</li>
+<li>Collect a completed rental application</li>
+<li>Get written consent for credit and background checks</li>
+<li>Run credit check through a screening service</li>
+<li>Run background check</li>
+<li>Verify income with pay stubs or tax returns</li>
+<li>Contact at least two previous landlords</li>
+<li>Compare the applicant against your written criteria</li>
+<li>Approve or deny with documentation</li>
+<li>Send adverse action notice if needed</li>
+</ol>
+<p>Use this checklist for every applicant, without exception. Consistency is what keeps you fair, legal, and protected.</p>
+<h2 id="when-to-hire-a-professional-for-tenant-screening">When to Hire a Professional for Tenant Screening</h2>
+<p>Screening takes time and attention to detail. If you manage multiple properties, it can become overwhelming fast.</p>
+<p>A professional property manager can handle the entire screening process for you. They have access to premium screening tools, legal expertise, and years of experience spotting red flags.</p>
+<p>Consider hiring help if:</p>
+<ul>
+<li>You own more than five rental units</li>
+<li>You are not comfortable interpreting credit reports</li>
+<li>You are unsure about fair housing rules in your area</li>
+<li>You have been burned by a bad tenant before</li>
+<li>You simply do not have the time</li>
+</ul>
+<p>Learn more about the full range of <a href="/blog/property-management-services-complete-guide">property management services</a> to see how a professional can help protect your investment.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Tenant screening is the most important step in the rental process. It sets the tone for your entire landlord-tenant relationship.</p>
+<p>Follow these best practices every time:</p>
+<ul>
+<li>Set clear, written criteria before you start</li>
+<li>Run credit and background checks on every applicant</li>
+<li>Verify income and employment</li>
+<li>Check rental history with previous landlords</li>
+<li>Use a screening service to save time and improve accuracy</li>
+<li>Follow fair housing laws without exception</li>
+<li>Document every decision</li>
+</ul>
+<p>A strong screening process leads to better tenants, fewer problems, and a more profitable rental business. Take the time to do it right, and your future self will thank you.</p>
+1c:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$22"}}]
+1d:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","tenant management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant management"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","rental operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental operations"}],["$","span","tenant relations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant relations"}],["$","span","tenant screening best practices",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant screening best practices"}]]}]
+1e:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Tenant Management"]}],["$","$L10",null,{"href":"/blog/category/tenant-management","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accept-rent-payments-international-tenants",{"children":["$","$L10",null,{"href":"/blog/accept-rent-payments-international-tenants","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Accept Rent Payments from International Tenants"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ach-rent-payments-direct-debit-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ach-rent-payments-direct-debit-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ACH Rent Payments: Setting Up Direct Debit for Your Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-tenant-screening",{"children":["$","$L10",null,{"href":"/blog/akron-tenant-screening","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Tenant Screening in Akron: Best Practices for Landlords"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","albuquerque-tenant-screening-best-practices",{"children":["$","$L10",null,{"href":"/blog/albuquerque-tenant-screening-best-practices","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Albuquerque Tenant Screening Best Practices"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+1f:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","tenant-retention-strategies",{"href":"/blog/tenant-retention-strategies","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"12 Proven Tenant Retention Strategies to Keep Great Renters Long-Term"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","handle-difficult-tenants",{"href":"/blog/handle-difficult-tenants","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Handle Difficult Tenants: A Landlord's Complete Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","late-rent-payment-policy",{"href":"/blog/late-rent-payment-policy","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Tenant Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Late Rent Payment Policy: How to Create and Enforce One That Works"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}]]}]]}]
+20:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-tenant-screening-matters-for-landlords",{"className":"","children":["$","a",null,{"href":"#why-tenant-screening-matters-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Tenant Screening Matters for Landlords"}]}],["$","li","step-1-set-clear-screening-criteria-before-you-start",{"className":"","children":["$","a",null,{"href":"#step-1-set-clear-screening-criteria-before-you-start","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Set Clear Screening Criteria Before You Start"}]}],["$","li","step-2-run-a-thorough-credit-check",{"className":"","children":["$","a",null,{"href":"#step-2-run-a-thorough-credit-check","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Run a Thorough Credit Check"}]}],["$","li","step-3-conduct-a-background-check",{"className":"","children":["$","a",null,{"href":"#step-3-conduct-a-background-check","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Conduct a Background Check"}]}],["$","li","step-4-verify-income-and-employment",{"className":"","children":["$","a",null,{"href":"#step-4-verify-income-and-employment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Verify Income and Employment"}]}],["$","li","step-5-check-rental-history-and-references",{"className":"","children":["$","a",null,{"href":"#step-5-check-rental-history-and-references","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Check Rental History and References"}]}],["$","li","step-6-use-a-tenant-screening-service",{"className":"","children":["$","a",null,{"href":"#step-6-use-a-tenant-screening-service","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 6: Use a Tenant Screening Service"}]}],["$","li","step-7-follow-fair-housing-laws-at-every-step",{"className":"","children":["$","a",null,{"href":"#step-7-follow-fair-housing-laws-at-every-step","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 7: Follow Fair Housing Laws at Every Step"}]}],["$","li","common-red-flags-during-tenant-screening",{"className":"","children":["$","a",null,{"href":"#common-red-flags-during-tenant-screening","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Red Flags During Tenant Screening"}]}],["$","li","how-to-handle-denials-the-right-way",{"className":"","children":["$","a",null,{"href":"#how-to-handle-denials-the-right-way","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Handle Denials the Right Way"}]}],["$","li","building-a-consistent-screening-process",{"className":"","children":["$","a",null,{"href":"#building-a-consistent-screening-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Consistent Screening Process"}]}],["$","li","when-to-hire-a-professional-for-tenant-screening",{"className":"","children":["$","a",null,{"href":"#when-to-hire-a-professional-for-tenant-screening","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When to Hire a Professional for Tenant Screening"}]}],["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]]}]]}]}]
+21:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Tenant Screening Best Practices: How to Find Great Renters Every Time | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn the top tenant screening best practices to find reliable renters. This step-by-step guide covers credit checks, background checks, income verification, and fair housing compliance."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"tenant management,landlord tips,rental operations,tenant relations,tenant screening best practices"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/tenant-screening-best-practices"}],["$","meta","6",{"property":"og:title","content":"Tenant Screening Best Practices: How to Find Great Renters Every Time"}],["$","meta","7",{"property":"og:description","content":"Learn the top tenant screening best practices to find reliable renters. This step-by-step guide covers credit checks, background checks, income verification, and fair housing compliance."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/tenant-screening-best-practices"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Tenant Screening Best Practices: How to Find Great Renters Every Time"}],["$","meta","15",{"name":"twitter:description","content":"Learn the top tenant screening best practices to find reliable renters. This step-by-step guide covers credit checks, background checks, income verification, and fair housing compliance."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

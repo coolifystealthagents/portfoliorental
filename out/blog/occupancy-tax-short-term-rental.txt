@@ -1,0 +1,240 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","occupancy-tax-short-term-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","occupancy-tax-short-term-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","occupancy-tax-short-term-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Occupancy Tax Obligations for STR Hosts\",\"description\":\"Understand occupancy tax for short-term rentals — what it is, how to collect and remit it, which platforms auto-collect, and how to avoid costly penalties.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/occupancy-tax-short-term-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Occupancy Tax Obligations for STR Hosts\",\"item\":\"https://portfoliorental.com/blog/occupancy-tax-short-term-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Occupancy Tax Obligations for STR Hosts"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[10," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-occupancy-tax",{"className":"","children":["$","a",null,{"href":"#what-is-occupancy-tax","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Occupancy Tax?"}]}],["$","li","what-it-s-called-in-your-market",{"className":"ml-4","children":["$","a",null,{"href":"#what-it-s-called-in-your-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What It's Called in Your Market"}]}],["$","li","the-three-layer-occupancy-tax-structure",{"className":"","children":["$","a",null,{"href":"#the-three-layer-occupancy-tax-structure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Three-Layer Occupancy Tax Structure"}]}],["$","li","when-platforms-collect-occupancy-tax-automatically",{"className":"","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}]}]]}],"$L1f","$L20"]}],"$L21","$L22"]}],"$L23"]}]]}],"$L24"]
+11:["$","a",null,{"href":"#when-platforms-collect-occupancy-tax-automatically","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When Platforms Collect Occupancy Tax Automatically"}]
+12:["$","li","how-platform-collection-works",{"className":"ml-4","children":["$","a",null,{"href":"#how-platform-collection-works","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Platform Collection Works"}]}]
+13:["$","li","limitations-of-platform-collection",{"className":"ml-4","children":["$","a",null,{"href":"#limitations-of-platform-collection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Limitations of Platform Collection"}]}]
+14:["$","li","how-to-check-platform-collection-status",{"className":"ml-4","children":["$","a",null,{"href":"#how-to-check-platform-collection-status","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Check Platform Collection Status"}]}]
+15:["$","li","when-you-must-collect-and-remit-yourself",{"className":"","children":["$","a",null,{"href":"#when-you-must-collect-and-remit-yourself","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When You Must Collect and Remit Yourself"}]}]
+16:["$","li","step-by-step-self-collection-and-remittance",{"className":"ml-4","children":["$","a",null,{"href":"#step-by-step-self-collection-and-remittance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step-by-Step: Self-Collection and Remittance"}]}]
+17:["$","li","occupancy-tax-rates-by-major-market",{"className":"","children":["$","a",null,{"href":"#occupancy-tax-rates-by-major-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Occupancy Tax Rates by Major Market"}]}]
+18:["$","li","what-is-taxable-base-amount-considerations",{"className":"","children":["$","a",null,{"href":"#what-is-taxable-base-amount-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Taxable? Base Amount Considerations"}]}]
+19:["$","li","minimum-stay-exemptions",{"className":"","children":["$","a",null,{"href":"#minimum-stay-exemptions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Minimum Stay Exemptions"}]}]
+1a:["$","li","common-occupancy-tax-mistakes-str-hosts-make",{"className":"","children":["$","a",null,{"href":"#common-occupancy-tax-mistakes-str-hosts-make","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Occupancy Tax Mistakes STR Hosts Make"}]}]
+1b:["$","li","occupancy-tax-and-your-business-structure",{"className":"","children":["$","a",null,{"href":"#occupancy-tax-and-your-business-structure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Occupancy Tax and Your Business Structure"}]}]
+1c:["$","li","airbnb-s-role-in-occupancy-tax-compliance",{"className":"","children":["$","a",null,{"href":"#airbnb-s-role-in-occupancy-tax-compliance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb's Role in Occupancy Tax Compliance"}]}]
+1d:["$","li","penalties-for-non-compliance",{"className":"","children":["$","a",null,{"href":"#penalties-for-non-compliance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Penalties for Non-Compliance"}]}]
+1e:["$","li","summary-and-key-takeaways",{"className":"","children":["$","a",null,{"href":"#summary-and-key-takeaways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary and Key Takeaways"}]}]
+25:T402b,<p>If you operate a short-term rental, you are running what regulators consider a lodging business. And like hotels, motels, and bed-and-breakfasts, you are generally required to collect and remit occupancy taxes — also called lodging tax, transient occupancy tax (TOT), hotel tax, or bed tax depending on the jurisdiction.</p>
+<p>Occupancy tax compliance is one of the most misunderstood areas of STR operations. Many hosts assume their platform handles everything. Others don't know the tax exists. And some know about it but underestimate their obligations. All three assumptions can lead to audits, back tax assessments, and significant penalties.</p>
+<p>This guide explains what occupancy tax is, how it works, when platforms collect it automatically, and what you need to do yourself to stay compliant.</p>
+<p>For the complete tax picture for STR hosts, see our <a href="/blog/short-term-rental-tax-guide">short-term rental tax guide</a> and our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="what-is-occupancy-tax">What Is Occupancy Tax?</h2>
+<p>Occupancy tax is a government-imposed tax on the rental of lodging — hotel rooms, vacation rentals, Airbnbs, and similar short-term accommodations. It is typically:</p>
+<ul>
+<li><strong>Collected from the guest</strong> as a percentage of the nightly rate (and sometimes of cleaning fees, depending on the jurisdiction)</li>
+<li><strong>Remitted by the host or platform</strong> to the appropriate government authority</li>
+<li><strong>Distinct from income tax</strong> — occupancy tax is collected on behalf of the government, similar to sales tax</li>
+</ul>
+<p>The revenue from occupancy taxes funds a variety of local and state programs, including tourism promotion, parks, convention centers, and general municipal funds.</p>
+<h3 id="what-it-s-called-in-your-market">What It's Called in Your Market</h3>
+<p>The name varies by jurisdiction:</p>
+<ul>
+<li><strong>Transient Occupancy Tax (TOT):</strong> Common in California and many Western states</li>
+<li><strong>Hotel and Motel Tax:</strong> Used in many Midwestern states</li>
+<li><strong>Lodging Tax:</strong> Common in states like Colorado and Minnesota</li>
+<li><strong>Bed Tax:</strong> Informal term used in many markets</li>
+<li><strong>Accommodation Tax:</strong> Used in some international markets</li>
+</ul>
+<p>The name doesn't change your obligation — if your jurisdiction imposes a tax on short-term lodging, you're required to collect and remit it.</p>
+<hr>
+<h2 id="the-three-layer-occupancy-tax-structure">The Three-Layer Occupancy Tax Structure</h2>
+<p>Many STR hosts are surprised to learn that occupancy taxes can come from multiple government levels simultaneously — all applying to the same booking:</p>
+<p><strong>1. State-level tax</strong>
+Most states with an income-producing tourism economy impose a statewide lodging or sales tax on short-term rentals. Examples:</p>
+<ul>
+<li>Florida: 6% state sales tax on rentals under 6 months</li>
+<li>Texas: 6% state <a href="https://comptroller.texas.gov/taxes/hotel/">hotel occupancy tax</a> per the comptroller</li>
+<li>Tennessee: 7% state sales tax applies to short-term rentals</li>
+</ul>
+<p><strong>2. County-level tax</strong>
+Many counties impose their own lodging taxes in addition to the state rate. These are particularly common in tourist-heavy counties. Florida counties, for example, impose county tourist development taxes (TDT) ranging from 2% to 6% on top of the state rate.</p>
+<p><strong>3. City/municipal tax</strong>
+Cities often add their own lodging tax layer. Nashville imposes a 6% hotel occupancy tax; Austin imposes 9%; Denver imposes 10.75% combined with state and county rates.</p>
+<p>The combined effective rate for STR guests can range from under 5% to over 20% depending on the location. In Miami, for example, the combined state, county, and city occupancy tax can exceed 13%.</p>
+<hr>
+<h2 id="when-platforms-collect-occupancy-tax-automatically">When Platforms Collect Occupancy Tax Automatically</h2>
+<p>The growth of short-term rental platforms has simplified occupancy tax compliance significantly in many markets. Both Airbnb and Vrbo have entered into voluntary collection agreements with many states and localities, agreeing to collect and remit occupancy taxes on behalf of hosts.</p>
+<h3 id="how-platform-collection-works">How Platform Collection Works</h3>
+<p>When a platform collects occupancy tax:</p>
+<ol>
+<li>The tax is added to the guest's bill automatically at the time of booking</li>
+<li>The platform collects the funds from the guest</li>
+<li>The platform remits the collected taxes directly to the applicable government authority</li>
+<li>The host receives their payout with no additional tax action required</li>
+</ol>
+<p>This is convenient and reduces host error, but it comes with important caveats.</p>
+<h3 id="limitations-of-platform-collection">Limitations of Platform Collection</h3>
+<p><strong>Not all jurisdictions are covered:</strong> Platforms have collection agreements with hundreds of jurisdictions, but not all. In markets where your platform does not collect, you remain responsible.</p>
+<p><strong>Different platforms, different coverage:</strong> Airbnb may collect in a jurisdiction where Vrbo does not, or vice versa. Multi-platform hosts cannot assume coverage — they must verify for each platform and each booking location.</p>
+<p><strong>Partial coverage:</strong> Some platforms collect state tax but not county or city tax, leaving the host responsible for the remaining layers.</p>
+<p><strong>Direct bookings are never covered:</strong> If you accept direct bookings (from a website, email, or social media), no platform collects tax on those transactions. You are solely responsible.</p>
+<h3 id="how-to-check-platform-collection-status">How to Check Platform Collection Status</h3>
+<p>Airbnb publishes a page in its Help Center listing jurisdictions where it collects and remits taxes on behalf of hosts. Similar information is available on Vrbo's website. Always verify current collection status directly on the platform's official resources — these agreements change.</p>
+<hr>
+<h2 id="when-you-must-collect-and-remit-yourself">When You Must Collect and Remit Yourself</h2>
+<p>You are responsible for collecting and remitting occupancy taxes yourself when:</p>
+<ul>
+<li>Your platform does not collect in your jurisdiction (or only partially collects)</li>
+<li>You accept direct bookings</li>
+<li>You list on platforms that do not have collection agreements in your area</li>
+<li>Your jurisdiction has adopted regulations that require host self-collection regardless of platform agreements</li>
+</ul>
+<h3 id="step-by-step-self-collection-and-remittance">Step-by-Step: Self-Collection and Remittance</h3>
+<p><strong>Step 1: Register with the tax authority</strong>
+Before you can remit taxes, you must register as a lodging tax collector with the applicable state, county, and city tax authorities. This involves completing a registration form (usually available online) and receiving a lodging tax account number or certificate.</p>
+<p><strong>Step 2: Set up your listings to collect the tax</strong>
+Most platforms allow you to add custom taxes to your listing. If your platform does not auto-collect your specific tax, configure the applicable tax rate and label (e.g., "City of Flagstaff Bed Tax: 3%") in your listing settings.</p>
+<p>For direct bookings, include the tax as a line item on your rental invoice.</p>
+<p><strong>Step 3: Maintain separate accounting</strong>
+Track all occupancy taxes collected separately from your rental income. These are not your funds — they are collected in trust for the government. Mixing them with your operating funds creates accounting problems and potential legal liability.</p>
+<p><strong>Step 4: File returns and remit on time</strong>
+Tax authorities set filing frequencies — monthly, quarterly, or annually — based on your volume of transactions. File your return and remit collected taxes by the due date. Penalties for late filing and payment are typically significant.</p>
+<p><strong>Step 5: Keep supporting records</strong>
+Maintain records of all bookings, nightly rates, taxes collected, and remittances for at least 4–7 years depending on your state's statute of limitations for tax audits.</p>
+<hr>
+<h2 id="occupancy-tax-rates-by-major-market">Occupancy Tax Rates by Major Market</h2>
+<p>The following are approximate combined occupancy tax rates (state + county + city) for illustration. Always verify current rates with official government sources as rates change.</p>
+<table>
+<thead>
+<tr>
+<th>Market</th>
+<th>Approximate Combined Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nashville, TN</td>
+<td>~17% (state + city + MCC tax)</td>
+</tr>
+<tr>
+<td>Austin, TX</td>
+<td>~17% (state + city)</td>
+</tr>
+<tr>
+<td>Miami, FL</td>
+<td>~13% (state + county + city)</td>
+</tr>
+<tr>
+<td>New York City, NY</td>
+<td>~14.75% (state + city)</td>
+</tr>
+<tr>
+<td>Los Angeles, CA</td>
+<td>~14% (state + city)</td>
+</tr>
+<tr>
+<td>Denver, CO</td>
+<td>~10.75% (state + county + city)</td>
+</tr>
+<tr>
+<td>Chicago, IL</td>
+<td>~17.4% (state + county + city)</td>
+</tr>
+<tr>
+<td>Phoenix, AZ</td>
+<td>~12.57% (state + county + city TPT)</td>
+</tr>
+</tbody>
+</table>
+<p>These figures are illustrative only. Rates vary significantly by specific location and change as jurisdictions update their tax codes.</p>
+<hr>
+<h2 id="what-is-taxable-base-amount-considerations">What Is Taxable? Base Amount Considerations</h2>
+<p>Occupancy tax is typically calculated as a percentage of the "taxable rent" — but what that includes can vary:</p>
+<p><strong>Generally taxable:</strong></p>
+<ul>
+<li>Nightly room rate</li>
+<li>Weekly or monthly rate (if under the jurisdiction's minimum stay threshold)</li>
+</ul>
+<p><strong>Sometimes taxable (varies by jurisdiction):</strong></p>
+<ul>
+<li>Cleaning fees</li>
+<li>Pet fees</li>
+<li>Resort fees or amenity fees</li>
+<li>Service fees charged by the platform</li>
+</ul>
+<p><strong>Generally not taxable:</strong></p>
+<ul>
+<li>Security deposits (assuming returned)</li>
+<li>The platform's service fee charged to the host</li>
+</ul>
+<p>Many jurisdictions have issued guidance on whether cleaning fees are taxable. California, for example, requires STR hosts to include cleaning fees in the taxable base. Other states may not. Research your specific jurisdiction's rules.</p>
+<hr>
+<h2 id="minimum-stay-exemptions">Minimum Stay Exemptions</h2>
+<p>Some jurisdictions exempt long-term rentals from occupancy tax. Common thresholds:</p>
+<ul>
+<li><strong>30 days or more:</strong> The most common threshold — stays of 30+ consecutive days are often exempt from transient occupancy tax</li>
+<li><strong>6 months or more:</strong> Florida exempts rental agreements of 6+ months from the state sales tax component</li>
+</ul>
+<p>If you offer monthly rentals as part of your strategy, verify whether those rentals fall below the taxable threshold in your market. This can be both a compliance issue (are you collecting when you should be?) and a pricing strategy consideration.</p>
+<hr>
+<h2 id="common-occupancy-tax-mistakes-str-hosts-make">Common Occupancy Tax Mistakes STR Hosts Make</h2>
+<p><strong>Assuming the platform handles everything:</strong> As discussed, platform collection is partial and market-dependent. Never assume; always verify.</p>
+<p><strong>Failing to register before collecting:</strong> Collecting taxes without a valid lodging tax registration can itself be a violation in some jurisdictions.</p>
+<p><strong>Conflating occupancy tax with income tax:</strong> Occupancy tax is collected from guests and owed to the government. The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/rental-income-and-expenses-real-estate-tax-tips">IRS covers rental income</a> reporting separately. They are separate obligations.</p>
+<p><strong>Missing direct booking tax remittances:</strong> Many hosts correctly remit platform-collected taxes but forget to collect and remit on direct bookings.</p>
+<p><strong>Not tracking taxes in a separate account:</strong> When tax authorities audit, they want to see that collected taxes were held and remitted separately from operating income.</p>
+<p><strong>Late remittances:</strong> Interest and penalties for late remittances typically accrue from the original due date and can be significant over time.</p>
+<hr>
+<h2 id="occupancy-tax-and-your-business-structure">Occupancy Tax and Your Business Structure</h2>
+<p>If you operate through an LLC, occupancy tax registrations should be in the LLC's name. The <a href="https://www.sba.gov/business-guide/launch-your-business/choose-business-structure">SBA explains business structures</a> for tax purposes. The LLC is the legal entity conducting business, and it is the taxpayer for lodging tax purposes. Ensure your tax accounts, permits, and filings are all in the LLC's name to maintain legal consistency and preserve liability protections.</p>
+<p>For more on LLC formation for STR businesses, see our <a href="/blog/short-term-rental-llc-setup">short term rental llc setup</a> guide.</p>
+<hr>
+<h2 id="airbnb-s-role-in-occupancy-tax-compliance">Airbnb's Role in Occupancy Tax Compliance</h2>
+<p>Airbnb has been a major driver in formalizing occupancy tax collection for short-term rentals. Through its government partnerships:</p>
+<ul>
+<li>Airbnb collects and remits taxes in hundreds of U.S. jurisdictions</li>
+<li>The company issues annual forms to hosts documenting total payments received (1099-K)</li>
+<li>Airbnb has advocated for clear, reasonable STR tax policies in many markets</li>
+</ul>
+<p>However, Airbnb's collection does not eliminate your responsibility to monitor compliance. Airbnb's official Help Center resources on taxes and regulations are a starting point for research, but always verify with official government sources. Tax agreements between platforms and jurisdictions can change.</p>
+<hr>
+<h2 id="penalties-for-non-compliance">Penalties for Non-Compliance</h2>
+<p>Occupancy tax authorities take non-compliance seriously. Consequences can include:</p>
+<ul>
+<li><strong>Back taxes:</strong> The full amount of taxes that should have been collected and remitted, sometimes going back several years</li>
+<li><strong>Interest:</strong> Typically accrues from the original due date at rates of 1–2% per month</li>
+<li><strong>Civil penalties:</strong> Many jurisdictions impose 10–25% penalties on top of the unpaid taxes</li>
+<li><strong>Personal liability:</strong> In some states, business owners (including LLC members) can be personally liable for unpaid trust fund taxes (taxes collected from guests but not remitted)</li>
+<li><strong>License revocation:</strong> Tax non-compliance can trigger revocation of your STR permit or business license</li>
+</ul>
+<p>The combination of back taxes, interest, and penalties can easily exceed the original tax obligation by 2x or 3x over several years.</p>
+<hr>
+<h2 id="summary-and-key-takeaways">Summary and Key Takeaways</h2>
+<p>Occupancy tax compliance is a non-negotiable obligation for STR hosts in virtually every active rental market. Here's what every host needs to know:</p>
+<ul>
+<li>Occupancy taxes are collected from guests and remitted to state, county, and/or city tax authorities</li>
+<li>Tax rates are layered — state + county + city can combine to 15% or more</li>
+<li>Platforms like Airbnb collect and remit in many — but not all — jurisdictions</li>
+<li>You are always responsible for direct bookings and may be responsible for platform-collected taxes in some markets</li>
+<li>Register with tax authorities before collecting; collect taxes on every applicable booking; remit on time</li>
+<li>Non-compliance results in back taxes, interest, penalties, and potentially personal liability</li>
+</ul>
+<p>Pair occupancy tax compliance with proper income tax reporting by visiting our <a href="/blog/short-term-rental-tax-guide">short-term rental tax guide</a>, and build the full compliance picture with our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<p><em>Disclaimer: Tax laws change frequently and vary significantly by jurisdiction. This article provides general information only. Consult a licensed CPA or tax attorney for guidance specific to your situation.</em></p>
+1f:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$25"}}]
+20:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","occupancy tax",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"occupancy tax"}],["$","span","lodging tax",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"lodging tax"}],["$","span","STR taxes",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"STR taxes"}],["$","span","Airbnb tax",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"Airbnb tax"}],["$","span","short-term rental compliance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rental compliance"}]]}]
+21:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+22:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","airbnb-property-management-tips",{"href":"/blog/airbnb-property-management-tips","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"15 Airbnb Property Management Tips to Boost Bookings and Reviews"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}],["$","$L10","airbnb-hoa-rules-restrictions",{"href":"/blog/airbnb-hoa-rules-restrictions","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb and HOA Rules: Navigating Restrictions"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","airbnb-arbitrage-how-to-profit-without-owning-property",{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+23:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","what-is-occupancy-tax",{"className":"","children":["$","a",null,{"href":"#what-is-occupancy-tax","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Occupancy Tax?"}]}],["$","li","what-it-s-called-in-your-market",{"className":"ml-4","children":["$","a",null,{"href":"#what-it-s-called-in-your-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What It's Called in Your Market"}]}],["$","li","the-three-layer-occupancy-tax-structure",{"className":"","children":["$","a",null,{"href":"#the-three-layer-occupancy-tax-structure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Three-Layer Occupancy Tax Structure"}]}],["$","li","when-platforms-collect-occupancy-tax-automatically",{"className":"","children":["$","a",null,{"href":"#when-platforms-collect-occupancy-tax-automatically","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When Platforms Collect Occupancy Tax Automatically"}]}],["$","li","how-platform-collection-works",{"className":"ml-4","children":["$","a",null,{"href":"#how-platform-collection-works","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Platform Collection Works"}]}],["$","li","limitations-of-platform-collection",{"className":"ml-4","children":["$","a",null,{"href":"#limitations-of-platform-collection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Limitations of Platform Collection"}]}],["$","li","how-to-check-platform-collection-status",{"className":"ml-4","children":["$","a",null,{"href":"#how-to-check-platform-collection-status","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Check Platform Collection Status"}]}],["$","li","when-you-must-collect-and-remit-yourself",{"className":"","children":["$","a",null,{"href":"#when-you-must-collect-and-remit-yourself","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When You Must Collect and Remit Yourself"}]}],["$","li","step-by-step-self-collection-and-remittance",{"className":"ml-4","children":["$","a",null,{"href":"#step-by-step-self-collection-and-remittance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step-by-Step: Self-Collection and Remittance"}]}],["$","li","occupancy-tax-rates-by-major-market",{"className":"","children":["$","a",null,{"href":"#occupancy-tax-rates-by-major-market","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Occupancy Tax Rates by Major Market"}]}],["$","li","what-is-taxable-base-amount-considerations",{"className":"","children":["$","a",null,{"href":"#what-is-taxable-base-amount-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Is Taxable? Base Amount Considerations"}]}],["$","li","minimum-stay-exemptions",{"className":"","children":["$","a",null,{"href":"#minimum-stay-exemptions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Minimum Stay Exemptions"}]}],["$","li","common-occupancy-tax-mistakes-str-hosts-make",{"className":"","children":["$","a",null,{"href":"#common-occupancy-tax-mistakes-str-hosts-make","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Occupancy Tax Mistakes STR Hosts Make"}]}],["$","li","occupancy-tax-and-your-business-structure",{"className":"","children":"$L26"}],"$L27","$L28","$L29"]}]]}]}]
+24:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+26:["$","a",null,{"href":"#occupancy-tax-and-your-business-structure","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Occupancy Tax and Your Business Structure"}]
+27:["$","li","airbnb-s-role-in-occupancy-tax-compliance",{"className":"","children":["$","a",null,{"href":"#airbnb-s-role-in-occupancy-tax-compliance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb's Role in Occupancy Tax Compliance"}]}]
+28:["$","li","penalties-for-non-compliance",{"className":"","children":["$","a",null,{"href":"#penalties-for-non-compliance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Penalties for Non-Compliance"}]}]
+29:["$","li","summary-and-key-takeaways",{"className":"","children":["$","a",null,{"href":"#summary-and-key-takeaways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary and Key Takeaways"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Occupancy Tax Obligations for STR Hosts | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Understand occupancy tax for short-term rentals — what it is, how to collect and remit it, which platforms auto-collect, and how to avoid costly penalties."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"occupancy tax,lodging tax,STR taxes,Airbnb tax,short-term rental compliance"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/occupancy-tax-short-term-rental"}],["$","meta","6",{"property":"og:title","content":"Occupancy Tax Obligations for STR Hosts"}],["$","meta","7",{"property":"og:description","content":"Understand occupancy tax for short-term rentals — what it is, how to collect and remit it, which platforms auto-collect, and how to avoid costly penalties."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/occupancy-tax-short-term-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Occupancy Tax Obligations for STR Hosts"}],["$","meta","15",{"name":"twitter:description","content":"Understand occupancy tax for short-term rentals — what it is, how to collect and remit it, which platforms auto-collect, and how to avoid costly penalties."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

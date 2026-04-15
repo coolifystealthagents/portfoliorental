@@ -1,0 +1,350 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","vrbo-vs-airbnb-host-comparison"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","vrbo-vs-airbnb-host-comparison","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","vrbo-vs-airbnb-host-comparison","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"VRBO vs Airbnb for Hosts: Platform Comparison\",\"description\":\"VRBO vs Airbnb for hosts in 2026: compare fees, guest demographics, listing control, and payout structures to decide which platform fits your rental strategy.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/vrbo-vs-airbnb-host-comparison\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"VRBO vs Airbnb for Hosts: Platform Comparison\",\"item\":\"https://portfoliorental.com/blog/vrbo-vs-airbnb-host-comparison\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"VRBO vs Airbnb for Hosts: Platform Comparison"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[9," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","platform-overview",{"className":"","children":["$","a",null,{"href":"#platform-overview","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Platform Overview"}]}],["$","li","airbnb",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb"}]}],["$","li","vrbo-vacation-rentals-by-owner",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-vacation-rentals-by-owner","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO (Vacation Rentals by Owner)"}]}],["$","li","guest-demographics-who-books-each-platform",{"className":"","children":["$","a",null,{"href":"#guest-demographics-who-books-each-platform","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Guest Demographics: Who Books Each Platform?"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28"]}]}]]}],"$L29","$L2a"]}],"$L2b","$L2c"]}],"$L2d"]}]]}],"$L2e"]
+11:["$","li","airbnb-guest-profile",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-guest-profile","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Guest Profile"}]}]
+12:["$","li","vrbo-guest-profile",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-guest-profile","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Guest Profile"}]}]
+13:["$","li","fee-structures-what-hosts-actually-pay",{"className":"","children":["$","a",null,{"href":"#fee-structures-what-hosts-actually-pay","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fee Structures: What Hosts Actually Pay"}]}]
+14:["$","li","airbnb-host-fees",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-host-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Host Fees"}]}]
+15:["$","li","vrbo-host-fees",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-host-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Host Fees"}]}]
+16:["$","li","listing-control-and-customization",{"className":"","children":["$","a",null,{"href":"#listing-control-and-customization","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Listing Control and Customization"}]}]
+17:["$","li","airbnb",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb"}]}]
+18:["$","li","vrbo",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO"}]}]
+19:["$","li","booking-policies-and-cancellation-flexibility",{"className":"","children":["$","a",null,{"href":"#booking-policies-and-cancellation-flexibility","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Booking Policies and Cancellation Flexibility"}]}]
+1a:["$","li","airbnb-cancellation-policies",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-cancellation-policies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Cancellation Policies"}]}]
+1b:["$","li","vrbo-cancellation-policies",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-cancellation-policies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Cancellation Policies"}]}]
+1c:["$","li","host-support-and-dispute-resolution",{"className":"","children":["$","a",null,{"href":"#host-support-and-dispute-resolution","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Host Support and Dispute Resolution"}]}]
+1d:["$","li","airbnb-support",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-support","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Support"}]}]
+1e:["$","li","vrbo-support",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-support","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Support"}]}]
+1f:["$","li","property-type-performance-what-works-where",{"className":"","children":["$","a",null,{"href":"#property-type-performance-what-works-where","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Type Performance: What Works Where"}]}]
+20:["$","li","reviews-and-trust-signals",{"className":"","children":["$","a",null,{"href":"#reviews-and-trust-signals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reviews and Trust Signals"}]}]
+21:["$","li","airbnb-reviews",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-reviews","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Reviews"}]}]
+22:["$","li","vrbo-reviews",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-reviews","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Reviews"}]}]
+23:["$","li","payment-and-payout-structures",{"className":"","children":["$","a",null,{"href":"#payment-and-payout-structures","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Payment and Payout Structures"}]}]
+24:["$","li","airbnb-payouts",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-payouts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Payouts"}]}]
+25:["$","li","vrbo-payouts",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-payouts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Payouts"}]}]
+26:["$","li","should-you-list-on-both-platforms",{"className":"","children":["$","a",null,{"href":"#should-you-list-on-both-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Should You List on Both Platforms?"}]}]
+27:["$","li","platform-selection-by-host-type",{"className":"","children":["$","a",null,{"href":"#platform-selection-by-host-type","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Platform Selection by Host Type"}]}]
+28:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2f:T3fd7,<p>If you are a short-term rental host deciding where to list your property, <strong>Airbnb vs VRBO</strong> is the most fundamental platform decision you will make. Both are dominant marketplaces, but they attract different types of guests, charge different fees, offer different levels of host control, and perform differently depending on your property type and location.</p>
+<p>Many hosts list on both — and should. But understanding the distinct characteristics of each platform helps you optimize your approach and decide where to invest the most effort.</p>
+<p>This guide compares Airbnb and VRBO across every dimension that matters to hosts in 2026: fees, guest demographics, booking policies, host support, and overall platform dynamics.</p>
+<hr>
+<h2 id="platform-overview">Platform Overview</h2>
+<h3 id="airbnb">Airbnb</h3>
+<p>Founded in 2008, Airbnb is the world's largest short-term rental marketplace with over 7 million active listings in 220+ countries. It pioneered the home-sharing model and remains the first destination for most travelers booking short-term accommodations.</p>
+<p>Airbnb's marketplace includes everything from shared rooms and tiny homes to luxury villas and private islands. It attracts a remarkably diverse guest base across solo travelers, couples, families, business travelers, and group trips.</p>
+<h3 id="vrbo-vacation-rentals-by-owner">VRBO (Vacation Rentals by Owner)</h3>
+<p>VRBO was founded in 1995 and acquired by HomeAway, which was later acquired by Expedia Group. It focuses exclusively on whole-property rentals — you will not find shared rooms or hosted experiences on VRBO. The platform has roughly 2 million listings in 190+ countries.</p>
+<p>VRBO's brand identity is family and group travel. Its listings tend to be larger properties with a domestic or family-travel appeal.</p>
+<hr>
+<h2 id="guest-demographics-who-books-each-platform">Guest Demographics: Who Books Each Platform?</h2>
+<p>Understanding who books on each platform helps you tailor your listing strategy.</p>
+<h3 id="airbnb-guest-profile">Airbnb Guest Profile</h3>
+<ul>
+<li><strong>Solo travelers and couples</strong> make up a larger share than on VRBO</li>
+<li><strong>Business travelers</strong> use Airbnb frequently, supported by Airbnb for Work programs</li>
+<li><strong>Younger travelers</strong> (millennials and Gen Z) skew toward Airbnb</li>
+<li><strong>International guests</strong> — Airbnb's global reach is broader than VRBO's</li>
+<li><strong>Urban and unique property seekers</strong> — Airbnb performs best in cities and for distinctive, Instagram-worthy properties</li>
+</ul>
+<h3 id="vrbo-guest-profile">VRBO Guest Profile</h3>
+<ul>
+<li><strong>Families with children</strong> are VRBO's core demographic</li>
+<li><strong>Larger groups</strong> booking entire homes for reunions, bachelorette trips, or multi-family vacations</li>
+<li><strong>Higher-income travelers</strong> tend to book on VRBO — average booking value is higher</li>
+<li><strong>Domestic US travelers</strong> — VRBO has historically stronger penetration in US leisure markets</li>
+<li><strong>Longer stays</strong> — VRBO bookings average longer stays than Airbnb</li>
+</ul>
+<p><strong>Implication for Hosts:</strong> If your property is a 1-bedroom urban apartment, Airbnb is your primary platform. If you have a large beach house or mountain cabin that families will love, VRBO may drive comparable or superior bookings.</p>
+<hr>
+<h2 id="fee-structures-what-hosts-actually-pay">Fee Structures: What Hosts Actually Pay</h2>
+<p>This is where the comparison gets nuanced — and where many hosts make decisions based on incomplete information. <a href="https://www.investopedia.com/articles/personal-finance/032814/pros-and-cons-using-airbnb.asp">Investopedia's platform comparison</a> provides additional fee analysis.</p>
+<h3 id="airbnb-host-fees">Airbnb Host Fees</h3>
+<p>Airbnb offers hosts two fee structures:</p>
+<p><strong>Split Fee (Most Common)</strong></p>
+<ul>
+<li>Host pays: ~3% of booking subtotal (before fees and taxes)</li>
+<li>Guest pays: Typically 14–16% service fee</li>
+<li>Total platform take: ~17–19% of booking value</li>
+</ul>
+<p><strong>Host-Only Fee (Required for Software API users)</strong></p>
+<ul>
+<li>Host pays: 14–16% of booking subtotal</li>
+<li>Guest pays: No separate Airbnb fee</li>
+<li>Total platform take: 14–16% from the host side</li>
+</ul>
+<p>The host-only fee structure applies when connecting to Airbnb through a channel manager or property management system. Guests see the full price upfront (no surprise fees at checkout), which Airbnb research shows improves conversion.</p>
+<h3 id="vrbo-host-fees">VRBO Host Fees</h3>
+<p>VRBO offers two subscription models:</p>
+<p><strong>Pay-per-booking (Commission Model)</strong></p>
+<ul>
+<li>VRBO charges hosts 5% of the booking amount as a commission</li>
+<li>An additional 3% payment processing fee applies</li>
+<li>Total host cost: ~8% per booking</li>
+<li>Guests pay a separate service fee (typically 6–12% depending on the booking total)</li>
+</ul>
+<p><strong>Annual Subscription</strong></p>
+<ul>
+<li>Flat annual fee: approximately $499/year</li>
+<li>No per-booking commission</li>
+<li>Best for hosts with consistent, high-occupancy bookings</li>
+<li>The subscription typically breaks even at around $6,000–$7,000 per year in bookings</li>
+</ul>
+<p><strong>Fee Comparison Summary:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Platform</th>
+<th>Host Fee</th>
+<th>Guest Fee</th>
+<th>Total Platform Take</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Airbnb (split)</td>
+<td>~3%</td>
+<td>~14-16%</td>
+<td>~17-19%</td>
+</tr>
+<tr>
+<td>Airbnb (host-only)</td>
+<td>~14-16%</td>
+<td>0%</td>
+<td>~14-16%</td>
+</tr>
+<tr>
+<td>VRBO (pay-per-booking)</td>
+<td>~8%</td>
+<td>6-12%</td>
+<td>~14-20%</td>
+</tr>
+<tr>
+<td>VRBO (subscription)</td>
+<td>$499/yr flat</td>
+<td>6-12%</td>
+<td>Varies</td>
+</tr>
+</tbody>
+</table>
+<p>For hosts who qualify for the annual subscription and have consistent bookings, VRBO's subscription model can result in lower effective per-booking costs than Airbnb.</p>
+<hr>
+<h2 id="listing-control-and-customization">Listing Control and Customization</h2>
+<h3 id="airbnb">Airbnb</h3>
+<p>Airbnb hosts have significant but structured listing control. You can:</p>
+<ul>
+<li>Write custom listing descriptions (with character limits)</li>
+<li>Set your own pricing, minimum stays, and booking window</li>
+<li>Create custom House Rules</li>
+<li>Choose between Instant Book and Request to Book</li>
+<li>Define cleaning fees, extra guest fees, and pet fees</li>
+<li>Use Airbnb's pricing tools (Smart Pricing) or set manual rates</li>
+</ul>
+<p>However, Airbnb's algorithm and policies increasingly influence what hosts can do. Features like guest reviews cannot be removed even if disputed. Airbnb can override pricing in certain markets (price caps in emergency situations, for example).</p>
+<h3 id="vrbo">VRBO</h3>
+<p>VRBO gives hosts notably more control over guest communication and policies:</p>
+<ul>
+<li><strong>No forced Instant Book</strong> — VRBO defaults to a request model where hosts can review each booking</li>
+<li><strong>Custom rental agreements</strong> — VRBO allows hosts to require guests to sign a custom rental agreement before completing a booking</li>
+<li><strong>Damage deposits</strong> — VRBO supports requiring an actual damage deposit (refundable) unlike Airbnb, which has moved to its own damage protection model</li>
+<li><strong>Guest communication</strong> — More direct access to guest contact information earlier in the booking process</li>
+</ul>
+<p>This makes VRBO particularly appealing for hosts who want more screening and contracting capability.</p>
+<hr>
+<h2 id="booking-policies-and-cancellation-flexibility">Booking Policies and Cancellation Flexibility</h2>
+<h3 id="airbnb-cancellation-policies">Airbnb Cancellation Policies</h3>
+<p>Airbnb offers multiple cancellation policy options for hosts:</p>
+<ul>
+<li><strong>Flexible:</strong> Full refund up to 1 day before check-in</li>
+<li><strong>Moderate:</strong> Full refund up to 5 days before check-in</li>
+<li><strong>Firm:</strong> 50% refund up to 30 days before, 50% refund for cancellations less than 30 days out</li>
+<li><strong>Strict:</strong> 50% refund up to 7 days before, no refund within 7 days</li>
+<li><strong>Non-Refundable:</strong> Guests receive no refund but get a discounted rate</li>
+</ul>
+<p>Airbnb's cancellation policy enforcement is generally strong, though Airbnb does occasionally override policies for guests under "extenuating circumstances."</p>
+<h3 id="vrbo-cancellation-policies">VRBO Cancellation Policies</h3>
+<p>VRBO offers:</p>
+<ul>
+<li><strong>No refund</strong></li>
+<li><strong>Strict (60-day):</strong> Full refund if canceled 60+ days before arrival</li>
+<li><strong>Firm (60/30 day):</strong> Customizable refund windows</li>
+<li><strong>Moderate (14-day)</strong></li>
+<li><strong>Relaxed (14/7 day)</strong></li>
+</ul>
+<p>VRBO's policies are generally considered host-friendlier than Airbnb's, particularly because VRBO does not have the same history of unilaterally overriding host cancellation policies.</p>
+<hr>
+<h2 id="host-support-and-dispute-resolution">Host Support and Dispute Resolution</h2>
+<p>This is one of the most frequently cited differentiators between the platforms — and where VRBO often receives higher marks from experienced hosts.</p>
+<h3 id="airbnb-support">Airbnb Support</h3>
+<p>Airbnb support has improved significantly but remains a source of frustration for many hosts. Common complaints include:</p>
+<ul>
+<li>Inconsistent resolution of disputes between hosts and guests</li>
+<li>Difficulty reaching experienced support agents</li>
+<li>Perception that Airbnb favors guests in ambiguous disputes</li>
+</ul>
+<p>Superhost status (see our <a href="/blog/airbnb-superhost-requirements">airbnb superhost requirements</a> guide) does provide access to a dedicated support line with faster response times.</p>
+<h3 id="vrbo-support">VRBO Support</h3>
+<p>VRBO host support is generally regarded as more host-aligned. VRBO tends to uphold host cancellation policies and rental agreements more consistently. Hosts with vacation home properties report fewer cases of VRBO overriding their stated policies.</p>
+<p>However, VRBO has fewer overall dispute resolution mechanisms than Airbnb, since the platform has historically positioned itself more as a listing marketplace than a full-service booking platform.</p>
+<hr>
+<h2 id="property-type-performance-what-works-where">Property Type Performance: What Works Where</h2>
+<table>
+<thead>
+<tr>
+<th>Property Type</th>
+<th>Better Platform</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Urban apartment (1-2BR)</td>
+<td>Airbnb</td>
+</tr>
+<tr>
+<td>Shared room or hosted space</td>
+<td>Airbnb only (VRBO doesn't allow)</td>
+</tr>
+<tr>
+<td>Beach house (3-4BR)</td>
+<td>Both / VRBO advantage for families</td>
+</tr>
+<tr>
+<td>Mountain cabin</td>
+<td>Both / VRBO strong</td>
+</tr>
+<tr>
+<td>Large vacation home (5BR+)</td>
+<td>VRBO advantage</td>
+</tr>
+<tr>
+<td>Unique/quirky properties</td>
+<td>Airbnb advantage</td>
+</tr>
+<tr>
+<td>Business travel location</td>
+<td>Airbnb (for Work program)</td>
+</tr>
+<tr>
+<td>International location</td>
+<td>Airbnb (stronger global reach)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="reviews-and-trust-signals">Reviews and Trust Signals</h2>
+<h3 id="airbnb-reviews">Airbnb Reviews</h3>
+<ul>
+<li>Two-way review system: hosts review guests, guests review hosts</li>
+<li>Reviews are permanent and cannot be removed by hosts or guests (only Airbnb can remove in rare circumstances)</li>
+<li>Superhost badge and Guest Favorite listing badge signal quality to prospective bookers</li>
+<li>Reviews are the single biggest trust and conversion factor on the platform</li>
+</ul>
+<h3 id="vrbo-reviews">VRBO Reviews</h3>
+<ul>
+<li>Guests review properties; hosts can respond publicly</li>
+<li>Host credibility is signaled by response rate and review count</li>
+<li>VRBO's Premier Host designation (similar to Superhost) requires meeting specific performance criteria</li>
+</ul>
+<p>For context on how to build your review profile on Airbnb specifically, see our <a href="/blog/airbnb-property-management-tips">airbnb property management tips</a>.</p>
+<hr>
+<h2 id="payment-and-payout-structures">Payment and Payout Structures</h2>
+<h3 id="airbnb-payouts">Airbnb Payouts</h3>
+<p>The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/rental-income-and-expenses-real-estate-tax-tips">IRS rental income reporting</a> requirements apply to both platforms. Airbnb releases payment to hosts 24 hours after a guest's scheduled check-in. This means you are paid after the guest arrives — which mitigates Airbnb's risk but delays host cash flow.</p>
+<p>For longer stays (28+ days), Airbnb pays out on a monthly basis.</p>
+<h3 id="vrbo-payouts">VRBO Payouts</h3>
+<p>VRBO typically releases payment one to two days after the guest's check-in date, similar to Airbnb. However, for bookings made well in advance, VRBO may process partial payment earlier.</p>
+<p>VRBO's subscription model hosts often report slightly more straightforward payout mechanics than pay-per-booking hosts.</p>
+<hr>
+<h2 id="should-you-list-on-both-platforms">Should You List on Both Platforms?</h2>
+<p>For most property types and markets, the answer is <strong>yes — list on both.</strong></p>
+<p>Here is why:</p>
+<ul>
+<li>Different platforms reach different travelers; combined you reach more potential guests</li>
+<li>Multi-channel distribution reduces dependence on any single platform's algorithm</li>
+<li>Higher occupancy from broader reach improves your overall investment performance</li>
+<li>Both VRBO and Airbnb improve your organic visibility when you have consistent bookings and strong reviews</li>
+</ul>
+<p>The <a href="https://www.nar.realtor/research-and-statistics">NAR vacation rental data</a> tracks market trends across platforms. The operational overhead of managing two listings is minimal when you use a channel manager to sync calendars, rates, and availability automatically. See our <a href="/blog/channel-manager-short-term-rental">channel manager short term rental</a> guide for a full breakdown of the best tools.</p>
+<hr>
+<h2 id="platform-selection-by-host-type">Platform Selection by Host Type</h2>
+<table>
+<thead>
+<tr>
+<th>Host Type</th>
+<th>Recommended Priority</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>New host, urban apartment</td>
+<td>Start with Airbnb</td>
+</tr>
+<tr>
+<td>New host, family vacation home</td>
+<td>Start with VRBO</td>
+</tr>
+<tr>
+<td>Experienced host, any property</td>
+<td>List on both</td>
+</tr>
+<tr>
+<td>Host wanting maximum control</td>
+<td>VRBO-first approach</td>
+</tr>
+<tr>
+<td>Host wanting largest audience</td>
+<td>Airbnb-first approach</td>
+</tr>
+<tr>
+<td>Host focused on business travelers</td>
+<td>Airbnb for Work</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>There is no universally superior platform between VRBO and Airbnb — the right answer depends on your property type, location, target guest demographic, and operational preferences.</p>
+<p>Airbnb wins on audience size, diversity of travelers, urban and international reach, and brand recognition. VRBO wins on family travel, whole-home rentals, host control, policy consistency, and the subscription fee structure for high-volume hosts.</p>
+<p>The most sophisticated hosts use both platforms and manage them efficiently through a channel manager, capturing the strengths of each marketplace without doubling their operational work.</p>
+<p>For a comprehensive operational framework that works across all platforms, explore our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a> and <a href="/blog/vacation-rental-property-management">vacation rental property management</a> resources.</p>
+<p><strong>VRBO vs Airbnb at a Glance:</strong></p>
+<ul>
+<li>Airbnb: Larger audience, more property types, stronger for urban and international</li>
+<li>VRBO: Family-focused, whole homes only, stronger host control and policy enforcement</li>
+<li>Fees are comparable when all charges are totaled</li>
+<li>VRBO subscription model advantages hosts with consistent high-volume bookings</li>
+<li>Most hosts benefit from listing on both platforms simultaneously</li>
+</ul>
+29:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2f"}}]
+2a:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","VRBO",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"VRBO"}],["$","span","Airbnb",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"Airbnb"}],["$","span","platform comparison",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"platform comparison"}],["$","span","vacation rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacation rental"}],["$","span","short-term rentals",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rentals"}]]}]
+2b:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+2c:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","airbnb-property-management-tips",{"href":"/blog/airbnb-property-management-tips","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"15 Airbnb Property Management Tips to Boost Bookings and Reviews"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}],["$","$L10","airbnb-automation-tools",{"href":"/blog/airbnb-automation-tools","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb Automation Tools: 10 Essential Tools to Scale Your Rental Business"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","airbnb-vs-long-term-rental",{"href":"/blog/airbnb-vs-long-term-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb vs Long-Term Rental: Which Strategy Earns More for Your Property?"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}]]}]]}]
+2d:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","platform-overview",{"className":"","children":["$","a",null,{"href":"#platform-overview","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Platform Overview"}]}],["$","li","airbnb",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb"}]}],["$","li","vrbo-vacation-rentals-by-owner",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-vacation-rentals-by-owner","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO (Vacation Rentals by Owner)"}]}],["$","li","guest-demographics-who-books-each-platform",{"className":"","children":["$","a",null,{"href":"#guest-demographics-who-books-each-platform","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Guest Demographics: Who Books Each Platform?"}]}],["$","li","airbnb-guest-profile",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-guest-profile","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Guest Profile"}]}],["$","li","vrbo-guest-profile",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-guest-profile","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Guest Profile"}]}],["$","li","fee-structures-what-hosts-actually-pay",{"className":"","children":["$","a",null,{"href":"#fee-structures-what-hosts-actually-pay","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fee Structures: What Hosts Actually Pay"}]}],["$","li","airbnb-host-fees",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-host-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Host Fees"}]}],["$","li","vrbo-host-fees",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-host-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Host Fees"}]}],["$","li","listing-control-and-customization",{"className":"","children":["$","a",null,{"href":"#listing-control-and-customization","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Listing Control and Customization"}]}],["$","li","airbnb",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb"}]}],["$","li","vrbo",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO"}]}],["$","li","booking-policies-and-cancellation-flexibility",{"className":"","children":["$","a",null,{"href":"#booking-policies-and-cancellation-flexibility","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Booking Policies and Cancellation Flexibility"}]}],["$","li","airbnb-cancellation-policies",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-cancellation-policies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Cancellation Policies"}]}],["$","li","vrbo-cancellation-policies",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-cancellation-policies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Cancellation Policies"}]}],["$","li","host-support-and-dispute-resolution",{"className":"","children":["$","a",null,{"href":"#host-support-and-dispute-resolution","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Host Support and Dispute Resolution"}]}],"$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b"]}]]}]}]
+2e:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+30:["$","li","airbnb-support",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-support","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Support"}]}]
+31:["$","li","vrbo-support",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-support","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Support"}]}]
+32:["$","li","property-type-performance-what-works-where",{"className":"","children":["$","a",null,{"href":"#property-type-performance-what-works-where","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Type Performance: What Works Where"}]}]
+33:["$","li","reviews-and-trust-signals",{"className":"","children":["$","a",null,{"href":"#reviews-and-trust-signals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reviews and Trust Signals"}]}]
+34:["$","li","airbnb-reviews",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-reviews","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Reviews"}]}]
+35:["$","li","vrbo-reviews",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-reviews","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Reviews"}]}]
+36:["$","li","payment-and-payout-structures",{"className":"","children":["$","a",null,{"href":"#payment-and-payout-structures","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Payment and Payout Structures"}]}]
+37:["$","li","airbnb-payouts",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-payouts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb Payouts"}]}]
+38:["$","li","vrbo-payouts",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-payouts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO Payouts"}]}]
+39:["$","li","should-you-list-on-both-platforms",{"className":"","children":["$","a",null,{"href":"#should-you-list-on-both-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Should You List on Both Platforms?"}]}]
+3a:["$","li","platform-selection-by-host-type",{"className":"","children":["$","a",null,{"href":"#platform-selection-by-host-type","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Platform Selection by Host Type"}]}]
+3b:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"VRBO vs Airbnb for Hosts: Platform Comparison | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"VRBO vs Airbnb for hosts in 2026: compare fees, guest demographics, listing control, and payout structures to decide which platform fits your rental strategy."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"VRBO,Airbnb,platform comparison,vacation rental,short-term rentals"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/vrbo-vs-airbnb-host-comparison"}],["$","meta","6",{"property":"og:title","content":"VRBO vs Airbnb for Hosts: Platform Comparison"}],["$","meta","7",{"property":"og:description","content":"VRBO vs Airbnb for hosts in 2026: compare fees, guest demographics, listing control, and payout structures to decide which platform fits your rental strategy."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/vrbo-vs-airbnb-host-comparison"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"VRBO vs Airbnb for Hosts: Platform Comparison"}],["$","meta","15",{"name":"twitter:description","content":"VRBO vs Airbnb for hosts in 2026: compare fees, guest demographics, listing control, and payout structures to decide which platform fits your rental strategy."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

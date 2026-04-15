@@ -1,0 +1,274 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","furnished-vs-unfurnished-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","furnished-vs-unfurnished-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","furnished-vs-unfurnished-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Furnished vs Unfurnished Rental: Which Earns More?\",\"description\":\"Compare furnished vs unfurnished rental income, costs, and tenant profiles to decide which strategy maximizes your returns based on your market and property type.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/furnished-vs-unfurnished-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Pricing\",\"item\":\"https://portfoliorental.com/blog/category/pricing\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Furnished vs Unfurnished Rental: Which Earns More?\",\"item\":\"https://portfoliorental.com/blog/furnished-vs-unfurnished-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/pricing","className":"hover:text-blue-600","children":"Pricing"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Pricing"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Furnished vs Unfurnished Rental: Which Earns More?"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-income-premium-how-much-more-can-furnished-rentals-earn",{"className":"","children":["$","a",null,{"href":"#the-income-premium-how-much-more-can-furnished-rentals-earn","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Income Premium: How Much More Can Furnished Rentals Earn?"}]}],["$","li","furnished-rental-cost-analysis",{"className":"","children":["$","a",null,{"href":"#furnished-rental-cost-analysis","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furnished Rental Cost Analysis"}]}],["$","li","one-time-furniture-investment",{"className":"ml-4","children":["$","a",null,{"href":"#one-time-furniture-investment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"One-Time Furniture Investment"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c"]}]}]]}],"$L1d","$L1e"]}],"$L1f","$L20"]}],"$L21"]}]]}],"$L22"]
+11:["$","li","ongoing-furnished-rental-costs",{"className":"ml-4","children":["$","a",null,{"href":"#ongoing-furnished-rental-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ongoing Furnished Rental Costs"}]}]
+12:["$","li","furnished-vs-unfurnished-direct-financial-comparison",{"className":"","children":["$","a",null,{"href":"#furnished-vs-unfurnished-direct-financial-comparison","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furnished vs. Unfurnished: Direct Financial Comparison"}]}]
+13:["$","li","tenant-profile-differences",{"className":"","children":["$","a",null,{"href":"#tenant-profile-differences","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Profile Differences"}]}]
+14:["$","li","unfurnished-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#unfurnished-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Unfurnished Tenants"}]}]
+15:["$","li","furnished-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#furnished-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furnished Tenants"}]}]
+16:["$","li","market-demand-check-is-there-a-market-for-furnished-rentals",{"className":"","children":["$","a",null,{"href":"#market-demand-check-is-there-a-market-for-furnished-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Market Demand Check: Is There a Market for Furnished Rentals?"}]}]
+17:["$","li","furnished-rentals-vs-short-term-rentals-the-spectrum",{"className":"","children":["$","a",null,{"href":"#furnished-rentals-vs-short-term-rentals-the-spectrum","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furnished Rentals vs. Short-Term Rentals: The Spectrum"}]}]
+18:["$","li","partial-furnishing-a-middle-ground",{"className":"","children":["$","a",null,{"href":"#partial-furnishing-a-middle-ground","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Partial Furnishing: A Middle Ground"}]}]
+19:["$","li","when-unfurnished-is-almost-always-better",{"className":"","children":["$","a",null,{"href":"#when-unfurnished-is-almost-always-better","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When Unfurnished Is Almost Always Better"}]}]
+1a:["$","li","when-furnished-is-a-strong-strategy",{"className":"","children":["$","a",null,{"href":"#when-furnished-is-a-strong-strategy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When Furnished Is a Strong Strategy"}]}]
+1b:["$","li","tax-considerations-for-furnished-rentals",{"className":"","children":["$","a",null,{"href":"#tax-considerations-for-furnished-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Considerations for Furnished Rentals"}]}]
+1c:["$","li","summary-making-the-decision",{"className":"","children":["$","a",null,{"href":"#summary-making-the-decision","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary: Making the Decision"}]}]
+23:T3093,<p>The question every landlord faces when preparing a unit for market: should you furnish it or rent it empty? The answer depends heavily on your market, target tenant, hold strategy, and willingness to manage additional complexity. Get it right, and furnished rentals can earn 15–50% more than their unfurnished equivalents. Get it wrong, and you'll spend more on furniture and turnover than you'll ever recover in premium rent.</p>
+<p>This guide gives you a clear framework to make the right choice for your specific property.</p>
+<h2 id="the-income-premium-how-much-more-can-furnished-rentals-earn">The Income Premium: How Much More Can Furnished Rentals Earn?</h2>
+<p>In the right market, furnished rentals command significant premiums:</p>
+<table>
+<thead>
+<tr>
+<th>Market Type</th>
+<th>Unfurnished Monthly Rent</th>
+<th>Furnished Premium</th>
+<th>Furnished Rent</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Major corporate market (NYC, SF, Chicago)</td>
+<td>$3,000</td>
+<td>30–50%</td>
+<td>$3,900–$4,500</td>
+</tr>
+<tr>
+<td>Secondary market near hospital/university</td>
+<td>$1,500</td>
+<td>20–35%</td>
+<td>$1,800–$2,025</td>
+</tr>
+<tr>
+<td>Vacation/tourist destination</td>
+<td>$1,800 (annual)</td>
+<td>50–100%+ (seasonal STR)</td>
+<td>$2,700–$3,600</td>
+</tr>
+<tr>
+<td>Average suburban market</td>
+<td>$1,400</td>
+<td>5–15%</td>
+<td>$1,470–$1,610</td>
+</tr>
+</tbody>
+</table>
+<p>The premium is highest in markets with strong demand from:</p>
+<ul>
+<li><strong>Corporate relocatees:</strong> Employees on temporary assignments (3–12 months)</li>
+<li><strong>Travel nurses and medical professionals:</strong> On 13-week hospital contracts</li>
+<li><strong>Graduate students and visiting academics:</strong> Semester or year-long placements</li>
+<li><strong>Executives and consultants:</strong> On project-based deployments</li>
+</ul>
+<p>In standard suburban markets catering to long-term family renters, the furnished premium shrinks to 5–15%—often not worth the investment.</p>
+<h2 id="furnished-rental-cost-analysis">Furnished Rental Cost Analysis</h2>
+<p>Before calculating your profit, understand the true cost of furnishing a unit:</p>
+<h3 id="one-time-furniture-investment">One-Time Furniture Investment</h3>
+<p><strong>Studio (400 sq ft):</strong></p>
+<ul>
+<li>Bed frame, mattress, nightstand: $600–$1,200</li>
+<li>Sofa or loveseat: $400–$900</li>
+<li>Dining table and chairs: $300–$600</li>
+<li>Desk and chair: $200–$400</li>
+<li>Kitchen essentials (cookware, dishes, utensils): $300–$600</li>
+<li>Bedding, towels, window treatments: $400–$700</li>
+<li><strong>Total studio: $2,200–$4,400</strong></li>
+</ul>
+<p><strong>1-Bedroom (600–750 sq ft):</strong></p>
+<ul>
+<li>All above plus additional bedroom furniture: $3,500–$6,500</li>
+</ul>
+<p><strong>2-Bedroom (900–1,100 sq ft):</strong></p>
+<ul>
+<li>Full furnishing: $5,500–$10,000</li>
+</ul>
+<p>These are budget-to-mid-range estimates. Luxury furnished units in premium markets may invest $15,000–$30,000 in high-end furniture and staging.</p>
+<h3 id="ongoing-furnished-rental-costs">Ongoing Furnished Rental Costs</h3>
+<p>Beyond the initial investment, furnished rentals incur higher operating costs:</p>
+<ul>
+<li><strong>Replacement/repair:</strong> Expect 15–25% of furniture value annually as turnover damages and wears items</li>
+<li><strong>Cleaning between tenancies:</strong> $150–$400 per turnover (more intensive than unfurnished)</li>
+<li><strong>Storage (if tenant wants to bring own furniture):</strong> Rarely practical; most furnished tenants want everything included</li>
+<li><strong>Inventory management:</strong> Time to track, replace, and maintain furnishings</li>
+</ul>
+<h2 id="furnished-vs-unfurnished-direct-financial-comparison">Furnished vs. Unfurnished: Direct Financial Comparison</h2>
+<p><strong>Example: 1-bedroom unit in a corporate-heavy market</strong></p>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Unfurnished</th>
+<th>Furnished</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Monthly rent</td>
+<td>$1,800</td>
+<td>$2,300</td>
+</tr>
+<tr>
+<td>Annual gross rent</td>
+<td>$21,600</td>
+<td>$27,600</td>
+</tr>
+<tr>
+<td>Vacancy (furnished: higher turnover)</td>
+<td>5% ($1,080)</td>
+<td>12% ($3,312)</td>
+</tr>
+<tr>
+<td>Furniture replacement/maintenance</td>
+<td>$0</td>
+<td>$900</td>
+</tr>
+<tr>
+<td>Additional cleaning costs</td>
+<td>$0</td>
+<td>$600</td>
+</tr>
+<tr>
+<td><strong>Net annual income</strong></td>
+<td><strong>$20,520</strong></td>
+<td><strong>$22,788</strong></td>
+</tr>
+</tbody>
+</table>
+<p>In this scenario, furnished earns $2,268 more per year—before accounting for the initial $5,000 furniture investment. Payback period: approximately 2.2 years.</p>
+<p><strong>Does it make sense?</strong> At 2.2 years payback and $2,268 annual ongoing premium, yes—if you're confident in the market demand for furnished rentals. If vacancy is actually 20%+ (common for furnished units in weak markets), the math reverses.</p>
+<h2 id="tenant-profile-differences">Tenant Profile Differences</h2>
+<p>The type of tenant you attract changes significantly with furnished vs. unfurnished:</p>
+<h3 id="unfurnished-tenants">Unfurnished Tenants</h3>
+<ul>
+<li>Typical lease term: 12+ months (often longer)</li>
+<li>Profile: Families, established professionals, long-term residents</li>
+<li>Turnover frequency: Every 2–4 years on average</li>
+<li>Vacancy risk: Lower</li>
+<li>Damage risk: Moderate (typical wear and tear)</li>
+<li>Management intensity: Low</li>
+</ul>
+<h3 id="furnished-tenants">Furnished Tenants</h3>
+<ul>
+<li>Typical lease term: 1–6 months (short-to-medium term)</li>
+<li>Profile: Relocating employees, travel nurses, students, temporary workers</li>
+<li>Turnover frequency: Every 1–4 months for short-term; every 6–12 months for medium-term</li>
+<li>Vacancy risk: Higher (more frequent re-leasing required)</li>
+<li>Damage risk: Higher (more tenants, more wear on furnishings)</li>
+<li>Management intensity: Moderate to high</li>
+</ul>
+<p>The shorter lease cycles of furnished rentals mean more time and cost marketing and screening tenants. Factor this into your true cost analysis.</p>
+<h2 id="market-demand-check-is-there-a-market-for-furnished-rentals">Market Demand Check: Is There a Market for Furnished Rentals?</h2>
+<p>Before furnishing, validate demand in your specific market:</p>
+<p><strong>Strong indicators of furnished rental demand:</strong></p>
+<ul>
+<li>Major hospitals or medical centers nearby (travel nurse market)</li>
+<li>Large corporate campuses or office parks (relocation market)</li>
+<li>University or college nearby (faculty, grad students, visiting researchers)</li>
+<li>Military base or government installation (PCS move market)</li>
+<li>Tourism district or vacation destination (short-term rental market)</li>
+<li>High employee turnover industries (consulting, tech, finance)</li>
+</ul>
+<p><strong>How to check:</strong> Search furnished rentals on Furnished Finder, Airbnb (monthly stays), Zillow (furnished filter), and corporate housing platforms. If there are many listings but many available (high supply, low demand), the market may be saturated.</p>
+<h2 id="furnished-rentals-vs-short-term-rentals-the-spectrum">Furnished Rentals vs. Short-Term Rentals: The Spectrum</h2>
+<p>Furnished rentals exist on a spectrum from long-term to short-term:</p>
+<table>
+<thead>
+<tr>
+<th>Strategy</th>
+<th>Lease Length</th>
+<th>Platform</th>
+<th>Management Level</th>
+<th>Income Potential</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Unfurnished long-term</td>
+<td>12+ months</td>
+<td>MLS, Zillow</td>
+<td>Low</td>
+<td>Baseline</td>
+</tr>
+<tr>
+<td>Furnished medium-term</td>
+<td>1–6 months</td>
+<td>Furnished Finder, Zillow</td>
+<td>Moderate</td>
+<td>+15–35%</td>
+</tr>
+<tr>
+<td>Short-term rental (STR)</td>
+<td>Days to weeks</td>
+<td>Airbnb, VRBO</td>
+<td>High</td>
+<td>+50–150% in STR markets</td>
+</tr>
+</tbody>
+</table>
+<p>Medium-term furnished rentals (30+ days) are the sweet spot for many investors: higher income than unfurnished, without the daily management burden of STR platforms. Platforms like Furnished Finder specifically serve the travel nurse and corporate relocation market.</p>
+<h2 id="partial-furnishing-a-middle-ground">Partial Furnishing: A Middle Ground</h2>
+<p>Some landlords compromise with partial furnishing:</p>
+<ul>
+<li>Provide kitchen appliances (refrigerator, dishwasher, microwave, stove) as standard—this is expected by most tenants anyway</li>
+<li>Include window treatments and lighting fixtures</li>
+<li>Leave the rest unfurnished</li>
+</ul>
+<p>This approach adds minimal cost, reduces friction for tenants who already have furniture, and doesn't create the turnover/replacement cost burden of full furnishing. The income premium is modest (0–10%) but so is the cost.</p>
+<h2 id="when-unfurnished-is-almost-always-better">When Unfurnished Is Almost Always Better</h2>
+<p>For most residential landlords in standard markets, unfurnished is the right default:</p>
+<ul>
+<li>Long-term family and professional tenants don't need furnishings</li>
+<li>The premium is too small to justify the cost and management overhead</li>
+<li>Long lease stability has real financial value (predictable income, lower vacancy cost)</li>
+<li>The risk of furnished-unit damage is higher per tenancy</li>
+</ul>
+<p><strong>Unfurnished wins when:</strong></p>
+<ul>
+<li>You want stable, long-term tenants</li>
+<li>Your market doesn't have strong furnished rental demand</li>
+<li>You want to minimize management complexity</li>
+<li>Your <a href="/blog/rental-pricing-strategy">rental pricing strategy</a> is built around maximum lease stability</li>
+</ul>
+<h2 id="when-furnished-is-a-strong-strategy">When Furnished Is a Strong Strategy</h2>
+<p><strong>Furnished wins when:</strong></p>
+<ul>
+<li>Your market has clear demand from corporate, medical, or academic tenants</li>
+<li>You're near an Airbnb/STR-friendly destination with strong nightly demand</li>
+<li>The income premium clearly exceeds your furniture + management costs</li>
+<li>You want maximum flexibility (furnished properties are easier to sell owner-occupied if you decide to exit)</li>
+<li>You're using the BRRRR or value-add strategy and need to maximize income during a stabilization period</li>
+</ul>
+<h2 id="tax-considerations-for-furnished-rentals">Tax Considerations for Furnished Rentals</h2>
+<p>Furniture purchased for rental properties is depreciable. Under Section 179 and bonus depreciation rules (consult a tax professional for current rules), you may be able to deduct the full cost of furniture in the year purchased rather than depreciating it over 5–7 years.</p>
+<p>This accelerated deduction can significantly improve the after-tax return on your furnishing investment. Our <a href="/blog/rental-property-depreciation-guide">rental property depreciation guide</a> covers how to structure these deductions effectively.</p>
+<h2 id="summary-making-the-decision">Summary: Making the Decision</h2>
+<p>Use this decision framework:</p>
+<p><strong>Choose furnished if:</strong> You have documented local demand from corporate/medical/academic tenants, the income premium clearly exceeds 15% above market unfurnished rent, and you're prepared for higher turnover and management.</p>
+<p><strong>Choose unfurnished if:</strong> You're in a standard residential market targeting families and long-term professionals, or if the premium is below 10% and doesn't justify the investment.</p>
+<p><strong>Choose medium-term furnished if:</strong> You want higher income than unfurnished but less management than daily STR, and you're near hospitals, corporate campuses, or universities.</p>
+<p>Run the <a href="/blog/rental-property-cash-flow-analysis">rental property cash flow analysis</a> for both scenarios with realistic vacancy assumptions before deciding. The math will make the right choice clear—and the right choice is always the one that maximizes your net income after all costs, not just your headline rent.</p>
+<p><a href="https://www.furnishedfinder.com/resources/travel-nurse-housing-guide" rel="noopener" target="_blank">Furnished Finder's landlord resource center</a> provides data on travel nurse housing demand by city—useful for assessing furnished rental viability near medical centers.</p>
+<p>For more strategies to increase overall rental income, visit our <a href="/blog/maximize-rental-income-strategies">comprehensive guide to maximizing rental income</a>.</p>
+1d:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$23"}}]
+1e:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","pricing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"pricing"}],["$","span","rental strategy",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental strategy"}],["$","span","furnished rentals",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"furnished rentals"}]]}]
+1f:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Pricing"]}],["$","$L10",null,{"href":"/blog/category/pricing","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","adjust-rent-pricing-inflation-2026",{"children":["$","$L10",null,{"href":"/blog/adjust-rent-pricing-inflation-2026","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Adjust Rent Pricing for Inflation in 2026"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","albuquerque-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/albuquerque-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Albuquerque Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","anaheim-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/anaheim-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Anaheim Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}],["$","li","anchorage-cost-of-property-management",{"children":["$","$L10",null,{"href":"/blog/anchorage-cost-of-property-management","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Anchorage Cost of Property Management"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}]]}]]}]
+20:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","rent-pricing-strategy-furnished-rentals",{"href":"/blog/rent-pricing-strategy-furnished-rentals","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Rent Pricing Strategy for Furnished Rentals"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","laundry-room-revenue-rental",{"href":"/blog/laundry-room-revenue-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Adding Laundry Room Revenue to Your Rental"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","adu-rental-income",{"href":"/blog/adu-rental-income","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Pricing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"ADU Rental Income: How Much Can You Earn?"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}]]}]]}]
+21:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-income-premium-how-much-more-can-furnished-rentals-earn",{"className":"","children":["$","a",null,{"href":"#the-income-premium-how-much-more-can-furnished-rentals-earn","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Income Premium: How Much More Can Furnished Rentals Earn?"}]}],["$","li","furnished-rental-cost-analysis",{"className":"","children":["$","a",null,{"href":"#furnished-rental-cost-analysis","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furnished Rental Cost Analysis"}]}],["$","li","one-time-furniture-investment",{"className":"ml-4","children":["$","a",null,{"href":"#one-time-furniture-investment","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"One-Time Furniture Investment"}]}],["$","li","ongoing-furnished-rental-costs",{"className":"ml-4","children":["$","a",null,{"href":"#ongoing-furnished-rental-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ongoing Furnished Rental Costs"}]}],["$","li","furnished-vs-unfurnished-direct-financial-comparison",{"className":"","children":["$","a",null,{"href":"#furnished-vs-unfurnished-direct-financial-comparison","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furnished vs. Unfurnished: Direct Financial Comparison"}]}],["$","li","tenant-profile-differences",{"className":"","children":["$","a",null,{"href":"#tenant-profile-differences","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Profile Differences"}]}],["$","li","unfurnished-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#unfurnished-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Unfurnished Tenants"}]}],["$","li","furnished-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#furnished-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furnished Tenants"}]}],["$","li","market-demand-check-is-there-a-market-for-furnished-rentals",{"className":"","children":["$","a",null,{"href":"#market-demand-check-is-there-a-market-for-furnished-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Market Demand Check: Is There a Market for Furnished Rentals?"}]}],["$","li","furnished-rentals-vs-short-term-rentals-the-spectrum",{"className":"","children":["$","a",null,{"href":"#furnished-rentals-vs-short-term-rentals-the-spectrum","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furnished Rentals vs. Short-Term Rentals: The Spectrum"}]}],["$","li","partial-furnishing-a-middle-ground",{"className":"","children":["$","a",null,{"href":"#partial-furnishing-a-middle-ground","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Partial Furnishing: A Middle Ground"}]}],["$","li","when-unfurnished-is-almost-always-better",{"className":"","children":["$","a",null,{"href":"#when-unfurnished-is-almost-always-better","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When Unfurnished Is Almost Always Better"}]}],["$","li","when-furnished-is-a-strong-strategy",{"className":"","children":["$","a",null,{"href":"#when-furnished-is-a-strong-strategy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When Furnished Is a Strong Strategy"}]}],"$L24","$L25"]}]]}]}]
+22:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+24:["$","li","tax-considerations-for-furnished-rentals",{"className":"","children":["$","a",null,{"href":"#tax-considerations-for-furnished-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Considerations for Furnished Rentals"}]}]
+25:["$","li","summary-making-the-decision",{"className":"","children":["$","a",null,{"href":"#summary-making-the-decision","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary: Making the Decision"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Furnished vs Unfurnished Rental: Which Earns More? | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Compare furnished vs unfurnished rental income, costs, and tenant profiles to decide which strategy maximizes your returns based on your market and property type."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"pricing,rental strategy,furnished rentals"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/furnished-vs-unfurnished-rental"}],["$","meta","6",{"property":"og:title","content":"Furnished vs Unfurnished Rental: Which Earns More?"}],["$","meta","7",{"property":"og:description","content":"Compare furnished vs unfurnished rental income, costs, and tenant profiles to decide which strategy maximizes your returns based on your market and property type."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/furnished-vs-unfurnished-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Furnished vs Unfurnished Rental: Which Earns More?"}],["$","meta","15",{"name":"twitter:description","content":"Compare furnished vs unfurnished rental income, costs, and tenant profiles to decide which strategy maximizes your returns based on your market and property type."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

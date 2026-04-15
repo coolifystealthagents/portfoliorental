@@ -1,0 +1,309 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","damage-prevention-short-term-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","damage-prevention-short-term-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","damage-prevention-short-term-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Damage Prevention Strategies for Short-Term Rentals\",\"description\":\"Protect your STR investment with proven damage prevention strategies covering guest screening, deposits, smart tech, and durable furnishings. Reduce risk and stress.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/damage-prevention-short-term-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Damage Prevention Strategies for Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/damage-prevention-short-term-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Damage Prevention Strategies for Short-Term Rentals"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-real-risk-landscape-what-actually-happens",{"className":"","children":["$","a",null,{"href":"#the-real-risk-landscape-what-actually-happens","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Real Risk Landscape: What Actually Happens"}]}],["$","li","layer-1-guest-screening",{"className":"","children":["$","a",null,{"href":"#layer-1-guest-screening","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 1: Guest Screening"}]}],["$","li","screening-on-airbnb-and-vrbo",{"className":"ml-4","children":["$","a",null,{"href":"#screening-on-airbnb-and-vrbo","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Screening on Airbnb and VRBO"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a"]}]}]]}],"$L2b","$L2c"]}],"$L2d","$L2e"]}],"$L2f"]}]]}],"$L30"]
+11:["$","li","red-flags-to-watch-for",{"className":"ml-4","children":["$","a",null,{"href":"#red-flags-to-watch-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Red Flags to Watch For"}]}]
+12:["$","li","setting-clear-booking-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#setting-clear-booking-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Clear Booking Requirements"}]}]
+13:["$","li","layer-2-smart-property-design",{"className":"","children":["$","a",null,{"href":"#layer-2-smart-property-design","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 2: Smart Property Design"}]}]
+14:["$","li","flooring",{"className":"ml-4","children":["$","a",null,{"href":"#flooring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Flooring"}]}]
+15:["$","li","furniture-and-upholstery",{"className":"ml-4","children":["$","a",null,{"href":"#furniture-and-upholstery","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furniture and Upholstery"}]}]
+16:["$","li","walls-and-surfaces",{"className":"ml-4","children":["$","a",null,{"href":"#walls-and-surfaces","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Walls and Surfaces"}]}]
+17:["$","li","bedding-and-linens",{"className":"ml-4","children":["$","a",null,{"href":"#bedding-and-linens","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedding and Linens"}]}]
+18:["$","li","layer-3-smart-technology-for-prevention-and-documentation",{"className":"","children":["$","a",null,{"href":"#layer-3-smart-technology-for-prevention-and-documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 3: Smart Technology for Prevention and Documentation"}]}]
+19:["$","li","noise-monitoring-devices",{"className":"ml-4","children":["$","a",null,{"href":"#noise-monitoring-devices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Noise Monitoring Devices"}]}]
+1a:["$","li","smart-locks-and-access-control",{"className":"ml-4","children":["$","a",null,{"href":"#smart-locks-and-access-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Locks and Access Control"}]}]
+1b:["$","li","exterior-security-cameras",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-security-cameras","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Security Cameras"}]}]
+1c:["$","li","occupancy-sensors",{"className":"ml-4","children":["$","a",null,{"href":"#occupancy-sensors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Occupancy Sensors"}]}]
+1d:["$","li","layer-4-clear-communication-and-house-rules",{"className":"","children":["$","a",null,{"href":"#layer-4-clear-communication-and-house-rules","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 4: Clear Communication and House Rules"}]}]
+1e:["$","li","house-rules-in-the-listing",{"className":"ml-4","children":["$","a",null,{"href":"#house-rules-in-the-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"House Rules in the Listing"}]}]
+1f:["$","li","welcome-book-reinforcement",{"className":"ml-4","children":["$","a",null,{"href":"#welcome-book-reinforcement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Welcome Book Reinforcement"}]}]
+20:["$","li","pre-arrival-reminder-message",{"className":"ml-4","children":["$","a",null,{"href":"#pre-arrival-reminder-message","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pre-Arrival Reminder Message"}]}]
+21:["$","li","layer-5-security-deposits-and-damage-coverage",{"className":"","children":["$","a",null,{"href":"#layer-5-security-deposits-and-damage-coverage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 5: Security Deposits and Damage Coverage"}]}]
+22:["$","li","airbnb-aircover",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-aircover","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb AirCover"}]}]
+23:["$","li","vrbo-s-property-damage-protection",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-s-property-damage-protection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO's Property Damage Protection"}]}]
+24:["$","li","traditional-security-deposits",{"className":"ml-4","children":["$","a",null,{"href":"#traditional-security-deposits","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Traditional Security Deposits"}]}]
+25:["$","li","short-term-rental-insurance",{"className":"ml-4","children":["$","a",null,{"href":"#short-term-rental-insurance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Short-Term Rental Insurance"}]}]
+26:["$","li","layer-6-post-checkout-inspection-protocol",{"className":"","children":["$","a",null,{"href":"#layer-6-post-checkout-inspection-protocol","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 6: Post-Checkout Inspection Protocol"}]}]
+27:["$","li","your-inspection-process",{"className":"ml-4","children":["$","a",null,{"href":"#your-inspection-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Your Inspection Process"}]}]
+28:["$","li","creating-a-damage-documentation-record",{"className":"ml-4","children":["$","a",null,{"href":"#creating-a-damage-documentation-record","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Creating a Damage Documentation Record"}]}]
+29:["$","li","what-to-do-when-damage-occurs",{"className":"","children":["$","a",null,{"href":"#what-to-do-when-damage-occurs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Do When Damage Occurs"}]}]
+2a:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+31:T3a8e,<p>Property damage is the fear that keeps many potential short-term rental hosts on the sidelines — and a recurring source of stress for those already in the business. The good news: while you can never eliminate risk entirely, a layered damage prevention strategy can dramatically reduce the frequency and severity of incidents.</p>
+<p>This guide covers every level of <strong>damage prevention for short-term rentals</strong>: from pre-booking screening to smart property design, from technology tools to insurance backstops. The hosts who handle this best don't just react to damage — they systematically prevent it.</p>
+<hr>
+<h2 id="the-real-risk-landscape-what-actually-happens">The Real Risk Landscape: What Actually Happens</h2>
+<p>Before overengineering your prevention strategy, it helps to understand what kinds of damage are most common in short-term rentals:</p>
+<p><strong>Most common incidents (in order of frequency):</strong></p>
+<ol>
+<li>Stains on linens, towels, and upholstered furniture</li>
+<li>Broken glassware and dishes</li>
+<li>Minor wall scuffs and paint damage</li>
+<li>Stained carpets (food, drink, pet accidents)</li>
+<li>Damaged or broken small appliances</li>
+<li>Missing or taken items (remotes, utensils, décor)</li>
+<li>Excessive mess requiring extra cleaning time</li>
+<li>Unauthorized pets or additional guests</li>
+</ol>
+<p><strong>Less common but higher cost:</strong></p>
+<ul>
+<li>Broken furniture or large appliances</li>
+<li>Water damage (bathtub overflow, flooded kitchen)</li>
+<li>Unauthorized parties with significant property damage</li>
+<li>Theft or vandalism</li>
+</ul>
+<p>Understanding the frequency vs. severity tradeoff helps you allocate your prevention budget wisely. You're most likely to encounter minor, easily managed issues — but you need backstops for the rare catastrophic ones.</p>
+<p>For the full picture of managing your STR business, see our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="layer-1-guest-screening">Layer 1: Guest Screening</h2>
+<p>The most effective damage prevention happens before a guest ever sets foot in your property.</p>
+<h3 id="screening-on-airbnb-and-vrbo">Screening on Airbnb and VRBO</h3>
+<p>Airbnb and VRBO handle most verification for you (ID verification, payment verification), but you can add additional screening criteria:</p>
+<ul>
+<li><strong>Require verified ID:</strong> Enable ID verification as a booking requirement</li>
+<li><strong>Minimum review threshold:</strong> Only accept guests with 3+ positive reviews (for Airbnb, this is configurable)</li>
+<li><strong>Review profiles carefully:</strong> Read previous host reviews before accepting a booking; look for mentions of noise, parties, or cleanliness issues</li>
+<li><strong>Enable instant book with conditions:</strong> You can require verified government ID and no negative reviews for instant book guests</li>
+<li><strong>Message new guests:</strong> Before accepting a request, send a quick message to gauge communication style</li>
+</ul>
+<h3 id="red-flags-to-watch-for">Red Flags to Watch For</h3>
+<p>Be alert to guests who:</p>
+<ul>
+<li>Book last-minute with vague travel purposes ("just need a place")</li>
+<li>Request to bring significantly more guests than the listing max</li>
+<li>Ask about whether the area is "private" or whether neighbors can see the property</li>
+<li>Decline to explain why they're visiting your area</li>
+<li>Have no reviews or only reviews from friends/family</li>
+</ul>
+<h3 id="setting-clear-booking-requirements">Setting Clear Booking Requirements</h3>
+<p>In your listing, state clearly:</p>
+<ul>
+<li>Minimum age requirements (if any)</li>
+<li>No-party policy</li>
+<li>Pet policy</li>
+<li>Maximum guest count (and that it will be enforced)</li>
+</ul>
+<hr>
+<h2 id="layer-2-smart-property-design">Layer 2: Smart Property Design</h2>
+<p>The most damage-resistant STR properties aren't just lucky — they're designed that way. Make smart material choices from the start.</p>
+<h3 id="flooring">Flooring</h3>
+<table>
+<thead>
+<tr>
+<th>High-Risk Material</th>
+<th>Better Alternative</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Light carpet</td>
+<td>Luxury vinyl plank (LVP) or tile</td>
+</tr>
+<tr>
+<td>Hardwood in wet areas</td>
+<td>Waterproof LVP</td>
+</tr>
+<tr>
+<td>White/cream carpet anywhere</td>
+<td>Dark or patterned area rugs over hard floors</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Best choice for STRs:</strong> Luxury vinyl plank flooring throughout, with washable area rugs in living areas and bedrooms. LVP is scratch-resistant, waterproof, and easy to clean.</p>
+<h3 id="furniture-and-upholstery">Furniture and Upholstery</h3>
+<ul>
+<li>Choose <strong>performance fabrics</strong> (Crypton, Sunbrella, Boucle blends) that repel spills and stains</li>
+<li>Avoid white or cream sofas — opt for mid-tone grays, navies, and greens</li>
+<li>Use <strong>slipcovers</strong> on upholstered pieces for easy washing</li>
+<li>Choose furniture with <strong>rounded edges</strong> to reduce damage from bumps and scrapes</li>
+<li>Avoid glass-top coffee tables — they break and cause injury. <a href="https://www.cpsc.gov/Safety-Education/Safety-Guides/Furnishings">CPSC tracks furniture hazards</a> for safety guidance.</li>
+</ul>
+<p>For furnishing strategy, see our <a href="/blog/furnishing-guide-vacation-rental">furnishing guide for vacation rental properties</a>.</p>
+<h3 id="walls-and-surfaces">Walls and Surfaces</h3>
+<ul>
+<li>Paint with <strong>eggshell or satin finish</strong> (easier to wipe clean than flat paint)</li>
+<li>Keep a small touch-up paint kit in a labeled container for minor scuffs</li>
+<li>Use <strong>tile or peel-and-stick backsplash</strong> in kitchen areas prone to splatter</li>
+<li>Install <strong>corner guards</strong> on high-traffic corners</li>
+</ul>
+<h3 id="bedding-and-linens">Bedding and Linens</h3>
+<ul>
+<li>Use <strong>mattress protectors</strong> on every mattress (waterproof, washable)</li>
+<li>Choose <strong>white commercial linens</strong> — they can be bleached and laundered at high temps</li>
+<li>Use <strong>pillow protectors</strong> under pillowcases</li>
+<li>Avoid expensive decorative throws in areas where they'll receive heavy use</li>
+</ul>
+<hr>
+<h2 id="layer-3-smart-technology-for-prevention-and-documentation">Layer 3: Smart Technology for Prevention and Documentation</h2>
+<p>Technology can deter problems before they happen and document issues when they do.</p>
+<h3 id="noise-monitoring-devices">Noise Monitoring Devices</h3>
+<p>Devices like <strong>Minut</strong> and <strong>NoiseAware</strong> monitor decibel levels without recording conversations (maintaining guest privacy). They alert you when noise exceeds a threshold — allowing you to reach out before a party escalates.</p>
+<p><strong>Best practices:</strong></p>
+<ul>
+<li>Disclose noise monitoring in your listing (required by Airbnb)</li>
+<li>Set alert thresholds appropriate to your property type and neighborhood</li>
+<li>Have a clear, calm escalation script ready for when you need to reach out</li>
+</ul>
+<h3 id="smart-locks-and-access-control">Smart Locks and Access Control</h3>
+<p>Smart locks (Schlage Encode, Yale Assure, August) provide:</p>
+<ul>
+<li>Unique codes per guest (so old codes don't work after checkout)</li>
+<li>Access logs showing who entered and when</li>
+<li>Remote lock/unlock capability for emergencies</li>
+</ul>
+<p>Access logs can be valuable documentation in damage disputes — they show exactly when guests entered and exited.</p>
+<h3 id="exterior-security-cameras">Exterior Security Cameras</h3>
+<p>Cameras on driveways, parking areas, and entry points (disclosed in your listing) deter parties and unauthorized guests without invading guest privacy. Specifically:</p>
+<ul>
+<li><strong>Do:</strong> Camera at front door, in driveway, covering parking area</li>
+<li><strong>Don't:</strong> Any interior cameras, including "hidden" cameras, are a violation of Airbnb's policy and often illegal. The <a href="https://www.ftc.gov/legal-library/browse/cases-proceedings">FTC addresses surveillance</a> and consumer privacy laws.</li>
+</ul>
+<h3 id="occupancy-sensors">Occupancy Sensors</h3>
+<p>Devices like Minut also track occupancy count and can alert you if significantly more people than booked are in the property.</p>
+<hr>
+<h2 id="layer-4-clear-communication-and-house-rules">Layer 4: Clear Communication and House Rules</h2>
+<p>Many guests who cause damage weren't malicious — they simply didn't know a rule or expectation. Make your expectations impossible to miss.</p>
+<h3 id="house-rules-in-the-listing">House Rules in the Listing</h3>
+<p>Your Airbnb/VRBO listing should explicitly state:</p>
+<ul>
+<li>No parties or events</li>
+<li>No additional guests beyond the booking</li>
+<li>No smoking (inside and, if applicable, on property)</li>
+<li>Pet policy</li>
+<li>Quiet hours</li>
+<li>Pool/hot tub rules if applicable</li>
+</ul>
+<h3 id="welcome-book-reinforcement">Welcome Book Reinforcement</h3>
+<p>Restate key rules in your <a href="/blog/welcome-book-vacation-rental">welcome book</a> — not as warnings, but as information. "Our neighbors are lovely, so we maintain quiet after 10pm" lands better than "NO NOISE AFTER 10PM."</p>
+<h3 id="pre-arrival-reminder-message">Pre-Arrival Reminder Message</h3>
+<p>In your pre-arrival message, briefly mention key policies:</p>
+<blockquote>
+<p>"Just a friendly reminder that we're a no-smoking, no-party property. We've found that guests who read through the house rules in the welcome book have the smoothest stays — it's all the info you need."</p>
+</blockquote>
+<hr>
+<h2 id="layer-5-security-deposits-and-damage-coverage">Layer 5: Security Deposits and Damage Coverage</h2>
+<p>Even with the best prevention, damage happens. Here is your financial backstop.</p>
+<h3 id="airbnb-aircover">Airbnb AirCover</h3>
+<p>Airbnb's <strong>AirCover for Hosts</strong> provides damage protection up to $3 million for qualifying damage caused by guests. This includes:</p>
+<ul>
+<li>Property damage</li>
+<li>Deep cleaning costs</li>
+<li>Income loss during covered repairs</li>
+<li>Pet damage</li>
+</ul>
+<p><strong>Important caveats:</strong></p>
+<ul>
+<li>You must file a claim within 14 days of checkout or before the next guest checks in</li>
+<li>You need documentation (photos, receipts)</li>
+<li>Not all damage qualifies — review Airbnb's policy carefully</li>
+</ul>
+<h3 id="vrbo-s-property-damage-protection">VRBO's Property Damage Protection</h3>
+<p>VRBO offers a similar program through their <strong>Property Damage Protection</strong> option, which allows guests to pay a small fee in lieu of a traditional security deposit. Hosts are reimbursed for covered damage up to the policy limit.</p>
+<h3 id="traditional-security-deposits">Traditional Security Deposits</h3>
+<p>Some hosts prefer charging a security deposit directly (most feasible on direct booking channels or through property management systems). Considerations:</p>
+<ul>
+<li>Deters some guests (especially on price-competitive platforms)</li>
+<li>Provides a direct mechanism for recouping damage costs</li>
+<li>More administrative work to process and return</li>
+</ul>
+<h3 id="short-term-rental-insurance">Short-Term Rental Insurance</h3>
+<p>The AirCover and platform damage programs are not substitutes for proper <strong>short-term rental insurance</strong>. You need a policy specifically designed for STR properties that covers:</p>
+<ul>
+<li>Liability (guest injury)</li>
+<li>Property damage beyond platform coverage</li>
+<li>Loss of income during covered repairs</li>
+</ul>
+<p>Review <a href="https://www.investopedia.com/best-landlord-insurance-5179598">Investopedia's rental insurance guide</a> for policy comparisons. See our guide to <a href="/blog/short-term-rental-insurance">short-term rental insurance</a> for a full breakdown of policy types and what to look for.</p>
+<hr>
+<h2 id="layer-6-post-checkout-inspection-protocol">Layer 6: Post-Checkout Inspection Protocol</h2>
+<p>A thorough inspection after every guest checkout is your early warning system and documentation foundation.</p>
+<h3 id="your-inspection-process">Your Inspection Process</h3>
+<ol>
+<li><strong>Review cleaner's photos</strong> before inspecting (your cleaner should send photos; see <a href="/blog/cleaning-service-short-term-rental">cleaning service guide</a>)</li>
+<li><strong>Walk every room</strong> systematically using a checklist</li>
+<li><strong>Test all appliances</strong> — TV remotes, kitchen appliances, A/C, locks</li>
+<li><strong>Check inventory</strong> — remote controls, kitchen items, decorative items</li>
+<li><strong>Photograph any damage</strong> immediately with timestamps</li>
+<li><strong>File claims promptly</strong> — Airbnb requires claims within 14 days of checkout</li>
+</ol>
+<h3 id="creating-a-damage-documentation-record">Creating a Damage Documentation Record</h3>
+<p>Maintain a simple log:</p>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Guest</th>
+<th>Issue</th>
+<th>Photos</th>
+<th>Action Taken</th>
+<th>Amount Recovered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[Date]</td>
+<td>[Name]</td>
+<td>Broken wine glass</td>
+<td>Yes</td>
+<td>No claim (minor)</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>[Date]</td>
+<td>[Name]</td>
+<td>Carpet stain</td>
+<td>Yes</td>
+<td>AirCover claim filed</td>
+<td>$180</td>
+</tr>
+</tbody>
+</table>
+<p>This record helps you identify patterns (a specific item that keeps getting damaged, a type of guest that correlates with issues) and supports future claims with historical context.</p>
+<hr>
+<h2 id="what-to-do-when-damage-occurs">What to Do When Damage Occurs</h2>
+<ol>
+<li><strong>Document everything</strong> — photos, timestamps, receipts</li>
+<li><strong>Contact the guest first</strong> (for minor issues, this is often sufficient and faster than a platform claim)</li>
+<li><strong>File a platform claim</strong> if the guest doesn't respond or disputes the charge</li>
+<li><strong>Contact your insurance</strong> for damage exceeding platform coverage limits</li>
+<li><strong>Get repair quotes and receipts</strong> — you need these for any claim</li>
+</ol>
+<p>Stay calm and professional throughout. Getting emotional in communications with guests or platforms undermines your credibility in dispute resolution.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Damage prevention in short-term rentals isn't about being paranoid — it's about being systematic. Layer your defenses: screen guests carefully, design for durability, use smart technology, communicate expectations clearly, maintain appropriate coverage, and inspect thoroughly.</p>
+<p>Most guests treat your property with respect. The systems in this guide exist for the exceptions — and they ensure that when those exceptions happen, the impact on your business is minimal.</p>
+<p>For the complete framework on managing a successful STR portfolio, visit our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+2b:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$31"}}]
+2c:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","damage prevention",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"damage prevention"}],["$","span","property protection",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property protection"}],["$","span","airbnb hosting",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb hosting"}],["$","span","short-term rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rental"}],["$","span","risk management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"risk management"}]]}]
+2d:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+2e:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","checkout-instructions-template",{"href":"/blog/checkout-instructions-template","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Checkout Instructions Template for STR Guests"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","guest-communication-short-term-rental",{"href":"/blog/guest-communication-short-term-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Guest Communication Templates for Short-Term Rentals"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","liability-protection-short-term-rental",{"href":"/blog/liability-protection-short-term-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Liability Protection for Short-Term Rental Hosts"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}]]}]]}]
+2f:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-real-risk-landscape-what-actually-happens",{"className":"","children":["$","a",null,{"href":"#the-real-risk-landscape-what-actually-happens","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Real Risk Landscape: What Actually Happens"}]}],["$","li","layer-1-guest-screening",{"className":"","children":["$","a",null,{"href":"#layer-1-guest-screening","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 1: Guest Screening"}]}],["$","li","screening-on-airbnb-and-vrbo",{"className":"ml-4","children":["$","a",null,{"href":"#screening-on-airbnb-and-vrbo","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Screening on Airbnb and VRBO"}]}],["$","li","red-flags-to-watch-for",{"className":"ml-4","children":["$","a",null,{"href":"#red-flags-to-watch-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Red Flags to Watch For"}]}],["$","li","setting-clear-booking-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#setting-clear-booking-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Clear Booking Requirements"}]}],["$","li","layer-2-smart-property-design",{"className":"","children":["$","a",null,{"href":"#layer-2-smart-property-design","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 2: Smart Property Design"}]}],["$","li","flooring",{"className":"ml-4","children":["$","a",null,{"href":"#flooring","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Flooring"}]}],["$","li","furniture-and-upholstery",{"className":"ml-4","children":["$","a",null,{"href":"#furniture-and-upholstery","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Furniture and Upholstery"}]}],["$","li","walls-and-surfaces",{"className":"ml-4","children":["$","a",null,{"href":"#walls-and-surfaces","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Walls and Surfaces"}]}],["$","li","bedding-and-linens",{"className":"ml-4","children":["$","a",null,{"href":"#bedding-and-linens","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bedding and Linens"}]}],["$","li","layer-3-smart-technology-for-prevention-and-documentation",{"className":"","children":["$","a",null,{"href":"#layer-3-smart-technology-for-prevention-and-documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 3: Smart Technology for Prevention and Documentation"}]}],["$","li","noise-monitoring-devices",{"className":"ml-4","children":["$","a",null,{"href":"#noise-monitoring-devices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Noise Monitoring Devices"}]}],["$","li","smart-locks-and-access-control",{"className":"ml-4","children":["$","a",null,{"href":"#smart-locks-and-access-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Locks and Access Control"}]}],["$","li","exterior-security-cameras",{"className":"ml-4","children":["$","a",null,{"href":"#exterior-security-cameras","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Exterior Security Cameras"}]}],["$","li","occupancy-sensors",{"className":"ml-4","children":["$","a",null,{"href":"#occupancy-sensors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Occupancy Sensors"}]}],"$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f"]}]]}]}]
+30:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+32:["$","li","layer-4-clear-communication-and-house-rules",{"className":"","children":["$","a",null,{"href":"#layer-4-clear-communication-and-house-rules","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 4: Clear Communication and House Rules"}]}]
+33:["$","li","house-rules-in-the-listing",{"className":"ml-4","children":["$","a",null,{"href":"#house-rules-in-the-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"House Rules in the Listing"}]}]
+34:["$","li","welcome-book-reinforcement",{"className":"ml-4","children":["$","a",null,{"href":"#welcome-book-reinforcement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Welcome Book Reinforcement"}]}]
+35:["$","li","pre-arrival-reminder-message",{"className":"ml-4","children":["$","a",null,{"href":"#pre-arrival-reminder-message","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pre-Arrival Reminder Message"}]}]
+36:["$","li","layer-5-security-deposits-and-damage-coverage",{"className":"","children":["$","a",null,{"href":"#layer-5-security-deposits-and-damage-coverage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 5: Security Deposits and Damage Coverage"}]}]
+37:["$","li","airbnb-aircover",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-aircover","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb AirCover"}]}]
+38:["$","li","vrbo-s-property-damage-protection",{"className":"ml-4","children":["$","a",null,{"href":"#vrbo-s-property-damage-protection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"VRBO's Property Damage Protection"}]}]
+39:["$","li","traditional-security-deposits",{"className":"ml-4","children":["$","a",null,{"href":"#traditional-security-deposits","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Traditional Security Deposits"}]}]
+3a:["$","li","short-term-rental-insurance",{"className":"ml-4","children":["$","a",null,{"href":"#short-term-rental-insurance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Short-Term Rental Insurance"}]}]
+3b:["$","li","layer-6-post-checkout-inspection-protocol",{"className":"","children":["$","a",null,{"href":"#layer-6-post-checkout-inspection-protocol","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Layer 6: Post-Checkout Inspection Protocol"}]}]
+3c:["$","li","your-inspection-process",{"className":"ml-4","children":["$","a",null,{"href":"#your-inspection-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Your Inspection Process"}]}]
+3d:["$","li","creating-a-damage-documentation-record",{"className":"ml-4","children":["$","a",null,{"href":"#creating-a-damage-documentation-record","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Creating a Damage Documentation Record"}]}]
+3e:["$","li","what-to-do-when-damage-occurs",{"className":"","children":["$","a",null,{"href":"#what-to-do-when-damage-occurs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Do When Damage Occurs"}]}]
+3f:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Damage Prevention Strategies for Short-Term Rentals | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Protect your STR investment with proven damage prevention strategies covering guest screening, deposits, smart tech, and durable furnishings. Reduce risk and stress."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"damage prevention,property protection,airbnb hosting,short-term rental,risk management"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/damage-prevention-short-term-rental"}],["$","meta","6",{"property":"og:title","content":"Damage Prevention Strategies for Short-Term Rentals"}],["$","meta","7",{"property":"og:description","content":"Protect your STR investment with proven damage prevention strategies covering guest screening, deposits, smart tech, and durable furnishings. Reduce risk and stress."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/damage-prevention-short-term-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Damage Prevention Strategies for Short-Term Rentals"}],["$","meta","15",{"name":"twitter:description","content":"Protect your STR investment with proven damage prevention strategies covering guest screening, deposits, smart tech, and durable furnishings. Reduce risk and stress."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

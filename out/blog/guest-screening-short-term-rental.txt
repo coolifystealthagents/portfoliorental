@@ -1,0 +1,242 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","guest-screening-short-term-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","guest-screening-short-term-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","guest-screening-short-term-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Guest Screening Strategies for Short-Term Rentals\",\"description\":\"Learn proven guest screening strategies for short-term rentals. Protect your property with ID verification, review checks, and smart Instant Book settings.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/guest-screening-short-term-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Guest Screening Strategies for Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/guest-screening-short-term-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Guest Screening Strategies for Short-Term Rentals"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[9," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-guest-screening-matters",{"className":"","children":["$","a",null,{"href":"#why-guest-screening-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Guest Screening Matters"}]}],["$","li","what-airbnb-allows-and-does-not-allow-in-guest-screening",{"className":"","children":["$","a",null,{"href":"#what-airbnb-allows-and-does-not-allow-in-guest-screening","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Airbnb Allows (and Does Not Allow) in Guest Screening"}]}],["$","li","what-you-can-do",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-can-do","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You CAN Do"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]}]]}],"$L25","$L26"]}],"$L27","$L28"]}],"$L29"]}]]}],"$L2a"]
+11:["$","li","what-you-cannot-do",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-cannot-do","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You CANNOT Do"}]}]
+12:["$","li","instant-book-vs-request-to-book",{"className":"ml-4","children":["$","a",null,{"href":"#instant-book-vs-request-to-book","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Instant Book vs. Request to Book"}]}]
+13:["$","li","configuring-your-instant-book-requirements",{"className":"","children":["$","a",null,{"href":"#configuring-your-instant-book-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Configuring Your Instant Book Requirements"}]}]
+14:["$","li","step-by-step-guest-screening-process",{"className":"","children":["$","a",null,{"href":"#step-by-step-guest-screening-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step-by-Step Guest Screening Process"}]}]
+15:["$","li","step-1-review-the-guest-s-profile",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-review-the-guest-s-profile","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Review the Guest's Profile"}]}]
+16:["$","li","step-2-read-every-review-carefully",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-read-every-review-carefully","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Read Every Review Carefully"}]}]
+17:["$","li","step-3-evaluate-the-inquiry-message",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-evaluate-the-inquiry-message","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Evaluate the Inquiry Message"}]}]
+18:["$","li","step-4-ask-pre-approval-questions",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-ask-pre-approval-questions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Ask Pre-Approval Questions"}]}]
+19:["$","li","step-5-trust-your-instincts",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-trust-your-instincts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Trust Your Instincts"}]}]
+1a:["$","li","red-flags-to-watch-for",{"className":"","children":["$","a",null,{"href":"#red-flags-to-watch-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Red Flags to Watch For"}]}]
+1b:["$","li","the-local-booker",{"className":"ml-4","children":["$","a",null,{"href":"#the-local-booker","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Local Booker"}]}]
+1c:["$","li","the-vague-group-booking",{"className":"ml-4","children":["$","a",null,{"href":"#the-vague-group-booking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Vague Group Booking"}]}]
+1d:["$","li","the-persistent-price-negotiator",{"className":"ml-4","children":["$","a",null,{"href":"#the-persistent-price-negotiator","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Persistent Price Negotiator"}]}]
+1e:["$","li","zero-reviews-high-risk-property-risky-timing",{"className":"ml-4","children":["$","a",null,{"href":"#zero-reviews-high-risk-property-risky-timing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Zero Reviews + High-Risk Property + Risky Timing"}]}]
+1f:["$","li","grammatically-unusual-messages",{"className":"ml-4","children":["$","a",null,{"href":"#grammatically-unusual-messages","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Grammatically Unusual Messages"}]}]
+20:["$","li","third-party-guest-screening-tools",{"className":"","children":["$","a",null,{"href":"#third-party-guest-screening-tools","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Third-Party Guest Screening Tools"}]}]
+21:["$","li","screening-for-direct-bookings",{"className":"","children":["$","a",null,{"href":"#screening-for-direct-bookings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Screening for Direct Bookings"}]}]
+22:["$","li","balancing-screening-with-conversion",{"className":"","children":["$","a",null,{"href":"#balancing-screening-with-conversion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Balancing Screening With Conversion"}]}]
+23:["$","li","what-to-do-when-a-booking-looks-wrong",{"className":"","children":["$","a",null,{"href":"#what-to-do-when-a-booking-looks-wrong","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Do When a Booking Looks Wrong"}]}]
+24:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2b:T3dd6,<p>Every short-term rental host will eventually encounter a challenging guest. The question is not whether it will happen — it is how prepared you are when it does. <strong>Guest screening for short-term rentals</strong> is the most effective tool you have to reduce that risk.</p>
+<p>Screening does not mean being paranoid or discriminating against guests unfairly. It means applying consistent, objective criteria to evaluate who is staying at your property. Done well, it protects your investment, your neighbors, and your hosting reputation without turning away the great guests who make STR hosting worthwhile.</p>
+<p>This guide covers the practical screening strategies experienced hosts use, how to work within platform rules, and what red flags to watch for before approving a booking.</p>
+<hr>
+<h2 id="why-guest-screening-matters">Why Guest Screening Matters</h2>
+<p>The cost of a bad guest can be significant:</p>
+<ul>
+<li>Property damage exceeding normal wear and tear</li>
+<li>Unauthorized parties leading to neighbor complaints or HOA violations</li>
+<li>Negative reviews that damage future bookings</li>
+<li>Platform penalties if a guest complaint escalates to Airbnb</li>
+<li>Insurance claims and policy complications</li>
+</ul>
+<p>Most problem stays are preventable. The majority of difficult guests send signals before they ever arrive — in their profile, their reviews, their inquiry message, or their booking patterns. Screening trains you to read those signals.</p>
+<p>For the broader operational context, see our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="what-airbnb-allows-and-does-not-allow-in-guest-screening">What Airbnb Allows (and Does Not Allow) in Guest Screening</h2>
+<p>Before diving into tactics, understand the rules of the road on Airbnb and similar platforms.</p>
+<h3 id="what-you-can-do">What You CAN Do</h3>
+<ul>
+<li><strong>Require verified government ID:</strong> You can require guests to have ID verification enabled on their Airbnb account before approving a booking</li>
+<li><strong>Require a profile photo:</strong> Guests without profile photos can be declined</li>
+<li><strong>Review guest history:</strong> You can read all reviews previous hosts have left for a guest</li>
+<li><strong>Ask questions about the stay:</strong> You can ask about the purpose of the trip, who is traveling, and specific questions relevant to your property</li>
+<li><strong>Decline bookings:</strong> You can decline a booking request for any reason that is not discriminatory</li>
+</ul>
+<h3 id="what-you-cannot-do">What You CANNOT Do</h3>
+<p>Airbnb's non-discrimination policy (aligned with fair housing principles) prohibits declining bookings based on:</p>
+<ul>
+<li>Race, color, ethnicity, or national origin</li>
+<li>Religion</li>
+<li>Gender or gender identity</li>
+<li>Sexual orientation</li>
+<li>Disability</li>
+<li>Familial status (including families with children)</li>
+<li>Age (in most circumstances)</li>
+</ul>
+<p>Violations of these policies can result in account suspension or removal from the platform. <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp">HUD enforces fair housing</a> laws that apply to all rentals.</p>
+<h3 id="instant-book-vs-request-to-book">Instant Book vs. Request to Book</h3>
+<p>Your screening strategy depends partly on which booking mode you use:</p>
+<ul>
+<li><strong>Request to Book:</strong> Every booking requires your manual approval. Maximum screening control, but slower response time.</li>
+<li><strong>Instant Book:</strong> Guests book immediately without approval. Less control, but favored by Airbnb's algorithm for search visibility.</li>
+</ul>
+<p>You can use Instant Book while still applying pre-screening by configuring requirements that guests must meet before Instant Booking is available to them.</p>
+<hr>
+<h2 id="configuring-your-instant-book-requirements">Configuring Your Instant Book Requirements</h2>
+<p>If you use Instant Book, Airbnb lets you set requirements that guests must meet:</p>
+<p><strong>Recommended Instant Book Settings:</strong></p>
+<ol>
+<li><strong>Verified government ID</strong> — Require that guests have submitted government-issued ID to Airbnb</li>
+<li><strong>Good track record</strong> — Require that guests have no reports of violating Airbnb's rules and have positive reviews from other hosts (where reviews exist)</li>
+<li><strong>Profile photo</strong> — Some hosts enable this as an additional signal</li>
+</ol>
+<p>Even with Instant Book, you retain a <strong>worry-free window</strong> (usually around 24 hours after booking) during which you can cancel without penalty if you identify a concern. Use this window to review the booking and ask any clarifying questions.</p>
+<hr>
+<h2 id="step-by-step-guest-screening-process">Step-by-Step Guest Screening Process</h2>
+<h3 id="step-1-review-the-guest-s-profile">Step 1: Review the Guest's Profile</h3>
+<p>When a booking request or inquiry comes in, go directly to the guest's profile before responding. Look for:</p>
+<p><strong>Profile completeness:</strong></p>
+<ul>
+<li>Does the guest have a profile photo?</li>
+<li>Is there a bio or description? What does it say?</li>
+<li>How long have they been on Airbnb?</li>
+</ul>
+<p><strong>Verification status:</strong></p>
+<ul>
+<li>Has the guest verified their government ID?</li>
+<li>Is their phone number and email verified?</li>
+<li>Is their account linked to social profiles?</li>
+</ul>
+<p><strong>Review history:</strong></p>
+<ul>
+<li>How many previous stays do they have?</li>
+<li>What do other hosts say in their reviews?</li>
+<li>Are there any reviews that mention noise, extra guests, or damage?</li>
+</ul>
+<p>A guest with zero reviews is not automatically a red flag — everyone has a first booking. However, a guest with zero reviews asking to book a large property for a holiday weekend deserves closer scrutiny.</p>
+<h3 id="step-2-read-every-review-carefully">Step 2: Read Every Review Carefully</h3>
+<p>Guest reviews on Airbnb often contain coded language. Hosts who had a bad experience but do not want to "ruin" a guest's profile will write technically positive reviews while subtly hinting at problems.</p>
+<p><strong>Watch for:</strong></p>
+<ul>
+<li>"Good communication" but no mention of the property condition at checkout</li>
+<li>"Would host again" without enthusiasm (hosts often feel obligated to say this)</li>
+<li>Very short reviews that say nothing specific</li>
+<li>Reviews that mention "the guest had a lot of friends over" or "it was a lively stay"</li>
+<li>Any explicit mention of damage, extra guests, or noise issues</li>
+</ul>
+<p>Also check if the guest has left reviews for hosts. The way a guest treats hosts in public reviews reveals their character.</p>
+<h3 id="step-3-evaluate-the-inquiry-message">Step 3: Evaluate the Inquiry Message</h3>
+<p>How a guest reaches out tells you a great deal about how they will behave. Strong indicators:</p>
+<p><strong>Positive signals:</strong></p>
+<ul>
+<li>Detailed inquiry explaining the purpose of the trip</li>
+<li>Mention of who is traveling (family vacation, business trip, couple's weekend)</li>
+<li>Acknowledgment of your house rules</li>
+<li>Polite, professional tone</li>
+<li>Specific questions about the property that show they have read your listing</li>
+</ul>
+<p><strong>Caution signals:</strong></p>
+<ul>
+<li>"Is this place available?" with no other context</li>
+<li>Vague or evasive answers when you ask about the trip</li>
+<li>Immediate pressure on price ("can you do it for $X?")</li>
+<li>Request for cash payment outside the platform</li>
+<li>Asking about your security cameras or noise monitoring devices</li>
+</ul>
+<h3 id="step-4-ask-pre-approval-questions">Step 4: Ask Pre-Approval Questions</h3>
+<p>For requests that need more information, it is entirely appropriate to ask clarifying questions before approving:</p>
+<p><strong>Sample questions:</strong></p>
+<ul>
+<li>"Thanks for reaching out! To confirm, how many guests will be staying?"</li>
+<li>"Could you share a bit about what brings you to [city]?"</li>
+<li>"We have a maximum occupancy of [X] — will this work for your group?"</li>
+<li>"Our house rules include quiet hours after 10 PM — does that work with your plans?"</li>
+</ul>
+<p>The way a guest responds to these questions is informative. A guest who is planning a party but lying about it will often deflect or provide vague answers. A genuinely good guest will answer directly and appreciate the communication.</p>
+<h3 id="step-5-trust-your-instincts">Step 5: Trust Your Instincts</h3>
+<p>After reviewing profiles, reviews, and inquiry messages, you will often have a gut feeling about a booking. That instinct is worth paying attention to — especially for red flags like:</p>
+<ul>
+<li>A guest booking your property but living locally (one of the strongest predictors of party risk)</li>
+<li>Very last-minute bookings for upcoming holidays or weekends</li>
+<li>Requests to bring "a few extra friends" after booking</li>
+<li>Pushback on clearly stated house rules</li>
+</ul>
+<hr>
+<h2 id="red-flags-to-watch-for">Red Flags to Watch For</h2>
+<h3 id="the-local-booker">The Local Booker</h3>
+<p>When a guest's listed location is the same city as your property — especially for a weekend booking — they may be booking for a party or event. Locals rarely need a short-term rental in their own city unless they have a specific reason (home renovation, visiting family, etc.). Ask about their situation before approving.</p>
+<h3 id="the-vague-group-booking">The Vague Group Booking</h3>
+<p>"Me and some friends" for a 3-night weekend booking at your house. How many friends? What are you doing? Any mention of noise or events? This deserves direct questions before approval.</p>
+<h3 id="the-persistent-price-negotiator">The Persistent Price Negotiator</h3>
+<p>Guests who push hard on price before booking sometimes expect to push on rules during the stay. It is not always a reliable indicator, but combined with other signals, it is worth noting.</p>
+<h3 id="zero-reviews-high-risk-property-risky-timing">Zero Reviews + High-Risk Property + Risky Timing</h3>
+<p>A guest with no reviews, booking a large property with a pool or backyard, for a Saturday night in a holiday month, should be screened carefully regardless of their profile.</p>
+<h3 id="grammatically-unusual-messages">Grammatically Unusual Messages</h3>
+<p>Sometimes inquiry messages are sent by bots or by guests using the account of someone else. Unusual grammar, generic phrasing, or messages that do not reference your listing can indicate something is off.</p>
+<hr>
+<h2 id="third-party-guest-screening-tools">Third-Party Guest Screening Tools</h2>
+<p>Several companies offer additional guest screening capabilities beyond what Airbnb provides natively:</p>
+<p><strong>Autohost:</strong> Uses AI to screen guests and flag risk factors before a booking is confirmed. Integrates with major PMS platforms.</p>
+<p><strong>Superhog:</strong> Provides guest identity verification, background checks, and a damage guarantee. Used alongside Airbnb's own protections.</p>
+<p><strong>Safely:</strong> Offers guest screening and insurance products designed specifically for vacation rental hosts.</p>
+<p>These tools are especially valuable for:</p>
+<ul>
+<li>Hosts using direct booking channels where Airbnb's verification is absent</li>
+<li>Hosts managing high-value properties where damage risk is greater</li>
+<li>Property managers operating multiple units with higher guest volume</li>
+</ul>
+<hr>
+<h2 id="screening-for-direct-bookings">Screening for Direct Bookings</h2>
+<p>When guests book directly through your website (outside of Airbnb), you are without the platform's built-in ID verification and review system. This requires a more active screening approach:</p>
+<ol>
+<li><strong>Collect government ID</strong> from all guests before confirming direct bookings. The <a href="https://www.ftc.gov/business-guidance/privacy-security">FTC covers identity verification</a> best practices.</li>
+<li><strong>Use a rental agreement</strong> that guests must sign digitally before the stay</li>
+<li><strong>Run background checks</strong> using tools like Autohost or Superhog</li>
+<li><strong>Require a damage deposit</strong> for high-value properties</li>
+<li><strong>Screen social media</strong> profiles where available and where the guest has shared them</li>
+</ol>
+<p>Our <a href="/blog/vacation-rental-property-management">vacation rental property management</a> guide covers direct booking operations in more detail.</p>
+<hr>
+<h2 id="balancing-screening-with-conversion">Balancing Screening With Conversion</h2>
+<p>There is a tension in aggressive guest screening: turn away too many guests and your occupancy suffers. The goal is not to screen out every risk — it is to screen out genuine risk while welcoming the vast majority of guests who are exactly who they appear to be.</p>
+<p>Best practice is to screen consistently using your criteria rather than screening reactively when you have a bad feeling. Consistent systems protect you from both bad guests and from the appearance of inconsistency or discrimination.</p>
+<p>Also consider that your house rules, <a href="/blog/self-check-in-airbnb">self check-in airbnb</a> setup, and noise monitoring tools provide protection during the stay that supplements your pre-booking screening. No screening process is perfect — layering protections is the most effective approach.</p>
+<hr>
+<h2 id="what-to-do-when-a-booking-looks-wrong">What to Do When a Booking Looks Wrong</h2>
+<p>If you have reviewed a booking and have legitimate concerns:</p>
+<ol>
+<li><strong>Send a polite message</strong> asking clarifying questions. Give the guest a chance to explain.</li>
+<li><strong>Use your cancellation window</strong> if you are on Instant Book and something concerning surfaces</li>
+<li><strong>Decline the request</strong> if you are on Request to Book — you do not need to provide a detailed reason</li>
+<li><strong>Contact Airbnb support</strong> if you need guidance on whether your concern warrants a cancellation without penalty</li>
+</ol>
+<p>Document your reasoning. <a href="https://www.nar.realtor/fair-housing">NAR provides discrimination guidance</a> for property operators. If you are consistently declining certain types of requests, make sure your criteria are objective and non-discriminatory.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Effective guest screening is one of the highest-leverage skills in short-term rental management. It does not require paranoia or hostility — it requires systems, consistency, and attention to the signals that guests send before they ever arrive.</p>
+<p>Build a screening routine that feels natural: review profiles, read reviews carefully, evaluate inquiry messages, ask clarifying questions, and trust your instincts. Over time, you will develop an intuitive ability to distinguish the guests who will love your property from those who will test it.</p>
+<p>For a complete guide to protecting your property and hosting professionally, explore our <a href="/blog/airbnb-property-management-tips">airbnb property management tips</a> and <a href="/blog/house-rules-template-short-term-rental">house rules template for short-term rentals</a>.</p>
+<p><strong>Guest Screening Quick Reference:</strong></p>
+<ul>
+<li>Require verified government ID for all bookings</li>
+<li>Read every review on a guest's profile before approving</li>
+<li>Ask direct questions when anything is unclear</li>
+<li>Watch for local bookers, vague group bookings, and last-minute holiday requests</li>
+<li>Use third-party screening tools for direct bookings and high-value properties</li>
+<li>Layer screening with house rules, noise monitoring, and damage protection</li>
+</ul>
+25:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2b"}}]
+26:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","guest screening",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"guest screening"}],["$","span","short-term rentals",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rentals"}],["$","span","airbnb",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb"}],["$","span","property protection",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property protection"}],["$","span","host safety",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"host safety"}]]}]
+27:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+28:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","airbnb-hoa-rules-restrictions",{"href":"/blog/airbnb-hoa-rules-restrictions","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb and HOA Rules: Navigating Restrictions"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","albuquerque-short-term-rental-regulations",{"href":"/blog/albuquerque-short-term-rental-regulations","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Albuquerque Short-Term Rental Regulations"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","anaheim-short-term-rental-regulations",{"href":"/blog/anaheim-short-term-rental-regulations","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Anaheim Short-Term Rental Regulations"}],["$","p",null,{"className":"text-sm text-gray-500","children":[4," min read"]}]]}]]}]]}]
+29:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-guest-screening-matters",{"className":"","children":["$","a",null,{"href":"#why-guest-screening-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Guest Screening Matters"}]}],["$","li","what-airbnb-allows-and-does-not-allow-in-guest-screening",{"className":"","children":["$","a",null,{"href":"#what-airbnb-allows-and-does-not-allow-in-guest-screening","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Airbnb Allows (and Does Not Allow) in Guest Screening"}]}],["$","li","what-you-can-do",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-can-do","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You CAN Do"}]}],["$","li","what-you-cannot-do",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-cannot-do","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You CANNOT Do"}]}],["$","li","instant-book-vs-request-to-book",{"className":"ml-4","children":["$","a",null,{"href":"#instant-book-vs-request-to-book","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Instant Book vs. Request to Book"}]}],["$","li","configuring-your-instant-book-requirements",{"className":"","children":["$","a",null,{"href":"#configuring-your-instant-book-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Configuring Your Instant Book Requirements"}]}],["$","li","step-by-step-guest-screening-process",{"className":"","children":["$","a",null,{"href":"#step-by-step-guest-screening-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step-by-Step Guest Screening Process"}]}],["$","li","step-1-review-the-guest-s-profile",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-review-the-guest-s-profile","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Review the Guest's Profile"}]}],["$","li","step-2-read-every-review-carefully",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-read-every-review-carefully","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Read Every Review Carefully"}]}],["$","li","step-3-evaluate-the-inquiry-message",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-evaluate-the-inquiry-message","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Evaluate the Inquiry Message"}]}],["$","li","step-4-ask-pre-approval-questions",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-ask-pre-approval-questions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Ask Pre-Approval Questions"}]}],["$","li","step-5-trust-your-instincts",{"className":"ml-4","children":["$","a",null,{"href":"#step-5-trust-your-instincts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 5: Trust Your Instincts"}]}],["$","li","red-flags-to-watch-for",{"className":"","children":["$","a",null,{"href":"#red-flags-to-watch-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Red Flags to Watch For"}]}],["$","li","the-local-booker",{"className":"ml-4","children":["$","a",null,{"href":"#the-local-booker","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Local Booker"}]}],["$","li","the-vague-group-booking",{"className":"ml-4","children":"$L2c"}],"$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34"]}]]}]}]
+2a:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2c:["$","a",null,{"href":"#the-vague-group-booking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Vague Group Booking"}]
+2d:["$","li","the-persistent-price-negotiator",{"className":"ml-4","children":["$","a",null,{"href":"#the-persistent-price-negotiator","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Persistent Price Negotiator"}]}]
+2e:["$","li","zero-reviews-high-risk-property-risky-timing",{"className":"ml-4","children":["$","a",null,{"href":"#zero-reviews-high-risk-property-risky-timing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Zero Reviews + High-Risk Property + Risky Timing"}]}]
+2f:["$","li","grammatically-unusual-messages",{"className":"ml-4","children":["$","a",null,{"href":"#grammatically-unusual-messages","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Grammatically Unusual Messages"}]}]
+30:["$","li","third-party-guest-screening-tools",{"className":"","children":["$","a",null,{"href":"#third-party-guest-screening-tools","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Third-Party Guest Screening Tools"}]}]
+31:["$","li","screening-for-direct-bookings",{"className":"","children":["$","a",null,{"href":"#screening-for-direct-bookings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Screening for Direct Bookings"}]}]
+32:["$","li","balancing-screening-with-conversion",{"className":"","children":["$","a",null,{"href":"#balancing-screening-with-conversion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Balancing Screening With Conversion"}]}]
+33:["$","li","what-to-do-when-a-booking-looks-wrong",{"className":"","children":["$","a",null,{"href":"#what-to-do-when-a-booking-looks-wrong","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Do When a Booking Looks Wrong"}]}]
+34:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Guest Screening Strategies for Short-Term Rentals | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn proven guest screening strategies for short-term rentals. Protect your property with ID verification, review checks, and smart Instant Book settings."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"guest screening,short-term rentals,airbnb,property protection,host safety"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/guest-screening-short-term-rental"}],["$","meta","6",{"property":"og:title","content":"Guest Screening Strategies for Short-Term Rentals"}],["$","meta","7",{"property":"og:description","content":"Learn proven guest screening strategies for short-term rentals. Protect your property with ID verification, review checks, and smart Instant Book settings."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/guest-screening-short-term-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Guest Screening Strategies for Short-Term Rentals"}],["$","meta","15",{"name":"twitter:description","content":"Learn proven guest screening strategies for short-term rentals. Protect your property with ID verification, review checks, and smart Instant Book settings."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

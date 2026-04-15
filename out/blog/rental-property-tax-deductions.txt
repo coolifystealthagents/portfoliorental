@@ -1,0 +1,317 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","rental-property-tax-deductions"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","rental-property-tax-deductions","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","rental-property-tax-deductions","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Rental Property Tax Deductions: The Complete List for Landlords\",\"description\":\"Discover every rental property tax deduction available to landlords, including mortgage interest, depreciation, repairs, insurance, travel expenses, and professional services.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/rental-property-tax-deductions\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Legal & Compliance\",\"item\":\"https://portfoliorental.com/blog/category/legal-and-compliance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Rental Property Tax Deductions: The Complete List for Landlords\",\"item\":\"https://portfoliorental.com/blog/rental-property-tax-deductions\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"hover:text-blue-600","children":"Legal & Compliance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Legal & Compliance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Rental Property Tax Deductions: The Complete List for Landlords"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[11," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","how-rental-property-tax-deductions-work",{"className":"","children":["$","a",null,{"href":"#how-rental-property-tax-deductions-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Rental Property Tax Deductions Work"}]}],["$","li","1-mortgage-interest",{"className":"","children":["$","a",null,{"href":"#1-mortgage-interest","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Mortgage Interest"}]}],["$","li","2-depreciation",{"className":"","children":["$","a",null,{"href":"#2-depreciation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Depreciation"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a"]}]}]]}],"$L2b","$L2c"]}],"$L2d","$L2e"]}],"$L2f"]}]]}],"$L30"]
+11:["$","li","3-repairs-and-maintenance",{"className":"","children":["$","a",null,{"href":"#3-repairs-and-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Repairs and Maintenance"}]}]
+12:["$","li","4-insurance-premiums",{"className":"","children":["$","a",null,{"href":"#4-insurance-premiums","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Insurance Premiums"}]}]
+13:["$","li","5-property-taxes",{"className":"","children":["$","a",null,{"href":"#5-property-taxes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Property Taxes"}]}]
+14:["$","li","6-travel-expenses",{"className":"","children":["$","a",null,{"href":"#6-travel-expenses","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Travel Expenses"}]}]
+15:["$","li","7-home-office-deduction",{"className":"","children":["$","a",null,{"href":"#7-home-office-deduction","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Home Office Deduction"}]}]
+16:["$","li","8-professional-services",{"className":"","children":["$","a",null,{"href":"#8-professional-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Professional Services"}]}]
+17:["$","li","9-advertising-and-marketing",{"className":"","children":["$","a",null,{"href":"#9-advertising-and-marketing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"9. Advertising and Marketing"}]}]
+18:["$","li","10-utilities",{"className":"","children":["$","a",null,{"href":"#10-utilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"10. Utilities"}]}]
+19:["$","li","11-lawn-care-and-landscaping",{"className":"","children":["$","a",null,{"href":"#11-lawn-care-and-landscaping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"11. Lawn Care and Landscaping"}]}]
+1a:["$","li","12-tenant-screening-costs",{"className":"","children":["$","a",null,{"href":"#12-tenant-screening-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"12. Tenant Screening Costs"}]}]
+1b:["$","li","13-legal-and-eviction-costs",{"className":"","children":["$","a",null,{"href":"#13-legal-and-eviction-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"13. Legal and Eviction Costs"}]}]
+1c:["$","li","14-dues-and-subscriptions",{"className":"","children":["$","a",null,{"href":"#14-dues-and-subscriptions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"14. Dues and Subscriptions"}]}]
+1d:["$","li","15-supplies-and-materials",{"className":"","children":["$","a",null,{"href":"#15-supplies-and-materials","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"15. Supplies and Materials"}]}]
+1e:["$","li","16-casualty-and-theft-losses",{"className":"","children":["$","a",null,{"href":"#16-casualty-and-theft-losses","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"16. Casualty and Theft Losses"}]}]
+1f:["$","li","tax-forms-you-need-to-know",{"className":"","children":["$","a",null,{"href":"#tax-forms-you-need-to-know","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Forms You Need to Know"}]}]
+20:["$","li","record-keeping-tips",{"className":"","children":["$","a",null,{"href":"#record-keeping-tips","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Record-Keeping Tips"}]}]
+21:["$","li","what-to-keep",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-keep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Keep"}]}]
+22:["$","li","how-long-to-keep-records",{"className":"ml-4","children":["$","a",null,{"href":"#how-long-to-keep-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Long to Keep Records"}]}]
+23:["$","li","use-technology",{"className":"ml-4","children":["$","a",null,{"href":"#use-technology","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Technology"}]}]
+24:["$","li","common-mistakes-that-cost-landlords-money",{"className":"","children":["$","a",null,{"href":"#common-mistakes-that-cost-landlords-money","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Mistakes That Cost Landlords Money"}]}]
+25:["$","li","mistake-1-missing-the-repairs-vs-improvements-distinction",{"className":"ml-4","children":["$","a",null,{"href":"#mistake-1-missing-the-repairs-vs-improvements-distinction","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mistake 1: Missing the Repairs vs. Improvements Distinction"}]}]
+26:["$","li","mistake-2-forgetting-about-depreciation",{"className":"ml-4","children":["$","a",null,{"href":"#mistake-2-forgetting-about-depreciation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mistake 2: Forgetting About Depreciation"}]}]
+27:["$","li","mistake-3-not-tracking-mileage",{"className":"ml-4","children":["$","a",null,{"href":"#mistake-3-not-tracking-mileage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mistake 3: Not Tracking Mileage"}]}]
+28:["$","li","mistake-4-mixing-personal-and-business-expenses",{"className":"ml-4","children":["$","a",null,{"href":"#mistake-4-mixing-personal-and-business-expenses","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mistake 4: Mixing Personal and Business Expenses"}]}]
+29:["$","li","mistake-5-not-working-with-a-tax-professional",{"className":"ml-4","children":["$","a",null,{"href":"#mistake-5-not-working-with-a-tax-professional","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mistake 5: Not Working With a Tax Professional"}]}]
+2a:["$","li","bottom-line",{"className":"","children":["$","a",null,{"href":"#bottom-line","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bottom Line"}]}]
+31:T4869,<p>One of the biggest benefits of owning rental property is the tax deductions. These deductions can reduce your taxable income by thousands of dollars each year. But many landlords leave money on the table because they do not know what they can deduct.</p>
+<p>This guide covers every major tax deduction available to rental property owners. We will explain what qualifies, how to claim it, and what records you need to keep.</p>
+<h2 id="how-rental-property-tax-deductions-work">How Rental Property Tax Deductions Work</h2>
+<p>When you earn rental income, you must report it to the IRS. But you can subtract your expenses from that income. This lowers the amount of income you pay taxes on.</p>
+<p>For example, if you collect $24,000 in rent and have $18,000 in deductible expenses, you only pay taxes on $6,000 of rental income.</p>
+<p>You report rental income and expenses on Schedule E of your federal tax return. The <a href="https://www.irs.gov/publications/p527" rel="noopener" target="_blank">IRS Publication 527 on residential rental property</a> is the authoritative source for rental deduction rules. If you have multiple properties, you list each one separately. Tax compliance is also closely tied to <a href="/blog/landlord-tenant-law-by-state">landlord-tenant law by state</a>, since state laws affect what you can charge and deduct.</p>
+<p>Now let us look at every deduction you can claim.</p>
+<h2 id="1-mortgage-interest">1. Mortgage Interest</h2>
+<p>Mortgage interest is usually the largest deduction for rental property owners. You can deduct all the interest you pay on loans used to buy, build, or improve your rental property.</p>
+<p><strong>What qualifies:</strong></p>
+<ul>
+<li>Interest on your primary mortgage</li>
+<li>Interest on home equity loans used for the rental property</li>
+<li>Interest on lines of credit used for property improvements</li>
+<li>Points paid on the mortgage (usually spread over the life of the loan)</li>
+</ul>
+<p><strong>What does not qualify:</strong></p>
+<ul>
+<li>The principal portion of your mortgage payment (this is not an expense; it builds equity)</li>
+<li>Interest on loans used for personal purposes</li>
+</ul>
+<p><strong>How to track it:</strong> Your lender sends you Form 1098 each year showing the interest you paid. Keep this form with your tax records.</p>
+<h2 id="2-depreciation">2. Depreciation</h2>
+<p>Depreciation is a powerful deduction that lets you write off the cost of your rental property over time, even though the property may actually be going up in value.</p>
+<p><strong>How it works:</strong> The IRS considers residential rental property to have a useful life of 27.5 years. You divide the cost of the building (not the land) by 27.5 and deduct that amount each year.</p>
+<p><strong>Example:</strong> You buy a rental property for $300,000. The land is worth $60,000 and the building is worth $240,000. Your annual depreciation deduction is $240,000 divided by 27.5, which equals $8,727 per year.</p>
+<p><strong>Important details:</strong></p>
+<ul>
+<li>You can only depreciate the building, not the land</li>
+<li>You must start depreciating the property in the year you place it in service (when it is ready and available for rent)</li>
+<li>You must use the Modified Accelerated Cost Recovery System (MACRS)</li>
+<li>When you sell the property, you may owe depreciation recapture tax on the amount you deducted. A <a href="/blog/1031-exchange-rental-property-guide">1031 exchange</a> can help you defer that tax when reinvesting in another property</li>
+</ul>
+<p>Depreciation is one of the most valuable deductions for landlords. For a deeper dive, read our <a href="/blog/rental-property-depreciation-guide">rental property depreciation guide</a>.</p>
+<h2 id="3-repairs-and-maintenance">3. Repairs and Maintenance</h2>
+<p>You can deduct the cost of repairs and maintenance in the year you pay for them. This is one of the most straightforward deductions.</p>
+<p><strong>Deductible repairs include:</strong></p>
+<ul>
+<li>Fixing a leaky faucet</li>
+<li>Patching a hole in the wall</li>
+<li>Replacing a broken window</li>
+<li>Repairing the roof</li>
+<li>Fixing electrical or plumbing problems</li>
+<li>Repainting</li>
+<li>Replacing hardware like door handles and light switches</li>
+<li>Pest control treatments</li>
+</ul>
+<p><strong>The key rule: repairs vs. improvements.</strong> Repairs maintain the property in its current condition. Improvements add value, extend the property's life, or adapt it to a new use.</p>
+<ul>
+<li><strong>Repair (deduct now):</strong> Fixing the furnace = deductible expense in the current year</li>
+<li><strong>Improvement (depreciate):</strong> Replacing the entire HVAC system = must be depreciated over its useful life</li>
+</ul>
+<p>This distinction matters a lot. A $5,000 repair is fully deductible this year. A $5,000 improvement must be spread over many years. When in doubt, ask your tax professional.</p>
+<h2 id="4-insurance-premiums">4. Insurance Premiums</h2>
+<p>You can deduct the insurance premiums you pay to protect your rental property.</p>
+<p><strong>Deductible insurance costs:</strong></p>
+<ul>
+<li>Landlord insurance (dwelling coverage)</li>
+<li>Liability insurance</li>
+<li>Flood insurance</li>
+<li>Umbrella insurance policies that cover the rental property</li>
+<li>Title insurance (if paid in the year of purchase, may need to be added to the property's basis)</li>
+</ul>
+<p><strong>What does not qualify:</strong></p>
+<ul>
+<li>Your personal homeowner's insurance on your primary residence</li>
+<li>Health insurance or life insurance (unless specifically tied to the rental business through an entity)</li>
+</ul>
+<p>Keep all your insurance statements and invoices for your records.</p>
+<h2 id="5-property-taxes">5. Property Taxes</h2>
+<p>You can deduct the property taxes you pay on your rental property. This is separate from the personal property tax deduction on your primary residence, which is capped at $10,000 under current tax law.</p>
+<p>There is no cap on property tax deductions for rental properties. If you pay $8,000 in property taxes on your rental, you deduct the full $8,000. You can review the <a href="https://www.law.cornell.edu/uscode/text/26/subtitle-A/chapter-1/subchapter-E" rel="noopener" target="_blank">Internal Revenue Code provisions at Cornell Law</a> for the statutory basis of these deductions.</p>
+<p><strong>What qualifies:</strong></p>
+<ul>
+<li>Annual property taxes assessed by your county or city</li>
+<li>Special assessments for services (like trash or sewer), in some cases</li>
+</ul>
+<p><strong>What does not qualify:</strong></p>
+<ul>
+<li>Transfer taxes paid when you bought the property (these get added to your cost basis)</li>
+<li>Taxes on property you use personally (unless you have a mixed-use arrangement)</li>
+</ul>
+<h2 id="6-travel-expenses">6. Travel Expenses</h2>
+<p>If you travel to manage your rental property, many of those travel costs are deductible.</p>
+<p><strong>Local travel (within your area):</strong>
+You can deduct mileage when you drive to your rental property for management tasks. This includes trips to:</p>
+<ul>
+<li>Collect rent</li>
+<li>Meet with contractors</li>
+<li>Inspect the property</li>
+<li>Handle tenant issues</li>
+<li>Buy supplies for the property</li>
+</ul>
+<p>For 2026, track your mileage carefully. You can use either the standard mileage rate or actual vehicle expenses. Most landlords find the standard mileage rate simpler.</p>
+<p><strong>Long-distance travel:</strong>
+If your rental property is far from where you live, you can deduct travel costs to visit it for business purposes. This includes:</p>
+<ul>
+<li>Airfare or gas</li>
+<li>Hotel stays</li>
+<li>Rental car costs</li>
+<li>Meals (at 50% of the cost)</li>
+</ul>
+<p><strong>The catch:</strong> The trip must be primarily for business. If you combine a vacation with a property visit, you can only deduct the expenses directly related to the business portion.</p>
+<h2 id="7-home-office-deduction">7. Home Office Deduction</h2>
+<p>If you use a space in your home regularly and exclusively for managing your rental properties, you may qualify for the home office deduction.</p>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li>The space must be used only for your rental business</li>
+<li>It must be your principal place of business for managing your rentals</li>
+<li>You must use it regularly (not just occasionally)</li>
+</ul>
+<p><strong>How to calculate it:</strong></p>
+<ul>
+<li><strong>Simplified method:</strong> Deduct $5 per square foot of office space, up to 300 square feet (maximum $1,500)</li>
+<li><strong>Regular method:</strong> Calculate the percentage of your home used for the office and deduct that percentage of your home expenses (mortgage interest, utilities, insurance, etc.)</li>
+</ul>
+<p><strong>Important note:</strong> The home office deduction is taken on Schedule C, not Schedule E. This means you may need to file an additional form. Talk to your tax professional about whether this deduction makes sense for you.</p>
+<h2 id="8-professional-services">8. Professional Services</h2>
+<p>Fees you pay to professionals who help you manage your rental business are deductible.</p>
+<p><strong>Deductible professional fees include:</strong></p>
+<ul>
+<li>Accountant or CPA fees for preparing rental tax returns</li>
+<li>Attorney fees for rental-related legal work (evictions, lease review, etc.)</li>
+<li>Property management fees</li>
+<li>Real estate consultant fees</li>
+<li>Bookkeeping services</li>
+<li>Tax preparation software used for rental income</li>
+</ul>
+<p><strong>Property management fees</strong> can be a significant deduction. If you pay a property manager 8% to 10% of your rental income, that entire fee is deductible. For more details on what these fees include, check out our <a href="/blog/property-management-fees-breakdown">property management fees breakdown</a>.</p>
+<h2 id="9-advertising-and-marketing">9. Advertising and Marketing</h2>
+<p>The cost of finding tenants is a deductible expense.</p>
+<p><strong>Deductible advertising costs:</strong></p>
+<ul>
+<li>Online listing fees (Zillow, Apartments.com, etc.)</li>
+<li>Newspaper or print advertisements</li>
+<li>Yard signs</li>
+<li>Photography or videography for listings</li>
+<li>Virtual tour services</li>
+<li>Website hosting if you have a property website</li>
+<li>Social media advertising</li>
+</ul>
+<p>Keep receipts for all advertising expenses. Even small costs like a $25 listing fee add up over the year.</p>
+<h2 id="10-utilities">10. Utilities</h2>
+<p>If you pay utilities for your rental property, those costs are deductible.</p>
+<p><strong>Deductible utilities:</strong></p>
+<ul>
+<li>Water and sewer</li>
+<li>Electricity</li>
+<li>Gas or oil for heating</li>
+<li>Trash removal</li>
+<li>Internet (if provided to tenants as part of the lease)</li>
+</ul>
+<p>If the tenant pays utilities directly, you cannot deduct those costs since you did not pay them. But if utilities are included in the rent, the full cost is your deduction.</p>
+<h2 id="11-lawn-care-and-landscaping">11. Lawn Care and Landscaping</h2>
+<p>Maintaining the exterior of your property is deductible as a regular business expense.</p>
+<p><strong>Deductible costs:</strong></p>
+<ul>
+<li>Lawn mowing and yard maintenance</li>
+<li>Snow removal</li>
+<li>Tree trimming</li>
+<li>Seasonal plantings</li>
+</ul>
+<p><strong>Not deductible as a current expense:</strong></p>
+<ul>
+<li>Major landscaping projects that add value (like installing a new patio or retaining wall) must be depreciated as improvements</li>
+</ul>
+<h2 id="12-tenant-screening-costs">12. Tenant Screening Costs</h2>
+<p>If you pay for background checks, credit checks, or other screening services, those costs are deductible. Even if you charge the tenant an application fee to cover these costs, the screening cost itself is a deductible expense (and the application fee is income).</p>
+<h2 id="13-legal-and-eviction-costs">13. Legal and Eviction Costs</h2>
+<p>Legal costs related to your rental property are deductible. This includes:</p>
+<ul>
+<li>Filing fees for eviction cases</li>
+<li>Attorney fees for eviction proceedings</li>
+<li>Court costs</li>
+<li>Fees for serving legal notices</li>
+<li>Attorney fees for drafting or reviewing leases</li>
+</ul>
+<p>These costs can add up quickly. Tracking them carefully ensures you get the full deduction.</p>
+<h2 id="14-dues-and-subscriptions">14. Dues and Subscriptions</h2>
+<p>Memberships and subscriptions related to your rental business are deductible.</p>
+<p><strong>Examples:</strong></p>
+<ul>
+<li>Landlord association membership dues</li>
+<li>Real estate investor group fees</li>
+<li>Property management software subscriptions</li>
+<li>Accounting software subscriptions</li>
+<li>Trade publication subscriptions</li>
+<li>MLS access fees</li>
+</ul>
+<h2 id="15-supplies-and-materials">15. Supplies and Materials</h2>
+<p>Small purchases for your rental property are deductible in the year you buy them.</p>
+<p><strong>Examples:</strong></p>
+<ul>
+<li>Cleaning supplies</li>
+<li>Light bulbs</li>
+<li>Smoke detector batteries</li>
+<li>Lock sets and keys</li>
+<li>Small tools for maintenance</li>
+<li>Office supplies for managing your rental business</li>
+</ul>
+<h2 id="16-casualty-and-theft-losses">16. Casualty and Theft Losses</h2>
+<p>If your rental property is damaged by a disaster or vandalism and insurance does not cover the full loss, you may be able to deduct the unreimbursed portion.</p>
+<p><strong>How it works:</strong></p>
+<ul>
+<li>Calculate the decrease in the property's value due to the casualty</li>
+<li>Subtract any insurance payments you received</li>
+<li>The remaining loss may be deductible</li>
+</ul>
+<p>This deduction has specific rules and calculations. Work with your tax professional to claim it correctly.</p>
+<h2 id="tax-forms-you-need-to-know">Tax Forms You Need to Know</h2>
+<p>Here are the key tax forms for rental property owners:</p>
+<ul>
+<li><strong>Schedule E (Form 1040)</strong> - Report rental income and expenses</li>
+<li><strong>Form 4562</strong> - Report depreciation and amortization</li>
+<li><strong>Form 1098</strong> - Mortgage interest statement from your lender</li>
+<li><strong>Form 1099-MISC</strong> - If you paid a contractor more than $600</li>
+<li><strong>Schedule C</strong> - If you claim a home office deduction</li>
+<li><strong>Form 4797</strong> - If you sell rental property</li>
+</ul>
+<p>For help organizing your expenses throughout the year, read our guide on <a href="/blog/rental-property-expense-tracking">rental property expense tracking</a>.</p>
+<h2 id="record-keeping-tips">Record-Keeping Tips</h2>
+<p>Good records are essential for claiming deductions and surviving an audit.</p>
+<h3 id="what-to-keep">What to Keep</h3>
+<ul>
+<li><strong>Receipts</strong> for every expense, no matter how small</li>
+<li><strong>Bank and credit card statements</strong> showing rental-related transactions</li>
+<li><strong>Mileage logs</strong> with dates, destinations, and business purpose</li>
+<li><strong>Contracts</strong> with property managers, contractors, and service providers</li>
+<li><strong>Insurance policies</strong> and premium statements</li>
+<li><strong>Property tax bills</strong> and proof of payment</li>
+<li><strong>Loan statements</strong> showing interest paid</li>
+<li><strong>Tenant records</strong> including leases and rent payments</li>
+</ul>
+<h3 id="how-long-to-keep-records">How Long to Keep Records</h3>
+<p>The IRS generally recommends keeping tax records for at least 3 years after filing. But for rental property, keep records for at least 7 years. And keep depreciation records for as long as you own the property, plus 3 years after you sell it. Our <a href="/blog/rental-property-record-keeping">rental property record keeping</a> guide has a complete system for organizing these documents.</p>
+<h3 id="use-technology">Use Technology</h3>
+<p>Use accounting software or a spreadsheet to track expenses in real time. Many landlords use apps that let you scan receipts with your phone. This makes tax time much easier and reduces the chance of missing deductions.</p>
+<h2 id="common-mistakes-that-cost-landlords-money">Common Mistakes That Cost Landlords Money</h2>
+<h3 id="mistake-1-missing-the-repairs-vs-improvements-distinction">Mistake 1: Missing the Repairs vs. Improvements Distinction</h3>
+<p>Calling an improvement a repair (or vice versa) can trigger an audit or cause you to miss a deduction. Learn the difference and categorize expenses correctly.</p>
+<h3 id="mistake-2-forgetting-about-depreciation">Mistake 2: Forgetting About Depreciation</h3>
+<p>Some landlords skip depreciation because it seems complicated. But this is free money. Even if you do not claim it, the IRS treats the property as if you did when you sell. So you might as well take the deduction.</p>
+<h3 id="mistake-3-not-tracking-mileage">Mistake 3: Not Tracking Mileage</h3>
+<p>Driving to and from your rental property adds up. If you make 100 trips of 20 miles each, that is 2,000 miles. At the standard rate, that could be over $1,300 in deductions. But you must have a mileage log to claim it.</p>
+<h3 id="mistake-4-mixing-personal-and-business-expenses">Mistake 4: Mixing Personal and Business Expenses</h3>
+<p>Keep your rental property finances separate from your personal finances. Use a separate bank account and credit card for rental expenses. This makes tracking easier and protects you in an audit.</p>
+<h3 id="mistake-5-not-working-with-a-tax-professional">Mistake 5: Not Working With a Tax Professional</h3>
+<p>Rental property taxes are more complex than personal taxes. A tax professional who understands real estate can help you maximize deductions and avoid costly mistakes. Their fee is itself a deduction.</p>
+<h2 id="bottom-line">Bottom Line</h2>
+<p>Rental property tax deductions can save you thousands of dollars every year. The key is knowing what you can deduct, keeping good records, and working with a knowledgeable tax professional.</p>
+<p>Start by tracking every expense related to your rental property. Use the list in this guide as your reference. And do not forget about depreciation, which is often the single largest deduction available to landlords.</p>
+<p>The more organized you are throughout the year, the more money you will save when tax time arrives.</p>
+<hr>
+<p><em>This article is for informational purposes only and does not constitute tax advice. Tax laws change frequently. Always consult a qualified tax professional for guidance on your specific situation.</em></p>
+2b:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$31"}}]
+2c:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","legal compliance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"legal compliance"}],["$","span","landlord laws",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord laws"}],["$","span","rental regulations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental regulations"}],["$","span","compliance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"compliance"}],["$","span","rental property tax deductions",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental property tax deductions"}]]}]
+2d:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Legal & Compliance"]}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-legal-structures-and-asset-protection",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-legal-structures-and-asset-protection","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Legal Structures and Asset Protection"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ada-compliance-for-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ada-compliance-for-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ADA Compliance for Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-eviction-process",{"children":["$","$L10",null,{"href":"/blog/akron-eviction-process","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Eviction Process in Akron: Step-by-Step Guide"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-rent-increase",{"children":["$","$L10",null,{"href":"/blog/akron-rent-increase","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Issue a Rent Increase Notice in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+2e:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","fair-housing-compliance-rental",{"href":"/blog/fair-housing-compliance-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Fair Housing Compliance for Rental Properties: What Every Landlord Must Know"}],["$","p",null,{"className":"text-sm text-gray-500","children":[12," min read"]}]]}],["$","$L10","landlord-insurance-requirements",{"href":"/blog/landlord-insurance-requirements","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Landlord Insurance Requirements: What Coverage You Need for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[12," min read"]}]]}],["$","$L10","landlord-liability-protection",{"href":"/blog/landlord-liability-protection","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Landlord Liability Protection: How to Shield Yourself From Lawsuits"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}]]}]]}]
+2f:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","how-rental-property-tax-deductions-work",{"className":"","children":["$","a",null,{"href":"#how-rental-property-tax-deductions-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Rental Property Tax Deductions Work"}]}],["$","li","1-mortgage-interest",{"className":"","children":["$","a",null,{"href":"#1-mortgage-interest","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Mortgage Interest"}]}],["$","li","2-depreciation",{"className":"","children":["$","a",null,{"href":"#2-depreciation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Depreciation"}]}],["$","li","3-repairs-and-maintenance",{"className":"","children":["$","a",null,{"href":"#3-repairs-and-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Repairs and Maintenance"}]}],["$","li","4-insurance-premiums",{"className":"","children":["$","a",null,{"href":"#4-insurance-premiums","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Insurance Premiums"}]}],["$","li","5-property-taxes",{"className":"","children":["$","a",null,{"href":"#5-property-taxes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Property Taxes"}]}],["$","li","6-travel-expenses",{"className":"","children":["$","a",null,{"href":"#6-travel-expenses","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Travel Expenses"}]}],["$","li","7-home-office-deduction",{"className":"","children":["$","a",null,{"href":"#7-home-office-deduction","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Home Office Deduction"}]}],["$","li","8-professional-services",{"className":"","children":["$","a",null,{"href":"#8-professional-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"8. Professional Services"}]}],["$","li","9-advertising-and-marketing",{"className":"","children":["$","a",null,{"href":"#9-advertising-and-marketing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"9. Advertising and Marketing"}]}],["$","li","10-utilities",{"className":"","children":["$","a",null,{"href":"#10-utilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"10. Utilities"}]}],["$","li","11-lawn-care-and-landscaping",{"className":"","children":["$","a",null,{"href":"#11-lawn-care-and-landscaping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"11. Lawn Care and Landscaping"}]}],["$","li","12-tenant-screening-costs",{"className":"","children":["$","a",null,{"href":"#12-tenant-screening-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"12. Tenant Screening Costs"}]}],["$","li","13-legal-and-eviction-costs",{"className":"","children":["$","a",null,{"href":"#13-legal-and-eviction-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"13. Legal and Eviction Costs"}]}],["$","li","14-dues-and-subscriptions",{"className":"","children":["$","a",null,{"href":"#14-dues-and-subscriptions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"14. Dues and Subscriptions"}]}],["$","li","15-supplies-and-materials",{"className":"","children":["$","a",null,{"href":"#15-supplies-and-materials","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"15. Supplies and Materials"}]}],["$","li","16-casualty-and-theft-losses",{"className":"","children":"$L32"}],"$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e"]}]]}]}]
+30:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+32:["$","a",null,{"href":"#16-casualty-and-theft-losses","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"16. Casualty and Theft Losses"}]
+33:["$","li","tax-forms-you-need-to-know",{"className":"","children":["$","a",null,{"href":"#tax-forms-you-need-to-know","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tax Forms You Need to Know"}]}]
+34:["$","li","record-keeping-tips",{"className":"","children":["$","a",null,{"href":"#record-keeping-tips","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Record-Keeping Tips"}]}]
+35:["$","li","what-to-keep",{"className":"ml-4","children":["$","a",null,{"href":"#what-to-keep","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Keep"}]}]
+36:["$","li","how-long-to-keep-records",{"className":"ml-4","children":["$","a",null,{"href":"#how-long-to-keep-records","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Long to Keep Records"}]}]
+37:["$","li","use-technology",{"className":"ml-4","children":["$","a",null,{"href":"#use-technology","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Use Technology"}]}]
+38:["$","li","common-mistakes-that-cost-landlords-money",{"className":"","children":["$","a",null,{"href":"#common-mistakes-that-cost-landlords-money","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Mistakes That Cost Landlords Money"}]}]
+39:["$","li","mistake-1-missing-the-repairs-vs-improvements-distinction",{"className":"ml-4","children":["$","a",null,{"href":"#mistake-1-missing-the-repairs-vs-improvements-distinction","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mistake 1: Missing the Repairs vs. Improvements Distinction"}]}]
+3a:["$","li","mistake-2-forgetting-about-depreciation",{"className":"ml-4","children":["$","a",null,{"href":"#mistake-2-forgetting-about-depreciation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mistake 2: Forgetting About Depreciation"}]}]
+3b:["$","li","mistake-3-not-tracking-mileage",{"className":"ml-4","children":["$","a",null,{"href":"#mistake-3-not-tracking-mileage","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mistake 3: Not Tracking Mileage"}]}]
+3c:["$","li","mistake-4-mixing-personal-and-business-expenses",{"className":"ml-4","children":["$","a",null,{"href":"#mistake-4-mixing-personal-and-business-expenses","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mistake 4: Mixing Personal and Business Expenses"}]}]
+3d:["$","li","mistake-5-not-working-with-a-tax-professional",{"className":"ml-4","children":["$","a",null,{"href":"#mistake-5-not-working-with-a-tax-professional","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mistake 5: Not Working With a Tax Professional"}]}]
+3e:["$","li","bottom-line",{"className":"","children":["$","a",null,{"href":"#bottom-line","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bottom Line"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Rental Property Tax Deductions: The Complete List for Landlords | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Discover every rental property tax deduction available to landlords, including mortgage interest, depreciation, repairs, insurance, travel expenses, and professional services."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"legal compliance,landlord laws,rental regulations,compliance,rental property tax deductions"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/rental-property-tax-deductions"}],["$","meta","6",{"property":"og:title","content":"Rental Property Tax Deductions: The Complete List for Landlords"}],["$","meta","7",{"property":"og:description","content":"Discover every rental property tax deduction available to landlords, including mortgage interest, depreciation, repairs, insurance, travel expenses, and professional services."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/rental-property-tax-deductions"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Rental Property Tax Deductions: The Complete List for Landlords"}],["$","meta","15",{"name":"twitter:description","content":"Discover every rental property tax deduction available to landlords, including mortgage interest, depreciation, repairs, insurance, travel expenses, and professional services."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

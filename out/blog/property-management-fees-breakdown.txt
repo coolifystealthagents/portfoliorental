@@ -1,0 +1,260 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","property-management-fees-breakdown"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","property-management-fees-breakdown","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","property-management-fees-breakdown","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Property Management Fees Breakdown: What You Will Actually Pay\",\"description\":\"Understand property management fees with this complete breakdown of typical costs, fee structures, hidden charges, and how to negotiate better rates for your rental portfolio.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/property-management-fees-breakdown\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Management\",\"item\":\"https://portfoliorental.com/blog/category/property-management\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Property Management Fees Breakdown: What You Will Actually Pay\",\"item\":\"https://portfoliorental.com/blog/property-management-fees-breakdown\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-management","className":"hover:text-blue-600","children":"Property Management"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Management"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Property Management Fees Breakdown: What You Will Actually Pay"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[10," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-two-main-fee-structures",{"className":"","children":["$","a",null,{"href":"#the-two-main-fee-structures","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Two Main Fee Structures"}]}],["$","li","percentage-based-fees",{"className":"ml-4","children":["$","a",null,{"href":"#percentage-based-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Percentage-Based Fees"}]}],["$","li","flat-fee-management",{"className":"ml-4","children":["$","a",null,{"href":"#flat-fee-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Flat-Fee Management"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26"]}]}]]}],"$L27","$L28"]}],"$L29","$L2a"]}],"$L2b"]}]]}],"$L2c"]
+11:["$","li","quick-comparison",{"className":"ml-4","children":["$","a",null,{"href":"#quick-comparison","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quick Comparison"}]}]
+12:["$","li","every-fee-you-might-encounter",{"className":"","children":["$","a",null,{"href":"#every-fee-you-might-encounter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Every Fee You Might Encounter"}]}]
+13:["$","li","leasing-fee-tenant-placement-fee",{"className":"ml-4","children":["$","a",null,{"href":"#leasing-fee-tenant-placement-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Leasing Fee (Tenant Placement Fee)"}]}]
+14:["$","li","lease-renewal-fee",{"className":"ml-4","children":["$","a",null,{"href":"#lease-renewal-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lease Renewal Fee"}]}]
+15:["$","li","maintenance-markup",{"className":"ml-4","children":["$","a",null,{"href":"#maintenance-markup","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance Markup"}]}]
+16:["$","li","vacancy-fee",{"className":"ml-4","children":["$","a",null,{"href":"#vacancy-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Vacancy Fee"}]}]
+17:["$","li","setup-or-onboarding-fee",{"className":"ml-4","children":["$","a",null,{"href":"#setup-or-onboarding-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setup or Onboarding Fee"}]}]
+18:["$","li","eviction-fee",{"className":"ml-4","children":["$","a",null,{"href":"#eviction-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Eviction Fee"}]}]
+19:["$","li","early-termination-fee",{"className":"ml-4","children":["$","a",null,{"href":"#early-termination-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Early Termination Fee"}]}]
+1a:["$","li","inspection-fee",{"className":"ml-4","children":["$","a",null,{"href":"#inspection-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Inspection Fee"}]}]
+1b:["$","li","advertising-fee",{"className":"ml-4","children":["$","a",null,{"href":"#advertising-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Advertising Fee"}]}]
+1c:["$","li","what-the-average-landlord-actually-pays",{"className":"","children":["$","a",null,{"href":"#what-the-average-landlord-actually-pays","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What the Average Landlord Actually Pays"}]}]
+1d:["$","li","how-to-negotiate-property-management-fees",{"className":"","children":["$","a",null,{"href":"#how-to-negotiate-property-management-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Negotiate Property Management Fees"}]}]
+1e:["$","li","bring-multiple-units",{"className":"ml-4","children":["$","a",null,{"href":"#bring-multiple-units","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bring Multiple Units"}]}]
+1f:["$","li","negotiate-the-leasing-fee",{"className":"ml-4","children":["$","a",null,{"href":"#negotiate-the-leasing-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Negotiate the Leasing Fee"}]}]
+20:["$","li","ask-for-bundled-services",{"className":"ml-4","children":["$","a",null,{"href":"#ask-for-bundled-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ask for Bundled Services"}]}]
+21:["$","li","request-a-performance-clause",{"className":"ml-4","children":["$","a",null,{"href":"#request-a-performance-clause","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Request a Performance Clause"}]}]
+22:["$","li","compare-at-least-three-proposals",{"className":"ml-4","children":["$","a",null,{"href":"#compare-at-least-three-proposals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Compare at Least Three Proposals"}]}]
+23:["$","li","red-flags-in-fee-structures",{"className":"","children":["$","a",null,{"href":"#red-flags-in-fee-structures","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Red Flags in Fee Structures"}]}]
+24:["$","li","are-property-management-fees-tax-deductible",{"className":"","children":["$","a",null,{"href":"#are-property-management-fees-tax-deductible","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Are Property Management Fees Tax Deductible?"}]}]
+25:["$","li","making-the-cost-decision",{"className":"","children":["$","a",null,{"href":"#making-the-cost-decision","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Making the Cost Decision"}]}]
+26:["$","li","what-to-do-next",{"className":"","children":["$","a",null,{"href":"#what-to-do-next","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Do Next"}]}]
+2d:T3f0c,<p>Before you sign a property management contract, you need to understand exactly what you will pay. Property management fees are not one simple number. They are a collection of charges that add up fast if you are not paying attention.</p>
+<p>The good news is that property management fees are predictable once you know what to look for. This guide breaks down every common fee, compares pricing structures, and helps you evaluate whether the cost is worth the value.</p>
+<p>If you are still deciding whether to hire a manager in the first place, start with our <a href="/blog/property-management-services-complete-guide">complete guide to property management services</a>.</p>
+<h2 id="the-two-main-fee-structures">The Two Main Fee Structures</h2>
+<p>Property management companies charge in two basic ways: a percentage of rent or a flat monthly fee. Each structure has clear pros and cons.</p>
+<h3 id="percentage-based-fees">Percentage-Based Fees</h3>
+<p>The most common model charges you a percentage of the monthly rent collected. According to <a href="https://www.narpm.org/" rel="noopener" target="_blank">industry benchmarks from NARPM</a>, the standard ranges from 8% to 12% of gross monthly rent.</p>
+<p><strong>How it works:</strong> If your property rents for $2,000 per month and the management fee is 10%, you pay $200 per month. If the unit is vacant, most companies charge nothing because there is no rent to take a percentage of.</p>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>The manager is motivated to maximize your rent since their fee increases with higher rent</li>
+<li>You pay nothing during vacancy (with most companies)</li>
+<li>Simple to understand and calculate</li>
+</ul>
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li>Gets expensive on higher-rent properties</li>
+<li>The percentage may not reflect the actual work required</li>
+<li>A $5,000/month luxury rental does not need twice the management of a $2,500 unit</li>
+</ul>
+<h3 id="flat-fee-management">Flat-Fee Management</h3>
+<p>A growing number of companies charge a fixed dollar amount per unit per month, typically ranging from $100 to $250 regardless of the rental amount.</p>
+<p><strong>How it works:</strong> You pay the same fee every month no matter what the unit rents for. Some flat-fee companies charge even during vacancy, while others do not.</p>
+<p><strong>Advantages:</strong></p>
+<ul>
+<li>More cost-effective for higher-rent properties</li>
+<li>Predictable monthly cost</li>
+<li>No hidden incentive to undercharge rent</li>
+</ul>
+<p><strong>Disadvantages:</strong></p>
+<ul>
+<li>May create less motivation to maximize rent</li>
+<li>Some charge during vacancy</li>
+<li>May not include all services (watch for add-on fees)</li>
+</ul>
+<h3 id="quick-comparison">Quick Comparison</h3>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Percentage Fee (10%)</th>
+<th>Flat Fee ($150/month)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rent: $1,200/month</td>
+<td>$120/month</td>
+<td>$150/month</td>
+</tr>
+<tr>
+<td>Rent: $1,800/month</td>
+<td>$180/month</td>
+<td>$150/month</td>
+</tr>
+<tr>
+<td>Rent: $2,500/month</td>
+<td>$250/month</td>
+<td>$150/month</td>
+</tr>
+<tr>
+<td>Rent: $3,500/month</td>
+<td>$350/month</td>
+<td>$150/month</td>
+</tr>
+<tr>
+<td>Annual cost at $2,000 rent</td>
+<td>$2,400</td>
+<td>$1,800</td>
+</tr>
+</tbody>
+</table>
+<p>As you can see, the flat-fee model saves money once rents exceed roughly $1,500 per month. For a broader look at per-unit costs, read our <a href="/blog/property-management-cost-per-door">property management cost per door</a> analysis.</p>
+<h2 id="every-fee-you-might-encounter">Every Fee You Might Encounter</h2>
+<p>Beyond the monthly management fee, property management companies charge a variety of additional fees. Some are standard and reasonable. Others are unnecessary and should raise red flags.</p>
+<h3 id="leasing-fee-tenant-placement-fee">Leasing Fee (Tenant Placement Fee)</h3>
+<p><strong>What it is:</strong> A one-time charge for finding and placing a new tenant.</p>
+<p><strong>Typical range:</strong> 50% to 100% of the first month's rent, or a flat fee of $500 to $1,500.</p>
+<p><strong>What it covers:</strong> Marketing the vacancy, showing the property, screening applicants, preparing the lease, and coordinating move-in.</p>
+<p><strong>What to watch for:</strong> Some companies charge a leasing fee even if the tenant they placed breaks the lease within the first few months. Look for a lease guarantee: if the tenant leaves within 6-12 months, the company should replace them for free.</p>
+<p>This is often the second-largest fee you will pay. It is also the most justified because leasing involves significant time and expense.</p>
+<h3 id="lease-renewal-fee">Lease Renewal Fee</h3>
+<p><strong>What it is:</strong> A charge for renewing an existing tenant's lease.</p>
+<p><strong>Typical range:</strong> $150 to $300 per renewal, or sometimes a percentage of one month's rent.</p>
+<p><strong>What it covers:</strong> Market analysis for rent adjustment, preparing the renewal agreement, and communicating with the tenant.</p>
+<p><strong>What to watch for:</strong> Some companies include renewals in the monthly management fee. If they charge separately, the fee should be modest since renewals require far less work than placing a new tenant.</p>
+<h3 id="maintenance-markup">Maintenance Markup</h3>
+<p><strong>What it is:</strong> A percentage added to repair and maintenance invoices.</p>
+<p><strong>Typical range:</strong> 10% to 20% on top of the contractor's charge.</p>
+<p><strong>What it covers:</strong> Coordinating the repair, vetting the contractor, overseeing the work, and handling billing.</p>
+<p><strong>What to watch for:</strong> Some companies own their own maintenance teams and charge above-market rates. Ask whether they use in-house or third-party contractors, and request copies of original invoices to verify pricing.</p>
+<p>A reasonable maintenance markup compensates the manager for their coordination work. An excessive markup is a hidden profit center at your expense.</p>
+<h3 id="vacancy-fee">Vacancy Fee</h3>
+<p><strong>What it is:</strong> A monthly charge while your unit sits empty.</p>
+<p><strong>Typical range:</strong> $0 to $50 per month.</p>
+<p><strong>What it covers:</strong> Monitoring the vacant property, showing it to prospects, and general oversight.</p>
+<p><strong>What to watch for:</strong> Many quality companies do not charge vacancy fees at all. If a company charges a significant vacancy fee, they have less incentive to fill the unit quickly. This is a red flag.</p>
+<h3 id="setup-or-onboarding-fee">Setup or Onboarding Fee</h3>
+<p><strong>What it is:</strong> A one-time fee charged when you first hire the company.</p>
+<p><strong>Typical range:</strong> $100 to $500 per property.</p>
+<p><strong>What it covers:</strong> Property inspection, setting up accounts, entering data into management software, and creating the initial listing.</p>
+<p><strong>What to watch for:</strong> This fee is common and generally reasonable. However, some companies use it to offset low monthly fees, making their pricing look cheaper than it really is.</p>
+<h3 id="eviction-fee">Eviction Fee</h3>
+<p><strong>What it is:</strong> A charge for managing the eviction process.</p>
+<p><strong>Typical range:</strong> $200 to $500 plus court costs and attorney fees.</p>
+<p><strong>What it covers:</strong> Serving notices, filing paperwork, coordinating with attorneys, and overseeing the process.</p>
+<p><strong>What to watch for:</strong> Some management agreements include eviction management in the monthly fee. Others treat it as an extra charge. Clarify this before signing.</p>
+<h3 id="early-termination-fee">Early Termination Fee</h3>
+<p><strong>What it is:</strong> A penalty for canceling your management contract before it expires.</p>
+<p><strong>Typical range:</strong> One to three months of management fees, or a flat fee of $500 to $2,000.</p>
+<p><strong>What it covers:</strong> Compensating the company for lost future revenue and transition costs.</p>
+<p><strong>What to watch for:</strong> Some companies lock you into 12-24 month contracts with steep cancellation penalties. Look for companies that offer month-to-month terms or contracts with 30-60 day cancellation clauses and no penalty.</p>
+<h3 id="inspection-fee">Inspection Fee</h3>
+<p><strong>What it is:</strong> A charge for conducting property inspections beyond the standard move-in and move-out walkthrough.</p>
+<p><strong>Typical range:</strong> $75 to $150 per inspection.</p>
+<p><strong>What it covers:</strong> Interior and exterior inspection, photo documentation, and a written report.</p>
+<p><strong>What to watch for:</strong> Most full-service companies include 1-2 inspections per year in their management fee. Additional inspections may cost extra, which is reasonable.</p>
+<h3 id="advertising-fee">Advertising Fee</h3>
+<p><strong>What it is:</strong> A charge for marketing your vacant property.</p>
+<p><strong>Typical range:</strong> $100 to $500 per vacancy.</p>
+<p><strong>What it covers:</strong> Professional photography, listing syndication, social media promotion, and print advertising.</p>
+<p><strong>What to watch for:</strong> This fee is sometimes baked into the leasing fee. If you are paying both a leasing fee and a separate advertising fee, you may be getting double-charged.</p>
+<h2 id="what-the-average-landlord-actually-pays">What the Average Landlord Actually Pays</h2>
+<p>Let us put real numbers together. Here is what a typical landlord with one rental unit pays annually, assuming 10% management fee and one tenant turnover per year.</p>
+<table>
+<thead>
+<tr>
+<th>Fee</th>
+<th>Annual Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Monthly management (10% of $1,800)</td>
+<td>$2,160</td>
+</tr>
+<tr>
+<td>Leasing fee (75% of first month's rent)</td>
+<td>$1,350</td>
+</tr>
+<tr>
+<td>Lease renewal fee</td>
+<td>$0 (not applicable in turnover year)</td>
+</tr>
+<tr>
+<td>Maintenance markup (15% on $2,000 in repairs)</td>
+<td>$300</td>
+</tr>
+<tr>
+<td>Setup fee (year one only)</td>
+<td>$200</td>
+</tr>
+<tr>
+<td><strong>Total annual cost</strong></td>
+<td><strong>$4,010</strong></td>
+</tr>
+</tbody>
+</table>
+<p>That works out to about $334 per month or 18.6% of gross rental income. This is the real cost of property management, not just the headline 10% management fee. Industry reports from <a href="https://www.buildium.com/" rel="noopener" target="_blank">Buildium's property management research</a> confirm that total management costs frequently exceed the base fee by 50% or more once all charges are included.</p>
+<p>Now compare that to the cost of self-managing: your time, your stress, and the risk of costly mistakes. For many landlords, $4,000 per year is a bargain. To see how these costs affect your investment returns, use our <a href="/blog/rental-property-roi-calculator">rental property ROI calculator</a>.</p>
+<h2 id="how-to-negotiate-property-management-fees">How to Negotiate Property Management Fees</h2>
+<p>Property management fees are not always set in stone. Here are proven strategies for negotiating better terms.</p>
+<h3 id="bring-multiple-units">Bring Multiple Units</h3>
+<p>If you own multiple properties, you have leverage. Property managers want portfolio clients because they generate steady revenue. Ask for a volume discount. Many companies will drop their percentage by 1-2 points or reduce their flat fee for clients with 3+ units. Learn more about how volume affects pricing in our <a href="/blog/property-management-cost-per-door">cost per door analysis</a>.</p>
+<h3 id="negotiate-the-leasing-fee">Negotiate the Leasing Fee</h3>
+<p>The leasing fee is often the most negotiable charge. Ask for a reduced fee or a leasing guarantee that covers early tenant departures. Some companies will lower the leasing fee if you commit to a longer management contract.</p>
+<h3 id="ask-for-bundled-services">Ask for Bundled Services</h3>
+<p>Instead of negotiating individual fees down, ask the company to bundle services. For example, request that lease renewals, inspections, and advertising be included in the monthly management fee rather than charged separately.</p>
+<h3 id="request-a-performance-clause">Request a Performance Clause</h3>
+<p>Some companies will agree to a performance-based fee structure. For instance, a lower base management fee with a bonus if they keep vacancy below a certain threshold or collect rent on time at a high rate.</p>
+<h3 id="compare-at-least-three-proposals">Compare at Least Three Proposals</h3>
+<p>Get detailed proposals from at least three companies in your market. Comparing line by line reveals which fees are standard and which are inflated. Use these proposals as leverage in negotiations. For more tips on evaluating companies, see our guide on <a href="/blog/how-to-choose-property-manager">how to choose a property manager</a>.</p>
+<h2 id="red-flags-in-fee-structures">Red Flags in Fee Structures</h2>
+<p>Watch for these warning signs when reviewing a property management fee schedule:</p>
+<ul>
+<li><strong>No fee schedule provided.</strong> If a company cannot give you a clear, written list of all fees, walk away.</li>
+<li><strong>Excessive maintenance markups.</strong> Anything above 20% is a concern. Ask for transparency.</li>
+<li><strong>Long-term contracts with steep penalties.</strong> A company confident in their service does not need to lock you in.</li>
+<li><strong>Vacancy fees that exceed $50/month.</strong> This removes the incentive to fill your unit quickly.</li>
+<li><strong>Fees that are not in the contract.</strong> If a fee is not documented in the management agreement, it should not exist.</li>
+<li><strong>Bundled fees that hide costs.</strong> Some companies quote a low management fee but add charges for every small service. The total ends up higher than a competitor who charges more upfront but includes everything.</li>
+</ul>
+<h2 id="are-property-management-fees-tax-deductible">Are Property Management Fees Tax Deductible?</h2>
+<p>Yes. Property management fees are a deductible business expense on your rental property. You can deduct:</p>
+<ul>
+<li>Monthly management fees</li>
+<li>Leasing and placement fees</li>
+<li>Maintenance coordination fees (the markup portion)</li>
+<li>Inspection fees</li>
+<li>Any other legitimate management expenses</li>
+</ul>
+<p>These deductions reduce your taxable rental income, which softens the real cost of professional management. Consult with a tax professional to ensure you are capturing all available deductions. To understand how fees impact your overall returns, review our <a href="/blog/rental-property-cash-flow-analysis">rental property cash flow analysis</a> guide.</p>
+<h2 id="making-the-cost-decision">Making the Cost Decision</h2>
+<p>The question is not whether property management fees are expensive. The question is whether they deliver value that exceeds their cost.</p>
+<p>Consider this: a self-managing landlord who spends 10 hours per month on a single rental and values their time at $40/hour is spending $4,800 per year in time alone. Add the cost of mistakes, missed maintenance, and slower leasing, and self-management can easily cost more than professional management.</p>
+<p>The best approach is to calculate your total cost of management (all fees included) and compare it against the value you receive. Use our <a href="/blog/maximize-rental-income-strategies">strategies to maximize rental income</a> to ensure you are getting the most from your investment, regardless of who manages it.</p>
+<h2 id="what-to-do-next">What to Do Next</h2>
+<ol>
+<li>Request fee schedules from 3-5 property management companies in your area.</li>
+<li>Calculate the total annual cost for each, including all fees.</li>
+<li>Compare the total cost to your expected rental income.</li>
+<li>Negotiate terms using the strategies above.</li>
+<li>Choose the company that offers the best value, not the lowest price.</li>
+</ol>
+<p>For a comprehensive overview of what you get for those fees, revisit our <a href="/blog/property-management-services-complete-guide">complete guide to property management services</a>.</p>
+27:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2d"}}]
+28:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","property management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","rental management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental management"}],["$","span","property management basics",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management basics"}],["$","span","property management fees",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management fees"}]]}]
+29:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Management"]}],["$","$L10",null,{"href":"/blog/category/property-management","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-property-management-approaches",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-property-management-approaches","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Property Management Approaches"}],["$","span",null,{"className":"text-xs text-gray-400","children":[5," min"]}]]}]}],["$","li","addendum-property-management-agreement",{"children":["$","$L10",null,{"href":"/blog/addendum-property-management-agreement","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Addendum to Property Management Agreement: When and How to Use One"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-fees",{"children":["$","$L10",null,{"href":"/blog/akron-fees","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Property Management Fees in Akron: What to Expect"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-guide",{"children":["$","$L10",null,{"href":"/blog/akron-guide","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Complete Guide to Property Management in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+2a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","full-service-property-management",{"href":"/blog/full-service-property-management","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Full Service Property Management: What It Includes and Who Needs It"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","hiring-property-manager-checklist",{"href":"/blog/hiring-property-manager-checklist","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Hiring a Property Manager Checklist: 15 Steps to Find the Right Fit"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","how-to-choose-property-manager",{"href":"/blog/how-to-choose-property-manager","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Choose a Property Manager: A Step-by-Step Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}]]}]]}]
+2b:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-two-main-fee-structures",{"className":"","children":["$","a",null,{"href":"#the-two-main-fee-structures","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Two Main Fee Structures"}]}],["$","li","percentage-based-fees",{"className":"ml-4","children":["$","a",null,{"href":"#percentage-based-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Percentage-Based Fees"}]}],["$","li","flat-fee-management",{"className":"ml-4","children":["$","a",null,{"href":"#flat-fee-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Flat-Fee Management"}]}],["$","li","quick-comparison",{"className":"ml-4","children":["$","a",null,{"href":"#quick-comparison","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quick Comparison"}]}],["$","li","every-fee-you-might-encounter",{"className":"","children":["$","a",null,{"href":"#every-fee-you-might-encounter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Every Fee You Might Encounter"}]}],["$","li","leasing-fee-tenant-placement-fee",{"className":"ml-4","children":["$","a",null,{"href":"#leasing-fee-tenant-placement-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Leasing Fee (Tenant Placement Fee)"}]}],["$","li","lease-renewal-fee",{"className":"ml-4","children":["$","a",null,{"href":"#lease-renewal-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lease Renewal Fee"}]}],["$","li","maintenance-markup",{"className":"ml-4","children":["$","a",null,{"href":"#maintenance-markup","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance Markup"}]}],["$","li","vacancy-fee",{"className":"ml-4","children":["$","a",null,{"href":"#vacancy-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Vacancy Fee"}]}],["$","li","setup-or-onboarding-fee",{"className":"ml-4","children":["$","a",null,{"href":"#setup-or-onboarding-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setup or Onboarding Fee"}]}],["$","li","eviction-fee",{"className":"ml-4","children":["$","a",null,{"href":"#eviction-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Eviction Fee"}]}],["$","li","early-termination-fee",{"className":"ml-4","children":["$","a",null,{"href":"#early-termination-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Early Termination Fee"}]}],["$","li","inspection-fee",{"className":"ml-4","children":["$","a",null,{"href":"#inspection-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Inspection Fee"}]}],["$","li","advertising-fee",{"className":"ml-4","children":["$","a",null,{"href":"#advertising-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Advertising Fee"}]}],["$","li","what-the-average-landlord-actually-pays",{"className":"","children":["$","a",null,{"href":"#what-the-average-landlord-actually-pays","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What the Average Landlord Actually Pays"}]}],["$","li","how-to-negotiate-property-management-fees",{"className":"","children":["$","a",null,{"href":"#how-to-negotiate-property-management-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Negotiate Property Management Fees"}]}],["$","li","bring-multiple-units",{"className":"ml-4","children":"$L2e"}],"$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36"]}]]}]}]
+2c:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2e:["$","a",null,{"href":"#bring-multiple-units","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bring Multiple Units"}]
+2f:["$","li","negotiate-the-leasing-fee",{"className":"ml-4","children":["$","a",null,{"href":"#negotiate-the-leasing-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Negotiate the Leasing Fee"}]}]
+30:["$","li","ask-for-bundled-services",{"className":"ml-4","children":["$","a",null,{"href":"#ask-for-bundled-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ask for Bundled Services"}]}]
+31:["$","li","request-a-performance-clause",{"className":"ml-4","children":["$","a",null,{"href":"#request-a-performance-clause","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Request a Performance Clause"}]}]
+32:["$","li","compare-at-least-three-proposals",{"className":"ml-4","children":["$","a",null,{"href":"#compare-at-least-three-proposals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Compare at Least Three Proposals"}]}]
+33:["$","li","red-flags-in-fee-structures",{"className":"","children":["$","a",null,{"href":"#red-flags-in-fee-structures","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Red Flags in Fee Structures"}]}]
+34:["$","li","are-property-management-fees-tax-deductible",{"className":"","children":["$","a",null,{"href":"#are-property-management-fees-tax-deductible","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Are Property Management Fees Tax Deductible?"}]}]
+35:["$","li","making-the-cost-decision",{"className":"","children":["$","a",null,{"href":"#making-the-cost-decision","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Making the Cost Decision"}]}]
+36:["$","li","what-to-do-next",{"className":"","children":["$","a",null,{"href":"#what-to-do-next","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Do Next"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Property Management Fees Breakdown: What You Will Actually Pay | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Understand property management fees with this complete breakdown of typical costs, fee structures, hidden charges, and how to negotiate better rates for your rental portfolio."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"property management,landlord tips,rental management,property management basics,property management fees"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/property-management-fees-breakdown"}],["$","meta","6",{"property":"og:title","content":"Property Management Fees Breakdown: What You Will Actually Pay"}],["$","meta","7",{"property":"og:description","content":"Understand property management fees with this complete breakdown of typical costs, fee structures, hidden charges, and how to negotiate better rates for your rental portfolio."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/property-management-fees-breakdown"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Property Management Fees Breakdown: What You Will Actually Pay"}],["$","meta","15",{"name":"twitter:description","content":"Understand property management fees with this complete breakdown of typical costs, fee structures, hidden charges, and how to negotiate better rates for your rental portfolio."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

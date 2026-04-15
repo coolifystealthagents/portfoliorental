@@ -1,0 +1,351 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","preventive-maintenance-schedule-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","preventive-maintenance-schedule-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","preventive-maintenance-schedule-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Preventive Maintenance Schedule for Rental Properties: A Landlord's Year-Round Guide\",\"description\":\"Build a preventive maintenance schedule for your rental properties that saves money, extends equipment life, and keeps tenants happy. Includes seasonal breakdowns and tracking tips.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/preventive-maintenance-schedule-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Preventive Maintenance Schedule for Rental Properties: A Landlord's Year-Round Guide\",\"item\":\"https://portfoliorental.com/blog/preventive-maintenance-schedule-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Preventive Maintenance Schedule for Rental Properties: A Landlord's Year-Round Guide"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[10," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-preventive-maintenance-matters",{"className":"","children":["$","a",null,{"href":"#why-preventive-maintenance-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Preventive Maintenance Matters"}]}],["$","li","it-saves-real-money",{"className":"ml-4","children":["$","a",null,{"href":"#it-saves-real-money","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Saves Real Money"}]}],["$","li","it-keeps-tenants-happy",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}]]}],"$L26","$L27"]}],"$L28","$L29"]}],"$L2a"]}]]}],"$L2b"]
+11:["$","a",null,{"href":"#it-keeps-tenants-happy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Keeps Tenants Happy"}]
+12:["$","li","it-protects-your-legal-standing",{"className":"ml-4","children":["$","a",null,{"href":"#it-protects-your-legal-standing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Protects Your Legal Standing"}]}]
+13:["$","li","it-reduces-emergency-calls",{"className":"ml-4","children":["$","a",null,{"href":"#it-reduces-emergency-calls","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Reduces Emergency Calls"}]}]
+14:["$","li","building-your-seasonal-schedule",{"className":"","children":["$","a",null,{"href":"#building-your-seasonal-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Your Seasonal Schedule"}]}]
+15:["$","li","spring-schedule-march-through-may",{"className":"ml-4","children":["$","a",null,{"href":"#spring-schedule-march-through-may","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring Schedule (March through May)"}]}]
+16:["$","li","summer-schedule-june-through-august",{"className":"ml-4","children":["$","a",null,{"href":"#summer-schedule-june-through-august","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summer Schedule (June through August)"}]}]
+17:["$","li","fall-schedule-september-through-november",{"className":"ml-4","children":["$","a",null,{"href":"#fall-schedule-september-through-november","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall Schedule (September through November)"}]}]
+18:["$","li","winter-schedule-december-through-february",{"className":"ml-4","children":["$","a",null,{"href":"#winter-schedule-december-through-february","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter Schedule (December through February)"}]}]
+19:["$","li","hvac-maintenance-deep-dive",{"className":"","children":["$","a",null,{"href":"#hvac-maintenance-deep-dive","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC Maintenance Deep Dive"}]}]
+1a:["$","li","recommended-hvac-schedule",{"className":"ml-4","children":["$","a",null,{"href":"#recommended-hvac-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Recommended HVAC Schedule"}]}]
+1b:["$","li","cost-of-hvac-neglect",{"className":"ml-4","children":["$","a",null,{"href":"#cost-of-hvac-neglect","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cost of HVAC Neglect"}]}]
+1c:["$","li","fire-safety-schedule",{"className":"","children":["$","a",null,{"href":"#fire-safety-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fire Safety Schedule"}]}]
+1d:["$","li","pest-control-schedule",{"className":"","children":["$","a",null,{"href":"#pest-control-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pest Control Schedule"}]}]
+1e:["$","li","roof-inspection-schedule",{"className":"","children":["$","a",null,{"href":"#roof-inspection-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Roof Inspection Schedule"}]}]
+1f:["$","li","cost-savings-from-prevention",{"className":"","children":["$","a",null,{"href":"#cost-savings-from-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cost Savings from Prevention"}]}]
+20:["$","li","tracking-systems-for-your-schedule",{"className":"","children":["$","a",null,{"href":"#tracking-systems-for-your-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tracking Systems for Your Schedule"}]}]
+21:["$","li","simple-spreadsheet",{"className":"ml-4","children":["$","a",null,{"href":"#simple-spreadsheet","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Simple Spreadsheet"}]}]
+22:["$","li","property-management-software",{"className":"ml-4","children":["$","a",null,{"href":"#property-management-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Management Software"}]}]
+23:["$","li","vendor-partnerships",{"className":"ml-4","children":["$","a",null,{"href":"#vendor-partnerships","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Vendor Partnerships"}]}]
+24:["$","li","how-to-get-started",{"className":"","children":["$","a",null,{"href":"#how-to-get-started","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Get Started"}]}]
+25:["$","li","making-prevention-part-of-your-culture",{"className":"","children":["$","a",null,{"href":"#making-prevention-part-of-your-culture","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Making Prevention Part of Your Culture"}]}]
+2c:T4020,<p>Reactive maintenance is expensive. You wait for something to break, then scramble to fix it. The bill is always higher than it should be. A preventive maintenance schedule for your rental properties flips this around. You fix things before they fail, on your timeline, at a lower cost.</p>
+<p>Research from the National Apartment Association shows that preventive maintenance programs reduce overall repair costs by 12% to 18%. For a landlord with a portfolio of properties, those savings add up to thousands of dollars each year.</p>
+<p>This guide walks you through building a complete preventive maintenance schedule. You will learn what to do each season, how to track it all, and why this approach pays for itself many times over.</p>
+<h2 id="why-preventive-maintenance-matters">Why Preventive Maintenance Matters</h2>
+<p>Before we dive into the schedule, let us talk about why this matters so much.</p>
+<h3 id="it-saves-real-money">It Saves Real Money</h3>
+<p>An HVAC system that gets regular tune-ups lasts 15 to 20 years. One that runs without maintenance might fail in 8 to 10 years. Replacing a furnace costs $3,000 to $6,000. A yearly tune-up costs $150 to $300. The math is simple.</p>
+<p>The same logic applies to roofs, water heaters, appliances, and plumbing. Maintenance extends the life of everything in your property.</p>
+<h3 id="it-keeps-tenants-happy">It Keeps Tenants Happy</h3>
+<p>Tenants do not want to deal with a broken furnace in January or a failed AC in July. When you maintain systems before they fail, your tenants enjoy uninterrupted comfort. Happy tenants renew leases. Tenant turnover costs $1,500 to $5,000 per unit in lost rent, cleaning, and marketing. Preventing just one turnover per year more than covers your maintenance budget.</p>
+<h3 id="it-protects-your-legal-standing">It Protects Your Legal Standing</h3>
+<p>Many states require landlords to keep properties in habitable condition. This includes working heat, safe electrical systems, and proper plumbing. A documented preventive maintenance schedule shows you meet these obligations. If a dispute ever goes to court, your records speak for you.</p>
+<h3 id="it-reduces-emergency-calls">It Reduces Emergency Calls</h3>
+<p>Emergency repairs cost two to three times more than planned repairs. A plumber who comes at 2 AM on a Saturday charges premium rates. A plumber you schedule on a Tuesday morning does not. Preventive maintenance reduces the number of emergencies you face each year.</p>
+<h2 id="building-your-seasonal-schedule">Building Your Seasonal Schedule</h2>
+<p>The best way to organize preventive maintenance is by season. Each season brings specific risks and opportunities. Here is a complete breakdown.</p>
+<h3 id="spring-schedule-march-through-may">Spring Schedule (March through May)</h3>
+<p>Spring is inspection season. Winter is hard on buildings, and spring is when you assess the damage and prepare for summer.</p>
+<p><strong>HVAC Tasks</strong></p>
+<ul>
+<li>Schedule a professional air conditioning tune-up</li>
+<li>Replace all HVAC filters</li>
+<li>Clean outdoor condenser units of debris and leaves</li>
+<li>Check refrigerant levels</li>
+<li>Test thermostat accuracy</li>
+<li>Inspect ductwork for leaks or damage</li>
+</ul>
+<p>Most HVAC companies offer spring specials. Book early to get the best rates and time slots.</p>
+<p><strong>Plumbing Tasks</strong></p>
+<ul>
+<li>Turn on outdoor faucets and check for freeze damage</li>
+<li>Activate sprinkler systems and check every zone</li>
+<li>Inspect water heater for sediment buildup</li>
+<li>Test sump pumps by pouring water into the pit</li>
+<li>Check all exposed pipes for corrosion or leaks</li>
+<li>Clean slow drains before summer guests arrive</li>
+</ul>
+<p><strong>Exterior Tasks</strong></p>
+<ul>
+<li>Inspect the roof for winter damage</li>
+<li>Clean gutters and downspouts</li>
+<li>Check the foundation for new cracks</li>
+<li>Repair any damaged siding or trim</li>
+<li>Fill driveway and sidewalk cracks</li>
+<li>Assess landscaping and plan seasonal planting</li>
+<li>Power wash decks, patios, and walkways</li>
+</ul>
+<p><strong>Safety Tasks</strong></p>
+<ul>
+<li>Test all smoke detectors and carbon monoxide alarms</li>
+<li>Check fire extinguisher expiration dates</li>
+<li>Inspect handrails and stairways</li>
+<li>Test GFCI outlets in wet areas</li>
+<li>Review emergency exit routes and signage</li>
+</ul>
+<p>For a complete list of what to check, see our <a href="/blog/rental-property-maintenance-checklist">rental property maintenance checklist</a>.</p>
+<h3 id="summer-schedule-june-through-august">Summer Schedule (June through August)</h3>
+<p>Summer is project season. The warm weather makes it ideal for exterior work and bigger repairs.</p>
+<p><strong>HVAC Tasks</strong></p>
+<ul>
+<li>Monitor AC performance during heat waves</li>
+<li>Replace filters again at the midpoint of summer</li>
+<li>Check window units for proper drainage</li>
+<li>Clean or replace portable AC filters</li>
+</ul>
+<p><strong>Exterior Projects</strong></p>
+<ul>
+<li>Paint or stain exterior surfaces</li>
+<li>Seal driveways and parking areas</li>
+<li>Repair or replace fencing</li>
+<li>Inspect and repair decks and balconies</li>
+<li>Trim trees away from the roof and power lines</li>
+<li>Check attic ventilation to prevent heat damage</li>
+</ul>
+<p><strong>Pest Control</strong></p>
+<ul>
+<li>Schedule a professional pest inspection</li>
+<li>Treat for ants, wasps, and mosquitoes</li>
+<li>Check for termite activity around the foundation</li>
+<li>Seal any entry points you find</li>
+<li>Clear standing water to prevent mosquito breeding</li>
+</ul>
+<p><strong>Appliance Checks</strong></p>
+<ul>
+<li>Clean refrigerator coils</li>
+<li>Inspect dishwasher hoses and seals</li>
+<li>Check washing machine connections</li>
+<li>Clean dryer vents thoroughly</li>
+<li>Test garbage disposals</li>
+</ul>
+<h3 id="fall-schedule-september-through-november">Fall Schedule (September through November)</h3>
+<p>Fall is preparation season. Everything you do now prevents winter emergencies. For a month-by-month breakdown, see our <a href="/blog/seasonal-property-maintenance-guide">seasonal property maintenance guide</a>.</p>
+<p><strong>HVAC Tasks</strong></p>
+<ul>
+<li>Schedule a professional heating system tune-up</li>
+<li>Replace all filters</li>
+<li>Bleed radiators in hot water heating systems</li>
+<li>Test the furnace by running it before cold weather hits</li>
+<li>Check chimney flues and schedule cleaning if needed</li>
+<li>Inspect gas connections for leaks</li>
+</ul>
+<p><strong>Plumbing Winterization</strong></p>
+<p>This is one of the most important parts of your schedule. Frozen pipes cause some of the most expensive damage in rental properties.</p>
+<ul>
+<li>Insulate exposed pipes in basements, crawl spaces, and attics</li>
+<li>Disconnect and drain outdoor hoses</li>
+<li>Shut off and drain outdoor faucets</li>
+<li>Winterize sprinkler systems</li>
+<li>Set water heater to optimal temperature (120 degrees)</li>
+<li>Locate and label main water shut-off valves</li>
+</ul>
+<p><strong>Exterior Tasks</strong></p>
+<ul>
+<li>Clean gutters after leaves fall</li>
+<li>Inspect roof flashings and seals</li>
+<li>Check caulking around windows and doors</li>
+<li>Apply weather stripping where needed</li>
+<li>Prepare snow removal equipment</li>
+<li>Stock ice melt and sand</li>
+<li>Inspect parking lot lighting for the shorter days</li>
+</ul>
+<p><strong>Safety Tasks</strong></p>
+<ul>
+<li>Replace smoke detector batteries</li>
+<li>Test carbon monoxide detectors</li>
+<li>Check that all units have working heat</li>
+<li>Verify emergency contact information is current</li>
+<li>Review winter maintenance responsibilities with tenants</li>
+</ul>
+<h3 id="winter-schedule-december-through-february">Winter Schedule (December through February)</h3>
+<p>Winter is monitoring season. Your focus shifts to keeping everything running and responding quickly when issues arise.</p>
+<p><strong>HVAC Tasks</strong></p>
+<ul>
+<li>Replace filters monthly during heavy use</li>
+<li>Monitor heating bills for spikes that signal problems</li>
+<li>Check that all units stay above 55 degrees</li>
+<li>Inspect heat tape on pipes if installed</li>
+</ul>
+<p><strong>Snow and Ice</strong></p>
+<ul>
+<li>Clear walkways and stairs promptly after storms</li>
+<li>Apply ice melt to prevent slip-and-fall injuries</li>
+<li>Monitor roof for ice dams</li>
+<li>Check that drainage systems are not frozen</li>
+<li>Document all snow removal for liability protection</li>
+</ul>
+<p><strong>Interior Tasks</strong></p>
+<ul>
+<li>Check for drafts around windows and doors</li>
+<li>Monitor humidity levels to prevent mold</li>
+<li>Inspect basement walls for moisture</li>
+<li>Look for condensation on windows that might signal ventilation issues</li>
+</ul>
+<p><strong>Planning Tasks</strong></p>
+<p>Winter is also a great time to plan for the year ahead.</p>
+<ul>
+<li>Review last year's maintenance costs</li>
+<li>Update your budget for the coming year</li>
+<li>Get quotes for major projects planned for spring and summer</li>
+<li>Schedule vendor appointments early</li>
+</ul>
+<p>For help building your budget, see our guide on <a href="/blog/property-maintenance-cost-budgeting">property maintenance cost budgeting</a>.</p>
+<h2 id="hvac-maintenance-deep-dive">HVAC Maintenance Deep Dive</h2>
+<p>HVAC systems deserve extra attention because they are expensive to replace and critical to tenant comfort.</p>
+<h3 id="recommended-hvac-schedule">Recommended HVAC Schedule</h3>
+<table>
+<thead>
+<tr>
+<th>Task</th>
+<th>Frequency</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Filter replacement</td>
+<td>Every 60-90 days</td>
+</tr>
+<tr>
+<td>Professional tune-up</td>
+<td>Twice per year (spring and fall)</td>
+</tr>
+<tr>
+<td>Duct inspection</td>
+<td>Every 2-3 years</td>
+</tr>
+<tr>
+<td>Full system inspection</td>
+<td>Annually</td>
+</tr>
+<tr>
+<td>Coil cleaning</td>
+<td>Annually</td>
+</tr>
+<tr>
+<td>Refrigerant check</td>
+<td>Annually</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cost-of-hvac-neglect">Cost of HVAC Neglect</h3>
+<p>A neglected HVAC system uses 15% to 25% more energy than a maintained one, according to the <a href="https://www.energy.gov" rel="noopener" target="_blank">U.S. Department of Energy</a>. For a system that costs $150 per month to run, that is an extra $270 to $450 per year in wasted energy. When replacing aging units, look for models with high <a href="https://www.energystar.gov" rel="noopener" target="_blank">ENERGY STAR</a> ratings to maximize long-term savings. Over the life of the system, you also lose years of service. A $5,000 replacement that comes five years early costs you $1,000 per year in lost value.</p>
+<h2 id="fire-safety-schedule">Fire Safety Schedule</h2>
+<p>Fire safety is both a legal requirement and a moral duty. Here is a schedule that keeps you compliant and keeps your tenants safe.</p>
+<ul>
+<li><strong>Monthly:</strong> Test smoke detectors and carbon monoxide alarms</li>
+<li><strong>Every 6 months:</strong> Replace batteries in all detectors</li>
+<li><strong>Annually:</strong> Have fire extinguishers inspected by a professional</li>
+<li><strong>Annually:</strong> Inspect and clean chimneys and fireplaces</li>
+<li><strong>Every 5 years:</strong> Replace fire extinguishers</li>
+<li><strong>Every 10 years:</strong> Replace smoke detectors entirely</li>
+</ul>
+<p>Keep records of every test and replacement. Many jurisdictions require this documentation.</p>
+<h2 id="pest-control-schedule">Pest Control Schedule</h2>
+<p>Pests do not follow a schedule, but your prevention efforts should.</p>
+<ul>
+<li><strong>Quarterly:</strong> Professional perimeter treatment</li>
+<li><strong>Spring:</strong> Termite inspection</li>
+<li><strong>Summer:</strong> Wasp and mosquito treatment</li>
+<li><strong>Fall:</strong> Mouse and rat prevention (seal entry points before cold weather)</li>
+<li><strong>Year-round:</strong> Maintain clean common areas and remove food sources</li>
+</ul>
+<p>Pest problems in multi-unit buildings spread fast. One infested unit can affect the whole building. Act quickly and treat aggressively.</p>
+<h2 id="roof-inspection-schedule">Roof Inspection Schedule</h2>
+<p>Your roof is your property's first line of defense against water damage.</p>
+<ul>
+<li><strong>Spring:</strong> Professional inspection after winter</li>
+<li><strong>After major storms:</strong> Visual inspection from the ground</li>
+<li><strong>Fall:</strong> Check flashings and seals before winter</li>
+<li><strong>Every 3-5 years:</strong> Detailed professional assessment with photos</li>
+</ul>
+<p>Document the condition of your roof each year. This helps you plan for replacement and supports insurance claims if storms cause damage.</p>
+<h2 id="cost-savings-from-prevention">Cost Savings from Prevention</h2>
+<p>Here are real numbers that show how prevention pays off.</p>
+<table>
+<thead>
+<tr>
+<th>Repair Type</th>
+<th>Emergency Cost</th>
+<th>Preventive Cost</th>
+<th>Savings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Burst pipe</td>
+<td>$2,500 - $7,000</td>
+<td>$50 insulation</td>
+<td>95%+</td>
+</tr>
+<tr>
+<td>HVAC failure</td>
+<td>$3,000 - $8,000</td>
+<td>$300/year tune-ups</td>
+<td>50-70% over lifetime</td>
+</tr>
+<tr>
+<td>Roof leak</td>
+<td>$1,500 - $5,000</td>
+<td>$200 annual inspection</td>
+<td>60-80%</td>
+</tr>
+<tr>
+<td>Pest infestation</td>
+<td>$500 - $3,000</td>
+<td>$400/year prevention</td>
+<td>50-75%</td>
+</tr>
+<tr>
+<td>Water heater failure</td>
+<td>$1,200 - $3,000</td>
+<td>$100 annual flush</td>
+<td>40-60% over lifetime</td>
+</tr>
+</tbody>
+</table>
+<p>These numbers speak for themselves. Every dollar spent on prevention saves three to five dollars in repairs. For more strategies on driving those savings even further, read our guide on how to <a href="/blog/reduce-maintenance-costs-rental">reduce maintenance costs for rental properties</a>.</p>
+<h2 id="tracking-systems-for-your-schedule">Tracking Systems for Your Schedule</h2>
+<p>A schedule only works if you follow it. Here are ways to stay on track.</p>
+<h3 id="simple-spreadsheet">Simple Spreadsheet</h3>
+<p>Create a spreadsheet with columns for the task, due date, property address, assigned person, completion date, and cost. Color code tasks by season. Set up reminders in your calendar.</p>
+<h3 id="property-management-software">Property Management Software</h3>
+<p>Software platforms like Buildium, AppFolio, and TenantCloud have built-in maintenance tracking. They send automatic reminders, store vendor information, and generate reports. For most portfolio landlords, this is the best option.</p>
+<h3 id="vendor-partnerships">Vendor Partnerships</h3>
+<p>Build relationships with reliable vendors. Many HVAC companies, pest control services, and plumbers offer annual maintenance contracts. These contracts often include priority scheduling and discounted rates. For tips on managing vendors, check our guide on <a href="/blog/vendor-management-property-maintenance">vendor management for property maintenance</a>.</p>
+<h2 id="how-to-get-started">How to Get Started</h2>
+<p>If you do not have a preventive maintenance schedule yet, here is how to start.</p>
+<ol>
+<li><strong>List all your properties and their major systems.</strong> Note the age of HVAC, water heaters, roofs, and appliances.</li>
+<li><strong>Identify urgent needs.</strong> Are there any systems past their expected life? Address those first.</li>
+<li><strong>Build your seasonal calendar.</strong> Use the schedule above as a starting point and adjust for your climate and property types.</li>
+<li><strong>Assign responsibilities.</strong> Decide who handles each task. Is it you, a property manager, or a vendor?</li>
+<li><strong>Set up tracking.</strong> Choose a spreadsheet or software system and enter all tasks.</li>
+<li><strong>Review quarterly.</strong> Check your progress and adjust the schedule as needed.</li>
+</ol>
+<h2 id="making-prevention-part-of-your-culture">Making Prevention Part of Your Culture</h2>
+<p>The best landlords treat preventive maintenance as a habit, not a project. They check filters without being reminded. They walk their properties regularly. They call vendors for tune-ups, not emergencies.</p>
+<p>This mindset shift takes time, but it pays off enormously. Your properties stay in better condition. Your tenants stay longer. Your costs stay lower. And your stress level stays manageable.</p>
+<p>Start building your preventive maintenance schedule today. Your future self will be glad you did.</p>
+26:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2c"}}]
+27:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","rental operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental operations"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","maintenance operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"maintenance operations"}],["$","span","preventive maintenance schedule",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"preventive maintenance schedule"}]]}]
+28:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+29:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","emergency-maintenance-rental-property",{"href":"/blog/emergency-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Emergency Maintenance for Rental Properties: A Landlord's Response Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}],["$","$L10","reduce-maintenance-costs-rental",{"href":"/blog/reduce-maintenance-costs-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Reduce Maintenance Costs on Rental Properties Without Cutting Corners"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","property-maintenance-cost-budgeting",{"href":"/blog/property-maintenance-cost-budgeting","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Property Maintenance Cost Budgeting: How to Plan and Control Repair Expenses"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}]]}]]}]
+2a:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-preventive-maintenance-matters",{"className":"","children":["$","a",null,{"href":"#why-preventive-maintenance-matters","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Preventive Maintenance Matters"}]}],["$","li","it-saves-real-money",{"className":"ml-4","children":["$","a",null,{"href":"#it-saves-real-money","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Saves Real Money"}]}],["$","li","it-keeps-tenants-happy",{"className":"ml-4","children":["$","a",null,{"href":"#it-keeps-tenants-happy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Keeps Tenants Happy"}]}],["$","li","it-protects-your-legal-standing",{"className":"ml-4","children":["$","a",null,{"href":"#it-protects-your-legal-standing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Protects Your Legal Standing"}]}],["$","li","it-reduces-emergency-calls",{"className":"ml-4","children":["$","a",null,{"href":"#it-reduces-emergency-calls","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"It Reduces Emergency Calls"}]}],["$","li","building-your-seasonal-schedule",{"className":"","children":["$","a",null,{"href":"#building-your-seasonal-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Your Seasonal Schedule"}]}],["$","li","spring-schedule-march-through-may",{"className":"ml-4","children":["$","a",null,{"href":"#spring-schedule-march-through-may","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring Schedule (March through May)"}]}],["$","li","summer-schedule-june-through-august",{"className":"ml-4","children":["$","a",null,{"href":"#summer-schedule-june-through-august","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summer Schedule (June through August)"}]}],["$","li","fall-schedule-september-through-november",{"className":"ml-4","children":["$","a",null,{"href":"#fall-schedule-september-through-november","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall Schedule (September through November)"}]}],["$","li","winter-schedule-december-through-february",{"className":"ml-4","children":["$","a",null,{"href":"#winter-schedule-december-through-february","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter Schedule (December through February)"}]}],["$","li","hvac-maintenance-deep-dive",{"className":"","children":["$","a",null,{"href":"#hvac-maintenance-deep-dive","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"HVAC Maintenance Deep Dive"}]}],["$","li","recommended-hvac-schedule",{"className":"ml-4","children":["$","a",null,{"href":"#recommended-hvac-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Recommended HVAC Schedule"}]}],["$","li","cost-of-hvac-neglect",{"className":"ml-4","children":["$","a",null,{"href":"#cost-of-hvac-neglect","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cost of HVAC Neglect"}]}],["$","li","fire-safety-schedule",{"className":"","children":["$","a",null,{"href":"#fire-safety-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fire Safety Schedule"}]}],["$","li","pest-control-schedule",{"className":"","children":["$","a",null,{"href":"#pest-control-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pest Control Schedule"}]}],"$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34"]}]]}]}]
+2b:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2d:["$","li","roof-inspection-schedule",{"className":"","children":["$","a",null,{"href":"#roof-inspection-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Roof Inspection Schedule"}]}]
+2e:["$","li","cost-savings-from-prevention",{"className":"","children":["$","a",null,{"href":"#cost-savings-from-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cost Savings from Prevention"}]}]
+2f:["$","li","tracking-systems-for-your-schedule",{"className":"","children":["$","a",null,{"href":"#tracking-systems-for-your-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tracking Systems for Your Schedule"}]}]
+30:["$","li","simple-spreadsheet",{"className":"ml-4","children":["$","a",null,{"href":"#simple-spreadsheet","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Simple Spreadsheet"}]}]
+31:["$","li","property-management-software",{"className":"ml-4","children":["$","a",null,{"href":"#property-management-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Management Software"}]}]
+32:["$","li","vendor-partnerships",{"className":"ml-4","children":["$","a",null,{"href":"#vendor-partnerships","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Vendor Partnerships"}]}]
+33:["$","li","how-to-get-started",{"className":"","children":["$","a",null,{"href":"#how-to-get-started","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Get Started"}]}]
+34:["$","li","making-prevention-part-of-your-culture",{"className":"","children":["$","a",null,{"href":"#making-prevention-part-of-your-culture","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Making Prevention Part of Your Culture"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Preventive Maintenance Schedule for Rental Properties: A Landlord's Year-Round Guide | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Build a preventive maintenance schedule for your rental properties that saves money, extends equipment life, and keeps tenants happy. Includes seasonal breakdowns and tracking tips."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"property maintenance,rental operations,landlord tips,maintenance operations,preventive maintenance schedule"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/preventive-maintenance-schedule-rental"}],["$","meta","6",{"property":"og:title","content":"Preventive Maintenance Schedule for Rental Properties: A Landlord's Year-Round Guide"}],["$","meta","7",{"property":"og:description","content":"Build a preventive maintenance schedule for your rental properties that saves money, extends equipment life, and keeps tenants happy. Includes seasonal breakdowns and tracking tips."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/preventive-maintenance-schedule-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Preventive Maintenance Schedule for Rental Properties: A Landlord's Year-Round Guide"}],["$","meta","15",{"name":"twitter:description","content":"Build a preventive maintenance schedule for your rental properties that saves money, extends equipment life, and keeps tenants happy. Includes seasonal breakdowns and tracking tips."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

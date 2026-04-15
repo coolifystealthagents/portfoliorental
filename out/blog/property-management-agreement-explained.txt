@@ -1,0 +1,298 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","property-management-agreement-explained"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","property-management-agreement-explained","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","property-management-agreement-explained","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Property Management Agreement Explained: Key Clauses Every Owner Must Know\",\"description\":\"Understand property management agreements with this guide covering key clauses, fee structures, termination terms, and what to negotiate before signing a management contract.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/property-management-agreement-explained\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Management\",\"item\":\"https://portfoliorental.com/blog/category/property-management\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Property Management Agreement Explained: Key Clauses Every Owner Must Know\",\"item\":\"https://portfoliorental.com/blog/property-management-agreement-explained\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-management","className":"hover:text-blue-600","children":"Property Management"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Management"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Property Management Agreement Explained: Key Clauses Every Owner Must Know"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[11," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-the-agreement-matters-more-than-you-think",{"className":"","children":["$","a",null,{"href":"#why-the-agreement-matters-more-than-you-think","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why the Agreement Matters More Than You Think"}]}],["$","li","the-parties-and-property-description",{"className":"","children":["$","a",null,{"href":"#the-parties-and-property-description","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Parties and Property Description"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b"]}]}]]}],"$L2c","$L2d"]}],"$L2e","$L2f"]}],"$L30"]}]]}],"$L31"]
+11:["$","li","scope-of-services",{"className":"","children":["$","a",null,{"href":"#scope-of-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Scope of Services"}]}]
+12:["$","li","tenant-placement",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-placement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Placement"}]}]
+13:["$","li","ongoing-management",{"className":"ml-4","children":["$","a",null,{"href":"#ongoing-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ongoing Management"}]}]
+14:["$","li","financial-management",{"className":"ml-4","children":["$","a",null,{"href":"#financial-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Financial Management"}]}]
+15:["$","li","legal-and-compliance",{"className":"ml-4","children":["$","a",null,{"href":"#legal-and-compliance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Compliance"}]}]
+16:["$","li","fee-schedule-and-compensation",{"className":"","children":["$","a",null,{"href":"#fee-schedule-and-compensation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fee Schedule and Compensation"}]}]
+17:["$","li","monthly-management-fee",{"className":"ml-4","children":["$","a",null,{"href":"#monthly-management-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monthly Management Fee"}]}]
+18:["$","li","leasing-and-placement-fees",{"className":"ml-4","children":["$","a",null,{"href":"#leasing-and-placement-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Leasing and Placement Fees"}]}]
+19:["$","li","lease-renewal-fees",{"className":"ml-4","children":["$","a",null,{"href":"#lease-renewal-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lease Renewal Fees"}]}]
+1a:["$","li","maintenance-markup",{"className":"ml-4","children":["$","a",null,{"href":"#maintenance-markup","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance Markup"}]}]
+1b:["$","li","other-fees",{"className":"ml-4","children":["$","a",null,{"href":"#other-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Other Fees"}]}]
+1c:["$","li","maintenance-authorization-limits",{"className":"","children":["$","a",null,{"href":"#maintenance-authorization-limits","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance Authorization Limits"}]}]
+1d:["$","li","term-and-termination-provisions",{"className":"","children":["$","a",null,{"href":"#term-and-termination-provisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Term and Termination Provisions"}]}]
+1e:["$","li","agreement-term",{"className":"ml-4","children":["$","a",null,{"href":"#agreement-term","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Agreement Term"}]}]
+1f:["$","li","termination-without-cause",{"className":"ml-4","children":["$","a",null,{"href":"#termination-without-cause","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Termination Without Cause"}]}]
+20:["$","li","termination-for-cause",{"className":"ml-4","children":["$","a",null,{"href":"#termination-for-cause","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Termination For Cause"}]}]
+21:["$","li","liability-and-insurance-requirements",{"className":"","children":["$","a",null,{"href":"#liability-and-insurance-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Liability and Insurance Requirements"}]}]
+22:["$","li","manager-s-liability",{"className":"ml-4","children":["$","a",null,{"href":"#manager-s-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Manager's Liability"}]}]
+23:["$","li","owner-s-liability",{"className":"ml-4","children":["$","a",null,{"href":"#owner-s-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Owner's Liability"}]}]
+24:["$","li","indemnification",{"className":"ml-4","children":["$","a",null,{"href":"#indemnification","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Indemnification"}]}]
+25:["$","li","insurance-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#insurance-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance Requirements"}]}]
+26:["$","li","trust-account-and-fund-handling",{"className":"","children":["$","a",null,{"href":"#trust-account-and-fund-handling","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Trust Account and Fund Handling"}]}]
+27:["$","li","reporting-requirements",{"className":"","children":["$","a",null,{"href":"#reporting-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reporting Requirements"}]}]
+28:["$","li","dispute-resolution",{"className":"","children":["$","a",null,{"href":"#dispute-resolution","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Dispute Resolution"}]}]
+29:["$","li","representations-and-warranties",{"className":"","children":["$","a",null,{"href":"#representations-and-warranties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Representations and Warranties"}]}]
+2a:["$","li","what-to-do-before-you-sign",{"className":"","children":["$","a",null,{"href":"#what-to-do-before-you-sign","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Do Before You Sign"}]}]
+2b:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+32:T4ba8,<p>A property management agreement is the legal contract between you and your property manager. It defines who does what, how much it costs, and what happens when things go wrong. This document governs the entire relationship and directly affects your rental income, legal exposure, and property value.</p>
+<p>Too many property owners sign a property management agreement without reading it carefully. They trust the manager, skim the pages, and sign on the dotted line. Then they discover hidden fees, restrictive termination clauses, or gaps in service coverage when it is too late.</p>
+<p>This guide walks you through every important section of a property management agreement. You will learn what each clause means, what to watch for, and what to negotiate before you sign.</p>
+<h2 id="why-the-agreement-matters-more-than-you-think">Why the Agreement Matters More Than You Think</h2>
+<p>Your property management agreement is not just paperwork. It is the operating manual for your rental investment. It determines:</p>
+<ul>
+<li>How much you pay and for what services</li>
+<li>Who has authority to make decisions about your property</li>
+<li>How disputes get resolved</li>
+<li>What happens if the relationship does not work out</li>
+<li>Who bears liability when things go wrong</li>
+</ul>
+<p>A well-written agreement protects both parties. A poorly written one, or one heavily weighted in the manager's favor, puts your investment at risk. Resources like <a href="https://www.nolo.com/" rel="noopener" target="_blank">Nolo's legal guides for property management</a> can help you understand what fair contract terms look like. Take the time to understand every section before you sign.</p>
+<h2 id="the-parties-and-property-description">The Parties and Property Description</h2>
+<p>The agreement starts by identifying the parties involved and the property being managed.</p>
+<p><strong>What to check:</strong></p>
+<ul>
+<li>Your name and legal entity are correct. If you own the property through an LLC, the LLC should be the party to the agreement, not you personally.</li>
+<li>The property address, unit numbers, and legal description are accurate.</li>
+<li>The agreement specifies whether it covers all units at a multi-unit property or only specific ones.</li>
+</ul>
+<p>This section seems simple, but errors here can create legal complications. Make sure every detail is accurate.</p>
+<h2 id="scope-of-services">Scope of Services</h2>
+<p>This is the most important section of the property management agreement. It defines exactly what the manager will do for you.</p>
+<p>A comprehensive scope of services should include:</p>
+<h3 id="tenant-placement">Tenant Placement</h3>
+<ul>
+<li>Marketing and advertising vacant units</li>
+<li>Showing the property to prospective tenants</li>
+<li>Screening applicants (credit, criminal, eviction, income, references)</li>
+<li>Preparing and executing lease agreements</li>
+<li>Conducting move-in inspections</li>
+<li>Collecting security deposits</li>
+</ul>
+<h3 id="ongoing-management">Ongoing Management</h3>
+<ul>
+<li>Collecting rent and enforcing lease terms</li>
+<li>Handling tenant communications and complaints</li>
+<li>Coordinating maintenance and repairs</li>
+<li>Conducting periodic property inspections</li>
+<li>Managing lease renewals and rent adjustments</li>
+<li>Enforcing rules and addressing violations</li>
+</ul>
+<h3 id="financial-management">Financial Management</h3>
+<ul>
+<li>Depositing rent into designated accounts</li>
+<li>Paying property expenses from collected rent</li>
+<li>Providing monthly financial statements</li>
+<li>Providing year-end tax reporting documents</li>
+<li>Managing security deposit trust accounts</li>
+</ul>
+<h3 id="legal-and-compliance">Legal and Compliance</h3>
+<ul>
+<li>Ensuring lease compliance with state and local laws</li>
+<li>Handling eviction proceedings</li>
+<li>Maintaining required licenses and insurance</li>
+<li>Following Fair Housing requirements</li>
+</ul>
+<p><strong>What to watch for:</strong> Vague language like "management services as needed" without specific details. If a service is not listed, assume it is not included. Get clarity in writing. For a full picture of what management should cover, see our guide on <a href="/blog/what-does-a-property-manager-do">what a property manager does</a>.</p>
+<h2 id="fee-schedule-and-compensation">Fee Schedule and Compensation</h2>
+<p>The fee section determines your cost of management. It should list every fee clearly, with no ambiguity about amounts or triggers.</p>
+<h3 id="monthly-management-fee">Monthly Management Fee</h3>
+<p>This is the primary fee, typically 8% to 12% of monthly rent. Key questions to resolve:</p>
+<p><strong>Is the fee based on collected rent or scheduled rent?</strong> This matters a lot. If the fee is based on collected rent, the manager only earns money when your tenant pays. If it is based on scheduled rent, you owe the management fee even if the tenant does not pay. Always negotiate for a fee based on collected rent. It aligns the manager's incentives with yours.</p>
+<p><strong>Does the fee apply during vacancies?</strong> Some managers charge a reduced fee or flat rate during vacancies. Others waive the fee entirely. Clarify this before you sign.</p>
+<p><strong>Is there a minimum fee?</strong> Some agreements set a minimum monthly fee regardless of the percentage. This matters most for lower-rent properties. For a deeper dive into fee structures, see our <a href="/blog/property-management-fees-breakdown">property management fees breakdown</a>.</p>
+<h3 id="leasing-and-placement-fees">Leasing and Placement Fees</h3>
+<p>This fee covers the cost of finding and placing a new tenant. It typically ranges from 50% to 100% of the first month's rent.</p>
+<p><strong>What to clarify:</strong></p>
+<ul>
+<li>Is the leasing fee charged every time a new tenant is placed, or only for the initial placement?</li>
+<li>What if the tenant breaks the lease within the first few months? Is there a pro-rated refund or free re-leasing guarantee?</li>
+<li>Does the leasing fee include marketing costs, or are those billed separately?</li>
+</ul>
+<p>A good manager guarantees their tenant placement. If a tenant they placed breaks the lease within 6 to 12 months, the manager should re-lease the property at no additional leasing fee.</p>
+<h3 id="lease-renewal-fees">Lease Renewal Fees</h3>
+<p>Many managers charge $150 to $300 to renew an existing tenant's lease. This covers the work of evaluating market rent, negotiating with the tenant, and preparing new lease documents.</p>
+<p><strong>Negotiation tip:</strong> Some managers will waive the renewal fee or include it in the base management fee. It is worth asking, especially if you have a stable tenant likely to stay for years.</p>
+<h3 id="maintenance-markup">Maintenance Markup</h3>
+<p>Some managers add a markup of 10% to 20% on vendor invoices. Others do not. Both approaches can be fair, but the markup must be disclosed.</p>
+<p><strong>What to clarify:</strong></p>
+<ul>
+<li>Is there a markup on maintenance and repair costs?</li>
+<li>Does the markup apply to all work or only to outside vendors?</li>
+<li>Is the markup listed separately on your monthly statement?</li>
+</ul>
+<p>Understanding the full <a href="/blog/property-management-cost-per-door">property management cost per door</a> requires knowing every fee, including maintenance markups.</p>
+<h3 id="other-fees">Other Fees</h3>
+<p>Watch for additional fees that can add up:</p>
+<ul>
+<li><strong>Setup or onboarding fee</strong> for initial account creation</li>
+<li><strong>Technology fee</strong> for access to the owner portal</li>
+<li><strong>Inspection fees</strong> for routine property inspections</li>
+<li><strong>Court appearance fees</strong> for eviction proceedings</li>
+<li><strong>After-hours emergency fees</strong> for off-hours response</li>
+</ul>
+<p>Every fee should be listed in the agreement. If you discover a fee that was not disclosed before signing, that is a red flag about the manager's transparency.</p>
+<h2 id="maintenance-authorization-limits">Maintenance Authorization Limits</h2>
+<p>This clause sets the dollar amount the manager can spend on repairs without your prior approval.</p>
+<p><strong>Typical limits range from $200 to $500 per repair.</strong> Below the limit, the manager handles repairs independently. Above it, they contact you for approval before proceeding.</p>
+<p><strong>What to consider:</strong></p>
+<ul>
+<li>Set the limit high enough to avoid delays on urgent repairs. A leaking pipe cannot wait for your email response.</li>
+<li>Set it low enough that you maintain control over major expenses.</li>
+<li>Specify what happens in emergencies. Most agreements give the manager authority to spend whatever is necessary to protect life and property in true emergencies, regardless of the limit.</li>
+<li>Clarify whether the limit applies per incident or per month.</li>
+</ul>
+<p><strong>Recommended approach:</strong> A $500 per-incident limit for routine repairs with unlimited emergency authority is a common and reasonable arrangement. The manager should still notify you of any emergency expense within 24 hours.</p>
+<h2 id="term-and-termination-provisions">Term and Termination Provisions</h2>
+<p>This section defines how long the agreement lasts and how either party can end it.</p>
+<h3 id="agreement-term">Agreement Term</h3>
+<p>Most property management agreements run for one year with automatic renewal. Some managers push for two- or three-year terms. Shorter is generally better for you as the property owner, especially with a new management company.</p>
+<p><strong>What to negotiate:</strong></p>
+<ul>
+<li>An initial term of one year or less</li>
+<li>Automatic renewal for successive one-year terms</li>
+<li>Written notice requirement to prevent auto-renewal (typically 30 to 60 days before the term ends)</li>
+</ul>
+<h3 id="termination-without-cause">Termination Without Cause</h3>
+<p>You should be able to end the agreement even if the manager has not done anything wrong. Look for:</p>
+<ul>
+<li><strong>Notice period:</strong> 30 to 60 days is standard. Anything longer than 90 days is excessive.</li>
+<li><strong>Early termination fee:</strong> Some managers charge a cancellation fee, often one to three months of management fees. Negotiate this down or try to eliminate it entirely.</li>
+<li><strong>Transition obligations:</strong> The agreement should specify that the manager will cooperate with the transition, including transferring tenant deposits, providing financial records, and handing over all keys, codes, and documents.</li>
+</ul>
+<h3 id="termination-for-cause">Termination For Cause</h3>
+<p>The agreement should allow immediate termination if the manager:</p>
+<ul>
+<li>Breaches the contract</li>
+<li>Commits fraud or theft</li>
+<li>Loses their license</li>
+<li>Fails to maintain required insurance</li>
+<li>Mismanages trust account funds</li>
+</ul>
+<p><strong>Red flag:</strong> Any agreement that makes it extremely difficult or expensive to terminate, even for cause. You should always have a reasonable exit.</p>
+<h2 id="liability-and-insurance-requirements">Liability and Insurance Requirements</h2>
+<p>This section defines who is responsible when something goes wrong.</p>
+<h3 id="manager-s-liability">Manager's Liability</h3>
+<p>The manager should accept liability for:</p>
+<ul>
+<li>Negligent acts or omissions in performing their duties</li>
+<li>Failure to comply with applicable laws and regulations</li>
+<li>Mishandling of trust account funds</li>
+<li>Actions of their employees during the course of management duties</li>
+</ul>
+<h3 id="owner-s-liability">Owner's Liability</h3>
+<p>You typically remain liable for:</p>
+<ul>
+<li>Physical condition of the property</li>
+<li>Environmental hazards (lead paint, asbestos, mold)</li>
+<li>Compliance with building codes and safety requirements</li>
+<li>Claims arising from tenant injuries on the property</li>
+</ul>
+<h3 id="indemnification">Indemnification</h3>
+<p>Most agreements include mutual indemnification clauses, a standard element of <a href="https://www.law.cornell.edu/wex/contract" rel="noopener" target="_blank">contract law as outlined by Cornell Law</a>. The manager agrees to hold you harmless for their mistakes. You agree to hold them harmless for issues outside their control.</p>
+<p><strong>What to watch for:</strong> One-sided indemnification where you hold the manager harmless for everything, including their own negligence. This is not fair or standard. Push back.</p>
+<h3 id="insurance-requirements">Insurance Requirements</h3>
+<p>The agreement should specify minimum insurance requirements for both parties:</p>
+<ul>
+<li><strong>Manager's insurance:</strong> General liability, errors and omissions, workers' compensation, fidelity bond</li>
+<li><strong>Owner's insurance:</strong> Landlord property insurance, liability coverage, umbrella policy</li>
+</ul>
+<p>Make sure the agreement requires the manager to maintain insurance for the duration of the contract and to notify you if coverage lapses.</p>
+<h2 id="trust-account-and-fund-handling">Trust Account and Fund Handling</h2>
+<p>Your rent money and tenant security deposits must be handled properly. This is a matter of law in every state.</p>
+<p><strong>The agreement should specify:</strong></p>
+<ul>
+<li>Where trust funds are held (bank name and account type)</li>
+<li>That tenant security deposits are held in a separate account as required by state law</li>
+<li>How quickly collected rent is deposited into the trust account</li>
+<li>The schedule for disbursing owner proceeds</li>
+<li>Whether trust accounts earn interest and who receives it</li>
+<li>How reserve funds are handled (many managers hold a reserve of $500 to $1,000 per property for unexpected expenses)</li>
+</ul>
+<p><strong>Non-negotiable:</strong> Trust funds must be held in a separate account from the manager's operating funds. This is a legal requirement. If a manager commingles funds, end the relationship immediately.</p>
+<h2 id="reporting-requirements">Reporting Requirements</h2>
+<p>You need regular, detailed information about your property's performance. The agreement should specify:</p>
+<ul>
+<li><strong>Monthly statements</strong> showing income, expenses, and net proceeds</li>
+<li><strong>Year-end reports</strong> with all information needed for tax filing</li>
+<li><strong>Maintenance reports</strong> documenting completed and pending repairs</li>
+<li><strong>Inspection reports</strong> with photos and condition assessments</li>
+<li><strong>Vacancy reports</strong> showing marketing activity and leasing progress</li>
+<li><strong>Access to an owner portal</strong> for real-time financial and property information</li>
+</ul>
+<p><strong>What to negotiate:</strong> If the agreement only promises "periodic reports," push for specific commitments. Monthly financial statements by the 15th of the following month is a reasonable minimum. Use these reports alongside your own <a href="/blog/rental-property-cash-flow-analysis">rental property cash flow analysis</a> to track your investment performance.</p>
+<h2 id="dispute-resolution">Dispute Resolution</h2>
+<p>Disagreements happen. The agreement should include a clear process for resolving them.</p>
+<p><strong>Common approaches:</strong></p>
+<ul>
+<li><strong>Mediation first.</strong> Both parties agree to try mediation before escalating to arbitration or litigation. Mediation is cheaper and faster.</li>
+<li><strong>Binding arbitration.</strong> Disputes are resolved by an arbitrator rather than in court. This is faster and less expensive than litigation but limits your right to appeal.</li>
+<li><strong>Litigation.</strong> Either party can file a lawsuit. This is the most expensive option but preserves all legal rights.</li>
+</ul>
+<p><strong>What to negotiate:</strong></p>
+<ul>
+<li>Mediation as a mandatory first step</li>
+<li>Choice of jurisdiction (the county where the property is located is usually best)</li>
+<li>Who pays dispute resolution costs (typically each party pays their own)</li>
+<li>A reasonable statute of limitations for bringing claims</li>
+</ul>
+<p><strong>Avoid:</strong> Agreements that require arbitration in a distant city or state. This gives the manager a practical advantage by making disputes expensive and inconvenient for you.</p>
+<h2 id="representations-and-warranties">Representations and Warranties</h2>
+<p>Both parties make certain promises in the agreement. Common representations include:</p>
+<p><strong>Manager's representations:</strong></p>
+<ul>
+<li>They hold all required licenses and will maintain them</li>
+<li>They carry adequate insurance</li>
+<li>They have the staff and systems to fulfill their obligations</li>
+<li>They will comply with all applicable laws</li>
+</ul>
+<p><strong>Owner's representations:</strong></p>
+<ul>
+<li>You are the legal owner of the property (or authorized to act on behalf of the owner)</li>
+<li>The property complies with applicable building codes</li>
+<li>You are not aware of any undisclosed environmental hazards</li>
+<li>You will maintain adequate insurance on the property</li>
+</ul>
+<p>Make sure these representations are accurate. Misrepresentations can create legal liability.</p>
+<h2 id="what-to-do-before-you-sign">What to Do Before You Sign</h2>
+<p>Follow these steps before signing any property management agreement:</p>
+<ol>
+<li><strong>Read every word.</strong> Do not skim. Do not assume anything.</li>
+<li><strong>Highlight questions and concerns.</strong> Mark anything that is unclear, one-sided, or missing.</li>
+<li><strong>Compare with other agreements.</strong> If you are evaluating multiple managers, compare their agreements side by side. For template language to compare against, see our <a href="/blog/property-management-contract-template">property management contract template</a> resource.</li>
+<li><strong>Negotiate.</strong> Most terms are negotiable. The manager may say their agreement is standard, but every clause was written by someone, and it can be changed.</li>
+<li><strong>Have an attorney review it.</strong> A real estate attorney familiar with your state's landlord-tenant laws can spot problems you might miss. Budget $200 to $500 for this review.</li>
+<li><strong>Get everything in writing.</strong> Verbal promises mean nothing. If the manager agrees to a change, put it in the written agreement.</li>
+</ol>
+<p>Use our <a href="/blog/hiring-property-manager-checklist">hiring a property manager checklist</a> to make sure you have vetted the manager thoroughly before you get to the contract stage.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Your property management agreement is the foundation of your relationship with your manager. A clear, fair agreement protects your investment and sets both parties up for success. A vague or one-sided agreement creates conflict and risk.</p>
+<p>Take the time to understand every clause. Negotiate the terms that matter most to you. And never sign an agreement you do not fully understand.</p>
+<p>For a broader perspective on professional management and whether it is right for your situation, read our <a href="/blog/property-management-services-complete-guide">property management services complete guide</a> and our comparison of <a href="/blog/property-management-vs-self-managing">property management vs self managing</a>.</p>
+2c:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$32"}}]
+2d:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","property management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","rental management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental management"}],["$","span","property management basics",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management basics"}],["$","span","property management agreement",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property management agreement"}]]}]
+2e:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Management"]}],["$","$L10",null,{"href":"/blog/category/property-management","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-property-management-approaches",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-property-management-approaches","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Property Management Approaches"}],["$","span",null,{"className":"text-xs text-gray-400","children":[5," min"]}]]}]}],["$","li","addendum-property-management-agreement",{"children":["$","$L10",null,{"href":"/blog/addendum-property-management-agreement","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Addendum to Property Management Agreement: When and How to Use One"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-fees",{"children":["$","$L10",null,{"href":"/blog/akron-fees","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Property Management Fees in Akron: What to Expect"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-guide",{"children":["$","$L10",null,{"href":"/blog/akron-guide","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Complete Guide to Property Management in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+2f:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","full-service-property-management",{"href":"/blog/full-service-property-management","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Full Service Property Management: What It Includes and Who Needs It"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","hiring-property-manager-checklist",{"href":"/blog/hiring-property-manager-checklist","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Hiring a Property Manager Checklist: 15 Steps to Find the Right Fit"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","how-to-choose-property-manager",{"href":"/blog/how-to-choose-property-manager","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Management"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Choose a Property Manager: A Step-by-Step Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}]]}]]}]
+30:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-the-agreement-matters-more-than-you-think",{"className":"","children":["$","a",null,{"href":"#why-the-agreement-matters-more-than-you-think","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why the Agreement Matters More Than You Think"}]}],["$","li","the-parties-and-property-description",{"className":"","children":["$","a",null,{"href":"#the-parties-and-property-description","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Parties and Property Description"}]}],["$","li","scope-of-services",{"className":"","children":["$","a",null,{"href":"#scope-of-services","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Scope of Services"}]}],["$","li","tenant-placement",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-placement","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Placement"}]}],["$","li","ongoing-management",{"className":"ml-4","children":["$","a",null,{"href":"#ongoing-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ongoing Management"}]}],["$","li","financial-management",{"className":"ml-4","children":["$","a",null,{"href":"#financial-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Financial Management"}]}],["$","li","legal-and-compliance",{"className":"ml-4","children":["$","a",null,{"href":"#legal-and-compliance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Compliance"}]}],["$","li","fee-schedule-and-compensation",{"className":"","children":["$","a",null,{"href":"#fee-schedule-and-compensation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fee Schedule and Compensation"}]}],["$","li","monthly-management-fee",{"className":"ml-4","children":["$","a",null,{"href":"#monthly-management-fee","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monthly Management Fee"}]}],["$","li","leasing-and-placement-fees",{"className":"ml-4","children":["$","a",null,{"href":"#leasing-and-placement-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Leasing and Placement Fees"}]}],["$","li","lease-renewal-fees",{"className":"ml-4","children":["$","a",null,{"href":"#lease-renewal-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lease Renewal Fees"}]}],["$","li","maintenance-markup",{"className":"ml-4","children":["$","a",null,{"href":"#maintenance-markup","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance Markup"}]}],["$","li","other-fees",{"className":"ml-4","children":["$","a",null,{"href":"#other-fees","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Other Fees"}]}],["$","li","maintenance-authorization-limits",{"className":"","children":["$","a",null,{"href":"#maintenance-authorization-limits","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maintenance Authorization Limits"}]}],["$","li","term-and-termination-provisions",{"className":"","children":["$","a",null,{"href":"#term-and-termination-provisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Term and Termination Provisions"}]}],["$","li","agreement-term",{"className":"ml-4","children":["$","a",null,{"href":"#agreement-term","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Agreement Term"}]}],"$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f"]}]]}]}]
+31:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+33:["$","li","termination-without-cause",{"className":"ml-4","children":["$","a",null,{"href":"#termination-without-cause","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Termination Without Cause"}]}]
+34:["$","li","termination-for-cause",{"className":"ml-4","children":["$","a",null,{"href":"#termination-for-cause","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Termination For Cause"}]}]
+35:["$","li","liability-and-insurance-requirements",{"className":"","children":["$","a",null,{"href":"#liability-and-insurance-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Liability and Insurance Requirements"}]}]
+36:["$","li","manager-s-liability",{"className":"ml-4","children":["$","a",null,{"href":"#manager-s-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Manager's Liability"}]}]
+37:["$","li","owner-s-liability",{"className":"ml-4","children":["$","a",null,{"href":"#owner-s-liability","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Owner's Liability"}]}]
+38:["$","li","indemnification",{"className":"ml-4","children":["$","a",null,{"href":"#indemnification","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Indemnification"}]}]
+39:["$","li","insurance-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#insurance-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Insurance Requirements"}]}]
+3a:["$","li","trust-account-and-fund-handling",{"className":"","children":["$","a",null,{"href":"#trust-account-and-fund-handling","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Trust Account and Fund Handling"}]}]
+3b:["$","li","reporting-requirements",{"className":"","children":["$","a",null,{"href":"#reporting-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reporting Requirements"}]}]
+3c:["$","li","dispute-resolution",{"className":"","children":["$","a",null,{"href":"#dispute-resolution","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Dispute Resolution"}]}]
+3d:["$","li","representations-and-warranties",{"className":"","children":["$","a",null,{"href":"#representations-and-warranties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Representations and Warranties"}]}]
+3e:["$","li","what-to-do-before-you-sign",{"className":"","children":["$","a",null,{"href":"#what-to-do-before-you-sign","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What to Do Before You Sign"}]}]
+3f:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Property Management Agreement Explained: Key Clauses Every Owner Must Know | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Understand property management agreements with this guide covering key clauses, fee structures, termination terms, and what to negotiate before signing a management contract."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"property management,landlord tips,rental management,property management basics,property management agreement"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/property-management-agreement-explained"}],["$","meta","6",{"property":"og:title","content":"Property Management Agreement Explained: Key Clauses Every Owner Must Know"}],["$","meta","7",{"property":"og:description","content":"Understand property management agreements with this guide covering key clauses, fee structures, termination terms, and what to negotiate before signing a management contract."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/property-management-agreement-explained"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Property Management Agreement Explained: Key Clauses Every Owner Must Know"}],["$","meta","15",{"name":"twitter:description","content":"Understand property management agreements with this guide covering key clauses, fee structures, termination terms, and what to negotiate before signing a management contract."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

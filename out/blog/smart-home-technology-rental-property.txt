@@ -1,0 +1,409 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","smart-home-technology-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","smart-home-technology-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","smart-home-technology-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Smart Home Technology for Rental Properties: A Landlord's Complete Guide\",\"description\":\"Discover how smart home technology can increase your rental property value, attract tenants, and reduce costs. Learn about smart locks, thermostats, leak detectors, and more with ROI analysis.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/smart-home-technology-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Smart Home Technology for Rental Properties: A Landlord's Complete Guide\",\"item\":\"https://portfoliorental.com/blog/smart-home-technology-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Smart Home Technology for Rental Properties: A Landlord's Complete Guide"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[12," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-smart-technology-makes-sense-for-rentals",{"className":"","children":["$","a",null,{"href":"#why-smart-technology-makes-sense-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Smart Technology Makes Sense for Rentals"}]}],["$","li","smart-locks-and-keyless-entry",{"className":"","children":["$","a",null,{"href":"#smart-locks-and-keyless-entry","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Locks and Keyless Entry"}]}],["$","li","how-smart-locks-help-landlords",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34"]}]}]]}],"$L35","$L36"]}],"$L37","$L38"]}],"$L39"]}]]}],"$L3a"]
+11:["$","a",null,{"href":"#how-smart-locks-help-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Smart Locks Help Landlords"}]
+12:["$","li","best-smart-locks-for-rentals",{"className":"ml-4","children":["$","a",null,{"href":"#best-smart-locks-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Smart Locks for Rentals"}]}]
+13:["$","li","costs-and-roi",{"className":"ml-4","children":["$","a",null,{"href":"#costs-and-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Costs and ROI"}]}]
+14:["$","li","smart-thermostats",{"className":"","children":["$","a",null,{"href":"#smart-thermostats","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Thermostats"}]}]
+15:["$","li","benefits-for-landlords",{"className":"ml-4","children":["$","a",null,{"href":"#benefits-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Benefits for Landlords"}]}]
+16:["$","li","benefits-for-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#benefits-for-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Benefits for Tenants"}]}]
+17:["$","li","best-options-for-rentals",{"className":"ml-4","children":["$","a",null,{"href":"#best-options-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Options for Rentals"}]}]
+18:["$","li","costs-and-roi",{"className":"ml-4","children":["$","a",null,{"href":"#costs-and-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Costs and ROI"}]}]
+19:["$","li","leak-detectors-and-water-sensors",{"className":"","children":["$","a",null,{"href":"#leak-detectors-and-water-sensors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Leak Detectors and Water Sensors"}]}]
+1a:["$","li","where-to-place-leak-detectors",{"className":"ml-4","children":["$","a",null,{"href":"#where-to-place-leak-detectors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Place Leak Detectors"}]}]
+1b:["$","li","how-they-work",{"className":"ml-4","children":["$","a",null,{"href":"#how-they-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How They Work"}]}]
+1c:["$","li","features-to-look-for",{"className":"ml-4","children":["$","a",null,{"href":"#features-to-look-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Features to Look For"}]}]
+1d:["$","li","costs-and-roi",{"className":"ml-4","children":["$","a",null,{"href":"#costs-and-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Costs and ROI"}]}]
+1e:["$","li","security-cameras-and-video-doorbells",{"className":"","children":["$","a",null,{"href":"#security-cameras-and-video-doorbells","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Security Cameras and Video Doorbells"}]}]
+1f:["$","li","where-cameras-are-appropriate",{"className":"ml-4","children":["$","a",null,{"href":"#where-cameras-are-appropriate","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where Cameras Are Appropriate"}]}]
+20:["$","li","video-doorbells",{"className":"ml-4","children":["$","a",null,{"href":"#video-doorbells","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Video Doorbells"}]}]
+21:["$","li","costs-and-roi",{"className":"ml-4","children":["$","a",null,{"href":"#costs-and-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Costs and ROI"}]}]
+22:["$","li","smart-lighting",{"className":"","children":["$","a",null,{"href":"#smart-lighting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Lighting"}]}]
+23:["$","li","options-for-rentals",{"className":"ml-4","children":["$","a",null,{"href":"#options-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Options for Rentals"}]}]
+24:["$","li","benefits",{"className":"ml-4","children":["$","a",null,{"href":"#benefits","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Benefits"}]}]
+25:["$","li","costs-and-roi",{"className":"ml-4","children":["$","a",null,{"href":"#costs-and-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Costs and ROI"}]}]
+26:["$","li","energy-savings-the-numbers",{"className":"","children":["$","a",null,{"href":"#energy-savings-the-numbers","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Energy Savings: The Numbers"}]}]
+27:["$","li","tenant-appeal-and-higher-rent",{"className":"","children":["$","a",null,{"href":"#tenant-appeal-and-higher-rent","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Appeal and Higher Rent"}]}]
+28:["$","li","what-tenants-want-most",{"className":"ml-4","children":["$","a",null,{"href":"#what-tenants-want-most","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Tenants Want Most"}]}]
+29:["$","li","how-much-more-will-tenants-pay",{"className":"ml-4","children":["$","a",null,{"href":"#how-much-more-will-tenants-pay","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Much More Will Tenants Pay"}]}]
+2a:["$","li","marketing-your-smart-features",{"className":"ml-4","children":["$","a",null,{"href":"#marketing-your-smart-features","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Marketing Your Smart Features"}]}]
+2b:["$","li","installation-costs-and-considerations",{"className":"","children":["$","a",null,{"href":"#installation-costs-and-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Installation Costs and Considerations"}]}]
+2c:["$","li","diy-vs-professional-installation",{"className":"ml-4","children":["$","a",null,{"href":"#diy-vs-professional-installation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"DIY vs. Professional Installation"}]}]
+2d:["$","li","total-package-costs",{"className":"ml-4","children":["$","a",null,{"href":"#total-package-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Total Package Costs"}]}]
+2e:["$","li","roi-analysis-is-it-worth-it",{"className":"","children":["$","a",null,{"href":"#roi-analysis-is-it-worth-it","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ROI Analysis: Is It Worth It?"}]}]
+2f:["$","li","privacy-considerations",{"className":"","children":["$","a",null,{"href":"#privacy-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Privacy Considerations"}]}]
+30:["$","li","legal-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#legal-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal Requirements"}]}]
+31:["$","li","best-practices",{"className":"ml-4","children":["$","a",null,{"href":"#best-practices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Practices"}]}]
+32:["$","li","management-platforms",{"className":"","children":["$","a",null,{"href":"#management-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Management Platforms"}]}]
+33:["$","li","getting-started-your-smart-home-action-plan",{"className":"","children":["$","a",null,{"href":"#getting-started-your-smart-home-action-plan","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Getting Started: Your Smart Home Action Plan"}]}]
+34:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+3b:T51dd,<p>Smart home technology is no longer a luxury reserved for homeowners. Renters now expect modern conveniences, and landlords who deliver them gain a real competitive edge. The right smart devices can help you attract better tenants, command higher rent, reduce operating costs, and protect your properties from damage.</p>
+<p>But not every gadget makes sense for a rental. Some smart devices create headaches for landlords, while others deliver strong returns. This guide walks you through the best smart home technology for rental properties, including costs, benefits, and real ROI numbers to help you make smart investments. For a broader look at maintaining and protecting your assets, see our <a href="/blog/rental-property-maintenance-checklist">rental property maintenance checklist</a>.</p>
+<h2 id="why-smart-technology-makes-sense-for-rentals">Why Smart Technology Makes Sense for Rentals</h2>
+<p>The rental market has changed. A 2025 survey found that 86% of millennials and 78% of Gen Z renters said they would pay more for a rental with smart home features. That is a huge opportunity for landlords who invest wisely.</p>
+<p>Here are the main reasons smart tech works for rental properties:</p>
+<ul>
+<li><strong>Higher rent</strong>: Smart features let you charge $50 to $150 more per month</li>
+<li><strong>Faster leasing</strong>: Tech-enabled units rent 25% to 40% faster than comparable units without</li>
+<li><strong>Lower utility costs</strong>: Smart thermostats and lighting cut energy bills by 10% to 25%</li>
+<li><strong>Damage prevention</strong>: Leak detectors and smart sensors catch problems before they become expensive</li>
+<li><strong>Easier management</strong>: Remote monitoring and control save you trips to the property</li>
+<li><strong>Better tenant retention</strong>: Tenants who love their home's features stay longer</li>
+</ul>
+<p>The key is choosing devices that benefit both you and your tenants while being easy to manage across multiple units.</p>
+<h2 id="smart-locks-and-keyless-entry">Smart Locks and Keyless Entry</h2>
+<p>Smart locks are the single best technology investment for rental properties. They solve one of the biggest headaches in property management: keys.</p>
+<h3 id="how-smart-locks-help-landlords">How Smart Locks Help Landlords</h3>
+<ul>
+<li><strong>No more rekeying</strong>: Change access codes between tenants instead of replacing locks ($0 vs. $100 to $200 per lock)</li>
+<li><strong>Remote access</strong>: Let in vendors, inspectors, or emergency responders without being there</li>
+<li><strong>Access logs</strong>: See exactly when someone enters or exits the property</li>
+<li><strong>Temporary codes</strong>: Create time-limited codes for cleaners, contractors, or showing agents</li>
+<li><strong>No lockout calls</strong>: Tenants can use a code, phone app, or backup key</li>
+</ul>
+<h3 id="best-smart-locks-for-rentals">Best Smart Locks for Rentals</h3>
+<p>Look for these features when choosing smart locks for your rental properties:</p>
+<ul>
+<li><strong>Battery powered</strong>: No wiring needed, easy installation</li>
+<li><strong>Multiple access methods</strong>: Code, app, and physical key backup</li>
+<li><strong>Auto-lock feature</strong>: Locks automatically after a set time</li>
+<li><strong>Durable construction</strong>: Commercial-grade for high-traffic use</li>
+<li><strong>Easy code management</strong>: Change codes remotely without visiting the property</li>
+<li><strong>Weather resistant</strong>: Especially important for exterior doors</li>
+</ul>
+<h3 id="costs-and-roi">Costs and ROI</h3>
+<ul>
+<li><strong>Purchase price</strong>: $150 to $300 per lock</li>
+<li><strong>Installation</strong>: $0 to $50 (most are DIY)</li>
+<li><strong>Battery replacement</strong>: $10 to $20 per year</li>
+<li><strong>Savings per turnover</strong>: $100 to $200 (no rekeying)</li>
+<li><strong>Payback period</strong>: 1 to 2 turnovers</li>
+</ul>
+<p>For a property that turns over once per year, a smart lock pays for itself within two years just from rekeying savings. Add in the convenience and security benefits, and it is one of the easiest decisions you will make.</p>
+<h2 id="smart-thermostats">Smart Thermostats</h2>
+<p>Smart thermostats save money and keep tenants comfortable. They are a win-win for landlords and renters.</p>
+<h3 id="benefits-for-landlords">Benefits for Landlords</h3>
+<ul>
+<li><strong>Energy savings</strong>: 10% to 15% reduction in heating and cooling costs</li>
+<li><strong>Remote monitoring</strong>: See the temperature in your unit from anywhere</li>
+<li><strong>Freeze protection</strong>: Get alerts if the temperature drops dangerously low (prevents frozen pipes)</li>
+<li><strong>Vacancy mode</strong>: Set a minimal heating or cooling schedule when the unit is empty</li>
+<li><strong>Usage data</strong>: Understand energy patterns across your portfolio</li>
+</ul>
+<h3 id="benefits-for-tenants">Benefits for Tenants</h3>
+<ul>
+<li><strong>Comfort</strong>: Learning algorithms adjust to their schedule</li>
+<li><strong>Convenience</strong>: Control from their phone, even when away from home</li>
+<li><strong>Lower bills</strong>: If tenants pay utilities, they appreciate the savings</li>
+<li><strong>Modern feel</strong>: A sleek thermostat signals a well-maintained property</li>
+</ul>
+<h3 id="best-options-for-rentals">Best Options for Rentals</h3>
+<p>When choosing a smart thermostat for a rental, consider:</p>
+<ul>
+<li><strong>Compatibility</strong>: Make sure it works with your HVAC system</li>
+<li><strong>Ease of use</strong>: Tenants should not need a manual to adjust the temperature</li>
+<li><strong>Landlord controls</strong>: Some models let you set temperature limits to prevent extreme settings</li>
+<li><strong>No subscription required</strong>: Avoid models that need monthly fees for full functionality</li>
+</ul>
+<h3 id="costs-and-roi">Costs and ROI</h3>
+<ul>
+<li><strong>Purchase price</strong>: $100 to $250 per unit</li>
+<li><strong>Installation</strong>: $50 to $100 (or DIY if you are comfortable with wiring)</li>
+<li><strong>Annual energy savings</strong>: $100 to $200 per unit</li>
+<li><strong>Payback period</strong>: 6 to 18 months</li>
+</ul>
+<p>If you pay the utilities, smart thermostats pay for themselves within a year. If tenants pay utilities, the savings benefit them, but you benefit from the increased rental appeal and the ability to <a href="/blog/increase-rental-property-value">increase your rental property value</a>.</p>
+<h2 id="leak-detectors-and-water-sensors">Leak Detectors and Water Sensors</h2>
+<p>Water damage is one of the most expensive problems a landlord can face. A single undetected leak can cause $10,000 or more in damage. Smart leak detectors are cheap insurance against this risk.</p>
+<h3 id="where-to-place-leak-detectors">Where to Place Leak Detectors</h3>
+<p>Install sensors in these high-risk areas:</p>
+<ul>
+<li>Under kitchen sinks</li>
+<li>Under bathroom sinks</li>
+<li>Behind toilets</li>
+<li>Near water heaters</li>
+<li>Near washing machine connections</li>
+<li>In basements or crawl spaces</li>
+<li>Near HVAC condensate lines</li>
+</ul>
+<h3 id="how-they-work">How They Work</h3>
+<p>Smart leak detectors sit on the floor or attach to pipes. When they detect moisture, they send an immediate alert to your phone. Some advanced models can even shut off the water supply automatically, preventing major damage.</p>
+<h3 id="features-to-look-for">Features to Look For</h3>
+<ul>
+<li><strong>Instant alerts</strong>: Push notifications, text, or email</li>
+<li><strong>Long battery life</strong>: 2+ years on a single battery</li>
+<li><strong>Temperature monitoring</strong>: Alerts for freezing conditions</li>
+<li><strong>No hub required</strong>: Standalone units are easier to manage</li>
+<li><strong>Loud alarm</strong>: Alerts the tenant on-site as well</li>
+</ul>
+<h3 id="costs-and-roi">Costs and ROI</h3>
+<ul>
+<li><strong>Purchase price</strong>: $30 to $80 per sensor</li>
+<li><strong>Battery replacement</strong>: $5 to $10 per year</li>
+<li><strong>Potential savings</strong>: $5,000 to $50,000+ per prevented water damage incident</li>
+<li><strong>Payback period</strong>: Immediate (one prevented leak pays for sensors across your entire portfolio)</li>
+</ul>
+<p>This is the highest-ROI smart device you can install. For $200 to $400, you can protect an entire property against water damage that could cost tens of thousands to repair.</p>
+<h2 id="security-cameras-and-video-doorbells">Security Cameras and Video Doorbells</h2>
+<p>Security features appeal to tenants and protect your property. But they also come with important privacy considerations.</p>
+<h3 id="where-cameras-are-appropriate">Where Cameras Are Appropriate</h3>
+<p>Cameras are generally acceptable in:</p>
+<ul>
+<li>Building entrances and exits</li>
+<li>Parking lots and garages</li>
+<li>Common areas (hallways, laundry rooms, lobbies)</li>
+<li>The exterior of the property</li>
+</ul>
+<p>Cameras are never appropriate in:</p>
+<ul>
+<li>Inside individual rental units</li>
+<li>Bathrooms or changing areas</li>
+<li>Any private space</li>
+</ul>
+<h3 id="video-doorbells">Video Doorbells</h3>
+<p>Video doorbells are the most tenant-friendly security camera option. They let tenants see who is at their door from their phone. For landlords, they provide a record of who visits the property.</p>
+<p>Features to look for:</p>
+<ul>
+<li><strong>Motion detection</strong>: Alerts when someone approaches</li>
+<li><strong>Two-way audio</strong>: Talk to visitors remotely</li>
+<li><strong>Night vision</strong>: Clear footage in low light</li>
+<li><strong>Cloud storage</strong>: Save footage for review (check subscription costs)</li>
+<li><strong>Wide angle</strong>: See more of the porch or entryway</li>
+</ul>
+<h3 id="costs-and-roi">Costs and ROI</h3>
+<ul>
+<li><strong>Video doorbell</strong>: $100 to $250</li>
+<li><strong>Exterior cameras</strong>: $100 to $300 each</li>
+<li><strong>Cloud storage subscription</strong>: $3 to $10 per month per camera</li>
+<li><strong>Value added to rent</strong>: $25 to $50 per month</li>
+</ul>
+<p>Security features are a strong draw for tenants. They also help with liability protection and insurance claims. Use them as a selling point in your <a href="/blog/rental-property-marketing-strategies">rental property marketing</a>.</p>
+<h2 id="smart-lighting">Smart Lighting</h2>
+<p>Smart lighting is a simple upgrade that adds appeal without much cost or complexity.</p>
+<h3 id="options-for-rentals">Options for Rentals</h3>
+<ul>
+<li><strong>Smart bulbs</strong>: Replace regular bulbs with smart ones ($8 to $20 each). Tenants control them via app or voice. No wiring changes needed.</li>
+<li><strong>Smart switches</strong>: Replace standard switches with smart ones ($20 to $50 each). Requires basic wiring knowledge. Works with any bulb.</li>
+<li><strong>Smart plugs</strong>: Plug lamps into smart plugs ($10 to $25 each). No installation needed. Tenants can set schedules and control from their phone.</li>
+</ul>
+<h3 id="benefits">Benefits</h3>
+<ul>
+<li><strong>Energy savings</strong>: Schedule lights to turn off when not needed</li>
+<li><strong>Security</strong>: Set lights on timers when tenants are away</li>
+<li><strong>Convenience</strong>: Voice control and phone control</li>
+<li><strong>Ambiance</strong>: Dimmable and color-changing options</li>
+</ul>
+<h3 id="costs-and-roi">Costs and ROI</h3>
+<ul>
+<li><strong>Per unit investment</strong>: $50 to $200 (depending on how many fixtures you outfit)</li>
+<li><strong>Energy savings</strong>: $20 to $60 per year</li>
+<li><strong>Payback period</strong>: 1 to 3 years</li>
+</ul>
+<p>Smart lighting is a nice perk rather than a must-have. It works best as part of a broader smart home package.</p>
+<h2 id="energy-savings-the-numbers">Energy Savings: The Numbers</h2>
+<p>One of the biggest financial benefits of smart home technology is <a href="/blog/reduce-maintenance-costs-rental">reduced operating costs</a>. Here is a breakdown of potential energy savings across devices:</p>
+<table>
+<thead>
+<tr>
+<th>Device</th>
+<th>Annual Savings</th>
+<th>Investment</th>
+<th>Payback</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Smart thermostat</td>
+<td>$100 to $200</td>
+<td>$150 to $350</td>
+<td>1 to 2 years</td>
+</tr>
+<tr>
+<td>Smart lighting</td>
+<td>$20 to $60</td>
+<td>$50 to $200</td>
+<td>1 to 3 years</td>
+</tr>
+<tr>
+<td>Smart plugs</td>
+<td>$10 to $30</td>
+<td>$30 to $75</td>
+<td>1 to 3 years</td>
+</tr>
+<tr>
+<td>Occupancy sensors</td>
+<td>$30 to $80</td>
+<td>$50 to $150</td>
+<td>1 to 2 years</td>
+</tr>
+</tbody>
+</table>
+<p>For a property where you pay utilities, total annual savings of $160 to $370 are realistic. Over a ten-year period, that adds up to $1,600 to $3,700 per unit, well above the initial investment. The <a href="https://www.energystar.gov" rel="noopener" target="_blank">ENERGY STAR program</a> provides certified product ratings that help you choose the most efficient devices, while the <a href="https://www.energy.gov" rel="noopener" target="_blank">U.S. Department of Energy</a> publishes detailed energy savings calculators.</p>
+<h2 id="tenant-appeal-and-higher-rent">Tenant Appeal and Higher Rent</h2>
+<p>Smart home features directly impact your ability to attract and retain tenants. Here is how they help with your marketing and leasing.</p>
+<h3 id="what-tenants-want-most">What Tenants Want Most</h3>
+<p>Surveys consistently rank these smart features as most desirable:</p>
+<ol>
+<li>Smart locks and keyless entry (78% of renters)</li>
+<li>Smart thermostats (71%)</li>
+<li>Video doorbells (65%)</li>
+<li>Leak detection (54%)</li>
+<li>Smart lighting (48%)</li>
+</ol>
+<h3 id="how-much-more-will-tenants-pay">How Much More Will Tenants Pay</h3>
+<p>Research shows that tenants will pay $30 to $150 more per month for a smart-equipped rental, depending on the market and the package of features. In competitive markets, smart features can be the deciding factor between your unit and a similar one down the street.</p>
+<h3 id="marketing-your-smart-features">Marketing Your Smart Features</h3>
+<p>When listing your property, highlight smart features prominently:</p>
+<ul>
+<li>List them in the first paragraph of your description</li>
+<li>Take photos of smart devices (the thermostat, the lock keypad)</li>
+<li>Mention specific benefits like "keyless entry" and "energy-efficient smart thermostat"</li>
+<li>Use terms like "smart home" and "tech-enabled" in your listing title</li>
+</ul>
+<h2 id="installation-costs-and-considerations">Installation Costs and Considerations</h2>
+<p>Most smart devices for rentals are designed for easy installation. Here is what to expect.</p>
+<h3 id="diy-vs-professional-installation">DIY vs. Professional Installation</h3>
+<p><strong>DIY-friendly devices:</strong></p>
+<ul>
+<li>Smart locks (replace existing deadbolts)</li>
+<li>Smart plugs (just plug them in)</li>
+<li>Leak detectors (place on the floor)</li>
+<li>Smart bulbs (screw them in)</li>
+<li>Video doorbells (replace existing doorbell)</li>
+</ul>
+<p><strong>May need a professional:</strong></p>
+<ul>
+<li>Smart thermostats (wiring involved)</li>
+<li>Smart switches (electrical work)</li>
+<li>Security camera systems (mounting and wiring)</li>
+<li>Smart water shutoff valves (plumbing connections)</li>
+</ul>
+<h3 id="total-package-costs">Total Package Costs</h3>
+<p>Here is what a basic smart home package costs per unit:</p>
+<table>
+<thead>
+<tr>
+<th>Package Level</th>
+<th>Devices Included</th>
+<th>Total Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Basic</td>
+<td>Smart lock + thermostat + 2 leak detectors</td>
+<td>$350 to $600</td>
+</tr>
+<tr>
+<td>Standard</td>
+<td>Basic + video doorbell + smart lighting</td>
+<td>$550 to $1,000</td>
+</tr>
+<tr>
+<td>Premium</td>
+<td>Standard + cameras + smart plugs + sensors</td>
+<td>$900 to $1,800</td>
+</tr>
+</tbody>
+</table>
+<p>For most rental properties, the basic or standard package offers the best return on investment.</p>
+<h2 id="roi-analysis-is-it-worth-it">ROI Analysis: Is It Worth It?</h2>
+<p>Let us run the numbers on a standard smart home package for a rental unit that rents for $1,500 per month.</p>
+<p><strong>Investment</strong>: $750 (standard package)</p>
+<p><strong>Annual returns</strong>:</p>
+<ul>
+<li>Rent increase: $50 per month = $600 per year</li>
+<li>Energy savings: $150 per year (if you pay utilities)</li>
+<li>Rekeying savings: $150 per year (averaged over turnovers)</li>
+<li>Reduced vacancy: 5 fewer vacancy days = $250 per year</li>
+<li>Damage prevention: $500 per year (averaged over prevented incidents)</li>
+</ul>
+<p><strong>Total annual return</strong>: $1,650
+<strong>Payback period</strong>: Less than 6 months
+<strong>5-year ROI</strong>: 1,000%+</p>
+<p>Even if you only capture half of these benefits, the investment pays for itself within the first year. Smart upgrades are among the <a href="/blog/best-renovations-rental-properties-roi">best renovations for rental properties by ROI</a>.</p>
+<h2 id="privacy-considerations">Privacy Considerations</h2>
+<p>Smart technology in rental properties raises important privacy questions. Handle these carefully to avoid legal problems and tenant complaints.</p>
+<h3 id="legal-requirements">Legal Requirements</h3>
+<ul>
+<li><strong>Disclose all devices</strong>: Tell tenants about every smart device in the unit before they sign the lease</li>
+<li><strong>No interior surveillance</strong>: Never install cameras or audio recording devices inside rental units</li>
+<li><strong>Data ownership</strong>: Be clear about who owns the data collected by smart devices</li>
+<li><strong>State and local laws</strong>: Some jurisdictions have specific rules about smart devices in rentals</li>
+<li><strong>Lease language</strong>: Add a smart device addendum to your lease that covers all devices, their purpose, and tenant responsibilities</li>
+</ul>
+<h3 id="best-practices">Best Practices</h3>
+<ul>
+<li>Give tenants full control of in-unit devices (thermostats, locks, lighting)</li>
+<li>Only retain landlord access to devices that protect the property (leak detectors, freeze alerts)</li>
+<li>Never monitor tenant behavior through smart devices</li>
+<li>Allow tenants to disable optional features like smart lighting</li>
+<li>Be transparent about what data you can access and why</li>
+</ul>
+<h2 id="management-platforms">Management Platforms</h2>
+<p>Managing smart devices across multiple properties requires the right software. Look for platforms that offer:</p>
+<ul>
+<li><strong>Centralized dashboard</strong>: See all devices across all properties in one view</li>
+<li><strong>Remote management</strong>: Change codes, adjust settings, and monitor alerts from anywhere</li>
+<li><strong>Automation</strong>: Set rules like "alert me if temperature drops below 50 degrees"</li>
+<li><strong>Tenant management</strong>: Assign and revoke access easily during turnovers</li>
+<li><strong>Integration</strong>: Works with devices from multiple manufacturers</li>
+<li><strong>Reporting</strong>: Track energy usage, access logs, and device health</li>
+</ul>
+<p>Several property management platforms now include smart device management as a built-in feature. This makes it much easier to scale smart technology across a growing portfolio. If you manage short-term rentals, smart devices pair well with <a href="/blog/airbnb-automation-tools">Airbnb automation tools</a> that handle guest access, pricing, and communication automatically.</p>
+<h2 id="getting-started-your-smart-home-action-plan">Getting Started: Your Smart Home Action Plan</h2>
+<p>Ready to add smart technology to your rental properties? Follow this step-by-step plan:</p>
+<ol>
+<li><strong>Start with one property</strong>: Test devices and learn the management process before rolling out to your entire portfolio</li>
+<li><strong>Install the essentials first</strong>: Smart lock, smart thermostat, and leak detectors deliver the best ROI</li>
+<li><strong>Choose reliable brands</strong>: Stick with well-known manufacturers that have strong track records and good customer support</li>
+<li><strong>Update your lease</strong>: Add a smart device addendum before installing anything</li>
+<li><strong>Communicate with tenants</strong>: Explain what devices are installed and how to use them</li>
+<li><strong>Track your results</strong>: Monitor energy savings, tenant feedback, and maintenance incidents</li>
+<li><strong>Scale gradually</strong>: Add devices to additional properties based on your results</li>
+</ol>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>Smart home technology for rental properties is not a trend. It is the new standard. Tenants expect it, the economics support it, and the management benefits are real. Start with the high-ROI essentials (smart locks, thermostats, and leak detectors), and expand from there based on your experience and your tenants' preferences. The landlords who embrace smart technology today will have a significant advantage in the rental market for years to come.</p>
+35:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$3b"}}]
+36:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","rental operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental operations"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}],["$","span","maintenance operations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"maintenance operations"}],["$","span","smart home technology rental property",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"smart home technology rental property"}]]}]
+37:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+38:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","emergency-maintenance-rental-property",{"href":"/blog/emergency-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Emergency Maintenance for Rental Properties: A Landlord's Response Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}],["$","$L10","reduce-maintenance-costs-rental",{"href":"/blog/reduce-maintenance-costs-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Reduce Maintenance Costs on Rental Properties Without Cutting Corners"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}],["$","$L10","preventive-maintenance-schedule-rental",{"href":"/blog/preventive-maintenance-schedule-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Preventive Maintenance Schedule for Rental Properties: A Landlord's Year-Round Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[10," min read"]}]]}]]}]]}]
+39:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-smart-technology-makes-sense-for-rentals",{"className":"","children":["$","a",null,{"href":"#why-smart-technology-makes-sense-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Smart Technology Makes Sense for Rentals"}]}],["$","li","smart-locks-and-keyless-entry",{"className":"","children":["$","a",null,{"href":"#smart-locks-and-keyless-entry","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Locks and Keyless Entry"}]}],["$","li","how-smart-locks-help-landlords",{"className":"ml-4","children":["$","a",null,{"href":"#how-smart-locks-help-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Smart Locks Help Landlords"}]}],["$","li","best-smart-locks-for-rentals",{"className":"ml-4","children":["$","a",null,{"href":"#best-smart-locks-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Smart Locks for Rentals"}]}],["$","li","costs-and-roi",{"className":"ml-4","children":["$","a",null,{"href":"#costs-and-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Costs and ROI"}]}],["$","li","smart-thermostats",{"className":"","children":["$","a",null,{"href":"#smart-thermostats","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Thermostats"}]}],["$","li","benefits-for-landlords",{"className":"ml-4","children":["$","a",null,{"href":"#benefits-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Benefits for Landlords"}]}],["$","li","benefits-for-tenants",{"className":"ml-4","children":["$","a",null,{"href":"#benefits-for-tenants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Benefits for Tenants"}]}],["$","li","best-options-for-rentals",{"className":"ml-4","children":["$","a",null,{"href":"#best-options-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Options for Rentals"}]}],["$","li","costs-and-roi",{"className":"ml-4","children":["$","a",null,{"href":"#costs-and-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Costs and ROI"}]}],["$","li","leak-detectors-and-water-sensors",{"className":"","children":["$","a",null,{"href":"#leak-detectors-and-water-sensors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Leak Detectors and Water Sensors"}]}],["$","li","where-to-place-leak-detectors",{"className":"ml-4","children":["$","a",null,{"href":"#where-to-place-leak-detectors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where to Place Leak Detectors"}]}],["$","li","how-they-work",{"className":"ml-4","children":["$","a",null,{"href":"#how-they-work","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How They Work"}]}],["$","li","features-to-look-for",{"className":"ml-4","children":["$","a",null,{"href":"#features-to-look-for","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Features to Look For"}]}],["$","li","costs-and-roi",{"className":"ml-4","children":["$","a",null,{"href":"#costs-and-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Costs and ROI"}]}],["$","li","security-cameras-and-video-doorbells",{"className":"","children":["$","a",null,{"href":"#security-cameras-and-video-doorbells","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Security Cameras and Video Doorbells"}]}],"$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51"]}]]}]}]
+3a:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+3c:["$","li","where-cameras-are-appropriate",{"className":"ml-4","children":["$","a",null,{"href":"#where-cameras-are-appropriate","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Where Cameras Are Appropriate"}]}]
+3d:["$","li","video-doorbells",{"className":"ml-4","children":["$","a",null,{"href":"#video-doorbells","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Video Doorbells"}]}]
+3e:["$","li","costs-and-roi",{"className":"ml-4","children":["$","a",null,{"href":"#costs-and-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Costs and ROI"}]}]
+3f:["$","li","smart-lighting",{"className":"","children":["$","a",null,{"href":"#smart-lighting","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smart Lighting"}]}]
+40:["$","li","options-for-rentals",{"className":"ml-4","children":["$","a",null,{"href":"#options-for-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Options for Rentals"}]}]
+41:["$","li","benefits",{"className":"ml-4","children":["$","a",null,{"href":"#benefits","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Benefits"}]}]
+42:["$","li","costs-and-roi",{"className":"ml-4","children":["$","a",null,{"href":"#costs-and-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Costs and ROI"}]}]
+43:["$","li","energy-savings-the-numbers",{"className":"","children":["$","a",null,{"href":"#energy-savings-the-numbers","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Energy Savings: The Numbers"}]}]
+44:["$","li","tenant-appeal-and-higher-rent",{"className":"","children":["$","a",null,{"href":"#tenant-appeal-and-higher-rent","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Appeal and Higher Rent"}]}]
+45:["$","li","what-tenants-want-most",{"className":"ml-4","children":["$","a",null,{"href":"#what-tenants-want-most","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Tenants Want Most"}]}]
+46:["$","li","how-much-more-will-tenants-pay",{"className":"ml-4","children":["$","a",null,{"href":"#how-much-more-will-tenants-pay","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How Much More Will Tenants Pay"}]}]
+47:["$","li","marketing-your-smart-features",{"className":"ml-4","children":["$","a",null,{"href":"#marketing-your-smart-features","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Marketing Your Smart Features"}]}]
+48:["$","li","installation-costs-and-considerations",{"className":"","children":["$","a",null,{"href":"#installation-costs-and-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Installation Costs and Considerations"}]}]
+49:["$","li","diy-vs-professional-installation",{"className":"ml-4","children":["$","a",null,{"href":"#diy-vs-professional-installation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"DIY vs. Professional Installation"}]}]
+4a:["$","li","total-package-costs",{"className":"ml-4","children":["$","a",null,{"href":"#total-package-costs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Total Package Costs"}]}]
+4b:["$","li","roi-analysis-is-it-worth-it",{"className":"","children":["$","a",null,{"href":"#roi-analysis-is-it-worth-it","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"ROI Analysis: Is It Worth It?"}]}]
+4c:["$","li","privacy-considerations",{"className":"","children":["$","a",null,{"href":"#privacy-considerations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Privacy Considerations"}]}]
+4d:["$","li","legal-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#legal-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal Requirements"}]}]
+4e:["$","li","best-practices",{"className":"ml-4","children":["$","a",null,{"href":"#best-practices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Best Practices"}]}]
+4f:["$","li","management-platforms",{"className":"","children":["$","a",null,{"href":"#management-platforms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Management Platforms"}]}]
+50:["$","li","getting-started-your-smart-home-action-plan",{"className":"","children":["$","a",null,{"href":"#getting-started-your-smart-home-action-plan","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Getting Started: Your Smart Home Action Plan"}]}]
+51:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Smart Home Technology for Rental Properties: A Landlord's Complete Guide | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Discover how smart home technology can increase your rental property value, attract tenants, and reduce costs. Learn about smart locks, thermostats, leak detectors, and more with ROI analysis."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"property maintenance,rental operations,landlord tips,maintenance operations,smart home technology rental property"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/smart-home-technology-rental-property"}],["$","meta","6",{"property":"og:title","content":"Smart Home Technology for Rental Properties: A Landlord's Complete Guide"}],["$","meta","7",{"property":"og:description","content":"Discover how smart home technology can increase your rental property value, attract tenants, and reduce costs. Learn about smart locks, thermostats, leak detectors, and more with ROI analysis."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/smart-home-technology-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Smart Home Technology for Rental Properties: A Landlord's Complete Guide"}],["$","meta","15",{"name":"twitter:description","content":"Discover how smart home technology can increase your rental property value, attract tenants, and reduce costs. Learn about smart locks, thermostats, leak detectors, and more with ROI analysis."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,292 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","vacation-rental-turnover-checklist"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","vacation-rental-turnover-checklist","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","vacation-rental-turnover-checklist","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Vacation Rental Turnover Checklist: 40 Tasks for a Perfect Guest Experience\",\"description\":\"Use this complete vacation rental turnover checklist covering cleaning standards, linen management, restocking, inspections, and quality assurance to impress every guest.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-03-31\",\"dateModified\":\"2026-03-31\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/vacation-rental-turnover-checklist\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Vacation Rental Turnover Checklist: 40 Tasks for a Perfect Guest Experience\",\"item\":\"https://portfoliorental.com/blog/vacation-rental-turnover-checklist\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Vacation Rental Turnover Checklist: 40 Tasks for a Perfect Guest Experience"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-03-31","children":"March 30, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[10," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","before-the-turnover-communication-timeline",{"className":"","children":["$","a",null,{"href":"#before-the-turnover-communication-timeline","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Before the Turnover: Communication Timeline"}]}],["$","li","departing-guest-communication",{"className":"ml-4","children":["$","a",null,{"href":"#departing-guest-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Departing Guest Communication"}]}],["$","li","arriving-guest-communication",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29"]}]}]]}],"$L2a","$L2b"]}],"$L2c","$L2d"]}],"$L2e"]}]]}],"$L2f"]
+11:["$","a",null,{"href":"#arriving-guest-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Arriving Guest Communication"}]
+12:["$","li","kitchen-turnover-tasks",{"className":"","children":["$","a",null,{"href":"#kitchen-turnover-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Kitchen Turnover Tasks"}]}]
+13:["$","li","bathroom-turnover-tasks",{"className":"","children":["$","a",null,{"href":"#bathroom-turnover-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bathroom Turnover Tasks"}]}]
+14:["$","li","linen-management",{"className":"","children":["$","a",null,{"href":"#linen-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Linen Management"}]}]
+15:["$","li","living-areas-and-bedrooms",{"className":"","children":["$","a",null,{"href":"#living-areas-and-bedrooms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Living Areas and Bedrooms"}]}]
+16:["$","li","inspection-points-and-damage-documentation",{"className":"","children":["$","a",null,{"href":"#inspection-points-and-damage-documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Inspection Points and Damage Documentation"}]}]
+17:["$","li","key-management-and-security",{"className":"","children":["$","a",null,{"href":"#key-management-and-security","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Management and Security"}]}]
+18:["$","li","lockbox-and-access-points",{"className":"ml-4","children":["$","a",null,{"href":"#lockbox-and-access-points","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lockbox and Access Points"}]}]
+19:["$","li","restocking-supplies",{"className":"","children":["$","a",null,{"href":"#restocking-supplies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Restocking Supplies"}]}]
+1a:["$","li","keeping-a-restock-kit-ready",{"className":"ml-4","children":["$","a",null,{"href":"#keeping-a-restock-kit-ready","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keeping a Restock Kit Ready"}]}]
+1b:["$","li","deep-cleaning-schedule",{"className":"","children":["$","a",null,{"href":"#deep-cleaning-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Deep Cleaning Schedule"}]}]
+1c:["$","li","monthly-deep-cleaning-tasks",{"className":"ml-4","children":["$","a",null,{"href":"#monthly-deep-cleaning-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monthly Deep Cleaning Tasks"}]}]
+1d:["$","li","quarterly-deep-cleaning-tasks",{"className":"ml-4","children":["$","a",null,{"href":"#quarterly-deep-cleaning-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quarterly Deep Cleaning Tasks"}]}]
+1e:["$","li","annual-deep-cleaning-tasks",{"className":"ml-4","children":["$","a",null,{"href":"#annual-deep-cleaning-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annual Deep Cleaning Tasks"}]}]
+1f:["$","li","quality-assurance",{"className":"","children":["$","a",null,{"href":"#quality-assurance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quality Assurance"}]}]
+20:["$","li","using-a-photo-checklist",{"className":"ml-4","children":["$","a",null,{"href":"#using-a-photo-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Using a Photo Checklist"}]}]
+21:["$","li","guest-feedback-loop",{"className":"ml-4","children":["$","a",null,{"href":"#guest-feedback-loop","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Guest Feedback Loop"}]}]
+22:["$","li","building-your-turnover-team",{"className":"","children":["$","a",null,{"href":"#building-your-turnover-team","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Your Turnover Team"}]}]
+23:["$","li","hiring-cleaning-staff",{"className":"ml-4","children":["$","a",null,{"href":"#hiring-cleaning-staff","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hiring Cleaning Staff"}]}]
+24:["$","li","training-your-team",{"className":"ml-4","children":["$","a",null,{"href":"#training-your-team","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Training Your Team"}]}]
+25:["$","li","backup-plans",{"className":"ml-4","children":["$","a",null,{"href":"#backup-plans","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Backup Plans"}]}]
+26:["$","li","paying-your-cleaners",{"className":"ml-4","children":["$","a",null,{"href":"#paying-your-cleaners","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Paying Your Cleaners"}]}]
+27:["$","li","turnover-timing-and-scheduling",{"className":"","children":["$","a",null,{"href":"#turnover-timing-and-scheduling","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Turnover Timing and Scheduling"}]}]
+28:["$","li","sample-turnover-timeline",{"className":"ml-4","children":["$","a",null,{"href":"#sample-turnover-timeline","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sample Turnover Timeline"}]}]
+29:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+30:T3fd4,<p>The turnover between guests is the most important moment in short-term rental management. It is when you reset your property to create a flawless first impression. A missed step can lead to bad reviews, refund requests, and lost future bookings. A perfect turnover builds your reputation and keeps five-star reviews rolling in.</p>
+<p>This vacation rental turnover checklist covers everything from cleaning standards to quality assurance. Whether you clean the property yourself or hire a team, use this list to make sure nothing gets missed.</p>
+<p>For a broader look at managing short-term rentals, visit our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<h2 id="before-the-turnover-communication-timeline">Before the Turnover: Communication Timeline</h2>
+<p>Good turnovers start before the cleaning crew arrives. You need a clear communication process for both departing and arriving guests.</p>
+<h3 id="departing-guest-communication">Departing Guest Communication</h3>
+<p>Send these messages to the outgoing guest:</p>
+<ol>
+<li><strong>Two days before checkout:</strong> Remind them of the checkout time and any departure tasks like starting the dishwasher, taking out trash, or locking doors.</li>
+<li><strong>Checkout morning:</strong> Send a friendly message thanking them for their stay and reminding them of the checkout time.</li>
+<li><strong>After checkout:</strong> Confirm they have left and ask if they enjoyed their stay. This sets up a positive review.</li>
+</ol>
+<h3 id="arriving-guest-communication">Arriving Guest Communication</h3>
+<p>Coordinate with the incoming guest at the same time:</p>
+<ol start="4">
+<li><strong>One day before check-in:</strong> Confirm their arrival time and share check-in instructions.</li>
+<li><strong>Check-in day:</strong> Send a welcome message with the door code, Wi-Fi password, and any last-minute tips.</li>
+<li><strong>One hour after check-in:</strong> Ask if they found everything okay and if they need anything.</li>
+</ol>
+<p>This communication timeline keeps both guests informed and gives you a smooth handoff window.</p>
+<h2 id="kitchen-turnover-tasks">Kitchen Turnover Tasks</h2>
+<p>The kitchen is one of the most heavily used spaces. Guests notice dirty kitchens immediately.</p>
+<ol start="7">
+<li>
+<p><strong>Clean all countertops and backsplashes.</strong> Wipe down every surface with a disinfecting cleaner. Pay attention to the areas around the stove and sink where grease and food particles collect.</p>
+</li>
+<li>
+<p><strong>Empty and clean the refrigerator.</strong> Remove all food left by the previous guest. Wipe down every shelf and drawer. Check for spills on the door seals.</p>
+</li>
+<li>
+<p><strong>Run and empty the dishwasher.</strong> Make sure all dishes are clean and put away in their proper spots. Check that nothing is chipped or broken.</p>
+</li>
+<li>
+<p><strong>Clean the oven and microwave.</strong> Wipe the interior of both appliances. Remove any food splatter. Clean the microwave turntable.</p>
+</li>
+<li>
+<p><strong>Clean the coffee maker.</strong> Run a rinse cycle if possible. Wipe the exterior. Restock coffee pods or grounds, filters, and sugar.</p>
+</li>
+<li>
+<p><strong>Check and restock kitchen supplies.</strong> Make sure you have dish soap, sponges, paper towels, trash bags, and basic cooking supplies like salt, pepper, and oil.</p>
+</li>
+<li>
+<p><strong>Inspect cookware and utensils.</strong> Count all items against your inventory list. Replace anything that is damaged, stained, or missing.</p>
+</li>
+<li>
+<p><strong>Clean the sink and faucet.</strong> Scrub the sink basin. Polish the faucet. Make sure the drain runs freely.</p>
+</li>
+</ol>
+<h2 id="bathroom-turnover-tasks">Bathroom Turnover Tasks</h2>
+<p>Bathrooms are where guests form their strongest impressions about cleanliness. Every detail counts.</p>
+<ol start="15">
+<li>
+<p><strong>Scrub the toilet inside and out.</strong> Clean the bowl, seat, base, and tank exterior. Check behind the toilet where dust collects.</p>
+</li>
+<li>
+<p><strong>Clean the shower and tub.</strong> Scrub all tile, grout, and glass. Remove any hair from drains. Check for mildew in corners and caulk lines.</p>
+</li>
+<li>
+<p><strong>Clean and polish mirrors and glass.</strong> Use a streak-free cleaner on all mirrors and glass shower doors.</p>
+</li>
+<li>
+<p><strong>Wipe all countertops and sinks.</strong> Disinfect the vanity surface. Clean the faucet and drain area. Remove water spots.</p>
+</li>
+<li>
+<p><strong>Restock bathroom supplies.</strong> Place fresh toilet paper (at least two rolls per bathroom), soap, shampoo, conditioner, and body wash. Many successful hosts provide small luxury touches like lotion or makeup wipes.</p>
+</li>
+<li>
+<p><strong>Hang fresh towels.</strong> Provide at least two bath towels, two hand towels, and one washcloth per guest. Fold or hang them neatly.</p>
+</li>
+<li>
+<p><strong>Empty the trash can.</strong> Replace the liner with a fresh bag.</p>
+</li>
+</ol>
+<h2 id="linen-management">Linen Management</h2>
+<p>Linens can make or break a guest's comfort. Stained, worn, or mismatched linens signal low quality.</p>
+<ol start="22">
+<li>
+<p><strong>Strip all beds completely.</strong> Remove sheets, pillowcases, mattress protectors, and duvet covers. Check the mattress for stains or damage.</p>
+</li>
+<li>
+<p><strong>Make beds with fresh linens.</strong> Use crisp, white sheets when possible. They look clean and are easy to bleach. Tuck corners tightly and smooth out wrinkles.</p>
+</li>
+<li>
+<p><strong>Inspect all linens before placing them.</strong> Check for stains, tears, pilling, or odors. Remove any item that does not look and smell perfect.</p>
+</li>
+<li>
+<p><strong>Rotate your linen inventory.</strong> Keep at least three full sets of linens per bed. Rotate them evenly to prevent premature wear on any single set.</p>
+</li>
+<li>
+<p><strong>Launder everything at the right temperature.</strong> Wash sheets and towels in hot water with a quality detergent. Use bleach for white items. Dry completely to prevent mildew.</p>
+</li>
+</ol>
+<p>For more on the complete turnover workflow, check out our <a href="/blog/rental-property-turnover-process">rental property turnover process guide</a>.</p>
+<h2 id="living-areas-and-bedrooms">Living Areas and Bedrooms</h2>
+<p>These spaces should feel inviting and spotless.</p>
+<ol start="27">
+<li>
+<p><strong>Dust all surfaces.</strong> Hit every shelf, table, lamp, fan blade, and windowsill. Do not forget baseboards and crown molding.</p>
+</li>
+<li>
+<p><strong>Vacuum all floors and carpets.</strong> Vacuum under furniture and in corners. For hard floors, vacuum first and then mop with an appropriate cleaner.</p>
+</li>
+<li>
+<p><strong>Clean all windows and glass doors.</strong> Remove fingerprints, smudges, and pet nose prints. Clean both sides if accessible.</p>
+</li>
+<li>
+<p><strong>Check all light bulbs.</strong> Replace any burned-out bulbs. Make sure every lamp and fixture works.</p>
+</li>
+<li>
+<p><strong>Test the thermostat and HVAC.</strong> Set the temperature to a comfortable default. Make sure the system is heating or cooling properly. Replace the air filter on schedule.</p>
+</li>
+<li>
+<p><strong>Arrange furniture to the default layout.</strong> Guests often move chairs, tables, and ottomans. Reset everything to your standard arrangement.</p>
+</li>
+<li>
+<p><strong>Check under beds and furniture.</strong> Look for items left by previous guests. Also check for dust bunnies, trash, or spills.</p>
+</li>
+</ol>
+<h2 id="inspection-points-and-damage-documentation">Inspection Points and Damage Documentation</h2>
+<p>Catching damage early protects your security deposit claims and keeps your property in top shape.</p>
+<ol start="34">
+<li>
+<p><strong>Walk through every room with a checklist.</strong> Compare the current state of each room against your standard setup. Note anything out of place, damaged, or missing.</p>
+</li>
+<li>
+<p><strong>Take photos of any damage.</strong> Document wall marks, furniture scratches, broken items, and stains with date-stamped photos. This protects you if a guest disputes a damage claim.</p>
+</li>
+<li>
+<p><strong>Check all appliances.</strong> Turn on the TV, test the Wi-Fi, run the garbage disposal, and check that all remotes have working batteries. Guests will call you at 10 PM about a TV that does not work if you do not catch it during turnover.</p>
+</li>
+<li>
+<p><strong>Test smoke detectors and carbon monoxide alarms.</strong> Press the test button on each one. Replace batteries at least twice a year. This is not just good practice. It is often required by law.</p>
+</li>
+</ol>
+<h2 id="key-management-and-security">Key Management and Security</h2>
+<p>Security is part of every turnover, especially if you use physical keys.</p>
+<ol start="38">
+<li><strong>Change the door code.</strong> If you use a smart lock, generate a new code for each guest. Delete the previous guest's code immediately after checkout. If you use physical keys, verify all keys have been returned.</li>
+</ol>
+<p>Smart locks make this process much easier. They let you set unique codes for each guest, cleaning crews, and maintenance workers without worrying about lost keys.</p>
+<h3 id="lockbox-and-access-points">Lockbox and Access Points</h3>
+<p>Check that all lockboxes are secure and working. Test garage door openers, gate codes, and any secondary entry points. Make sure the arriving guest can access everything they need without calling you.</p>
+<h2 id="restocking-supplies">Restocking Supplies</h2>
+<p>Running out of basics during a guest's stay is a common source of complaints and low reviews.</p>
+<ol start="39">
+<li><strong>Restock your consumables checklist.</strong> For every turnover, make sure you have adequate supplies of:</li>
+</ol>
+<ul>
+<li>Toilet paper (two to three rolls per bathroom)</li>
+<li>Paper towels (one full roll in the kitchen)</li>
+<li>Dish soap and sponge</li>
+<li>Trash bags for all cans</li>
+<li>Laundry detergent (one pod or small amount)</li>
+<li>Coffee, tea, sugar, and creamer</li>
+<li>Salt, pepper, and cooking oil</li>
+<li>Soap, shampoo, conditioner in every bathroom</li>
+<li>Welcome snacks or treats (optional but review-boosting)</li>
+</ul>
+<h3 id="keeping-a-restock-kit-ready">Keeping a Restock Kit Ready</h3>
+<p>Many hosts prepare restock kits in advance. Fill a bin or bag with everything you need for a standard turnover. This saves time and makes sure you never forget an item. Keep two or three kits ready at all times.</p>
+<h2 id="deep-cleaning-schedule">Deep Cleaning Schedule</h2>
+<p>Between-guest turnovers handle surface cleaning. But your property also needs regular deep cleaning to stay in great shape.</p>
+<h3 id="monthly-deep-cleaning-tasks">Monthly Deep Cleaning Tasks</h3>
+<ul>
+<li>Clean inside all kitchen cabinets and drawers</li>
+<li>Wash windows inside and out</li>
+<li>Clean behind and under all appliances</li>
+<li>Shampoo carpets or deep clean rugs</li>
+<li>Wash all throw blankets and decorative pillows</li>
+<li>Clean air vents and replace HVAC filters</li>
+</ul>
+<h3 id="quarterly-deep-cleaning-tasks">Quarterly Deep Cleaning Tasks</h3>
+<ul>
+<li>Steam clean upholstered furniture</li>
+<li>Power wash exterior surfaces like decks and patios</li>
+<li>Clean gutters and check for exterior damage</li>
+<li>Inspect and reseal grout in bathrooms and kitchens</li>
+<li>Deep clean the washer and dryer</li>
+</ul>
+<h3 id="annual-deep-cleaning-tasks">Annual Deep Cleaning Tasks</h3>
+<ul>
+<li>Repaint high-traffic areas</li>
+<li>Replace worn mattress toppers or protectors</li>
+<li>Service all major appliances</li>
+<li>Update or replace tired decor items</li>
+<li>Refinish hardwood floors if needed</li>
+</ul>
+<h2 id="quality-assurance">Quality Assurance</h2>
+<p>The final step of every turnover is a quality check. This is your last chance to catch problems before the next guest walks in.</p>
+<ol start="40">
+<li><strong>Do a final walkthrough as if you were the guest.</strong> Walk through the front door and look at everything with fresh eyes. Ask yourself:</li>
+</ol>
+<ul>
+<li>Does it smell clean and fresh?</li>
+<li>Is the temperature comfortable?</li>
+<li>Are all lights on and working?</li>
+<li>Do the beds look inviting?</li>
+<li>Is the kitchen spotless?</li>
+<li>Are the bathrooms guest-ready?</li>
+<li>Is there anything that would bother you as a guest?</li>
+</ul>
+<h3 id="using-a-photo-checklist">Using a Photo Checklist</h3>
+<p>Some hosts take photos of each room after the turnover is complete. This creates a visual record and helps train new cleaning staff. Compare each turnover's photos to your standard to maintain consistency.</p>
+<h3 id="guest-feedback-loop">Guest Feedback Loop</h3>
+<p>After each stay, review the guest's feedback for any cleaning-related comments. If a guest mentions dust on the fan blades or a stained towel, add that specific item to your checklist. Your turnover process should get better with every guest.</p>
+<p>For more on managing vacation rental properties at scale, see our <a href="/blog/vacation-rental-property-management">vacation rental property management guide</a>.</p>
+<h2 id="building-your-turnover-team">Building Your Turnover Team</h2>
+<p>As your portfolio grows, you will need a reliable cleaning team. Here is how to build one.</p>
+<h3 id="hiring-cleaning-staff">Hiring Cleaning Staff</h3>
+<p>Look for cleaners who have experience with short-term rentals specifically. Hotel cleaning and residential house cleaning are different from vacation rental turnovers. STR cleaners need to be fast, thorough, and able to follow a detailed checklist.</p>
+<h3 id="training-your-team">Training Your Team</h3>
+<p>Give every cleaner a printed or digital copy of your checklist. Walk through the property with them on their first turnover. Show them your standards for bed-making, towel folding, and product placement. Take photos of what each room should look like when finished. For additional hosting tips on maintaining quality across turnovers, see our <a href="/blog/airbnb-property-management-tips">Airbnb property management tips</a>.</p>
+<h3 id="backup-plans">Backup Plans</h3>
+<p>Always have a backup cleaner ready. Cancellations happen, and you cannot miss a turnover. Build relationships with at least two cleaning teams so you are never stuck.</p>
+<h3 id="paying-your-cleaners">Paying Your Cleaners</h3>
+<p>Pay competitive rates. Good turnover cleaners are worth their weight in gold. A $150 cleaning fee that prevents a bad review and a $200 refund request is money well spent. Most hosts pay between $100 and $250 per turnover depending on the property size and market.</p>
+<h2 id="turnover-timing-and-scheduling">Turnover Timing and Scheduling</h2>
+<p>The time between checkout and check-in is precious. Most hosts allow a four to five-hour window. Here is how to make it work.</p>
+<h3 id="sample-turnover-timeline">Sample Turnover Timeline</h3>
+<ul>
+<li><strong>11:00 AM:</strong> Guest checks out</li>
+<li><strong>11:15 AM:</strong> Cleaning team arrives and begins work</li>
+<li><strong>12:30 PM:</strong> Cleaning complete, restocking done</li>
+<li><strong>12:45 PM:</strong> Host or manager does quality inspection</li>
+<li><strong>1:00 PM:</strong> Final photos taken, property marked as ready</li>
+<li><strong>3:00 PM or 4:00 PM:</strong> Next guest checks in</li>
+</ul>
+<p>If your turnovers consistently run longer than planned, you may need to adjust your checkout and check-in times, hire more cleaners, or simplify your setup.</p>
+<h2 id="final-thoughts">Final Thoughts</h2>
+<p>A great vacation rental turnover checklist is the backbone of a successful hosting business. It protects your reviews, your revenue, and your property. Print this checklist, customize it for your property, and use it for every single turnover.</p>
+<p>The best hosts treat their turnover process like a system, not a chore. Build the system once, improve it over time, and watch your guest satisfaction soar. For best practices from the platforms themselves, <a href="https://www.airbnb.com/resources" rel="noopener" target="_blank">Airbnb's resource center</a> offers host guides on cleaning standards, and <a href="https://www.vrbo.com" rel="noopener" target="_blank">Vrbo</a> provides vacation rental management resources to help you maintain five-star quality.</p>
+2a:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$30"}}]
+2b:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","short-term rentals",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rentals"}],["$","span","vacation rentals",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacation rentals"}],["$","span","Airbnb",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"Airbnb"}],["$","span","STR management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"STR management"}],["$","span","vacation rental turnover checklist",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacation rental turnover checklist"}]]}]
+2c:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+2d:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","airbnb-property-management-tips",{"href":"/blog/airbnb-property-management-tips","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"15 Airbnb Property Management Tips to Boost Bookings and Reviews"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}],["$","$L10","airbnb-automation-tools",{"href":"/blog/airbnb-automation-tools","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb Automation Tools: 10 Essential Tools to Scale Your Rental Business"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}],["$","$L10","airbnb-vs-long-term-rental",{"href":"/blog/airbnb-vs-long-term-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb vs Long-Term Rental: Which Strategy Earns More for Your Property?"}],["$","p",null,{"className":"text-sm text-gray-500","children":[11," min read"]}]]}]]}]]}]
+2e:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","before-the-turnover-communication-timeline",{"className":"","children":["$","a",null,{"href":"#before-the-turnover-communication-timeline","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Before the Turnover: Communication Timeline"}]}],["$","li","departing-guest-communication",{"className":"ml-4","children":["$","a",null,{"href":"#departing-guest-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Departing Guest Communication"}]}],["$","li","arriving-guest-communication",{"className":"ml-4","children":["$","a",null,{"href":"#arriving-guest-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Arriving Guest Communication"}]}],["$","li","kitchen-turnover-tasks",{"className":"","children":["$","a",null,{"href":"#kitchen-turnover-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Kitchen Turnover Tasks"}]}],["$","li","bathroom-turnover-tasks",{"className":"","children":["$","a",null,{"href":"#bathroom-turnover-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Bathroom Turnover Tasks"}]}],["$","li","linen-management",{"className":"","children":["$","a",null,{"href":"#linen-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Linen Management"}]}],["$","li","living-areas-and-bedrooms",{"className":"","children":["$","a",null,{"href":"#living-areas-and-bedrooms","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Living Areas and Bedrooms"}]}],["$","li","inspection-points-and-damage-documentation",{"className":"","children":["$","a",null,{"href":"#inspection-points-and-damage-documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Inspection Points and Damage Documentation"}]}],["$","li","key-management-and-security",{"className":"","children":["$","a",null,{"href":"#key-management-and-security","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Management and Security"}]}],["$","li","lockbox-and-access-points",{"className":"ml-4","children":["$","a",null,{"href":"#lockbox-and-access-points","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lockbox and Access Points"}]}],["$","li","restocking-supplies",{"className":"","children":["$","a",null,{"href":"#restocking-supplies","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Restocking Supplies"}]}],["$","li","keeping-a-restock-kit-ready",{"className":"ml-4","children":["$","a",null,{"href":"#keeping-a-restock-kit-ready","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keeping a Restock Kit Ready"}]}],["$","li","deep-cleaning-schedule",{"className":"","children":["$","a",null,{"href":"#deep-cleaning-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Deep Cleaning Schedule"}]}],["$","li","monthly-deep-cleaning-tasks",{"className":"ml-4","children":["$","a",null,{"href":"#monthly-deep-cleaning-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Monthly Deep Cleaning Tasks"}]}],["$","li","quarterly-deep-cleaning-tasks",{"className":"ml-4","children":["$","a",null,{"href":"#quarterly-deep-cleaning-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quarterly Deep Cleaning Tasks"}]}],["$","li","annual-deep-cleaning-tasks",{"className":"ml-4","children":"$L31"}],"$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c"]}]]}]}]
+2f:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+31:["$","a",null,{"href":"#annual-deep-cleaning-tasks","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annual Deep Cleaning Tasks"}]
+32:["$","li","quality-assurance",{"className":"","children":["$","a",null,{"href":"#quality-assurance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quality Assurance"}]}]
+33:["$","li","using-a-photo-checklist",{"className":"ml-4","children":["$","a",null,{"href":"#using-a-photo-checklist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Using a Photo Checklist"}]}]
+34:["$","li","guest-feedback-loop",{"className":"ml-4","children":["$","a",null,{"href":"#guest-feedback-loop","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Guest Feedback Loop"}]}]
+35:["$","li","building-your-turnover-team",{"className":"","children":["$","a",null,{"href":"#building-your-turnover-team","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building Your Turnover Team"}]}]
+36:["$","li","hiring-cleaning-staff",{"className":"ml-4","children":["$","a",null,{"href":"#hiring-cleaning-staff","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hiring Cleaning Staff"}]}]
+37:["$","li","training-your-team",{"className":"ml-4","children":["$","a",null,{"href":"#training-your-team","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Training Your Team"}]}]
+38:["$","li","backup-plans",{"className":"ml-4","children":["$","a",null,{"href":"#backup-plans","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Backup Plans"}]}]
+39:["$","li","paying-your-cleaners",{"className":"ml-4","children":["$","a",null,{"href":"#paying-your-cleaners","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Paying Your Cleaners"}]}]
+3a:["$","li","turnover-timing-and-scheduling",{"className":"","children":["$","a",null,{"href":"#turnover-timing-and-scheduling","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Turnover Timing and Scheduling"}]}]
+3b:["$","li","sample-turnover-timeline",{"className":"ml-4","children":["$","a",null,{"href":"#sample-turnover-timeline","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Sample Turnover Timeline"}]}]
+3c:["$","li","final-thoughts",{"className":"","children":["$","a",null,{"href":"#final-thoughts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Final Thoughts"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Vacation Rental Turnover Checklist: 40 Tasks for a Perfect Guest Experience | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Use this complete vacation rental turnover checklist covering cleaning standards, linen management, restocking, inspections, and quality assurance to impress every guest."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"short-term rentals,vacation rentals,Airbnb,STR management,vacation rental turnover checklist"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/vacation-rental-turnover-checklist"}],["$","meta","6",{"property":"og:title","content":"Vacation Rental Turnover Checklist: 40 Tasks for a Perfect Guest Experience"}],["$","meta","7",{"property":"og:description","content":"Use this complete vacation rental turnover checklist covering cleaning standards, linen management, restocking, inspections, and quality assurance to impress every guest."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/vacation-rental-turnover-checklist"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-03-31"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Vacation Rental Turnover Checklist: 40 Tasks for a Perfect Guest Experience"}],["$","meta","15",{"name":"twitter:description","content":"Use this complete vacation rental turnover checklist covering cleaning standards, linen management, restocking, inspections, and quality assurance to impress every guest."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

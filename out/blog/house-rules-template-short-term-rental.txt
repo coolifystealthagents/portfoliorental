@@ -1,0 +1,280 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","house-rules-template-short-term-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","house-rules-template-short-term-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","house-rules-template-short-term-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"House Rules Template for Short-Term Rentals\",\"description\":\"Get a complete house rules template for your short-term rental. Covers noise, pets, guests, parking, check-in/out, and more. Protect your property and guests.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/house-rules-template-short-term-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"House Rules Template for Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/house-rules-template-short-term-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"House Rules Template for Short-Term Rentals"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[10," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-house-rules-matter-for-str-hosts",{"className":"","children":["$","a",null,{"href":"#why-house-rules-matter-for-str-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why House Rules Matter for STR Hosts"}]}],["$","li","legal-and-platform-protection",{"className":"ml-4","children":["$","a",null,{"href":"#legal-and-platform-protection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Platform Protection"}]}],["$","li","guest-experience-management",{"className":"ml-4","children":["$","a",null,{"href":"#guest-experience-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Guest Experience Management"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30"]}]}]]}],"$L31","$L32"]}],"$L33","$L34"]}],"$L35"]}]]}],"$L36"]
+11:["$","li","neighbor-and-community-relations",{"className":"ml-4","children":["$","a",null,{"href":"#neighbor-and-community-relations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Neighbor and Community Relations"}]}]
+12:["$","li","how-to-display-your-house-rules",{"className":"","children":["$","a",null,{"href":"#how-to-display-your-house-rules","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Display Your House Rules"}]}]
+13:["$","li","airbnb-s-house-rules-section",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-s-house-rules-section","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb's House Rules Section"}]}]
+14:["$","li","physical-guest-welcome-book",{"className":"ml-4","children":["$","a",null,{"href":"#physical-guest-welcome-book","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Physical Guest Welcome Book"}]}]
+15:["$","li","pre-arrival-message",{"className":"ml-4","children":["$","a",null,{"href":"#pre-arrival-message","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pre-Arrival Message"}]}]
+16:["$","li","qr-code-or-digital-house-manual",{"className":"ml-4","children":["$","a",null,{"href":"#qr-code-or-digital-house-manual","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"QR Code or Digital House Manual"}]}]
+17:["$","li","complete-house-rules-template-for-short-term-rentals",{"className":"","children":["$","a",null,{"href":"#complete-house-rules-template-for-short-term-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Complete House Rules Template for Short-Term Rentals"}]}]
+18:["$","li","welcome-and-introduction",{"className":"ml-4","children":["$","a",null,{"href":"#welcome-and-introduction","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Welcome and Introduction"}]}]
+19:["$","li","check-in-and-check-out",{"className":"ml-4","children":["$","a",null,{"href":"#check-in-and-check-out","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Check-In and Check-Out"}]}]
+1a:["$","li","maximum-occupancy",{"className":"ml-4","children":["$","a",null,{"href":"#maximum-occupancy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maximum Occupancy"}]}]
+1b:["$","li","noise-and-quiet-hours",{"className":"ml-4","children":["$","a",null,{"href":"#noise-and-quiet-hours","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Noise and Quiet Hours"}]}]
+1c:["$","li","no-parties-or-events",{"className":"ml-4","children":["$","a",null,{"href":"#no-parties-or-events","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"No Parties or Events"}]}]
+1d:["$","li","pets",{"className":"ml-4","children":["$","a",null,{"href":"#pets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pets"}]}]
+1e:["$","li","smoking",{"className":"ml-4","children":["$","a",null,{"href":"#smoking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smoking"}]}]
+1f:["$","li","parking",{"className":"ml-4","children":["$","a",null,{"href":"#parking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Parking"}]}]
+20:["$","li","trash-and-recycling",{"className":"ml-4","children":["$","a",null,{"href":"#trash-and-recycling","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Trash and Recycling"}]}]
+21:["$","li","utilities-and-appliances",{"className":"ml-4","children":["$","a",null,{"href":"#utilities-and-appliances","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Utilities and Appliances"}]}]
+22:["$","li","wifi",{"className":"ml-4","children":["$","a",null,{"href":"#wifi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"WiFi"}]}]
+23:["$","li","security-cameras",{"className":"ml-4","children":["$","a",null,{"href":"#security-cameras","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Security Cameras"}]}]
+24:["$","li","property-care",{"className":"ml-4","children":["$","a",null,{"href":"#property-care","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Care"}]}]
+25:["$","li","prohibited-activities",{"className":"ml-4","children":["$","a",null,{"href":"#prohibited-activities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Prohibited Activities"}]}]
+26:["$","li","pool-and-hot-tub-rules-if-applicable",{"className":"ml-4","children":["$","a",null,{"href":"#pool-and-hot-tub-rules-if-applicable","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool and Hot Tub Rules (If Applicable)"}]}]
+27:["$","li","lost-keys-and-lockouts",{"className":"ml-4","children":["$","a",null,{"href":"#lost-keys-and-lockouts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lost Keys and Lockouts"}]}]
+28:["$","li","guest-responsibilities-summary",{"className":"ml-4","children":["$","a",null,{"href":"#guest-responsibilities-summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Guest Responsibilities Summary"}]}]
+29:["$","li","tips-for-writing-effective-house-rules",{"className":"","children":["$","a",null,{"href":"#tips-for-writing-effective-house-rules","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tips for Writing Effective House Rules"}]}]
+2a:["$","li","keep-rules-firm-but-friendly",{"className":"ml-4","children":["$","a",null,{"href":"#keep-rules-firm-but-friendly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep Rules Firm but Friendly"}]}]
+2b:["$","li","explain-the-why",{"className":"ml-4","children":["$","a",null,{"href":"#explain-the-why","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Explain the Why"}]}]
+2c:["$","li","do-not-overwhelm-with-length",{"className":"ml-4","children":["$","a",null,{"href":"#do-not-overwhelm-with-length","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Do Not Overwhelm With Length"}]}]
+2d:["$","li","revisit-after-each-problem",{"className":"ml-4","children":["$","a",null,{"href":"#revisit-after-each-problem","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Revisit After Each Problem"}]}]
+2e:["$","li","house-rules-and-guest-screening",{"className":"","children":["$","a",null,{"href":"#house-rules-and-guest-screening","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"House Rules and Guest Screening"}]}]
+2f:["$","li","enforcing-your-house-rules",{"className":"","children":["$","a",null,{"href":"#enforcing-your-house-rules","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Enforcing Your House Rules"}]}]
+30:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+37:T400a,<p>Your house rules are one of the most important documents in your short-term rental operation. They set guest expectations before arrival, protect your property during stays, and give you a documented reference point if something goes wrong.</p>
+<p>Well-crafted house rules prevent misunderstandings, reduce damage, and help you maintain a 5-star review profile. Vague or missing rules, on the other hand, lead to noise complaints from neighbors, unexpected guests, property damage, and difficult review situations.</p>
+<p>This guide provides a complete <strong>house rules template for short-term rentals</strong> that you can adapt for your property, along with guidance on how to communicate your rules effectively and enforce them professionally.</p>
+<hr>
+<h2 id="why-house-rules-matter-for-str-hosts">Why House Rules Matter for STR Hosts</h2>
+<h3 id="legal-and-platform-protection">Legal and Platform Protection</h3>
+<p>On Airbnb, your house rules are part of the booking agreement. The <a href="https://www.ftc.gov/business-guidance">FTC advises consumers</a> to review terms before purchasing. When a guest books, they agree to follow your rules. If a guest violates your rules and causes damage or creates problems, having documented rules strengthens any claim you make through Airbnb's resolution process or your insurance provider.</p>
+<h3 id="guest-experience-management">Guest Experience Management</h3>
+<p>Rules are not just about restriction — they are about setting the right expectations. A guest who knows exactly what to expect arrives in the right mindset. Clear rules about check-in time, parking, and WiFi usage eliminate the most common guest questions.</p>
+<h3 id="neighbor-and-community-relations">Neighbor and Community Relations</h3>
+<p>Many STR conflicts with neighbors and local governments stem from guest behavior — noise, parking, and parties. Strong house rules protect your relationships with the surrounding community.</p>
+<p>For broader context on managing your STR professionally, see our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="how-to-display-your-house-rules">How to Display Your House Rules</h2>
+<h3 id="airbnb-s-house-rules-section">Airbnb's House Rules Section</h3>
+<p>Airbnb provides a dedicated house rules section in your listing settings. Use this to enter key rules that guests must accept before booking. Keep this list to your most essential rules — a wall of text discourages guests from reading anything.</p>
+<h3 id="physical-guest-welcome-book">Physical Guest Welcome Book</h3>
+<p>Place a printed or digital welcome book (using tools like Hostfully or Touch Stay) at the property. This can include your full rules plus property instructions, local recommendations, and emergency information.</p>
+<h3 id="pre-arrival-message">Pre-Arrival Message</h3>
+<p>Include a brief rules summary in your automated pre-arrival message. Focus on the rules most relevant to arrival day: check-in time, parking, noise hours, and checkout procedures.</p>
+<h3 id="qr-code-or-digital-house-manual">QR Code or Digital House Manual</h3>
+<p>Some hosts use a QR code displayed at the property that links to a digital version of their house rules and property manual. This keeps information accessible without printing.</p>
+<hr>
+<h2 id="complete-house-rules-template-for-short-term-rentals">Complete House Rules Template for Short-Term Rentals</h2>
+<p>Below is a comprehensive template. Customize sections for your property type, local context, and personal preferences. Items in brackets [ ] indicate where you should fill in your specific details.</p>
+<hr>
+<h3 id="welcome-and-introduction">Welcome and Introduction</h3>
+<p>Welcome to [Property Name]! We are thrilled to have you as our guest. To ensure a comfortable stay for you and a respectful experience for our neighbors, please review and follow these house rules. By booking, you agree to these terms.</p>
+<p>For any questions or issues during your stay, contact us at [Phone/Email].</p>
+<hr>
+<h3 id="check-in-and-check-out">Check-In and Check-Out</h3>
+<p><strong>Check-in time:</strong> [3:00 PM] or after
+<strong>Check-out time:</strong> By [11:00 AM]</p>
+<p>Early check-in and late check-out are available when possible. Please message us at least 24 hours in advance to request — we will confirm based on the cleaning schedule.</p>
+<p>Self check-in instructions will be sent to you [48 hours] before arrival. Please follow the instructions carefully to access the property.</p>
+<p>Upon check-out, please:</p>
+<ul>
+<li>Strip beds and leave linens in a pile (or in the location specified)</li>
+<li>Load and start the dishwasher</li>
+<li>Dispose of all trash in the [location of trash/recycling bins]</li>
+<li>Return all keys to the lockbox (if applicable)</li>
+<li>Close and lock all windows and doors</li>
+</ul>
+<hr>
+<h3 id="maximum-occupancy">Maximum Occupancy</h3>
+<p>This property accommodates a maximum of <strong>[X] guests</strong>. The number of guests staying overnight must not exceed this limit. Day visitors are permitted up to [X] additional people with prior approval.</p>
+<p>Exceeding the maximum occupancy without approval may result in immediate termination of the reservation without refund.</p>
+<hr>
+<h3 id="noise-and-quiet-hours">Noise and Quiet Hours</h3>
+<p><strong>Quiet hours:</strong> [10:00 PM to 8:00 AM]</p>
+<p>During quiet hours, please keep noise to a level that cannot be heard outside the property. This property is located in a [residential neighborhood / building with shared walls] and we ask all guests to be respectful of neighbors.</p>
+<p>At all times, guests are expected to:</p>
+<ul>
+<li>Keep outdoor noise at a moderate level</li>
+<li>Avoid slamming doors</li>
+<li>Use headphones for music and videos after quiet hours</li>
+<li>Limit outdoor gatherings to [X] people</li>
+</ul>
+<p>Noise violations reported by neighbors may result in immediate termination of the reservation.</p>
+<hr>
+<h3 id="no-parties-or-events">No Parties or Events</h3>
+<p>Events, parties, and large gatherings are <strong>not permitted</strong> at this property. This includes:</p>
+<ul>
+<li>Birthday or graduation parties</li>
+<li>Wedding or rehearsal events</li>
+<li>Corporate events</li>
+<li>Any gathering with guests not registered in the booking</li>
+</ul>
+<p>If you are looking for a space for an event, please inquire separately so we can assess whether we can accommodate your needs.</p>
+<hr>
+<h3 id="pets">Pets</h3>
+<p><strong>This property [is / is not] pet-friendly.</strong></p>
+<p>[If pet-friendly:]</p>
+<ul>
+<li>Dogs are permitted (maximum [X] dogs, [weight limit if applicable])</li>
+<li>Cats are [permitted / not permitted]</li>
+<li>A pet fee of $[XX] per stay applies (charged separately)</li>
+<li>Pets must not be left unattended in the property for more than [X] hours</li>
+<li>Please clean up after pets in all outdoor areas</li>
+<li>Pets are not permitted on furniture or beds unless specifically approved</li>
+<li>Any pet damage will be charged to the guest</li>
+</ul>
+<p>[If not pet-friendly:]
+No pets are permitted at this property, including emotional support animals that are not certified service animals. Review <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp/assistance_animals">HUD's pet policy guidance</a> carefully. Undisclosed pets may result in a fee and/or reservation cancellation.</p>
+<hr>
+<h3 id="smoking">Smoking</h3>
+<p><strong>Smoking of any kind is strictly prohibited</strong> inside this property, including cigarettes, cigars, marijuana, and vaping.</p>
+<p>Designated smoking areas (if applicable): [outdoor area description, e.g., "back patio only, dispose of butts in the ashtray provided"]</p>
+<p>A cleaning fee of $[XXX] will be assessed if smoking inside the property is detected.</p>
+<hr>
+<h3 id="parking">Parking</h3>
+<p>[Number] parking space(s) are available for guests:</p>
+<ul>
+<li>[Description: driveway, dedicated lot, street parking]</li>
+<li>[Any restrictions: no vehicles over certain height, no commercial vehicles]</li>
+</ul>
+<p>Street parking rules: [note any permit requirements, street cleaning days, time restrictions]</p>
+<p>Please do not block [neighbor's driveway / fire hydrant / other].</p>
+<hr>
+<h3 id="trash-and-recycling">Trash and Recycling</h3>
+<p>Trash pickup is on [day(s) of the week]. Please put bins at the curb by [time] the night before.</p>
+<p>Trash bins are located [location]. Recycling bins are located [location].</p>
+<p>Please separate: [recycling categories — paper, glass, cans, plastics per local rules].</p>
+<p>Do not leave trash bags outside the designated bins or in the yard.</p>
+<hr>
+<h3 id="utilities-and-appliances">Utilities and Appliances</h3>
+<p>To keep costs reasonable and the property well-maintained:</p>
+<ul>
+<li>Turn off lights, fans, and TVs when leaving the property</li>
+<li>Keep the thermostat set between [65°F and 75°F / 18°C and 24°C]</li>
+<li>Do not open windows and run the AC/heat simultaneously</li>
+<li>Report any appliance issues promptly rather than attempting repairs</li>
+</ul>
+<p><strong>Appliance instructions:</strong> [Specify any non-obvious appliances — how to use the TV inputs, fireplace safety, outdoor grill lighting procedure, etc.]</p>
+<hr>
+<h3 id="wifi">WiFi</h3>
+<p>WiFi Network: <strong>[Network Name]</strong>
+Password: <strong>[Password]</strong></p>
+<p>Please use the WiFi for personal use only. Do not use the network for illegal activity including piracy, torrenting, or downloading prohibited content.</p>
+<hr>
+<h3 id="security-cameras">Security Cameras</h3>
+<p>This property has [no interior cameras / exterior cameras only]. Exterior cameras are located at [front door, driveway, etc.] and are used for security purposes only.</p>
+<p>[If using cameras, Airbnb requires disclosure in the listing. Be transparent with guests.]</p>
+<hr>
+<h3 id="property-care">Property Care</h3>
+<p>Guests are responsible for keeping the property in good condition during their stay. Please:</p>
+<ul>
+<li>Report any damage or maintenance issues to us immediately</li>
+<li>Do not rearrange or remove furniture from the property</li>
+<li>Do not attach anything to walls with nails, tape, or adhesive without permission</li>
+<li>Use [cutting boards, coasters, trivets] to protect surfaces</li>
+<li>Keep the kitchen clean and wipe down surfaces after cooking</li>
+<li>Do not leave food open that might attract insects or pests</li>
+</ul>
+<hr>
+<h3 id="prohibited-activities">Prohibited Activities</h3>
+<p>The following are strictly prohibited:</p>
+<ul>
+<li>Illegal activity of any kind on the property</li>
+<li>Weapons (unless locked in an approved storage device per local law)</li>
+<li>Excessive use of fireworks</li>
+<li>Open flames other than the designated fireplace or outdoor grill</li>
+<li>Use of pools or hot tubs (if applicable) outside designated hours [X AM to X PM]</li>
+<li>Commercial photography or filming without prior written approval</li>
+</ul>
+<hr>
+<h3 id="pool-and-hot-tub-rules-if-applicable">Pool and Hot Tub Rules (If Applicable)</h3>
+<ul>
+<li>Pool hours: [7:00 AM to 10:00 PM]</li>
+<li>No diving — maximum depth is [X feet]. Review <a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Pool-Safety-Information-Center">CPSC pool safety</a> guidelines.</li>
+<li>No glass in pool or hot tub areas</li>
+<li>Children must be supervised by an adult at all times</li>
+<li>Shower before entering the hot tub</li>
+<li>Hot tub temperature is preset — do not adjust settings</li>
+<li>Maximum [X] people in the hot tub at one time</li>
+</ul>
+<hr>
+<h3 id="lost-keys-and-lockouts">Lost Keys and Lockouts</h3>
+<p>If you are locked out of the property, contact us at [phone number] and we will arrange access as quickly as possible. After-hours lockout service may incur a fee of $[XX].</p>
+<p>Lost or unreturned keys will incur a replacement fee of $[XX].</p>
+<hr>
+<h3 id="guest-responsibilities-summary">Guest Responsibilities Summary</h3>
+<p>By booking this property, you agree to:</p>
+<ol>
+<li>Follow all house rules during your stay</li>
+<li>Respect neighbors and the surrounding community</li>
+<li>Pay for any damage caused during your stay beyond normal wear and tear</li>
+<li>Not exceed the maximum occupancy limit</li>
+<li>Leave the property in reasonable condition at checkout</li>
+</ol>
+<p>Violations of these rules may result in immediate reservation termination without refund and/or additional charges through the booking platform.</p>
+<hr>
+<h2 id="tips-for-writing-effective-house-rules">Tips for Writing Effective House Rules</h2>
+<h3 id="keep-rules-firm-but-friendly">Keep Rules Firm but Friendly</h3>
+<p>Your tone matters. Rules written as commands ("Do not do X or you will be charged") feel adversarial. Rules framed with context ("We ask guests to keep noise down after 10pm to respect our neighbors") set the same expectation more warmly.</p>
+<h3 id="explain-the-why">Explain the Why</h3>
+<p>Guests are more likely to follow rules when they understand the reason. "No smoking inside" is a rule. "No smoking inside — our bedding and furnishings absorb odors quickly and affect other guests' experiences" is a reason that builds understanding.</p>
+<h3 id="do-not-overwhelm-with-length">Do Not Overwhelm With Length</h3>
+<p>A 30-item list of rules discourages guests from reading any of them. Focus on the rules that actually matter for your property and market. Remove generic filler.</p>
+<h3 id="revisit-after-each-problem">Revisit After Each Problem</h3>
+<p>Every time something goes wrong, ask whether a house rule could have prevented it. Add or refine rules based on real experience with your specific property and guest mix.</p>
+<hr>
+<h2 id="house-rules-and-guest-screening">House Rules and Guest Screening</h2>
+<p>Your house rules work together with your guest screening process. Guests who do not fit your rules profile can be screened out before booking. See our guide on <a href="/blog/guest-screening-short-term-rental">guest screening for short-term rentals</a> for a full approach to identifying and accepting the right guests.</p>
+<hr>
+<h2 id="enforcing-your-house-rules">Enforcing Your House Rules</h2>
+<p>Having house rules is only half the equation. Enforcement — when necessary — requires:</p>
+<p><strong>Noise Monitoring Technology:</strong> Devices like Minut or NoiseAware detect decibel levels without recording audio. They alert you when noise exceeds a threshold so you can contact guests before a neighbor complaint is filed.</p>
+<p><strong>Security Deposits:</strong> While Airbnb has shifted away from traditional security deposits, you can use damage protection add-ons or require deposits through direct booking platforms.</p>
+<p><strong>Clear Communication:</strong> If a guest violates a rule, address it promptly but professionally. Message first, then call if necessary. Keep all communication within the Airbnb platform for documentation.</p>
+<p><strong>Airbnb's Resolution Center:</strong> For confirmed rule violations that result in damage or additional cleaning, submit a claim through Airbnb's resolution center promptly after checkout.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Your house rules are not bureaucratic fine print — they are a core tool for protecting your property, managing guest expectations, and maintaining your hosting reputation. A well-crafted set of rules reduces friction before it starts.</p>
+<p>Use the template above as a starting point, customize it for your property, and integrate your rules into every touchpoint of the guest journey: the listing, the booking confirmation, the pre-arrival message, and the welcome book at the property.</p>
+<p>For more on managing the full guest experience, explore our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a> and <a href="/blog/airbnb-property-management-tips">airbnb property management tips</a>.</p>
+<p><strong>House Rules Quick Reference:</strong></p>
+<ul>
+<li>Cover check-in/out, occupancy, noise, pets, smoking, parking, and utilities</li>
+<li>Keep rules friendly in tone but firm in expectation</li>
+<li>Display rules in the listing, pre-arrival message, and on-property welcome book</li>
+<li>Revisit and update rules based on actual guest incidents</li>
+<li>Pair rules with noise monitoring and screening for full protection</li>
+</ul>
+31:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$37"}}]
+32:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","house rules",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"house rules"}],["$","span","short-term rentals",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rentals"}],["$","span","airbnb",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb"}],["$","span","guest management",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"guest management"}],["$","span","vacation rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacation rental"}]]}]
+33:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+34:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","airbnb-hoa-rules-restrictions",{"href":"/blog/airbnb-hoa-rules-restrictions","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb and HOA Rules: Navigating Restrictions"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","albuquerque-short-term-rental-regulations",{"href":"/blog/albuquerque-short-term-rental-regulations","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Albuquerque Short-Term Rental Regulations"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","anaheim-short-term-rental-regulations",{"href":"/blog/anaheim-short-term-rental-regulations","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Anaheim Short-Term Rental Regulations"}],["$","p",null,{"className":"text-sm text-gray-500","children":[4," min read"]}]]}]]}]]}]
+35:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-house-rules-matter-for-str-hosts",{"className":"","children":["$","a",null,{"href":"#why-house-rules-matter-for-str-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why House Rules Matter for STR Hosts"}]}],["$","li","legal-and-platform-protection",{"className":"ml-4","children":["$","a",null,{"href":"#legal-and-platform-protection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Platform Protection"}]}],["$","li","guest-experience-management",{"className":"ml-4","children":["$","a",null,{"href":"#guest-experience-management","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Guest Experience Management"}]}],["$","li","neighbor-and-community-relations",{"className":"ml-4","children":["$","a",null,{"href":"#neighbor-and-community-relations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Neighbor and Community Relations"}]}],["$","li","how-to-display-your-house-rules",{"className":"","children":["$","a",null,{"href":"#how-to-display-your-house-rules","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"How to Display Your House Rules"}]}],["$","li","airbnb-s-house-rules-section",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-s-house-rules-section","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb's House Rules Section"}]}],["$","li","physical-guest-welcome-book",{"className":"ml-4","children":["$","a",null,{"href":"#physical-guest-welcome-book","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Physical Guest Welcome Book"}]}],["$","li","pre-arrival-message",{"className":"ml-4","children":["$","a",null,{"href":"#pre-arrival-message","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pre-Arrival Message"}]}],["$","li","qr-code-or-digital-house-manual",{"className":"ml-4","children":["$","a",null,{"href":"#qr-code-or-digital-house-manual","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"QR Code or Digital House Manual"}]}],["$","li","complete-house-rules-template-for-short-term-rentals",{"className":"","children":["$","a",null,{"href":"#complete-house-rules-template-for-short-term-rentals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Complete House Rules Template for Short-Term Rentals"}]}],["$","li","welcome-and-introduction",{"className":"ml-4","children":["$","a",null,{"href":"#welcome-and-introduction","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Welcome and Introduction"}]}],["$","li","check-in-and-check-out",{"className":"ml-4","children":["$","a",null,{"href":"#check-in-and-check-out","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Check-In and Check-Out"}]}],["$","li","maximum-occupancy",{"className":"ml-4","children":["$","a",null,{"href":"#maximum-occupancy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Maximum Occupancy"}]}],["$","li","noise-and-quiet-hours",{"className":"ml-4","children":["$","a",null,{"href":"#noise-and-quiet-hours","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Noise and Quiet Hours"}]}],["$","li","no-parties-or-events",{"className":"ml-4","children":["$","a",null,{"href":"#no-parties-or-events","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"No Parties or Events"}]}],"$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b"]}]]}]}]
+36:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+38:["$","li","pets",{"className":"ml-4","children":["$","a",null,{"href":"#pets","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pets"}]}]
+39:["$","li","smoking",{"className":"ml-4","children":["$","a",null,{"href":"#smoking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Smoking"}]}]
+3a:["$","li","parking",{"className":"ml-4","children":["$","a",null,{"href":"#parking","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Parking"}]}]
+3b:["$","li","trash-and-recycling",{"className":"ml-4","children":["$","a",null,{"href":"#trash-and-recycling","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Trash and Recycling"}]}]
+3c:["$","li","utilities-and-appliances",{"className":"ml-4","children":["$","a",null,{"href":"#utilities-and-appliances","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Utilities and Appliances"}]}]
+3d:["$","li","wifi",{"className":"ml-4","children":["$","a",null,{"href":"#wifi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"WiFi"}]}]
+3e:["$","li","security-cameras",{"className":"ml-4","children":["$","a",null,{"href":"#security-cameras","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Security Cameras"}]}]
+3f:["$","li","property-care",{"className":"ml-4","children":["$","a",null,{"href":"#property-care","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Property Care"}]}]
+40:["$","li","prohibited-activities",{"className":"ml-4","children":["$","a",null,{"href":"#prohibited-activities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Prohibited Activities"}]}]
+41:["$","li","pool-and-hot-tub-rules-if-applicable",{"className":"ml-4","children":["$","a",null,{"href":"#pool-and-hot-tub-rules-if-applicable","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Pool and Hot Tub Rules (If Applicable)"}]}]
+42:["$","li","lost-keys-and-lockouts",{"className":"ml-4","children":["$","a",null,{"href":"#lost-keys-and-lockouts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lost Keys and Lockouts"}]}]
+43:["$","li","guest-responsibilities-summary",{"className":"ml-4","children":["$","a",null,{"href":"#guest-responsibilities-summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Guest Responsibilities Summary"}]}]
+44:["$","li","tips-for-writing-effective-house-rules",{"className":"","children":["$","a",null,{"href":"#tips-for-writing-effective-house-rules","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tips for Writing Effective House Rules"}]}]
+45:["$","li","keep-rules-firm-but-friendly",{"className":"ml-4","children":["$","a",null,{"href":"#keep-rules-firm-but-friendly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Keep Rules Firm but Friendly"}]}]
+46:["$","li","explain-the-why",{"className":"ml-4","children":["$","a",null,{"href":"#explain-the-why","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Explain the Why"}]}]
+47:["$","li","do-not-overwhelm-with-length",{"className":"ml-4","children":["$","a",null,{"href":"#do-not-overwhelm-with-length","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Do Not Overwhelm With Length"}]}]
+48:["$","li","revisit-after-each-problem",{"className":"ml-4","children":["$","a",null,{"href":"#revisit-after-each-problem","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Revisit After Each Problem"}]}]
+49:["$","li","house-rules-and-guest-screening",{"className":"","children":["$","a",null,{"href":"#house-rules-and-guest-screening","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"House Rules and Guest Screening"}]}]
+4a:["$","li","enforcing-your-house-rules",{"className":"","children":["$","a",null,{"href":"#enforcing-your-house-rules","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Enforcing Your House Rules"}]}]
+4b:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"House Rules Template for Short-Term Rentals | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Get a complete house rules template for your short-term rental. Covers noise, pets, guests, parking, check-in/out, and more. Protect your property and guests."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"house rules,short-term rentals,airbnb,guest management,vacation rental"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/house-rules-template-short-term-rental"}],["$","meta","6",{"property":"og:title","content":"House Rules Template for Short-Term Rentals"}],["$","meta","7",{"property":"og:description","content":"Get a complete house rules template for your short-term rental. Covers noise, pets, guests, parking, check-in/out, and more. Protect your property and guests."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/house-rules-template-short-term-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"House Rules Template for Short-Term Rentals"}],["$","meta","15",{"name":"twitter:description","content":"Get a complete house rules template for your short-term rental. Covers noise, pets, guests, parking, check-in/out, and more. Protect your property and guests."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

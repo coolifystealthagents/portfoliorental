@@ -1,0 +1,205 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","smoke-detector-requirements-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","smoke-detector-requirements-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","smoke-detector-requirements-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Smoke Detector Requirements for Rental Properties by State\",\"description\":\"Understand smoke detector requirements for rental properties by state, including placement rules, power source requirements, landlord vs tenant responsibilities, and compliance best practices.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/smoke-detector-requirements-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Legal & Compliance\",\"item\":\"https://portfoliorental.com/blog/category/legal-and-compliance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Smoke Detector Requirements for Rental Properties by State\",\"item\":\"https://portfoliorental.com/blog/smoke-detector-requirements-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"hover:text-blue-600","children":"Legal & Compliance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Legal & Compliance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Smoke Detector Requirements for Rental Properties by State"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[6," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","federal-and-national-standards",{"className":"","children":["$","a",null,{"href":"#federal-and-national-standards","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Federal and National Standards"}]}],["$","li","nfpa-72-baseline-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#nfpa-72-baseline-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"NFPA 72 Baseline Requirements"}]}],["$","li","state-by-state-key-variations",{"className":"","children":["$","a",null,{"href":"#state-by-state-key-variations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"State-by-State Key Variations"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24"]}]}]]}],"$L25","$L26"]}],"$L27","$L28"]}],"$L29"]}]]}],"$L2a"]
+11:["$","li","power-source-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#power-source-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Power Source Requirements"}]}]
+12:["$","li","placement-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#placement-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Placement Requirements"}]}]
+13:["$","li","interconnection-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#interconnection-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interconnection Requirements"}]}]
+14:["$","li","type-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#type-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Type Requirements"}]}]
+15:["$","li","landlord-vs-tenant-responsibilities",{"className":"","children":["$","a",null,{"href":"#landlord-vs-tenant-responsibilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord vs Tenant Responsibilities"}]}]
+16:["$","li","landlord-responsibilities-most-states",{"className":"ml-4","children":["$","a",null,{"href":"#landlord-responsibilities-most-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Responsibilities (Most States)"}]}]
+17:["$","li","tenant-responsibilities-most-states",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-responsibilities-most-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Responsibilities (Most States)"}]}]
+18:["$","li","shared-responsibility",{"className":"ml-4","children":["$","a",null,{"href":"#shared-responsibility","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Shared Responsibility"}]}]
+19:["$","li","installation-best-practices",{"className":"","children":["$","a",null,{"href":"#installation-best-practices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Installation Best Practices"}]}]
+1a:["$","li","placement-guidelines",{"className":"ml-4","children":["$","a",null,{"href":"#placement-guidelines","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Placement Guidelines"}]}]
+1b:["$","li","choosing-the-right-detectors",{"className":"ml-4","children":["$","a",null,{"href":"#choosing-the-right-detectors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Choosing the Right Detectors"}]}]
+1c:["$","li","documentation",{"className":"ml-4","children":["$","a",null,{"href":"#documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documentation"}]}]
+1d:["$","li","compliance-calendar",{"className":"","children":["$","a",null,{"href":"#compliance-calendar","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Compliance Calendar"}]}]
+1e:["$","li","at-tenant-move-in",{"className":"ml-4","children":["$","a",null,{"href":"#at-tenant-move-in","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"At Tenant Move-In"}]}]
+1f:["$","li","quarterly-or-semi-annually",{"className":"ml-4","children":["$","a",null,{"href":"#quarterly-or-semi-annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quarterly or Semi-Annually"}]}]
+20:["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}]
+21:["$","li","at-tenant-move-out",{"className":"ml-4","children":["$","a",null,{"href":"#at-tenant-move-out","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"At Tenant Move-Out"}]}]
+22:["$","li","carbon-monoxide-detector-requirements",{"className":"","children":["$","a",null,{"href":"#carbon-monoxide-detector-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Carbon Monoxide Detector Requirements"}]}]
+23:["$","li","penalties-for-noncompliance",{"className":"","children":["$","a",null,{"href":"#penalties-for-noncompliance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Penalties for Noncompliance"}]}]
+24:["$","li","key-takeaways",{"className":"","children":["$","a",null,{"href":"#key-takeaways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Takeaways"}]}]
+2b:T2926,<p>Smoke detectors save lives. They also create legal obligations for landlords that vary significantly by state. Installing the wrong type, placing them in the wrong locations, or failing to maintain them can result in fines, insurance claim denials, and devastating liability if a fire injures or kills a tenant.</p>
+<p>This guide covers the major requirements landlords need to know, state-by-state variations, and best practices for compliance.</p>
+<h2 id="federal-and-national-standards">Federal and National Standards</h2>
+<p>There is no single federal law governing smoke detectors in residential rentals. Requirements come from:</p>
+<ul>
+<li><strong>State statutes</strong> — Every state has smoke detector laws, but requirements differ</li>
+<li><strong>Local building codes</strong> — Often stricter than state law</li>
+<li><strong>NFPA 72</strong> — The National Fire Protection Association's National Fire Alarm and Signaling Code, which many jurisdictions adopt</li>
+<li><strong><a href="https://www.hud.gov/topics/rental_assistance">HUD requirements</a></strong> — For properties receiving federal housing assistance</li>
+</ul>
+<h3 id="nfpa-72-baseline-requirements">NFPA 72 Baseline Requirements</h3>
+<p>NFPA 72 provides the baseline that most states adopt or modify:</p>
+<ul>
+<li>Smoke alarms in every bedroom</li>
+<li>Smoke alarms outside each sleeping area</li>
+<li>Smoke alarms on every level of the dwelling, including basements</li>
+<li>Interconnected alarms (when one sounds, all sound)</li>
+<li>Replacement every 10 years</li>
+</ul>
+<h2 id="state-by-state-key-variations">State-by-State Key Variations</h2>
+<p>While a comprehensive 50-state analysis is beyond this guide, here are the major areas where states differ:</p>
+<h3 id="power-source-requirements">Power Source Requirements</h3>
+<ul>
+<li><strong>Hardwired with battery backup</strong> — Required in new construction in most states and for major renovations. California, New York, Illinois, and many others require hardwired alarms.</li>
+<li><strong>Battery-operated acceptable</strong> — Some states allow battery-only alarms in existing rental buildings that have not been substantially renovated</li>
+<li><strong>10-year sealed lithium battery</strong> — Some states now require sealed, long-life batteries in battery-operated alarms to prevent tenants from removing batteries</li>
+</ul>
+<h3 id="placement-requirements">Placement Requirements</h3>
+<p>Most states require alarms in:</p>
+<ul>
+<li>Every bedroom</li>
+<li>Outside each sleeping area (hallway adjacent to bedrooms)</li>
+<li>Every level of the unit including basements</li>
+<li>Near kitchens (but not inside kitchens due to false alarms)</li>
+</ul>
+<p>Some states add requirements for:</p>
+<ul>
+<li>Common areas in multi-unit buildings</li>
+<li>Attached garages</li>
+<li>Near laundry rooms</li>
+<li>Attics with habitable space</li>
+</ul>
+<h3 id="interconnection-requirements">Interconnection Requirements</h3>
+<p>Many states now require that all smoke alarms within a unit be interconnected, meaning when one alarm sounds, all alarms sound. This can be achieved through:</p>
+<ul>
+<li>Hardwired connections</li>
+<li>Wireless interconnection technology</li>
+<li>Both methods combined</li>
+</ul>
+<h3 id="type-requirements">Type Requirements</h3>
+<ul>
+<li><strong>Ionization alarms</strong> — Better at detecting fast-flaming fires</li>
+<li><strong>Photoelectric alarms</strong> — Better at detecting slow, smoldering fires</li>
+<li><strong>Dual-sensor alarms</strong> — Contain both technologies</li>
+</ul>
+<p>Some states and municipalities now require dual-sensor or photoelectric alarms specifically. Oregon and Vermont require photoelectric alarms.</p>
+<h2 id="landlord-vs-tenant-responsibilities">Landlord vs Tenant Responsibilities</h2>
+<h3 id="landlord-responsibilities-most-states">Landlord Responsibilities (Most States)</h3>
+<ul>
+<li>Install smoke detectors in required locations before occupancy</li>
+<li>Ensure detectors are working at the start of tenancy</li>
+<li>Replace detectors that reach their expiration date (typically 10 years)</li>
+<li>Replace detectors that malfunction due to age or defect</li>
+<li>Maintain hardwired systems</li>
+<li>Ensure interconnection where required</li>
+<li>Comply with updated code requirements</li>
+</ul>
+<h3 id="tenant-responsibilities-most-states">Tenant Responsibilities (Most States)</h3>
+<ul>
+<li>Replace batteries in battery-operated alarms (though some states place this on landlords)</li>
+<li>Notify the landlord of malfunctioning detectors</li>
+<li>Do not disable or remove detectors</li>
+<li>Report alarms that chirp or fail self-tests</li>
+</ul>
+<h3 id="shared-responsibility">Shared Responsibility</h3>
+<p>Some states create shared responsibility frameworks where the landlord installs and the tenant maintains during occupancy. Check your specific state law to understand the allocation.</p>
+<h2 id="installation-best-practices">Installation Best Practices</h2>
+<h3 id="placement-guidelines">Placement Guidelines</h3>
+<ul>
+<li><strong>Ceiling mount preferred</strong> — Center of the ceiling or at least 4 inches from the wall</li>
+<li><strong>Wall mount alternative</strong> — 4 to 12 inches from the ceiling</li>
+<li><strong>Away from windows, doors, and ducts</strong> — Air movement can delay alarm activation</li>
+<li><strong>Away from kitchens and bathrooms</strong> — At least 10 feet from cooking appliances and away from steam to reduce false alarms</li>
+<li><strong>Every level</strong> — Including finished basements and attics</li>
+</ul>
+<h3 id="choosing-the-right-detectors">Choosing the Right Detectors</h3>
+<p>For rental properties, prioritize:</p>
+<ul>
+<li><strong>Dual-sensor</strong> detectors (ionization + photoelectric) for comprehensive detection</li>
+<li><strong>10-year sealed lithium battery</strong> models for battery-operated units (eliminates battery replacement issues)</li>
+<li><strong>Interconnectable</strong> models (hardwired or wireless) to meet interconnection requirements</li>
+<li><strong>UL-listed</strong> alarms that meet recognized safety standards</li>
+</ul>
+<p>Review <a href="https://www.osha.gov/workers">OSHA workplace safety standards</a> for additional guidance if your rental property includes shared work areas or commercial spaces.</p>
+<h3 id="documentation">Documentation</h3>
+<p>At installation and every inspection:</p>
+<ul>
+<li>Record the date of installation on each alarm or in your property records</li>
+<li>Note the manufacturer and model number</li>
+<li>Document the expiration date (printed on each alarm)</li>
+<li>Test each alarm and record the result</li>
+<li>Take photos showing placement</li>
+</ul>
+<h2 id="compliance-calendar">Compliance Calendar</h2>
+<p>Build smoke detector maintenance into your regular property management schedule:</p>
+<h3 id="at-tenant-move-in">At Tenant Move-In</h3>
+<ul>
+<li>Test all alarms with the tenant present</li>
+<li>Replace batteries in all non-sealed alarms</li>
+<li>Replace any alarm past its expiration date</li>
+<li>Document the condition in the move-in inspection report following your <a href="/blog/property-inspection-requirements">property inspection requirements</a></li>
+</ul>
+<h3 id="quarterly-or-semi-annually">Quarterly or Semi-Annually</h3>
+<ul>
+<li>Test all alarms during routine inspections</li>
+<li>Replace batteries in chirping alarms</li>
+<li>Check for alarms that have been removed or disabled</li>
+</ul>
+<h3 id="annually">Annually</h3>
+<ul>
+<li>Replace all standard batteries (even if not chirping)</li>
+<li>Verify all alarms are present and properly placed</li>
+<li>Check expiration dates and replace expired alarms</li>
+<li>Confirm interconnection is functioning</li>
+</ul>
+<h3 id="at-tenant-move-out">At Tenant Move-Out</h3>
+<ul>
+<li>Test all alarms</li>
+<li>Replace batteries</li>
+<li>Replace any missing, damaged, or expired alarms</li>
+<li>Document condition in move-out inspection</li>
+</ul>
+<h2 id="carbon-monoxide-detector-requirements">Carbon Monoxide Detector Requirements</h2>
+<p>Many states now also require carbon monoxide (CO) detectors in rental properties. Common requirements include:</p>
+<ul>
+<li>CO detectors outside sleeping areas</li>
+<li>CO detectors on every level with fuel-burning appliances</li>
+<li>CO detectors near attached garages</li>
+</ul>
+<p>Some combination smoke/CO detectors meet both requirements in a single unit. Check your state's specific CO detector requirements alongside smoke detector laws. See our <a href="/blog/carbon-monoxide-detector-rental">carbon monoxide detector guide</a> for details.</p>
+<h2 id="penalties-for-noncompliance">Penalties for Noncompliance</h2>
+<p>Failure to install or maintain smoke detectors can result in:</p>
+<ul>
+<li><strong>Fines</strong> — Ranging from $200 to $5,000+ per violation depending on jurisdiction</li>
+<li><strong>Insurance claim denial</strong> — Your insurer may deny fire damage claims if required detectors were not installed</li>
+<li><strong>Criminal liability</strong> — In cases where a fire causes injury or death and detectors were missing or nonfunctional</li>
+<li><strong>Civil lawsuits</strong> — Tenants or their families can sue for negligence</li>
+<li><strong>Code enforcement actions</strong> — Orders to correct violations with potential occupancy restrictions</li>
+</ul>
+<p>The liability exposure for a fire death in a unit without working smoke detectors is enormous — <a href="/blog/landlord-liability-protection">landlord liability protection</a> strategies must include proper fire safety compliance. Nolo's <a href="https://www.nolo.com/legal-encyclopedia/landlord-tenant-law">landlord-tenant law encyclopedia</a> covers additional legal responsibilities landlords face regarding habitability and safety. No shortcut on smoke detector compliance is worth the risk.</p>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<p>Smoke detector compliance is one of the most important safety obligations you have as a landlord. Install the right type of detectors in the right locations, maintain them on a regular schedule, document everything, and replace expired units promptly. Check both your state law and local building code for specific requirements. This is an area where cutting corners can literally cost lives.</p>
+<p>For more on fire safety, see our <a href="/blog/fire-safety-rental-property">fire safety requirements guide</a>. For the broader legal framework, review our <a href="/blog/landlord-tenant-law-by-state">landlord-tenant law overview</a>.</p>
+25:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2b"}}]
+26:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","landlord laws",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord laws"}],["$","span","property safety",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property safety"}],["$","span","compliance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"compliance"}],["$","span","fire safety",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"fire safety"}],["$","span","rental regulations",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental regulations"}]]}]
+27:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Legal & Compliance"]}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-legal-structures-and-asset-protection",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-legal-structures-and-asset-protection","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Legal Structures and Asset Protection"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ada-compliance-for-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ada-compliance-for-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ADA Compliance for Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-eviction-process",{"children":["$","$L10",null,{"href":"/blog/akron-eviction-process","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Eviction Process in Akron: Step-by-Step Guide"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-rent-increase",{"children":["$","$L10",null,{"href":"/blog/akron-rent-increase","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Issue a Rent Increase Notice in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+28:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","lead-paint-disclosure-requirements",{"href":"/blog/lead-paint-disclosure-requirements","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Lead Paint Disclosure Requirements for Rental Properties"}],["$","p",null,{"className":"text-sm text-gray-500","children":[6," min read"]}]]}],["$","$L10","fair-housing-compliance-rental",{"href":"/blog/fair-housing-compliance-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Fair Housing Compliance for Rental Properties: What Every Landlord Must Know"}],["$","p",null,{"className":"text-sm text-gray-500","children":[12," min read"]}]]}],["$","$L10","familial-status-discrimination-rental",{"href":"/blog/familial-status-discrimination-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Familial Status Discrimination in Rental Housing"}],["$","p",null,{"className":"text-sm text-gray-500","children":[5," min read"]}]]}]]}]]}]
+29:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","federal-and-national-standards",{"className":"","children":["$","a",null,{"href":"#federal-and-national-standards","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Federal and National Standards"}]}],["$","li","nfpa-72-baseline-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#nfpa-72-baseline-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"NFPA 72 Baseline Requirements"}]}],["$","li","state-by-state-key-variations",{"className":"","children":["$","a",null,{"href":"#state-by-state-key-variations","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"State-by-State Key Variations"}]}],["$","li","power-source-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#power-source-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Power Source Requirements"}]}],["$","li","placement-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#placement-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Placement Requirements"}]}],["$","li","interconnection-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#interconnection-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Interconnection Requirements"}]}],["$","li","type-requirements",{"className":"ml-4","children":["$","a",null,{"href":"#type-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Type Requirements"}]}],["$","li","landlord-vs-tenant-responsibilities",{"className":"","children":["$","a",null,{"href":"#landlord-vs-tenant-responsibilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord vs Tenant Responsibilities"}]}],["$","li","landlord-responsibilities-most-states",{"className":"ml-4","children":["$","a",null,{"href":"#landlord-responsibilities-most-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Responsibilities (Most States)"}]}],["$","li","tenant-responsibilities-most-states",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-responsibilities-most-states","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Responsibilities (Most States)"}]}],["$","li","shared-responsibility",{"className":"ml-4","children":["$","a",null,{"href":"#shared-responsibility","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Shared Responsibility"}]}],["$","li","installation-best-practices",{"className":"","children":["$","a",null,{"href":"#installation-best-practices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Installation Best Practices"}]}],["$","li","placement-guidelines",{"className":"ml-4","children":["$","a",null,{"href":"#placement-guidelines","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Placement Guidelines"}]}],["$","li","choosing-the-right-detectors",{"className":"ml-4","children":["$","a",null,{"href":"#choosing-the-right-detectors","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Choosing the Right Detectors"}]}],["$","li","documentation",{"className":"ml-4","children":["$","a",null,{"href":"#documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Documentation"}]}],["$","li","compliance-calendar",{"className":"","children":"$L2c"}],"$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33"]}]]}]}]
+2a:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2c:["$","a",null,{"href":"#compliance-calendar","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Compliance Calendar"}]
+2d:["$","li","at-tenant-move-in",{"className":"ml-4","children":["$","a",null,{"href":"#at-tenant-move-in","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"At Tenant Move-In"}]}]
+2e:["$","li","quarterly-or-semi-annually",{"className":"ml-4","children":["$","a",null,{"href":"#quarterly-or-semi-annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Quarterly or Semi-Annually"}]}]
+2f:["$","li","annually",{"className":"ml-4","children":["$","a",null,{"href":"#annually","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Annually"}]}]
+30:["$","li","at-tenant-move-out",{"className":"ml-4","children":["$","a",null,{"href":"#at-tenant-move-out","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"At Tenant Move-Out"}]}]
+31:["$","li","carbon-monoxide-detector-requirements",{"className":"","children":["$","a",null,{"href":"#carbon-monoxide-detector-requirements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Carbon Monoxide Detector Requirements"}]}]
+32:["$","li","penalties-for-noncompliance",{"className":"","children":["$","a",null,{"href":"#penalties-for-noncompliance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Penalties for Noncompliance"}]}]
+33:["$","li","key-takeaways",{"className":"","children":["$","a",null,{"href":"#key-takeaways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Takeaways"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Smoke Detector Requirements for Rental Properties by State | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Understand smoke detector requirements for rental properties by state, including placement rules, power source requirements, landlord vs tenant responsibilities, and compliance best practices."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"landlord laws,property safety,compliance,fire safety,rental regulations"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/smoke-detector-requirements-rental"}],["$","meta","6",{"property":"og:title","content":"Smoke Detector Requirements for Rental Properties by State"}],["$","meta","7",{"property":"og:description","content":"Understand smoke detector requirements for rental properties by state, including placement rules, power source requirements, landlord vs tenant responsibilities, and compliance best practices."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/smoke-detector-requirements-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Smoke Detector Requirements for Rental Properties by State"}],["$","meta","15",{"name":"twitter:description","content":"Understand smoke detector requirements for rental properties by state, including placement rules, power source requirements, landlord vs tenant responsibilities, and compliance best practices."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

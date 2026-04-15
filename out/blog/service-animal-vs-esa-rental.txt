@@ -1,0 +1,237 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","service-animal-vs-esa-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","service-animal-vs-esa-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","service-animal-vs-esa-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Service Animals vs ESAs in Rentals: Key Differences\",\"description\":\"Understand the key differences between service animals and emotional support animals in rental properties, including legal protections, verification rules, and landlord obligations for each.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/service-animal-vs-esa-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Legal & Compliance\",\"item\":\"https://portfoliorental.com/blog/category/legal-and-compliance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Service Animals vs ESAs in Rentals: Key Differences\",\"item\":\"https://portfoliorental.com/blog/service-animal-vs-esa-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"hover:text-blue-600","children":"Legal & Compliance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Legal & Compliance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Service Animals vs ESAs in Rentals: Key Differences"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[6," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","definitions-and-legal-basis",{"className":"","children":["$","a",null,{"href":"#definitions-and-legal-basis","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Definitions and Legal Basis"}]}],["$","li","service-animals",{"className":"ml-4","children":["$","a",null,{"href":"#service-animals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Service Animals"}]}],["$","li","emotional-support-animals-esas",{"className":"ml-4","children":["$","a",null,{"href":"#emotional-support-animals-esas","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Emotional Support Animals (ESAs)"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27"]}]}]]}],"$L28","$L29"]}],"$L2a","$L2b"]}],"$L2c"]}]]}],"$L2d"]
+11:["$","li","therapy-animals",{"className":"ml-4","children":["$","a",null,{"href":"#therapy-animals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Therapy Animals"}]}]
+12:["$","li","side-by-side-comparison",{"className":"","children":["$","a",null,{"href":"#side-by-side-comparison","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Side-by-Side Comparison"}]}]
+13:["$","li","landlord-obligations-for-service-animals",{"className":"","children":["$","a",null,{"href":"#landlord-obligations-for-service-animals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Obligations for Service Animals"}]}]
+14:["$","li","what-you-can-ask",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-can-ask","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You Can Ask"}]}]
+15:["$","li","what-you-must-allow",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-must-allow","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You Must Allow"}]}]
+16:["$","li","when-you-can-deny",{"className":"ml-4","children":["$","a",null,{"href":"#when-you-can-deny","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When You Can Deny"}]}]
+17:["$","li","landlord-obligations-for-emotional-support-animals",{"className":"","children":["$","a",null,{"href":"#landlord-obligations-for-emotional-support-animals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Obligations for Emotional Support Animals"}]}]
+18:["$","li","what-you-can-ask",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-can-ask","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You Can Ask"}]}]
+19:["$","li","evaluating-esa-documentation",{"className":"ml-4","children":["$","a",null,{"href":"#evaluating-esa-documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Evaluating ESA Documentation"}]}]
+1a:["$","li","what-you-must-allow",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-must-allow","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You Must Allow"}]}]
+1b:["$","li","when-you-can-deny",{"className":"ml-4","children":["$","a",null,{"href":"#when-you-can-deny","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When You Can Deny"}]}]
+1c:["$","li","handling-requests-step-by-step",{"className":"","children":["$","a",null,{"href":"#handling-requests-step-by-step","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handling Requests: Step-by-Step"}]}]
+1d:["$","li","step-1-identify-the-type-of-animal",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-identify-the-type-of-animal","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Identify the Type of Animal"}]}]
+1e:["$","li","step-2-follow-the-appropriate-verification-process",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-follow-the-appropriate-verification-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Follow the Appropriate Verification Process"}]}]
+1f:["$","li","step-3-evaluate-and-respond",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-evaluate-and-respond","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Evaluate and Respond"}]}]
+20:["$","li","step-4-document-everything",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-document-everything","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Document Everything"}]}]
+21:["$","li","common-scenarios",{"className":"","children":["$","a",null,{"href":"#common-scenarios","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Scenarios"}]}]
+22:["$","li","tenant-claims-pet-is-a-service-animal-after-move-in",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-claims-pet-is-a-service-animal-after-move-in","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Claims Pet Is a Service Animal After Move-In"}]}]
+23:["$","li","multiple-assistance-animals",{"className":"ml-4","children":["$","a",null,{"href":"#multiple-assistance-animals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Multiple Assistance Animals"}]}]
+24:["$","li","neighbor-complaints-about-the-animal",{"className":"ml-4","children":["$","a",null,{"href":"#neighbor-complaints-about-the-animal","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Neighbor Complaints About the Animal"}]}]
+25:["$","li","tenant-has-allergies-to-another-tenant-s-assistance-animal",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-has-allergies-to-another-tenant-s-assistance-animal","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Has Allergies to Another Tenant's Assistance Animal"}]}]
+26:["$","li","fraud-prevention",{"className":"","children":["$","a",null,{"href":"#fraud-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fraud Prevention"}]}]
+27:["$","li","key-takeaways",{"className":"","children":["$","a",null,{"href":"#key-takeaways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Takeaways"}]}]
+2e:T2954,<p>Landlords regularly receive requests to keep animals in no-pet properties. Knowing the difference between a service animal and an emotional support animal is critical because the legal rules, verification rights, and your obligations differ significantly between the two. Confusing them can lead to either wrongful denials or unnecessary compliance exposure.</p>
+<p>This guide breaks down the distinctions and gives you a clear framework for handling each type of request.</p>
+<h2 id="definitions-and-legal-basis">Definitions and Legal Basis</h2>
+<h3 id="service-animals">Service Animals</h3>
+<p>A service animal is a dog (or in some cases, a miniature horse) that is individually trained to perform specific tasks for a person with a disability. Examples of tasks include:</p>
+<ul>
+<li>Guiding a person who is blind</li>
+<li>Alerting a person who is deaf to sounds</li>
+<li>Pulling a wheelchair</li>
+<li>Detecting and responding to seizures</li>
+<li>Retrieving dropped items</li>
+<li>Providing stability and balance support</li>
+<li>Interrupting destructive behaviors related to psychiatric disability</li>
+</ul>
+<p>Service animals are protected under both the <a href="https://www.ada.gov/topics/service-animals/" rel="noopener" target="_blank">Americans with Disabilities Act (ADA)</a> and the Fair Housing Act.</p>
+<h3 id="emotional-support-animals-esas">Emotional Support Animals (ESAs)</h3>
+<p>An emotional support animal provides therapeutic emotional benefit to a person with a mental or emotional disability through companionship. ESAs do not require specialized training. Any animal can be an ESA — dogs, cats, birds, rabbits, and other species.</p>
+<p>ESAs are protected under the Fair Housing Act but <strong>not</strong> under the ADA. This distinction matters because it affects where the animal is allowed and what documentation you can request.</p>
+<h3 id="therapy-animals">Therapy Animals</h3>
+<p>Therapy animals are trained to provide comfort to people in hospitals, schools, and nursing homes. They have no legal protections in rental housing and are treated as pets.</p>
+<h2 id="side-by-side-comparison">Side-by-Side Comparison</h2>
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Service Animal</th>
+<th>Emotional Support Animal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Training required</strong></td>
+<td>Yes — specific tasks</td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Species</strong></td>
+<td>Dogs (and miniature horses)</td>
+<td>Any species</td>
+</tr>
+<tr>
+<td><strong>ADA protection</strong></td>
+<td>Yes</td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Fair Housing Act protection</strong></td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Allowed in public places</strong></td>
+<td>Yes</td>
+<td>No</td>
+</tr>
+<tr>
+<td><strong>Allowed in no-pet housing</strong></td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong>Pet fees/deposits</strong></td>
+<td>Cannot charge</td>
+<td>Cannot charge</td>
+</tr>
+<tr>
+<td><strong>Documentation you can request</strong></td>
+<td>Limited (two questions only)</td>
+<td>Healthcare provider letter</td>
+</tr>
+<tr>
+<td><strong>Breed/size restrictions apply</strong></td>
+<td>No</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<h2 id="landlord-obligations-for-service-animals">Landlord Obligations for Service Animals</h2>
+<h3 id="what-you-can-ask">What You Can Ask</h3>
+<p>For service animals, you are limited to two questions when the disability is not obvious:</p>
+<ol>
+<li>Is this animal required because of a disability?</li>
+<li>What task or work has the animal been trained to perform?</li>
+</ol>
+<p>That is it. You cannot:</p>
+<ul>
+<li>Request documentation or certification</li>
+<li>Ask about the nature of the disability</li>
+<li>Require a demonstration of the task</li>
+<li>Ask for proof of training</li>
+</ul>
+<h3 id="what-you-must-allow">What You Must Allow</h3>
+<ul>
+<li>The animal in any unit regardless of pet policies</li>
+<li>No pet deposits, pet fees, or pet rent</li>
+<li>No breed, size, or weight restrictions</li>
+<li>The animal in all common areas of the property</li>
+</ul>
+<h3 id="when-you-can-deny">When You Can Deny</h3>
+<p>You may exclude a specific service animal if it:</p>
+<ul>
+<li>Poses a <strong>direct threat</strong> to the health or safety of others that cannot be mitigated</li>
+<li>Would cause <strong>substantial physical damage</strong> to the property that cannot be mitigated</li>
+<li>Is <strong>out of control</strong> and the handler cannot or does not take effective action</li>
+</ul>
+<p>You cannot deny based on the breed alone, fear of dogs in general, or allergies of other tenants (you must attempt to accommodate both parties).</p>
+<h2 id="landlord-obligations-for-emotional-support-animals">Landlord Obligations for Emotional Support Animals</h2>
+<h3 id="what-you-can-ask">What You Can Ask</h3>
+<p>For ESAs, you have more verification rights than for service animals:</p>
+<ul>
+<li>Request a letter from a licensed healthcare provider confirming:
+<ul>
+<li>The tenant has a disability under the Fair Housing Act</li>
+<li>The ESA provides disability-related therapeutic benefit</li>
+<li>There is a nexus between the disability and the animal</li>
+</ul>
+</li>
+</ul>
+<h3 id="evaluating-esa-documentation">Evaluating ESA Documentation</h3>
+<p>HUD's 2020 guidance allows landlords to scrutinize ESA documentation. You may question letters that appear unreliable, such as those from:</p>
+<ul>
+<li>Online-only providers with no established patient relationship</li>
+<li>Providers not licensed in the tenant's state</li>
+<li>Providers who issued letters for a fee without a clinical evaluation</li>
+</ul>
+<p>See our <a href="/blog/emotional-support-animal-landlord-guidelines">ESA landlord guidelines</a> for the complete verification process.</p>
+<h3 id="what-you-must-allow">What You Must Allow</h3>
+<p>Once an ESA is verified:</p>
+<ul>
+<li>The animal in any unit regardless of pet policies</li>
+<li>No pet deposits, pet fees, or pet rent</li>
+<li>No breed, size, or weight restrictions (unless a specific animal poses a documented direct threat)</li>
+</ul>
+<h3 id="when-you-can-deny">When You Can Deny</h3>
+<p>The grounds for denying an ESA are similar to service animals. Review our <a href="/blog/reasonable-accommodation-rental-housing">reasonable accommodation guide</a> for the full legal standard landlords must meet:</p>
+<ul>
+<li>Direct threat to safety that cannot be mitigated</li>
+<li>Substantial property damage risk from a specific animal</li>
+<li>Unreliable or fraudulent documentation</li>
+<li>The animal would impose an undue burden (rare — courts set a high bar)</li>
+</ul>
+<h2 id="handling-requests-step-by-step">Handling Requests: Step-by-Step</h2>
+<h3 id="step-1-identify-the-type-of-animal">Step 1: Identify the Type of Animal</h3>
+<p>Ask whether the animal is a service animal trained to perform tasks, or an emotional support animal. This determines which verification path to follow.</p>
+<h3 id="step-2-follow-the-appropriate-verification-process">Step 2: Follow the Appropriate Verification Process</h3>
+<ul>
+<li><strong>Service animal:</strong> Ask the two permitted questions if the disability is not obvious</li>
+<li><strong>ESA:</strong> Request healthcare provider documentation if the disability is not obvious</li>
+</ul>
+<h3 id="step-3-evaluate-and-respond">Step 3: Evaluate and Respond</h3>
+<p>Review the information provided and respond in writing within 10 to 14 days. Approve, deny with specific reasoning, or request additional information if the initial submission was insufficient.</p>
+<h3 id="step-4-document-everything">Step 4: Document Everything</h3>
+<p>Keep a record of the request, documentation received, your evaluation, and your written response. Store disability-related information confidentially.</p>
+<h2 id="common-scenarios">Common Scenarios</h2>
+<h3 id="tenant-claims-pet-is-a-service-animal-after-move-in">Tenant Claims Pet Is a Service Animal After Move-In</h3>
+<p>A tenant may request reclassification of an existing pet as an assistance animal. Evaluate the request on its merits using the framework in our <a href="/blog/disability-accommodation-rental">disability accommodation guide</a>. If they provide valid documentation of a disability and need, the request must be accommodated regardless of timing.</p>
+<h3 id="multiple-assistance-animals">Multiple Assistance Animals</h3>
+<p>A tenant may request more than one service animal or ESA. Evaluate each individually. Multiple animals may be reasonable if the documentation supports distinct disability-related needs for each.</p>
+<h3 id="neighbor-complaints-about-the-animal">Neighbor Complaints About the Animal</h3>
+<p>Address behavior issues (noise, aggression, waste) the same way you would for any tenant issue. Document complaints, communicate with the handler, and address the specific behavior. You cannot revoke the accommodation unless the animal poses an unmitigable direct threat.</p>
+<h3 id="tenant-has-allergies-to-another-tenant-s-assistance-animal">Tenant Has Allergies to Another Tenant's Assistance Animal</h3>
+<p>You must attempt to accommodate both parties. Solutions may include:</p>
+<ul>
+<li>Assigning units in different areas of the property</li>
+<li>Improving HVAC filtration in common areas</li>
+<li>Establishing separate common area usage schedules</li>
+</ul>
+<p>You cannot remove a verified assistance animal to accommodate another tenant's allergies.</p>
+<h2 id="fraud-prevention">Fraud Prevention</h2>
+<p>ESA fraud is a legitimate concern. Protect yourself while staying compliant:</p>
+<ul>
+<li>Use HUD's guidance to evaluate documentation reliability</li>
+<li>Check that healthcare providers are licensed in the tenant's state</li>
+<li>Be skeptical of online-only ESA certification services</li>
+<li>Know your state's ESA fraud laws — several states have enacted penalties for misrepresenting a pet as an ESA</li>
+</ul>
+<p>Never use fraud concerns as a blanket reason to deny all ESA requests. Evaluate each individually.</p>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<p>Service animals and emotional support animals both have legal protections in rental housing, but the rules for each differ. Service animals require almost no verification. ESAs allow more scrutiny of documentation. Neither can be charged pet fees. Build separate procedures for each type, train your staff, and document every interaction. When in doubt, consult a fair housing attorney before denying any assistance animal request.</p>
+<p>For the complete fair housing framework, see our <a href="/blog/fair-housing-compliance-rental">fair housing compliance guide</a>.</p>
+28:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2e"}}]
+29:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","fair housing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"fair housing"}],["$","span","service animals",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"service animals"}],["$","span","emotional support animals",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"emotional support animals"}],["$","span","landlord laws",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord laws"}],["$","span","compliance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"compliance"}]]}]
+2a:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Legal & Compliance"]}],["$","$L10",null,{"href":"/blog/category/legal-and-compliance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","accidental-landlord-legal-structures-and-asset-protection",{"children":["$","$L10",null,{"href":"/blog/accidental-landlord-legal-structures-and-asset-protection","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Accidental Landlord Legal Structures and Asset Protection"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","ada-compliance-for-rental-properties",{"children":["$","$L10",null,{"href":"/blog/ada-compliance-for-rental-properties","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"ADA Compliance for Rental Properties"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","akron-eviction-process",{"children":["$","$L10",null,{"href":"/blog/akron-eviction-process","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Eviction Process in Akron: Step-by-Step Guide"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","akron-rent-increase",{"children":["$","$L10",null,{"href":"/blog/akron-rent-increase","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"How to Issue a Rent Increase Notice in Akron"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}]]}]]}]
+2b:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","emotional-support-animal-landlord-guidelines",{"href":"/blog/emotional-support-animal-landlord-guidelines","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Emotional Support Animal Requests: Landlord Guidelines"}],["$","p",null,{"className":"text-sm text-gray-500","children":[6," min read"]}]]}],["$","$L10","disability-accommodation-rental",{"href":"/blog/disability-accommodation-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Disability Accommodations Landlords Must Provide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[5," min read"]}]]}],["$","$L10","fair-housing-advertising-rules",{"href":"/blog/fair-housing-advertising-rules","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Legal & Compliance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Fair Housing Advertising Rules for Rental Listings"}],["$","p",null,{"className":"text-sm text-gray-500","children":[5," min read"]}]]}]]}]]}]
+2c:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","definitions-and-legal-basis",{"className":"","children":["$","a",null,{"href":"#definitions-and-legal-basis","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Definitions and Legal Basis"}]}],["$","li","service-animals",{"className":"ml-4","children":["$","a",null,{"href":"#service-animals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Service Animals"}]}],["$","li","emotional-support-animals-esas",{"className":"ml-4","children":["$","a",null,{"href":"#emotional-support-animals-esas","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Emotional Support Animals (ESAs)"}]}],["$","li","therapy-animals",{"className":"ml-4","children":["$","a",null,{"href":"#therapy-animals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Therapy Animals"}]}],["$","li","side-by-side-comparison",{"className":"","children":["$","a",null,{"href":"#side-by-side-comparison","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Side-by-Side Comparison"}]}],["$","li","landlord-obligations-for-service-animals",{"className":"","children":["$","a",null,{"href":"#landlord-obligations-for-service-animals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Obligations for Service Animals"}]}],["$","li","what-you-can-ask",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-can-ask","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You Can Ask"}]}],["$","li","what-you-must-allow",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-must-allow","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You Must Allow"}]}],["$","li","when-you-can-deny",{"className":"ml-4","children":["$","a",null,{"href":"#when-you-can-deny","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When You Can Deny"}]}],["$","li","landlord-obligations-for-emotional-support-animals",{"className":"","children":["$","a",null,{"href":"#landlord-obligations-for-emotional-support-animals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landlord Obligations for Emotional Support Animals"}]}],["$","li","what-you-can-ask",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-can-ask","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You Can Ask"}]}],["$","li","evaluating-esa-documentation",{"className":"ml-4","children":["$","a",null,{"href":"#evaluating-esa-documentation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Evaluating ESA Documentation"}]}],["$","li","what-you-must-allow",{"className":"ml-4","children":["$","a",null,{"href":"#what-you-must-allow","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What You Must Allow"}]}],["$","li","when-you-can-deny",{"className":"ml-4","children":["$","a",null,{"href":"#when-you-can-deny","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When You Can Deny"}]}],["$","li","handling-requests-step-by-step",{"className":"","children":["$","a",null,{"href":"#handling-requests-step-by-step","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handling Requests: Step-by-Step"}]}],["$","li","step-1-identify-the-type-of-animal",{"className":"ml-4","children":["$","a",null,{"href":"#step-1-identify-the-type-of-animal","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 1: Identify the Type of Animal"}]}],"$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38"]}]]}]}]
+2d:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2f:["$","li","step-2-follow-the-appropriate-verification-process",{"className":"ml-4","children":["$","a",null,{"href":"#step-2-follow-the-appropriate-verification-process","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 2: Follow the Appropriate Verification Process"}]}]
+30:["$","li","step-3-evaluate-and-respond",{"className":"ml-4","children":["$","a",null,{"href":"#step-3-evaluate-and-respond","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 3: Evaluate and Respond"}]}]
+31:["$","li","step-4-document-everything",{"className":"ml-4","children":["$","a",null,{"href":"#step-4-document-everything","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Step 4: Document Everything"}]}]
+32:["$","li","common-scenarios",{"className":"","children":["$","a",null,{"href":"#common-scenarios","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Common Scenarios"}]}]
+33:["$","li","tenant-claims-pet-is-a-service-animal-after-move-in",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-claims-pet-is-a-service-animal-after-move-in","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Claims Pet Is a Service Animal After Move-In"}]}]
+34:["$","li","multiple-assistance-animals",{"className":"ml-4","children":["$","a",null,{"href":"#multiple-assistance-animals","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Multiple Assistance Animals"}]}]
+35:["$","li","neighbor-complaints-about-the-animal",{"className":"ml-4","children":["$","a",null,{"href":"#neighbor-complaints-about-the-animal","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Neighbor Complaints About the Animal"}]}]
+36:["$","li","tenant-has-allergies-to-another-tenant-s-assistance-animal",{"className":"ml-4","children":["$","a",null,{"href":"#tenant-has-allergies-to-another-tenant-s-assistance-animal","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant Has Allergies to Another Tenant's Assistance Animal"}]}]
+37:["$","li","fraud-prevention",{"className":"","children":["$","a",null,{"href":"#fraud-prevention","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fraud Prevention"}]}]
+38:["$","li","key-takeaways",{"className":"","children":["$","a",null,{"href":"#key-takeaways","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Key Takeaways"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Service Animals vs ESAs in Rentals: Key Differences | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Understand the key differences between service animals and emotional support animals in rental properties, including legal protections, verification rules, and landlord obligations for each."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"fair housing,service animals,emotional support animals,landlord laws,compliance"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/service-animal-vs-esa-rental"}],["$","meta","6",{"property":"og:title","content":"Service Animals vs ESAs in Rentals: Key Differences"}],["$","meta","7",{"property":"og:description","content":"Understand the key differences between service animals and emotional support animals in rental properties, including legal protections, verification rules, and landlord obligations for each."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/service-animal-vs-esa-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Service Animals vs ESAs in Rentals: Key Differences"}],["$","meta","15",{"name":"twitter:description","content":"Understand the key differences between service animals and emotional support animals in rental properties, including legal protections, verification rules, and landlord obligations for each."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

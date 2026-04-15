@@ -1,0 +1,223 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","landscaping-rental-property"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","landscaping-rental-property","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","landscaping-rental-property","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Landscaping Tips for Rental Properties on a Budget\",\"description\":\"Practical landscaping tips for rental property owners on a budget, covering low-maintenance plants, tenant responsibilities, curb appeal improvements, and seasonal care.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/landscaping-rental-property\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Property Maintenance\",\"item\":\"https://portfoliorental.com/blog/category/property-maintenance\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Landscaping Tips for Rental Properties on a Budget\",\"item\":\"https://portfoliorental.com/blog/landscaping-rental-property\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"hover:text-blue-600","children":"Property Maintenance"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Property Maintenance"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Landscaping Tips for Rental Properties on a Budget"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[7," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-business-case-for-good-landscaping",{"className":"","children":["$","a",null,{"href":"#the-business-case-for-good-landscaping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Business Case for Good Landscaping"}]}],["$","li","designing-for-low-maintenance",{"className":"","children":["$","a",null,{"href":"#designing-for-low-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Designing for Low Maintenance"}]}],["$","li","choose-the-right-plants",{"className":"ml-4","children":["$","a",null,{"href":"#choose-the-right-plants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Choose the Right Plants"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23"]}]}]]}],"$L24","$L25"]}],"$L26","$L27"]}],"$L28"]}]]}],"$L29"]
+11:["$","li","replace-high-maintenance-features",{"className":"ml-4","children":["$","a",null,{"href":"#replace-high-maintenance-features","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Replace High-Maintenance Features"}]}]
+12:["$","li","ground-cover-alternatives-to-lawn",{"className":"ml-4","children":["$","a",null,{"href":"#ground-cover-alternatives-to-lawn","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ground Cover Alternatives to Lawn"}]}]
+13:["$","li","tenant-vs-landlord-landscaping-responsibilities",{"className":"","children":["$","a",null,{"href":"#tenant-vs-landlord-landscaping-responsibilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant vs Landlord: Landscaping Responsibilities"}]}]
+14:["$","li","for-single-family-homes-and-duplexes",{"className":"ml-4","children":["$","a",null,{"href":"#for-single-family-homes-and-duplexes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"For Single-Family Homes and Duplexes"}]}]
+15:["$","li","for-multi-family-properties",{"className":"ml-4","children":["$","a",null,{"href":"#for-multi-family-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"For Multi-Family Properties"}]}]
+16:["$","li","lawn-care-basics-for-rental-properties",{"className":"","children":["$","a",null,{"href":"#lawn-care-basics-for-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lawn Care Basics for Rental Properties"}]}]
+17:["$","li","mowing",{"className":"ml-4","children":["$","a",null,{"href":"#mowing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mowing"}]}]
+18:["$","li","fertilization",{"className":"ml-4","children":["$","a",null,{"href":"#fertilization","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fertilization"}]}]
+19:["$","li","weed-control",{"className":"ml-4","children":["$","a",null,{"href":"#weed-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Weed Control"}]}]
+1a:["$","li","irrigation",{"className":"ml-4","children":["$","a",null,{"href":"#irrigation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Irrigation"}]}]
+1b:["$","li","tree-maintenance",{"className":"","children":["$","a",null,{"href":"#tree-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tree Maintenance"}]}]
+1c:["$","li","seasonal-landscaping-schedule",{"className":"","children":["$","a",null,{"href":"#seasonal-landscaping-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Seasonal Landscaping Schedule"}]}]
+1d:["$","li","spring-march-may",{"className":"ml-4","children":["$","a",null,{"href":"#spring-march-may","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring (March–May)"}]}]
+1e:["$","li","summer-june-august",{"className":"ml-4","children":["$","a",null,{"href":"#summer-june-august","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summer (June–August)"}]}]
+1f:["$","li","fall-september-november",{"className":"ml-4","children":["$","a",null,{"href":"#fall-september-november","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall (September–November)"}]}]
+20:["$","li","winter-december-february",{"className":"ml-4","children":["$","a",null,{"href":"#winter-december-february","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter (December–February)"}]}]
+21:["$","li","budget-landscaping-improvements-with-high-roi",{"className":"","children":["$","a",null,{"href":"#budget-landscaping-improvements-with-high-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Budget Landscaping Improvements With High ROI"}]}]
+22:["$","li","landscaping-lease-provisions",{"className":"","children":["$","a",null,{"href":"#landscaping-lease-provisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landscaping Lease Provisions"}]}]
+23:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+2a:T3335,<p>Landscaping is often treated as an afterthought by rental property owners, yet it has a direct and measurable impact on rental income. Properties with well-maintained landscaping rent faster, attract better tenants, and often command higher rents — studies consistently show that curb appeal improvements can <a href="/blog/increase-rental-property-value">increase rental property value</a> by 5-15%. At the same time, overly complex landscaping is a maintenance burden that can drain your operating budget.</p>
+<p>The goal for a rental property landscape is simple: maximum curb appeal with minimum maintenance cost. This guide covers practical landscaping strategies that achieve that balance, from plant selection to tenant responsibility structures.</p>
+<hr>
+<h2 id="the-business-case-for-good-landscaping">The Business Case for Good Landscaping</h2>
+<p>Before diving into tactics, understand why landscaping matters financially:</p>
+<ul>
+<li><strong>Faster leasing</strong> — A well-maintained exterior is the first impression prospective tenants see. Poor curb appeal increases vacancy time.</li>
+<li><strong>Higher rents</strong> — Attractive outdoor spaces justify premium pricing, especially in competitive markets.</li>
+<li><strong>Better tenants</strong> — Tenants who choose a well-maintained property tend to take better care of it.</li>
+<li><strong>Reduced liability</strong> — Overgrown shrubs, dead trees, and poor drainage create hazards and legal exposure.</li>
+<li><strong>Property value</strong> — Well-maintained landscaping contributes to appraised property value.</li>
+</ul>
+<hr>
+<h2 id="designing-for-low-maintenance">Designing for Low Maintenance</h2>
+<p>The best time to invest in landscaping is when a unit turns over. Use the vacancy period to redesign toward lower maintenance requirements.</p>
+<h3 id="choose-the-right-plants">Choose the Right Plants</h3>
+<p>Select plants that are:</p>
+<ul>
+<li><strong>Native or drought-tolerant</strong> — Native plants are adapted to local rainfall and soil conditions and require minimal watering and care once established. The <a href="https://www.epa.gov/watersense">EPA WaterSense program</a> offers guidance on water-efficient landscaping</li>
+<li><strong>Slow-growing</strong> — Fast-growing plants require more frequent pruning and create more debris</li>
+<li><strong>Disease and pest resistant</strong> — Choose varieties known to thrive in your region with minimal treatment</li>
+<li><strong>Proportionate to the space</strong> — Plant at mature size, not planting size — a shrub planted 2 feet from a foundation will become a problem as it grows</li>
+</ul>
+<h3 id="replace-high-maintenance-features">Replace High-Maintenance Features</h3>
+<p>High-maintenance landscaping elements to remove or avoid:</p>
+<ul>
+<li><strong>Annual flower beds</strong> — Require replanting every year; replace with perennials or low-growing shrubs</li>
+<li><strong>Formal hedges requiring precise shearing</strong> — Replace with informal naturalistic plantings</li>
+<li><strong>Large mulched beds with sparse plants</strong> — Weeds fill the gaps quickly; use dense ground cover plantings instead</li>
+<li><strong>Ornamental features requiring seasonal storage</strong> — Fountains, decorative pots, and seasonal decorations add labor costs</li>
+</ul>
+<h3 id="ground-cover-alternatives-to-lawn">Ground Cover Alternatives to Lawn</h3>
+<p>Lawn is the most maintenance-intensive landscaping element. Where possible, reduce lawn area by:</p>
+<ul>
+<li>Installing mulched planting beds with dense shrubs or ground cover plants</li>
+<li>Using pea gravel or decomposed granite in low-traffic areas</li>
+<li>Installing hardscape (patios, walkways) in high-traffic areas</li>
+<li>Replacing narrow strips of grass (between sidewalk and street) with low-growing perennials or native ground covers</li>
+</ul>
+<hr>
+<h2 id="tenant-vs-landlord-landscaping-responsibilities">Tenant vs Landlord: Landscaping Responsibilities</h2>
+<p>Clarifying who is responsible for landscaping maintenance is one of the most important decisions a landlord makes. The answer depends on property type and your management model.</p>
+<h3 id="for-single-family-homes-and-duplexes">For Single-Family Homes and Duplexes</h3>
+<p>Most landlords assign lawn and basic landscaping maintenance to tenants in single-family homes. This arrangement works well when:</p>
+<ul>
+<li>The lease clearly specifies what tenants are responsible for (lawn mowing, leaf raking, light weeding, snow removal)</li>
+<li>Expectations are set at move-in with a walkthrough of outdoor areas</li>
+<li>The yard is simple enough that a typical tenant can maintain it</li>
+<li>Failure to maintain is documented and addressed promptly</li>
+</ul>
+<p>Even when tenants are responsible for basic maintenance, the landlord typically retains responsibility for:</p>
+<ul>
+<li>Tree trimming and removal</li>
+<li>Sprinkler system maintenance and repair</li>
+<li>Major landscaping improvements</li>
+<li>Any features requiring professional equipment</li>
+</ul>
+<h3 id="for-multi-family-properties">For Multi-Family Properties</h3>
+<p>For apartment buildings, landscaping is almost always the landlord's responsibility. Contract with a professional landscaping service for:</p>
+<ul>
+<li>Weekly or bi-weekly lawn care (mowing, edging, blowing)</li>
+<li>Monthly or seasonal pruning</li>
+<li>Seasonal color (annual plantings at entry areas for curb appeal)</li>
+<li>Snow removal (where applicable)</li>
+</ul>
+<p>Get multiple bids and negotiate annual contracts for better pricing than per-visit rates. Reliable, contracted landscape crews tend to provide more consistent service than ad-hoc mow-and-go operations.</p>
+<hr>
+<h2 id="lawn-care-basics-for-rental-properties">Lawn Care Basics for Rental Properties</h2>
+<p>If you maintain the lawn yourself or oversee tenant maintenance, these fundamentals apply:</p>
+<h3 id="mowing">Mowing</h3>
+<ul>
+<li>Mow at the correct height for the grass species (3-4 inches for most cool-season grasses, 2-3 inches for warm-season grasses)</li>
+<li>Never remove more than one-third of the grass blade in a single mowing</li>
+<li>Keep blades sharp — dull blades tear grass rather than cut cleanly, increasing disease susceptibility</li>
+</ul>
+<h3 id="fertilization">Fertilization</h3>
+<ul>
+<li>Apply fertilizer 2-4 times per year depending on grass type and region</li>
+<li>A basic lawn fertilizer program (spring, summer, fall) maintains density and green color</li>
+<li>Consider organic slow-release fertilizers — they are lower-risk for <a href="https://www.epa.gov/watersense">water contamination</a> and require less frequent application</li>
+</ul>
+<h3 id="weed-control">Weed Control</h3>
+<ul>
+<li>Pre-emergent herbicide applied in early spring prevents annual weed germination</li>
+<li>Spot-treat weeds that break through rather than broadcasting herbicide indiscriminately</li>
+<li>In problem areas, dense planting and mulch are more sustainable than ongoing herbicide application</li>
+</ul>
+<h3 id="irrigation">Irrigation</h3>
+<ul>
+<li>If the property has an irrigation system, test all heads at the start of the season and repair broken or misaligned heads</li>
+<li>Program controllers for efficiency — deep infrequent watering (1 inch per week) produces deeper root growth than shallow daily watering</li>
+<li>Winterize irrigation systems before freezing temperatures</li>
+</ul>
+<hr>
+<h2 id="tree-maintenance">Tree Maintenance</h2>
+<p>Trees are valuable assets on a rental property but require active management:</p>
+<ul>
+<li><strong>Annual inspection</strong> — Look for dead or dying branches, signs of disease or pest damage, and proximity to structures or utility lines</li>
+<li><strong>Pruning</strong> — Hire a certified arborist for any pruning beyond basic dead-wooding. Improper pruning damages trees and can create liability.</li>
+<li><strong>Dead tree removal</strong> — Dead or dying trees adjacent to buildings, walkways, or parking areas should be removed promptly — a fallen tree or limb creates serious <a href="https://www.nolo.com/legal-encyclopedia/landlord-tenant-law">premises liability</a> exposure</li>
+<li><strong>Root considerations</strong> — Tree roots can damage foundations, sewer lines, and hardscape over time. Consider this when planting new trees or when purchasing properties with large established trees.</li>
+</ul>
+<p>For more on tree-related emergency risks, see our guide on <a href="/blog/tree-damage-rental-property">storm and tree damage at rental properties</a>.</p>
+<hr>
+<h2 id="seasonal-landscaping-schedule">Seasonal Landscaping Schedule</h2>
+<h3 id="spring-march-may">Spring (March–May)</h3>
+<ul>
+<li>Clean up winter debris — remove dead plant material, rake leaves from beds</li>
+<li>Apply pre-emergent weed control to lawn and beds</li>
+<li>Divide and transplant overgrown perennials</li>
+<li>Fertilize lawn</li>
+<li>Inspect and start irrigation system</li>
+<li>Mulch planting beds (2-3 inches of fresh mulch suppresses weeds and retains moisture)</li>
+<li>Plant warm-season annuals at entry areas for seasonal color</li>
+</ul>
+<h3 id="summer-june-august">Summer (June–August)</h3>
+<ul>
+<li>Maintain mowing schedule (weekly during active growth)</li>
+<li>Water deeply and infrequently during drought periods</li>
+<li>Monitor for pest and disease problems</li>
+<li>Deadhead flowering plants to extend bloom period</li>
+<li>Trim shrubs that are encroaching on walkways or buildings</li>
+</ul>
+<h3 id="fall-september-november">Fall (September–November)</h3>
+<ul>
+<li>Core aerate and overseed thin lawn areas</li>
+<li>Apply fall fertilizer</li>
+<li>Plant cool-season annuals (pansies, ornamental kale) for fall color</li>
+<li>Rake and remove fallen leaves (matted leaves smother grass)</li>
+<li>Cut back perennial plants after frost</li>
+<li>Winterize irrigation system</li>
+</ul>
+<h3 id="winter-december-february">Winter (December–February)</h3>
+<ul>
+<li>Apply de-icing materials to walkways and entry areas as needed</li>
+<li>Remove snow from walkways promptly — ice on tenant walkways creates significant liability</li>
+<li>Inspect trees for storm damage after major wind or ice events</li>
+<li>Plan spring improvements during the off-season</li>
+</ul>
+<hr>
+<h2 id="budget-landscaping-improvements-with-high-roi">Budget Landscaping Improvements With High ROI</h2>
+<p>If your rental property needs a landscaping refresh, these improvements deliver the most curb appeal per dollar. Factor them into your <a href="/blog/property-maintenance-cost-budgeting">maintenance cost budget</a> to avoid surprises:</p>
+<ol>
+<li>
+<p><strong>Fresh mulch</strong> — Two to three inches of dark bark mulch in planting beds dramatically improves appearance for $3-$5 per cubic yard. A typical front yard improvement costs $150-$400.</p>
+</li>
+<li>
+<p><strong>Seasonal color at the entry</strong> — A few flats of seasonal flowers at the front entry can transform the first impression for less than $100.</p>
+</li>
+<li>
+<p><strong>Defined bed edges</strong> — Clean, defined edges between lawn and planting beds create a well-maintained look. A steel or plastic edging product installs easily and lasts for years.</p>
+</li>
+<li>
+<p><strong>Shrub replacement</strong> — Removing overgrown or dying foundation shrubs and replacing with appropriate-sized, healthy plants is one of the highest-impact landscaping investments.</p>
+</li>
+<li>
+<p><strong>Walkway repair</strong> — Cracked or heaved walkways are both an eyesore and a liability. Repairing or replacing a front walkway ($500-$2,000) significantly improves curb appeal and reduces trip-and-fall risk.</p>
+</li>
+</ol>
+<hr>
+<h2 id="landscaping-lease-provisions">Landscaping Lease Provisions</h2>
+<p>Your lease should address landscaping clearly:</p>
+<ul>
+<li>Specify which maintenance tasks are the tenant's responsibility (mowing, watering, weeding, leaf removal, snow removal)</li>
+<li>State the standard to which the lawn must be maintained (mowed to no more than 4 inches, for example)</li>
+<li>Specify that tenant cannot remove existing plants, trees, or hardscape without written permission</li>
+<li>Address approval requirements for tenant-added landscaping</li>
+<li>Include consequences for failure to maintain assigned landscaping tasks</li>
+</ul>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Effective rental property landscaping is about designing for durability, assigning responsibilities clearly, and maintaining consistently. A low-maintenance landscape designed with native plants, minimal lawn, and defined beds will cost less to maintain and look better than high-maintenance alternatives. Curb appeal drives faster leasing and higher rents — making landscaping one of the most financially impactful maintenance categories for rental property owners.</p>
+<p>For related maintenance guidance, see our articles on <a href="/blog/spring-maintenance-checklist-rental">spring maintenance checklist for rental properties</a> and <a href="/blog/gutter-cleaning-rental-property">gutter cleaning for rental properties</a>.</p>
+24:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2a"}}]
+25:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","landscaping",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landscaping"}],["$","span","property maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"property maintenance"}],["$","span","curb appeal",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"curb appeal"}],["$","span","outdoor maintenance",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"outdoor maintenance"}],["$","span","landlord tips",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord tips"}]]}]
+26:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Property Maintenance"]}],["$","$L10",null,{"href":"/blog/category/property-maintenance","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-emergency-preparedness-plan",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-emergency-preparedness-plan","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Emergency Preparedness Plan"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-maintenance-schedule-and-costs",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-maintenance-schedule-and-costs","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Maintenance Schedule and Costs"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-pest-control-and-prevention",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-pest-control-and-prevention","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Pest Control and Prevention"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","apartment-complex-seasonal-maintenance-checklist",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-seasonal-maintenance-checklist","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Seasonal Maintenance Checklist"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}]]}]]}]
+27:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","manage-rental-property-landscaping-cost",{"href":"/blog/manage-rental-property-landscaping-cost","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"How to Manage Rental Property Landscaping Cost-Effectively"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","appliance-maintenance-schedule-rental",{"href":"/blog/appliance-maintenance-schedule-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Appliance Maintenance Schedule for Landlords"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","emergency-maintenance-rental-property",{"href":"/blog/emergency-maintenance-rental-property","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Property Maintenance"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Emergency Maintenance for Rental Properties: A Landlord's Response Guide"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}]]}]]}]
+28:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-business-case-for-good-landscaping",{"className":"","children":["$","a",null,{"href":"#the-business-case-for-good-landscaping","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Business Case for Good Landscaping"}]}],["$","li","designing-for-low-maintenance",{"className":"","children":["$","a",null,{"href":"#designing-for-low-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Designing for Low Maintenance"}]}],["$","li","choose-the-right-plants",{"className":"ml-4","children":["$","a",null,{"href":"#choose-the-right-plants","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Choose the Right Plants"}]}],["$","li","replace-high-maintenance-features",{"className":"ml-4","children":["$","a",null,{"href":"#replace-high-maintenance-features","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Replace High-Maintenance Features"}]}],["$","li","ground-cover-alternatives-to-lawn",{"className":"ml-4","children":["$","a",null,{"href":"#ground-cover-alternatives-to-lawn","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Ground Cover Alternatives to Lawn"}]}],["$","li","tenant-vs-landlord-landscaping-responsibilities",{"className":"","children":["$","a",null,{"href":"#tenant-vs-landlord-landscaping-responsibilities","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tenant vs Landlord: Landscaping Responsibilities"}]}],["$","li","for-single-family-homes-and-duplexes",{"className":"ml-4","children":["$","a",null,{"href":"#for-single-family-homes-and-duplexes","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"For Single-Family Homes and Duplexes"}]}],["$","li","for-multi-family-properties",{"className":"ml-4","children":["$","a",null,{"href":"#for-multi-family-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"For Multi-Family Properties"}]}],["$","li","lawn-care-basics-for-rental-properties",{"className":"","children":["$","a",null,{"href":"#lawn-care-basics-for-rental-properties","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lawn Care Basics for Rental Properties"}]}],["$","li","mowing",{"className":"ml-4","children":["$","a",null,{"href":"#mowing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Mowing"}]}],["$","li","fertilization",{"className":"ml-4","children":["$","a",null,{"href":"#fertilization","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fertilization"}]}],["$","li","weed-control",{"className":"ml-4","children":["$","a",null,{"href":"#weed-control","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Weed Control"}]}],["$","li","irrigation",{"className":"ml-4","children":["$","a",null,{"href":"#irrigation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Irrigation"}]}],["$","li","tree-maintenance",{"className":"","children":["$","a",null,{"href":"#tree-maintenance","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Tree Maintenance"}]}],["$","li","seasonal-landscaping-schedule",{"className":"","children":["$","a",null,{"href":"#seasonal-landscaping-schedule","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Seasonal Landscaping Schedule"}]}],["$","li","spring-march-may",{"className":"ml-4","children":"$L2b"}],"$L2c","$L2d","$L2e","$L2f","$L30","$L31"]}]]}]}]
+29:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2b:["$","a",null,{"href":"#spring-march-may","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Spring (March–May)"}]
+2c:["$","li","summer-june-august",{"className":"ml-4","children":["$","a",null,{"href":"#summer-june-august","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summer (June–August)"}]}]
+2d:["$","li","fall-september-november",{"className":"ml-4","children":["$","a",null,{"href":"#fall-september-november","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Fall (September–November)"}]}]
+2e:["$","li","winter-december-february",{"className":"ml-4","children":["$","a",null,{"href":"#winter-december-february","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Winter (December–February)"}]}]
+2f:["$","li","budget-landscaping-improvements-with-high-roi",{"className":"","children":["$","a",null,{"href":"#budget-landscaping-improvements-with-high-roi","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Budget Landscaping Improvements With High ROI"}]}]
+30:["$","li","landscaping-lease-provisions",{"className":"","children":["$","a",null,{"href":"#landscaping-lease-provisions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Landscaping Lease Provisions"}]}]
+31:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Landscaping Tips for Rental Properties on a Budget | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Practical landscaping tips for rental property owners on a budget, covering low-maintenance plants, tenant responsibilities, curb appeal improvements, and seasonal care."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"landscaping,property maintenance,curb appeal,outdoor maintenance,landlord tips"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/landscaping-rental-property"}],["$","meta","6",{"property":"og:title","content":"Landscaping Tips for Rental Properties on a Budget"}],["$","meta","7",{"property":"og:description","content":"Practical landscaping tips for rental property owners on a budget, covering low-maintenance plants, tenant responsibilities, curb appeal improvements, and seasonal care."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/landscaping-rental-property"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Landscaping Tips for Rental Properties on a Budget"}],["$","meta","15",{"name":"twitter:description","content":"Practical landscaping tips for rental property owners on a budget, covering low-maintenance plants, tenant responsibilities, curb appeal improvements, and seasonal care."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

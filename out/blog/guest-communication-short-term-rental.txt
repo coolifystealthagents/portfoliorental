@@ -1,0 +1,291 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","guest-communication-short-term-rental"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","guest-communication-short-term-rental","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","guest-communication-short-term-rental","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Guest Communication Templates for Short-Term Rentals\",\"description\":\"Streamline your STR hosting with proven guest communication templates. Save time, boost reviews, and delight guests from inquiry to checkout.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/guest-communication-short-term-rental\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Guest Communication Templates for Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/guest-communication-short-term-rental\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Guest Communication Templates for Short-Term Rentals"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-guest-communication-makes-or-breaks-your-str-business",{"className":"","children":["$","a",null,{"href":"#why-guest-communication-makes-or-breaks-your-str-business","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Guest Communication Makes or Breaks Your STR Business"}]}],["$","li","the-7-core-messages-every-str-host-needs",{"className":"","children":["$","a",null,{"href":"#the-7-core-messages-every-str-host-needs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The 7 Core Messages Every STR Host Needs"}]}],["$","li","1-inquiry-response-template",{"className":"ml-4","children":["$","a",null,{"href":"#1-inquiry-response-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Inquiry Response Template"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}]}]]}],"$L1f","$L20"]}],"$L21","$L22"]}],"$L23"]}]]}],"$L24"]
+11:["$","li","2-booking-confirmation-template",{"className":"ml-4","children":["$","a",null,{"href":"#2-booking-confirmation-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Booking Confirmation Template"}]}]
+12:["$","li","3-pre-arrival-message-5-7-days-before-check-in",{"className":"ml-4","children":["$","a",null,{"href":"#3-pre-arrival-message-5-7-days-before-check-in","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Pre-Arrival Message (5–7 Days Before Check-In)"}]}]
+13:["$","li","4-check-in-day-message",{"className":"ml-4","children":["$","a",null,{"href":"#4-check-in-day-message","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Check-In Day Message"}]}]
+14:["$","li","5-mid-stay-check-in-message",{"className":"ml-4","children":["$","a",null,{"href":"#5-mid-stay-check-in-message","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Mid-Stay Check-In Message"}]}]
+15:["$","li","6-pre-checkout-reminder",{"className":"ml-4","children":["$","a",null,{"href":"#6-pre-checkout-reminder","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Pre-Checkout Reminder"}]}]
+16:["$","li","7-post-checkout-review-request",{"className":"ml-4","children":["$","a",null,{"href":"#7-post-checkout-review-request","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Post-Checkout Review Request"}]}]
+17:["$","li","automating-your-guest-communication",{"className":"","children":["$","a",null,{"href":"#automating-your-guest-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Automating Your Guest Communication"}]}]
+18:["$","li","top-tools-for-str-message-automation",{"className":"ml-4","children":["$","a",null,{"href":"#top-tools-for-str-message-automation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Top Tools for STR Message Automation"}]}]
+19:["$","li","setting-up-automation-best-practices",{"className":"ml-4","children":["$","a",null,{"href":"#setting-up-automation-best-practices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Up Automation: Best Practices"}]}]
+1a:["$","li","handling-common-guest-questions",{"className":"","children":["$","a",null,{"href":"#handling-common-guest-questions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handling Common Guest Questions"}]}]
+1b:["$","li","communication-etiquette-dos-and-don-ts",{"className":"","children":["$","a",null,{"href":"#communication-etiquette-dos-and-don-ts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Communication Etiquette: Dos and Don'ts"}]}]
+1c:["$","li","managing-reviews-through-communication",{"className":"","children":["$","a",null,{"href":"#managing-reviews-through-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Managing Reviews Through Communication"}]}]
+1d:["$","li","building-a-communication-calendar",{"className":"","children":["$","a",null,{"href":"#building-a-communication-calendar","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Communication Calendar"}]}]
+1e:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+25:T3441,<p>Effective guest communication is one of the highest-leverage activities a short-term rental host can invest in. A single well-timed, warm message can be the difference between a three-star review and a glowing five-star one. Yet most hosts underestimate how much goes into a polished communication flow — or burn out trying to write every message from scratch.</p>
+<p>This guide gives you a complete framework for <strong>guest communication in short-term rentals</strong>: what to say, when to say it, and how to automate the process so your guests feel taken care of without you glued to your phone 24/7.</p>
+<hr>
+<h2 id="why-guest-communication-makes-or-breaks-your-str-business">Why Guest Communication Makes or Breaks Your STR Business</h2>
+<p>Guests judge their stay before they even walk through the door. From the first inquiry response to the post-checkout thank-you, every message shapes their perception of your professionalism. Research from the vacation rental industry consistently shows that response time and communication quality are among the top factors guests cite in reviews.</p>
+<p>Here is what strong guest communication accomplishes:</p>
+<ul>
+<li><strong>Reduces pre-arrival anxiety</strong> — guests who know exactly what to expect check in with confidence</li>
+<li><strong>Prevents avoidable issues</strong> — proactive messages catch problems before they become complaints</li>
+<li><strong>Boosts review scores</strong> — guests who feel cared for leave better reviews</li>
+<li><strong>Saves you time</strong> — templates and automation mean fewer back-and-forth questions</li>
+<li><strong>Builds repeat bookings</strong> — warm, personal communication creates loyalty</li>
+</ul>
+<p>For a deeper look at the operational side of hosting, see our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+<hr>
+<h2 id="the-7-core-messages-every-str-host-needs">The 7 Core Messages Every STR Host Needs</h2>
+<h3 id="1-inquiry-response-template">1. Inquiry Response Template</h3>
+<p>Whether you use instant book or manual approval, every inquiry deserves a fast, friendly reply.</p>
+<p><strong>When to send:</strong> Within 1 hour of inquiry (or immediately via automation)</p>
+<p><strong>Template:</strong></p>
+<blockquote>
+<p>Hi [Guest Name],</p>
+<p>Thanks so much for reaching out about [Property Name]! We'd love to host you for your trip to [City/Area].</p>
+<p>Our place is a great fit for [guests traveling for X, families, couples, etc.]. Just to confirm a few details — you'll be staying [dates] with [number] guests. Everything looks good on our end!</p>
+<p>Feel free to ask any questions before booking. We respond quickly and want you to feel completely comfortable.</p>
+<p>Looking forward to hosting you,
+[Your Name]</p>
+</blockquote>
+<hr>
+<h3 id="2-booking-confirmation-template">2. Booking Confirmation Template</h3>
+<p><strong>When to send:</strong> Immediately after booking is confirmed</p>
+<p><strong>Template:</strong></p>
+<blockquote>
+<p>Hi [Guest Name],</p>
+<p>Your booking is confirmed — we're so excited to host you at [Property Name]!</p>
+<p>Here's a quick summary:</p>
+<ul>
+<li><strong>Check-in:</strong> [Date] after [Time]</li>
+<li><strong>Check-out:</strong> [Date] by [Time]</li>
+<li><strong>Address:</strong> [Full address — or "I'll send this closer to your arrival date"]</li>
+</ul>
+<p>About a week before your stay, I'll send over everything you need: check-in instructions, door codes, house rules, and local tips. In the meantime, don't hesitate to reach out with any questions.</p>
+<p>Safe travels,
+[Your Name]</p>
+</blockquote>
+<hr>
+<h3 id="3-pre-arrival-message-5-7-days-before-check-in">3. Pre-Arrival Message (5–7 Days Before Check-In)</h3>
+<p><strong>When to send:</strong> 5 to 7 days before check-in</p>
+<p><strong>Template:</strong></p>
+<blockquote>
+<p>Hi [Guest Name],</p>
+<p>Your stay at [Property Name] is just around the corner! Here's everything you need to have a smooth arrival:</p>
+<p><strong>Check-In Instructions:</strong></p>
+<ul>
+<li>The property is located at [Full Address]</li>
+<li>Access code / lockbox: [Code]</li>
+<li>Parking: [Details]</li>
+<li>Wi-Fi: Network: [Name] / Password: [Password]</li>
+</ul>
+<p><strong>A few quick notes:</strong></p>
+<ul>
+<li>Check-in is after [Time]. If you're arriving earlier or later, please let me know.</li>
+<li>You'll find a welcome book in the entryway with local restaurant picks, house tips, and emergency contacts.</li>
+</ul>
+<p>I want this to be a fantastic stay for you. Reach me anytime at [Phone/App].</p>
+<p>See you soon!
+[Your Name]</p>
+</blockquote>
+<hr>
+<h3 id="4-check-in-day-message">4. Check-In Day Message</h3>
+<p><strong>When to send:</strong> Morning of check-in day</p>
+<p><strong>Template:</strong></p>
+<blockquote>
+<p>Good morning [Guest Name]! Today's the day — welcome to [City]!</p>
+<p>Just a quick reminder that you can check in after [Time]. Your door code is [Code].</p>
+<p>If you run into any issues at all, text me directly at [Number] and I'll get back to you right away.</p>
+<p>Have a wonderful stay!
+[Your Name]</p>
+</blockquote>
+<hr>
+<h3 id="5-mid-stay-check-in-message">5. Mid-Stay Check-In Message</h3>
+<p><strong>When to send:</strong> Day 2 of the stay (or after the first night for shorter stays)</p>
+<p><strong>Template:</strong></p>
+<blockquote>
+<p>Hi [Guest Name],</p>
+<p>Hope you're settling in and enjoying [City]! Just checking in to make sure everything is going well at the property.</p>
+<p>Is there anything you need or anything I can help with? I want your stay to be as comfortable as possible.</p>
+<p>Enjoy your time!
+[Your Name]</p>
+</blockquote>
+<p>This mid-stay touchpoint is one of the most overlooked tools for catching small issues before they become negative reviews. If something is wrong, it gives guests a chance to tell you — rather than telling Airbnb.</p>
+<hr>
+<h3 id="6-pre-checkout-reminder">6. Pre-Checkout Reminder</h3>
+<p><strong>When to send:</strong> Evening before checkout (or morning of, for late-night stays)</p>
+<p><strong>Template:</strong></p>
+<blockquote>
+<p>Hi [Guest Name],</p>
+<p>Hope you've had a wonderful stay! Just a quick reminder that checkout is tomorrow by [Time].</p>
+<p><strong>Checkout steps:</strong></p>
+<ol>
+<li>Strip the beds and leave used towels in the bathroom</li>
+<li>Load and start the dishwasher</li>
+<li>Take out any trash</li>
+<li>Lock the door and leave the key [in lockbox / on counter]</li>
+</ol>
+<p>Full checkout instructions are in the welcome book and the listing.</p>
+<p>Safe travels wherever you're headed next. It was a pleasure hosting you!
+[Your Name]</p>
+</blockquote>
+<p>For a complete template, see our <a href="/blog/checkout-instructions-template">checkout instructions template</a>.</p>
+<hr>
+<h3 id="7-post-checkout-review-request">7. Post-Checkout Review Request</h3>
+<p><strong>When to send:</strong> 1–2 hours after checkout time</p>
+<p><strong>Template:</strong></p>
+<blockquote>
+<p>Hi [Guest Name],</p>
+<p>Thanks so much for staying at [Property Name]! I hope you had a great trip.</p>
+<p>If you have a moment, I'd really appreciate it if you left a review — it helps other travelers know what to expect and supports our small hosting business. I'll be leaving you a glowing review as well!</p>
+<p>Hope to see you again next time you're in [City].</p>
+<p>Warmly,
+[Your Name]</p>
+</blockquote>
+<hr>
+<h2 id="automating-your-guest-communication">Automating Your Guest Communication</h2>
+<p>Writing great templates is only half the battle. The real leverage comes from automating them so they go out on schedule without any manual effort.</p>
+<h3 id="top-tools-for-str-message-automation">Top Tools for STR Message Automation</h3>
+<ul>
+<li><strong>Hospitable (formerly Smartbnb)</strong> — rule-based messaging automation with merge fields</li>
+<li><strong>Hostaway</strong> — multi-channel property management with built-in automation</li>
+<li><strong>Guesty</strong> — enterprise-grade automation for portfolio hosts</li>
+<li><strong>Airbnb's Scheduled Messages</strong> — native feature for simple automation within the Airbnb platform</li>
+</ul>
+<p>To explore the full landscape of time-saving tools, read our guide to <a href="/blog/airbnb-automation-tools">Airbnb automation tools</a>.</p>
+<h3 id="setting-up-automation-best-practices">Setting Up Automation: Best Practices</h3>
+<ol>
+<li><strong>Use merge fields</strong> — always personalize with guest name, property name, and dates</li>
+<li><strong>Build in a delay</strong> — don't send the checkout message the second they leave; give it 30–60 minutes</li>
+<li><strong>Flag exceptions</strong> — set alerts for short stays, large groups, or special requests that need manual attention</li>
+<li><strong>Review monthly</strong> — templates get stale; update seasonal tips and local recommendations regularly</li>
+</ol>
+<hr>
+<h2 id="handling-common-guest-questions">Handling Common Guest Questions</h2>
+<p>No matter how thorough your pre-arrival message is, guests will still have questions. Build a quick-reference FAQ document (or use your welcome book) to handle the most common ones:</p>
+<table>
+<thead>
+<tr>
+<th>Guest Question</th>
+<th>Your Answer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>"What's the Wi-Fi password?"</td>
+<td>Include in pre-arrival message AND welcome book</td>
+</tr>
+<tr>
+<td>"Is early check-in available?"</td>
+<td>"I'll do my best — I'll confirm 24 hours out"</td>
+</tr>
+<tr>
+<td>"Where should I park?"</td>
+<td>Include detailed parking instructions with photos</td>
+</tr>
+<tr>
+<td>"How does the [appliance] work?"</td>
+<td>Leave a laminated instruction sheet on or near the appliance</td>
+</tr>
+<tr>
+<td>"Can we get extra towels/blankets?"</td>
+<td>"Extras are in the [location] closet"</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="communication-etiquette-dos-and-don-ts">Communication Etiquette: Dos and Don'ts</h2>
+<p><strong>Do:</strong></p>
+<ul>
+<li>Respond within 1 hour during business hours. The <a href="https://www.sba.gov/business-guide/manage-your-business/manage-your-customers">SBA recommends prompt communication</a> with customers.</li>
+<li>Match the guest's energy (warm guests get warmer replies)</li>
+<li>Be proactive — send updates before guests ask</li>
+<li>Use the guest's name in every message</li>
+<li>Keep messages concise and scannable</li>
+</ul>
+<p><strong>Don't:</strong></p>
+<ul>
+<li>Send walls of text that overwhelm guests</li>
+<li>Go dark during a guest's stay</li>
+<li>Promise things you can't deliver (early check-in, amenities not listed)</li>
+<li>Use overly formal or robotic language</li>
+<li>Wait for a complaint — check in proactively</li>
+</ul>
+<hr>
+<h2 id="managing-reviews-through-communication">Managing Reviews Through Communication</h2>
+<p>Your communication style directly affects your review scores. Guests who feel heard and valued almost always leave better reviews — even when minor issues occur. The mid-stay check-in message is your secret weapon here: it catches problems while you can still fix them.</p>
+<p>For strategies to actively build your review score, see our guide to <a href="/blog/five-star-review-strategy-airbnb">five-star review strategies on Airbnb</a>. And for handling the reviews that come in, our <a href="/blog/airbnb-review-response-template">Airbnb review response templates</a> show you exactly what to say.</p>
+<p>According to Airbnb's host resources, response rate and response time are two of the most significant factors in achieving and maintaining Superhost status. <a href="https://www.forbes.com/advisor/investing/best-vacation-rental-companies/">Forbes covers vacation rental</a> hosting best practices — making fast, consistent communication a direct business advantage.</p>
+<hr>
+<h2 id="building-a-communication-calendar">Building a Communication Calendar</h2>
+<p>Map out every touchpoint across the guest journey and assign a send trigger:</p>
+<table>
+<thead>
+<tr>
+<th>Message</th>
+<th>Trigger</th>
+<th>Timing</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Inquiry Response</td>
+<td>New inquiry received</td>
+<td>Within 1 hour</td>
+</tr>
+<tr>
+<td>Booking Confirmation</td>
+<td>Booking confirmed</td>
+<td>Immediately</td>
+</tr>
+<tr>
+<td>Pre-Arrival Info</td>
+<td>X days before check-in</td>
+<td>5–7 days out</td>
+</tr>
+<tr>
+<td>Check-In Day Reminder</td>
+<td>Check-in date</td>
+<td>Morning of</td>
+</tr>
+<tr>
+<td>Mid-Stay Check-In</td>
+<td>Day after check-in</td>
+<td>Day 2 of stay</td>
+</tr>
+<tr>
+<td>Pre-Checkout Reminder</td>
+<td>Checkout date</td>
+<td>Evening before</td>
+</tr>
+<tr>
+<td>Review Request</td>
+<td>After checkout</td>
+<td>1–2 hours post-checkout</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Great guest communication isn't about being available 24/7 — it's about being proactive, systematic, and genuinely helpful. With the right templates in place and a reliable automation tool, you can deliver a concierge-level experience to every guest without burning out.</p>
+<p>Start with the seven core templates in this guide, automate what you can, and build in that mid-stay check-in that most hosts skip. Your review scores — and your sanity — will thank you.</p>
+<p>For a complete operational framework for your STR business, visit our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>.</p>
+1f:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$25"}}]
+20:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","guest communication",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"guest communication"}],["$","span","message templates",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"message templates"}],["$","span","airbnb hosting",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"airbnb hosting"}],["$","span","short-term rental",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"short-term rental"}],["$","span","guest experience",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"guest experience"}]]}]
+21:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+22:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","checkout-instructions-template",{"href":"/blog/checkout-instructions-template","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Checkout Instructions Template for STR Guests"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","amenities-checklist-short-term-rental",{"href":"/blog/amenities-checklist-short-term-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Must-Have Amenities Checklist for Short-Term Rentals"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}],["$","$L10","guest-complaint-resolution-str",{"href":"/blog/guest-complaint-resolution-str","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Resolving Guest Complaints at Short-Term Rentals"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}]]}]]}]
+23:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-guest-communication-makes-or-breaks-your-str-business",{"className":"","children":["$","a",null,{"href":"#why-guest-communication-makes-or-breaks-your-str-business","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Guest Communication Makes or Breaks Your STR Business"}]}],["$","li","the-7-core-messages-every-str-host-needs",{"className":"","children":["$","a",null,{"href":"#the-7-core-messages-every-str-host-needs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The 7 Core Messages Every STR Host Needs"}]}],["$","li","1-inquiry-response-template",{"className":"ml-4","children":["$","a",null,{"href":"#1-inquiry-response-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Inquiry Response Template"}]}],["$","li","2-booking-confirmation-template",{"className":"ml-4","children":["$","a",null,{"href":"#2-booking-confirmation-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Booking Confirmation Template"}]}],["$","li","3-pre-arrival-message-5-7-days-before-check-in",{"className":"ml-4","children":["$","a",null,{"href":"#3-pre-arrival-message-5-7-days-before-check-in","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Pre-Arrival Message (5–7 Days Before Check-In)"}]}],["$","li","4-check-in-day-message",{"className":"ml-4","children":["$","a",null,{"href":"#4-check-in-day-message","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Check-In Day Message"}]}],["$","li","5-mid-stay-check-in-message",{"className":"ml-4","children":["$","a",null,{"href":"#5-mid-stay-check-in-message","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Mid-Stay Check-In Message"}]}],["$","li","6-pre-checkout-reminder",{"className":"ml-4","children":["$","a",null,{"href":"#6-pre-checkout-reminder","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"6. Pre-Checkout Reminder"}]}],["$","li","7-post-checkout-review-request",{"className":"ml-4","children":["$","a",null,{"href":"#7-post-checkout-review-request","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"7. Post-Checkout Review Request"}]}],["$","li","automating-your-guest-communication",{"className":"","children":["$","a",null,{"href":"#automating-your-guest-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Automating Your Guest Communication"}]}],["$","li","top-tools-for-str-message-automation",{"className":"ml-4","children":["$","a",null,{"href":"#top-tools-for-str-message-automation","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Top Tools for STR Message Automation"}]}],["$","li","setting-up-automation-best-practices",{"className":"ml-4","children":["$","a",null,{"href":"#setting-up-automation-best-practices","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Setting Up Automation: Best Practices"}]}],["$","li","handling-common-guest-questions",{"className":"","children":["$","a",null,{"href":"#handling-common-guest-questions","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Handling Common Guest Questions"}]}],["$","li","communication-etiquette-dos-and-don-ts",{"className":"","children":["$","a",null,{"href":"#communication-etiquette-dos-and-don-ts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Communication Etiquette: Dos and Don'ts"}]}],"$L26","$L27","$L28"]}]]}]}]
+24:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+26:["$","li","managing-reviews-through-communication",{"className":"","children":["$","a",null,{"href":"#managing-reviews-through-communication","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Managing Reviews Through Communication"}]}]
+27:["$","li","building-a-communication-calendar",{"className":"","children":["$","a",null,{"href":"#building-a-communication-calendar","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Building a Communication Calendar"}]}]
+28:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Guest Communication Templates for Short-Term Rentals | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Streamline your STR hosting with proven guest communication templates. Save time, boost reviews, and delight guests from inquiry to checkout."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"guest communication,message templates,airbnb hosting,short-term rental,guest experience"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/guest-communication-short-term-rental"}],["$","meta","6",{"property":"og:title","content":"Guest Communication Templates for Short-Term Rentals"}],["$","meta","7",{"property":"og:description","content":"Streamline your STR hosting with proven guest communication templates. Save time, boost reviews, and delight guests from inquiry to checkout."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/guest-communication-short-term-rental"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Guest Communication Templates for Short-Term Rentals"}],["$","meta","15",{"name":"twitter:description","content":"Streamline your STR hosting with proven guest communication templates. Save time, boost reviews, and delight guests from inquiry to checkout."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

@@ -1,0 +1,234 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","craigslist-rental-listing-safety"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","craigslist-rental-listing-safety","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","craigslist-rental-listing-safety","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Posting Rentals on Craigslist Safely and Effectively\",\"description\":\"Learn how to post rental listings on Craigslist safely and effectively. Avoid scams, attract quality tenants, and write listings that get responses.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/craigslist-rental-listing-safety\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Marketing\",\"item\":\"https://portfoliorental.com/blog/category/marketing\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Posting Rentals on Craigslist Safely and Effectively\",\"item\":\"https://portfoliorental.com/blog/craigslist-rental-listing-safety\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/marketing","className":"hover:text-blue-600","children":"Marketing"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Marketing"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Posting Rentals on Craigslist Safely and Effectively"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-case-for-still-using-craigslist",{"className":"","children":["$","a",null,{"href":"#the-case-for-still-using-craigslist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Case for Still Using Craigslist"}]}],["$","li","writing-a-craigslist-rental-listing-that-gets-responses",{"className":"","children":["$","a",null,{"href":"#writing-a-craigslist-rental-listing-that-gets-responses","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Writing a Craigslist Rental Listing That Gets Responses"}]}],["$","li","the-title",{"className":"ml-4","children":["$","a",null,{"href":"#the-title","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Title"}]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}]]}],"$L20","$L21"]}],"$L22","$L23"]}],"$L24"]}]]}],"$L25"]
+11:["$","li","the-description",{"className":"ml-4","children":["$","a",null,{"href":"#the-description","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Description"}]}]
+12:["$","li","photos",{"className":"ml-4","children":["$","a",null,{"href":"#photos","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Photos"}]}]
+13:["$","li","craigslist-rental-safety-for-landlords",{"className":"","children":["$","a",null,{"href":"#craigslist-rental-safety-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Craigslist Rental Safety for Landlords"}]}]
+14:["$","li","understanding-the-scam-landscape",{"className":"ml-4","children":["$","a",null,{"href":"#understanding-the-scam-landscape","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Understanding the Scam Landscape"}]}]
+15:["$","li","conducting-safe-in-person-showings",{"className":"ml-4","children":["$","a",null,{"href":"#conducting-safe-in-person-showings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conducting Safe In-Person Showings"}]}]
+16:["$","li","managing-craigslist-inquiries-efficiently",{"className":"","children":["$","a",null,{"href":"#managing-craigslist-inquiries-efficiently","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Managing Craigslist Inquiries Efficiently"}]}]
+17:["$","li","create-a-response-template",{"className":"ml-4","children":["$","a",null,{"href":"#create-a-response-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create a Response Template"}]}]
+18:["$","li","track-inquiries",{"className":"ml-4","children":["$","a",null,{"href":"#track-inquiries","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Track Inquiries"}]}]
+19:["$","li","renew-listings-regularly",{"className":"ml-4","children":["$","a",null,{"href":"#renew-listings-regularly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Renew Listings Regularly"}]}]
+1a:["$","li","optimizing-your-craigslist-strategy",{"className":"","children":["$","a",null,{"href":"#optimizing-your-craigslist-strategy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Optimizing Your Craigslist Strategy"}]}]
+1b:["$","li","post-in-the-correct-category",{"className":"ml-4","children":["$","a",null,{"href":"#post-in-the-correct-category","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Post in the Correct Category"}]}]
+1c:["$","li","target-multiple-cities-if-relevant",{"className":"ml-4","children":["$","a",null,{"href":"#target-multiple-cities-if-relevant","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Target Multiple Cities If Relevant"}]}]
+1d:["$","li","cross-post-your-listing",{"className":"ml-4","children":["$","a",null,{"href":"#cross-post-your-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cross-Post Your Listing"}]}]
+1e:["$","li","when-craigslist-is-not-the-right-tool",{"className":"","children":["$","a",null,{"href":"#when-craigslist-is-not-the-right-tool","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When Craigslist Is Not the Right Tool"}]}]
+1f:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+26:T38a4,<p>Despite the rise of purpose-built rental platforms, Craigslist remains one of the most trafficked rental listing platforms in North America. In many markets — particularly for affordable housing, furnished rentals, and month-to-month situations — Craigslist generates more leads per dollar spent than any other channel. It costs nothing (in most cities) and reaches a massive local audience.</p>
+<p>But Craigslist also comes with real risks. Scams targeting both landlords and renters are common. The platform attracts a wide range of inquirers, including many who are not genuinely qualified. And safety considerations for in-person showings are more relevant on Craigslist than on platforms with stronger identity verification.</p>
+<p>This guide covers both sides: how to write effective Craigslist rental listings that attract quality tenants, and how to protect yourself from scams and unsafe situations.</p>
+<hr>
+<h2 id="the-case-for-still-using-craigslist">The Case for Still Using Craigslist</h2>
+<p>Before getting into tactics, it is worth acknowledging why Craigslist still matters in 2026.</p>
+<p><strong>It is free in most markets.</strong> Unlike Zillow (which charges for enhanced listings in many markets) or Apartments.com (which requires a paid subscription for landlords), Craigslist is free to post in most U.S. cities. A few large markets charge a small fee ($5-10 per listing), but it remains among the lowest-cost options available.</p>
+<p><strong>It reaches specific tenant segments.</strong> Craigslist is disproportionately popular for:</p>
+<ul>
+<li>Furnished and short-term rentals</li>
+<li>Lower-to-moderate price points</li>
+<li>Renters who distrust algorithmic platforms</li>
+<li>Tenants new to a city who do a blanket search across platforms</li>
+<li>Month-to-month and flexible-term arrangements</li>
+</ul>
+<p><strong>It is still high-volume.</strong> In most major and mid-sized markets, Craigslist rental searches generate thousands of sessions daily. A well-crafted listing gets seen.</p>
+<p>Craigslist should be one channel among many — part of a broader approach to reaching tenants through <a href="/blog/rental-property-marketing-strategies">rental property marketing strategies</a> and <a href="/blog/best-rental-listing-sites">the best rental listing sites</a>. Do not rely on it exclusively, but do not ignore it either.</p>
+<hr>
+<h2 id="writing-a-craigslist-rental-listing-that-gets-responses">Writing a Craigslist Rental Listing That Gets Responses</h2>
+<p>The quality of your listing determines the quality of your inquiries. A vague, photo-free listing with a generic title attracts low-effort inquiries. A detailed, professional listing with strong photos attracts qualified, motivated renters.</p>
+<h3 id="the-title">The Title</h3>
+<p>Your title is your first impression. Craigslist titles appear in a dense list view, so yours must stand out.</p>
+<p><strong>Strong title formula:</strong>
+<code>[Bedrooms/Bathrooms] [Property Type] – [Key Feature] – [Price] – [Neighborhood or City]</code></p>
+<p>Examples:</p>
+<ul>
+<li>"2BD/1BA Pet-Friendly House – Garage Included – $1,650/mo – East Nashville"</li>
+<li>"Studio Apt – Walk to Metro – All Utilities Included – $1,100 – Capitol Hill DC"</li>
+<li>"3BR Townhouse – New Kitchen, In-Unit W/D – $2,200 – North Austin"</li>
+</ul>
+<p>Avoid vague titles like "Nice 2BR Available" or "Great Apartment Midtown." Specificity wins.</p>
+<h3 id="the-description">The Description</h3>
+<p>Your description should be comprehensive enough that qualified tenants can self-screen. Include:</p>
+<p><strong>The essentials:</strong></p>
+<ul>
+<li>Monthly rent and what is included (utilities, parking, laundry)</li>
+<li>Security deposit amount (1 month, 2 months, etc.)</li>
+<li>Available date</li>
+<li>Lease term (12-month standard, month-to-month option, etc.)</li>
+<li>Property type and size (sq ft if known)</li>
+<li>Bedrooms and bathrooms</li>
+<li>Pet policy (yes/no, size limits, breed restrictions, deposit/fee)</li>
+</ul>
+<p><strong>The features:</strong></p>
+<ul>
+<li>Kitchen details (updated appliances, dishwasher, garbage disposal)</li>
+<li>Storage space (closets, basement, storage unit)</li>
+<li>Outdoor space (yard, balcony, patio)</li>
+<li>Parking (included, street, garage, fee)</li>
+<li>Laundry (in-unit, on-site, coin-op)</li>
+<li>Climate control (central AC/heat, window units, forced air)</li>
+<li>Internet/cable (included or tenant's responsibility)</li>
+</ul>
+<p><strong>Application requirements:</strong>
+Being upfront about your requirements reduces unqualified inquiries dramatically:</p>
+<ul>
+<li>"Minimum credit score: 620"</li>
+<li>"Income requirement: 2.5x monthly rent"</li>
+<li>"No evictions in last 3 years"</li>
+<li>"Background check required"</li>
+</ul>
+<p><strong>Contact and showing information:</strong></p>
+<ul>
+<li>Preferred contact method (email, text, call)</li>
+<li>When you are available to show</li>
+<li>Whether you accept self-scheduling</li>
+</ul>
+<p>For more guidance on crafting compelling descriptions, see our guide to <a href="/blog/writing-rental-listing-descriptions">writing rental listing descriptions</a>.</p>
+<h3 id="photos">Photos</h3>
+<p>Craigslist allows up to 24 photos. Use them all. Listings with more photos receive dramatically more responses than those with few or none.</p>
+<p><strong>Photo checklist:</strong></p>
+<ul>
+<li>Exterior (front and back if applicable)</li>
+<li>Living room (multiple angles)</li>
+<li>Kitchen (counters, appliances, storage)</li>
+<li>Each bedroom</li>
+<li>Each bathroom</li>
+<li>Any standout features (fireplace, built-ins, views)</li>
+<li>Outdoor space</li>
+<li>Parking</li>
+<li>Building amenities</li>
+</ul>
+<p><strong>Photo quality tips:</strong></p>
+<ul>
+<li>Shoot in natural daylight</li>
+<li>Turn on all lights</li>
+<li>Declutter and clean thoroughly before shooting</li>
+<li>Shoot from corners to capture full rooms</li>
+<li>Use your phone's portrait/landscape settings appropriately</li>
+</ul>
+<p>Good photos on Craigslist are even more important than on premium platforms because the listing interface is minimal — photos are often the only reason a renter reaches out.</p>
+<hr>
+<h2 id="craigslist-rental-safety-for-landlords">Craigslist Rental Safety for Landlords</h2>
+<p>Safety on Craigslist is a genuine concern. Here is a realistic breakdown of the risks and how to manage them.</p>
+<h3 id="understanding-the-scam-landscape">Understanding the Scam Landscape</h3>
+<p><strong>Scams targeting landlords on Craigslist:</strong></p>
+<ol>
+<li>
+<p><strong>Fraudulent tenant payments.</strong> A prospective "tenant" sends an overpayment (usually via check) and asks you to wire back the difference. The check bounces days later, leaving you responsible for the wired funds. Never accept overpayments. The <a href="https://consumer.ftc.gov/articles/fake-checks">FTC warns about overpayment</a> scams involving fake checks. Never wire money based on an incoming check before it fully clears (which can take 10+ business days despite what your bank says).</p>
+</li>
+<li>
+<p><strong>Fake deposit scams.</strong> Someone claims to send a deposit electronically to "hold" the unit and asks you to take it off the market before they arrive. The payment does not clear or reverses. Never take a unit off the market or hold it without a verified deposit.</p>
+</li>
+<li>
+<p><strong>Stolen identity applications.</strong> Someone applies using stolen personal information. Screen carefully using identity verification alongside credit and background checks. <a href="https://www.hud.gov/program_offices/fair_housing_equal_opp">HUD provides fair housing</a> guidelines for screening tenants.</p>
+</li>
+<li>
+<p><strong>Phantom tenant inquiries.</strong> Bots or scammers send copy-paste responses to many listings, often containing suspicious links or requests for your personal information. If an email does not reference specific details from your listing, treat it with caution.</p>
+</li>
+</ol>
+<p><strong>How to protect yourself:</strong></p>
+<ul>
+<li>Require all communication through your contact method, not through forwarded emails or third-party platforms</li>
+<li>Never share your home address in a listing</li>
+<li>Use an email address created specifically for rental inquiries rather than your personal email</li>
+<li>Do not accept payment methods you cannot verify (personal checks, Western Union, Zelle from unknown contacts)</li>
+<li>Accept certified funds or verified electronic transfers only</li>
+</ul>
+<h3 id="conducting-safe-in-person-showings">Conducting Safe In-Person Showings</h3>
+<p>Craigslist inquiries come from a wider, less-screened pool than some other platforms. Safe showing practices:</p>
+<p><strong>Pre-screening by phone or email:</strong>
+Before scheduling any showing, do a brief phone or email screening:</p>
+<ul>
+<li>Ask when they want to move in</li>
+<li>Ask how many occupants</li>
+<li>Ask if they have pets</li>
+<li>Mention your credit/income requirements</li>
+</ul>
+<p>Someone unwilling to answer basic questions or who is evasive about their situation is not worth meeting in person.</p>
+<p><strong>Showing safety practices:</strong></p>
+<ul>
+<li>Show during daylight hours whenever possible</li>
+<li>Bring a colleague, spouse, or business partner if available</li>
+<li>Tell someone where you are going before any showing with an unknown person</li>
+<li>Trust your instincts — if something feels off, end the interaction. <a href="https://www.nar.realtor/safety">NAR offers safety resources</a> for property showings.</li>
+<li>For vacant units, position yourself near exits</li>
+</ul>
+<p><strong>Verify identity before providing access:</strong>
+Ask prospective tenants to confirm their identity before showing a unit. A simple approach: "Before the showing, could you text me your full name so I can have the application paperwork ready?"</p>
+<hr>
+<h2 id="managing-craigslist-inquiries-efficiently">Managing Craigslist Inquiries Efficiently</h2>
+<p>Craigslist can generate a high volume of inquiries — many of which are low quality. A system for managing them efficiently saves time and prevents good leads from falling through the cracks.</p>
+<h3 id="create-a-response-template">Create a Response Template</h3>
+<p>Write a standard reply to initial inquiries that:</p>
+<ul>
+<li>Thanks them for their interest</li>
+<li>Confirms whether the unit is still available</li>
+<li>Reminds them of key requirements (income, credit)</li>
+<li>Provides your showing schedule</li>
+<li>Asks 2-3 qualifying questions</li>
+</ul>
+<p>This filters unqualified inquiries quickly without requiring you to craft individual responses.</p>
+<h3 id="track-inquiries">Track Inquiries</h3>
+<p>Even a simple spreadsheet helps. Track:</p>
+<ul>
+<li>Name and contact info</li>
+<li>Move-in date requested</li>
+<li>Number of occupants</li>
+<li>When you scheduled a showing</li>
+<li>Outcome (showed, no-show, applied, denied, accepted)</li>
+</ul>
+<p>Tracking helps you follow up appropriately and understand how many leads it takes to fill a unit.</p>
+<h3 id="renew-listings-regularly">Renew Listings Regularly</h3>
+<p>Craigslist listings drop down in search results quickly as new listings appear. Renew your listing every 48-72 hours (Craigslist allows renewals on a schedule). Renewed listings jump back to the top of search results, dramatically increasing visibility.</p>
+<hr>
+<h2 id="optimizing-your-craigslist-strategy">Optimizing Your Craigslist Strategy</h2>
+<h3 id="post-in-the-correct-category">Post in the Correct Category</h3>
+<p>The relevant categories for rentals:</p>
+<ul>
+<li><strong>Apts/Housing for Rent:</strong> The primary category for most landlords</li>
+<li><strong>Housing Wanted</strong> (browse, do not post): Some proactive landlords scan this section to find renters looking in their market</li>
+<li><strong>Rooms &#x26; Shares:</strong> For room rentals or multi-room units where tenants share common areas</li>
+</ul>
+<p>Posting in the wrong category reduces visibility and may result in your listing being flagged.</p>
+<h3 id="target-multiple-cities-if-relevant">Target Multiple Cities If Relevant</h3>
+<p>If your property is near a city border, post in both the primary metro listing and any adjacent Craigslist regions tenants might search. Many renters search multiple metro areas when looking near the edges of cities.</p>
+<h3 id="cross-post-your-listing">Cross-Post Your Listing</h3>
+<p>After posting on Craigslist, use the same listing (with minor adjustments for each platform's format) on <a href="/blog/facebook-marketplace-rental">Facebook Marketplace</a> and other listing sites. Consistent cross-posting maximizes your reach and reduces vacancy faster — directly helping you <a href="/blog/reduce-days-on-market-rental">reduce days on market</a>.</p>
+<hr>
+<h2 id="when-craigslist-is-not-the-right-tool">When Craigslist Is Not the Right Tool</h2>
+<p>Craigslist works poorly for:</p>
+<ul>
+<li><strong>High-end luxury rentals</strong> ($3,000+/month) in markets with sophisticated tenant expectations</li>
+<li><strong>Corporate/executive housing</strong> where companies are placing employees (use corporate housing platforms)</li>
+<li><strong>Markets where you get enough leads from other platforms</strong> — do not create unnecessary volume if you cannot manage it</li>
+</ul>
+<p>If your vacancy rate is already low and inquiries are coming from other channels, Craigslist may simply add noise rather than value. Use it strategically.</p>
+<hr>
+<h2 id="conclusion">Conclusion</h2>
+<p>Craigslist remains a valuable tool for landlords who understand both its strengths and its risks. Used correctly — with professional listings, good photos, clear application requirements, and sound safety practices — it consistently generates leads at zero cost.</p>
+<p>The landlords who get the most out of Craigslist treat it like any other marketing channel: with professionalism, consistent follow-through, and a clear process for screening inquiries. Combined with <a href="/blog/tenant-management-best-practices">tenant management best practices</a> and a multi-channel approach to <a href="/blog/rental-property-marketing-strategies">rental property marketing strategies</a>, Craigslist can meaningfully accelerate your leasing timeline without adding to your marketing budget.</p>
+<p>Approach it with open eyes about the scam risks, a solid response system, and safe showing practices — and it earns a place in your rental marketing toolkit.</p>
+20:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$26"}}]
+21:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","craigslist",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"craigslist"}],["$","span","rental listings",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental listings"}],["$","span","landlord safety",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"landlord safety"}],["$","span","rental marketing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental marketing"}],["$","span","tenant screening",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"tenant screening"}]]}]
+22:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Marketing"]}],["$","$L10",null,{"href":"/blog/category/marketing","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","apartment-complex-marketing-and-advertising-strategies",{"children":["$","$L10",null,{"href":"/blog/apartment-complex-marketing-and-advertising-strategies","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Apartment Complex Marketing and Advertising Strategies"}],["$","span",null,{"className":"text-xs text-gray-400","children":[9," min"]}]]}]}],["$","li","april-marketing-and-leasing-strategies",{"children":["$","$L10",null,{"href":"/blog/april-marketing-and-leasing-strategies","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"April Marketing and Leasing Strategies"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}],["$","li","april-vacancy-reduction-strategies",{"children":["$","$L10",null,{"href":"/blog/april-vacancy-reduction-strategies","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"April Vacancy Reduction Strategies"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}],["$","li","august-marketing-and-leasing-strategies",{"children":["$","$L10",null,{"href":"/blog/august-marketing-and-leasing-strategies","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"August Marketing and Leasing Strategies"}],["$","span",null,{"className":"text-xs text-gray-400","children":[4," min"]}]]}]}]]}]]}]
+23:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","target-tenant-profile",{"href":"/blog/target-tenant-profile","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Defining Your Target Tenant Profile"}],["$","p",null,{"className":"text-sm text-gray-500","children":[7," min read"]}]]}],["$","$L10","3d-virtual-tour-rental",{"href":"/blog/3d-virtual-tour-rental","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"3D Virtual Tour Tools for Rental Property Marketing"}],["$","p",null,{"className":"text-sm text-gray-500","children":[9," min read"]}]]}],["$","$L10","floor-plan-rental-listing",{"href":"/blog/floor-plan-rental-listing","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Marketing"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Adding Floor Plans to Rental Listings for More Interest"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+24:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","the-case-for-still-using-craigslist",{"className":"","children":["$","a",null,{"href":"#the-case-for-still-using-craigslist","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Case for Still Using Craigslist"}]}],["$","li","writing-a-craigslist-rental-listing-that-gets-responses",{"className":"","children":["$","a",null,{"href":"#writing-a-craigslist-rental-listing-that-gets-responses","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Writing a Craigslist Rental Listing That Gets Responses"}]}],["$","li","the-title",{"className":"ml-4","children":["$","a",null,{"href":"#the-title","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Title"}]}],["$","li","the-description",{"className":"ml-4","children":["$","a",null,{"href":"#the-description","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Description"}]}],["$","li","photos",{"className":"ml-4","children":["$","a",null,{"href":"#photos","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Photos"}]}],["$","li","craigslist-rental-safety-for-landlords",{"className":"","children":["$","a",null,{"href":"#craigslist-rental-safety-for-landlords","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Craigslist Rental Safety for Landlords"}]}],["$","li","understanding-the-scam-landscape",{"className":"ml-4","children":["$","a",null,{"href":"#understanding-the-scam-landscape","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Understanding the Scam Landscape"}]}],["$","li","conducting-safe-in-person-showings",{"className":"ml-4","children":["$","a",null,{"href":"#conducting-safe-in-person-showings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conducting Safe In-Person Showings"}]}],["$","li","managing-craigslist-inquiries-efficiently",{"className":"","children":["$","a",null,{"href":"#managing-craigslist-inquiries-efficiently","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Managing Craigslist Inquiries Efficiently"}]}],["$","li","create-a-response-template",{"className":"ml-4","children":["$","a",null,{"href":"#create-a-response-template","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Create a Response Template"}]}],["$","li","track-inquiries",{"className":"ml-4","children":["$","a",null,{"href":"#track-inquiries","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Track Inquiries"}]}],["$","li","renew-listings-regularly",{"className":"ml-4","children":["$","a",null,{"href":"#renew-listings-regularly","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Renew Listings Regularly"}]}],["$","li","optimizing-your-craigslist-strategy",{"className":"","children":["$","a",null,{"href":"#optimizing-your-craigslist-strategy","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Optimizing Your Craigslist Strategy"}]}],["$","li","post-in-the-correct-category",{"className":"ml-4","children":["$","a",null,{"href":"#post-in-the-correct-category","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Post in the Correct Category"}]}],["$","li","target-multiple-cities-if-relevant",{"className":"ml-4","children":["$","a",null,{"href":"#target-multiple-cities-if-relevant","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Target Multiple Cities If Relevant"}]}],"$L27","$L28","$L29"]}]]}]}]
+25:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+27:["$","li","cross-post-your-listing",{"className":"ml-4","children":["$","a",null,{"href":"#cross-post-your-listing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Cross-Post Your Listing"}]}]
+28:["$","li","when-craigslist-is-not-the-right-tool",{"className":"","children":["$","a",null,{"href":"#when-craigslist-is-not-the-right-tool","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"When Craigslist Is Not the Right Tool"}]}]
+29:["$","li","conclusion",{"className":"","children":["$","a",null,{"href":"#conclusion","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Conclusion"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Posting Rentals on Craigslist Safely and Effectively | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn how to post rental listings on Craigslist safely and effectively. Avoid scams, attract quality tenants, and write listings that get responses."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"craigslist,rental listings,landlord safety,rental marketing,tenant screening"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/craigslist-rental-listing-safety"}],["$","meta","6",{"property":"og:title","content":"Posting Rentals on Craigslist Safely and Effectively"}],["$","meta","7",{"property":"og:description","content":"Learn how to post rental listings on Craigslist safely and effectively. Avoid scams, attract quality tenants, and write listings that get responses."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/craigslist-rental-listing-safety"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Posting Rentals on Craigslist Safely and Effectively"}],["$","meta","15",{"name":"twitter:description","content":"Learn how to post rental listings on Craigslist safely and effectively. Avoid scams, attract quality tenants, and write listings that get responses."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"

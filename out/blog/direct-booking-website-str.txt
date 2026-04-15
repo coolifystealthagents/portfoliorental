@@ -1,0 +1,228 @@
+1:"$Sreact.fragment"
+2:I[9766,[],""]
+3:I[8924,[],""]
+5:I[4431,[],"OutletBoundary"]
+7:I[5278,[],"AsyncMetadataOutlet"]
+9:I[4431,[],"ViewportBoundary"]
+b:I[4431,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[7150,[],""]
+:HL["/_next/static/css/95230b50ec6a1eea.css","style"]
+0:{"P":null,"b":"hdBItENAH-0mOq0CI9Rfv","p":"","c":["","blog","direct-booking-website-str"],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","direct-booking-website-str","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/95230b50ec6a1eea.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","rel":"stylesheet"}]]}],["$","body",null,{"className":"bg-white font-sans text-gray-900 antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","direct-booking-website-str","d"],["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+f:I[1398,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],"default"]
+10:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","953","static/chunks/app/blog/%5Bslug%5D/page-c33576ba2254fb39.js"],""]
+4:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"headline\":\"Building a Direct Booking Website for Your STR\",\"description\":\"Learn how to build a direct booking website for your short-term rental to avoid OTA fees, own your guest relationships, and grow revenue in 2026.\",\"author\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental Team\"},\"datePublished\":\"2026-04-07\",\"dateModified\":\"2026-04-07\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"PortfolioRental\",\"url\":\"https://portfoliorental.com\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://portfoliorental.com/blog/direct-booking-website-str\"}}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://portfoliorental.com\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\",\"item\":\"https://portfoliorental.com/blog\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Short-Term Rentals\",\"item\":\"https://portfoliorental.com/blog/category/short-term-rentals\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"Building a Direct Booking Website for Your STR\",\"item\":\"https://portfoliorental.com/blog/direct-booking-website-str\"}]}"}}],["$","$Lf",null,{}],["$","main",null,{"className":"mx-auto max-w-7xl px-6 py-10","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"mb-6 text-sm text-gray-500","children":[["$","$L10",null,{"href":"/","className":"hover:text-blue-600","children":"Home"}],["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog","className":"hover:text-blue-600","children":"Blog"}],[["$","span",null,{"className":"mx-2","children":"/"}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"hover:text-blue-600","children":"Short-Term Rentals"}]]]}],["$","div",null,{"className":"lg:grid lg:grid-cols-[1fr_280px] lg:gap-10","children":[["$","div",null,{"className":"min-w-0 max-w-3xl","children":[["$","article",null,{"children":[["$","header",null,{"className":"mb-8","children":[["$","span",null,{"className":"mb-3 inline-block rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700","children":"Short-Term Rentals"}],["$","h1",null,{"className":"mb-4 text-3xl font-extrabold leading-tight text-gray-900 sm:text-4xl","children":"Building a Direct Booking Website for Your STR"}],["$","div",null,{"className":"flex flex-wrap items-center gap-4 text-sm text-gray-500","children":[["$","span",null,{"children":"PortfolioRental Team"}],["$","span",null,{"children":"·"}],["$","time",null,{"dateTime":"2026-04-07","children":"April 6, 2026"}],["$","span",null,{"children":"·"}],["$","span",null,{"children":[8," min read"]}]]}]]}],["$","details",null,{"className":"mb-8 rounded-lg border border-gray-200 bg-gray-50 p-5 lg:hidden","children":[["$","summary",null,{"className":"cursor-pointer text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","div",null,{"className":"mt-3","children":["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-direct-bookings-matter",{"className":"","children":["$","a",null,{"href":"#why-direct-bookings-matter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Direct Bookings Matter"}]}],["$","li","the-financial-case",{"className":"ml-4","children":["$","a",null,{"href":"#the-financial-case","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Financial Case"}]}],["$","li","owning-your-guest-relationship",{"className":"ml-4","children":["$","a",null,{"href":"#owning-your-guest-relationship","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Owning Your Guest Relationship"}]}],["$","li","reducing-regulatory-risk",{"className":"ml-4","children":"$L11"}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25"]}]}]]}],"$L26","$L27"]}],"$L28","$L29"]}],"$L2a"]}]]}],"$L2b"]
+11:["$","a",null,{"href":"#reducing-regulatory-risk","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reducing Regulatory Risk"}]
+12:["$","li","what-your-direct-booking-website-needs",{"className":"","children":["$","a",null,{"href":"#what-your-direct-booking-website-needs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Your Direct Booking Website Needs"}]}]
+13:["$","li","essential-elements",{"className":"ml-4","children":["$","a",null,{"href":"#essential-elements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Essential Elements"}]}]
+14:["$","li","website-builder-options-for-str-hosts",{"className":"","children":["$","a",null,{"href":"#website-builder-options-for-str-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Website Builder Options for STR Hosts"}]}]
+15:["$","li","hostfully",{"className":"ml-4","children":["$","a",null,{"href":"#hostfully","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hostfully"}]}]
+16:["$","li","lodgify",{"className":"ml-4","children":["$","a",null,{"href":"#lodgify","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lodgify"}]}]
+17:["$","li","hospitable-formerly-smartbnb",{"className":"ml-4","children":["$","a",null,{"href":"#hospitable-formerly-smartbnb","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hospitable (formerly Smartbnb)"}]}]
+18:["$","li","squarespace-or-wordpress-bookingkit",{"className":"ml-4","children":["$","a",null,{"href":"#squarespace-or-wordpress-bookingkit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Squarespace or WordPress + Bookingkit"}]}]
+19:["$","li","airbnb-s-own-off-platform-booking-risk",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-s-own-off-platform-booking-risk","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb's Own Off-Platform Booking Risk"}]}]
+1a:["$","li","driving-traffic-to-your-direct-booking-website",{"className":"","children":["$","a",null,{"href":"#driving-traffic-to-your-direct-booking-website","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Driving Traffic to Your Direct Booking Website"}]}]
+1b:["$","li","1-email-list-from-past-guests",{"className":"ml-4","children":["$","a",null,{"href":"#1-email-list-from-past-guests","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Email List from Past Guests"}]}]
+1c:["$","li","2-social-media",{"className":"ml-4","children":["$","a",null,{"href":"#2-social-media","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Social Media"}]}]
+1d:["$","li","3-google-vacation-rental-integration",{"className":"ml-4","children":["$","a",null,{"href":"#3-google-vacation-rental-integration","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Google Vacation Rental Integration"}]}]
+1e:["$","li","4-content-marketing-and-seo",{"className":"ml-4","children":["$","a",null,{"href":"#4-content-marketing-and-seo","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Content Marketing and SEO"}]}]
+1f:["$","li","5-corporate-and-group-outreach",{"className":"ml-4","children":["$","a",null,{"href":"#5-corporate-and-group-outreach","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Corporate and Group Outreach"}]}]
+20:["$","li","managing-direct-bookings-alongside-ota-listings",{"className":"","children":["$","a",null,{"href":"#managing-direct-bookings-alongside-ota-listings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Managing Direct Bookings Alongside OTA Listings"}]}]
+21:["$","li","channel-manager-software",{"className":"ml-4","children":["$","a",null,{"href":"#channel-manager-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Channel Manager Software"}]}]
+22:["$","li","consistent-pricing",{"className":"ml-4","children":["$","a",null,{"href":"#consistent-pricing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Consistent Pricing"}]}]
+23:["$","li","separate-review-collection",{"className":"ml-4","children":["$","a",null,{"href":"#separate-review-collection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Separate Review Collection"}]}]
+24:["$","li","legal-and-payment-security-for-direct-bookings",{"className":"","children":["$","a",null,{"href":"#legal-and-payment-security-for-direct-bookings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Payment Security for Direct Bookings"}]}]
+25:["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]
+2c:T3793,<p>Every booking you receive through Airbnb or Vrbo comes with a platform fee attached. Airbnb typically charges hosts 3% and guests 14%+ on top of your nightly rate. On a $2,000 booking, that is $280–$340 in fees disappearing before either party has done anything. Over a full year of bookings, those fees can easily total $10,000–$25,000 for an actively booked property.</p>
+<p>A <strong>direct booking website</strong> allows guests to book your property without going through a third-party OTA, eliminating platform fees and giving you direct control of the guest relationship, your pricing, and your brand. For hosts serious about building a professional STR business, a direct booking channel is not a luxury — it is a revenue strategy.</p>
+<hr>
+<h2 id="why-direct-bookings-matter">Why Direct Bookings Matter</h2>
+<h3 id="the-financial-case">The Financial Case</h3>
+<p>Let's put the numbers in concrete terms:</p>
+<table>
+<thead>
+<tr>
+<th>Booking Method</th>
+<th>Nightly Rate</th>
+<th>Platform Fee</th>
+<th>Guest Pays</th>
+<th>Your Revenue</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Airbnb</td>
+<td>$200</td>
+<td>3% host + ~14% guest</td>
+<td>~$228</td>
+<td>$194</td>
+</tr>
+<tr>
+<td>Direct</td>
+<td>$200</td>
+<td>2.5% payment processing</td>
+<td>$200</td>
+<td>$195</td>
+</tr>
+<tr>
+<td>Direct (package rate)</td>
+<td>$210</td>
+<td>2.5% payment processing</td>
+<td>$210</td>
+<td>$204.75</td>
+</tr>
+</tbody>
+</table>
+<p>Even at the same base rate, you net more per booking directly. More importantly, you can offer guests a marginally lower total price than they'd pay through Airbnb (since there's no 14% guest fee), making direct bookings attractive to repeat guests while you still earn more.</p>
+<p>On $80,000 in annual bookings, moving 40% of your volume to direct saves approximately $8,000-$12,000 in platform fees annually. <a href="https://www.investopedia.com/terms/r/rentalreal-estate-income.asp">Investopedia explains rental income</a> tax treatment for these earnings.</p>
+<h3 id="owning-your-guest-relationship">Owning Your Guest Relationship</h3>
+<p>When a guest books through Airbnb, Airbnb owns the relationship. You cannot contact guests outside the platform, cannot build an email list, cannot offer loyalty discounts, and cannot easily encourage repeat bookings. If Airbnb changes its algorithm, fee structure, or policies, your business is affected regardless of your performance.</p>
+<p>Direct bookings let you:</p>
+<ul>
+<li>Collect guest email addresses legally (with consent)</li>
+<li>Build a loyalty list for marketing future stays</li>
+<li>Offer returning guest discounts</li>
+<li>Upsell add-on services directly</li>
+<li>Communicate without platform surveillance</li>
+</ul>
+<h3 id="reducing-regulatory-risk">Reducing Regulatory Risk</h3>
+<p>Some cities are restricting STRs listed on major OTAs while being less aggressive about direct rental arrangements. Building a direct channel adds flexibility to your business model if your market's regulatory environment shifts. For more on the regulatory landscape, see our <a href="/blog/short-term-rental-regulations">short-term rental regulations guide</a>.</p>
+<hr>
+<h2 id="what-your-direct-booking-website-needs">What Your Direct Booking Website Needs</h2>
+<p>A direct booking website does not need to be complex. Most successful hosts use dedicated vacation rental website builders that handle the hard parts — calendar sync, payment processing, and booking management — so you can focus on your listing content.</p>
+<h3 id="essential-elements">Essential Elements</h3>
+<p><strong>1. Property showcase</strong></p>
+<ul>
+<li>Professional photos (the same quality used on Airbnb)</li>
+<li>Detailed description of the property and its unique features</li>
+<li>Full amenity list</li>
+<li>Location information with nearby attractions and distance estimates</li>
+<li>Honest assessment of who the property is best for (families, couples, remote workers)</li>
+</ul>
+<p><strong>2. Booking engine</strong></p>
+<ul>
+<li>Real-time availability calendar synced with your Airbnb and Vrbo calendars</li>
+<li>Instant booking functionality (guests should not have to email to check availability)</li>
+<li>Secure payment processing (Stripe, Square, or integrated PMS payment)</li>
+<li>Automated booking confirmation and communication</li>
+</ul>
+<p><strong>3. Pricing and policies</strong></p>
+<ul>
+<li>Clear nightly rate with fee breakdown (cleaning fee, security deposit)</li>
+<li>Cancellation policy</li>
+<li>House rules</li>
+<li>Check-in/check-out instructions (or a link to your digital welcome guide)</li>
+</ul>
+<p><strong>4. Trust signals</strong></p>
+<ul>
+<li>Reviews from Airbnb (with permission) or collected directly</li>
+<li>Host bio and photo</li>
+<li>Security certifications or trust badges</li>
+<li>Clear refund and cancellation terms</li>
+</ul>
+<p><strong>5. Contact and support</strong></p>
+<ul>
+<li>Easy way to contact you with questions</li>
+<li>Response time expectation</li>
+<li>FAQ section answering your most common pre-booking questions</li>
+</ul>
+<hr>
+<h2 id="website-builder-options-for-str-hosts">Website Builder Options for STR Hosts</h2>
+<p>You do not need to hire a web developer. Several platforms are purpose-built for short-term rental direct booking:</p>
+<h3 id="hostfully">Hostfully</h3>
+<p>Hostfully combines a property management system with direct booking website functionality. It syncs calendars across OTAs, manages guest communications, and hosts a custom-branded booking page. Well-suited for hosts with 2+ properties.</p>
+<h3 id="lodgify">Lodgify</h3>
+<p>Lodgify is one of the most popular vacation rental website builders. It offers professionally designed templates, a built-in booking engine, channel manager integration, and payment processing. Plans start around $12–15/month.</p>
+<h3 id="hospitable-formerly-smartbnb">Hospitable (formerly Smartbnb)</h3>
+<p>Hospitable focuses on automation and messaging but also offers a direct booking website feature. If you already use it for your Airbnb automation, adding a direct booking site is a natural extension.</p>
+<h3 id="squarespace-or-wordpress-bookingkit">Squarespace or WordPress + Bookingkit</h3>
+<p>For hosts who want more design control, a custom Squarespace or WordPress site combined with a booking widget (Lodgify, Beds24, or Smoobu) gives full flexibility. Requires slightly more setup but allows a fully custom brand experience.</p>
+<h3 id="airbnb-s-own-off-platform-booking-risk">Airbnb's Own Off-Platform Booking Risk</h3>
+<p>One important note: Airbnb's terms of service prohibit hosts from directing guests away from the platform to book elsewhere on their first contact. You cannot, for example, include your direct booking website URL in your Airbnb listing. Direct booking channel-building must happen outside of Airbnb — through your own marketing channels, social media, and repeat guest outreach.</p>
+<hr>
+<h2 id="driving-traffic-to-your-direct-booking-website">Driving Traffic to Your Direct Booking Website</h2>
+<p>A beautiful website with no visitors is useless. Here is how to build a traffic and booking funnel for your direct channel:</p>
+<h3 id="1-email-list-from-past-guests">1. Email List from Past Guests</h3>
+<p>After a guest checks out, send a follow-up message (through Airbnb's system) thanking them and mentioning that returning guests who book directly receive a loyalty discount. Include a link to your website or invite them to subscribe to your newsletter.</p>
+<p><strong>Sample message:</strong>
+<em>"Thank you again for staying with us — it was a pleasure hosting you! If you ever return to [city], we'd love to have you back. Returning guests who book directly at [website] receive a 10% discount. Hope to see you again!"</em></p>
+<p>Within Airbnb's messaging system this is allowed — you are not soliciting the booking during the stay, but informing past guests of a direct booking option.</p>
+<h3 id="2-social-media">2. Social Media</h3>
+<p>Create an Instagram or Facebook page for your property. Post:</p>
+<ul>
+<li>Seasonal property photos</li>
+<li>Local attractions and events</li>
+<li>Guest testimonials (with permission)</li>
+<li>Behind-the-scenes of your hosting operation</li>
+<li>Special promotions and availability alerts</li>
+</ul>
+<p>Link your direct booking website in your bio. Build an audience of followers who are interested in your location and property type.</p>
+<h3 id="3-google-vacation-rental-integration">3. Google Vacation Rental Integration</h3>
+<p>Google now displays vacation rental listings in its search results, similar to hotel listings. Several booking platforms (Lodgify, Rentals United, Hostfully) have integrations that push your property data to Google Vacation Rentals, giving your property organic visibility in Google search.</p>
+<p>This is one of the most powerful free traffic sources available to direct booking hosts.</p>
+<h3 id="4-content-marketing-and-seo">4. Content Marketing and SEO</h3>
+<p>If you have the patience for a longer-term play, building a blog or content site around your property's location can generate organic search traffic that converts to direct bookings.</p>
+<p>For example, a host with a mountain cabin can write blog posts like "Best Hiking Trails Near [Town]" or "Weekend Getaway Guide to [Mountain Region]." Visitors searching for local travel information find your site and discover your rental.</p>
+<p>This is a long-term strategy (6–12 months to see significant traffic), but it creates a durable, free traffic channel. Our guide on <a href="/blog/rental-property-marketing-strategies">rental property marketing strategies</a> covers content marketing approaches in more detail.</p>
+<h3 id="5-corporate-and-group-outreach">5. Corporate and Group Outreach</h3>
+<p>For hosts near corporate parks, hospitals, universities, or event venues, direct outreach to HR departments, event coordinators, and relocation managers can generate repeat corporate bookings. Offer corporate rates for stays of 3+ nights and provide a direct booking link.</p>
+<hr>
+<h2 id="managing-direct-bookings-alongside-ota-listings">Managing Direct Bookings Alongside OTA Listings</h2>
+<p>Most hosts maintain their Airbnb and Vrbo listings while building a direct booking channel. Managing both requires:</p>
+<h3 id="channel-manager-software">Channel Manager Software</h3>
+<p>A channel manager syncs your availability calendar across all platforms, preventing double-bookings. When a guest books directly, the channel manager automatically blocks those dates on Airbnb, Vrbo, and any other connected platforms.</p>
+<p>Popular channel managers: Guesty, Hostaway, Lodgify (built-in), Beds24.</p>
+<h3 id="consistent-pricing">Consistent Pricing</h3>
+<p>Your direct booking price should generally match or slightly undercut (5–8%) the total price a guest would pay on Airbnb (including the 14% guest fee). This creates a rational incentive for guests to book directly without violating Airbnb's stated pricing policies.</p>
+<p><strong>Example:</strong></p>
+<ul>
+<li>Airbnb total (including guest fee): $228</li>
+<li>Your direct rate: $210</li>
+<li>Guest saves: $18; you earn: $195 (vs. $194 on Airbnb)</li>
+</ul>
+<p>Both parties win slightly compared to the OTA option.</p>
+<h3 id="separate-review-collection">Separate Review Collection</h3>
+<p>Airbnb reviews stay on Airbnb. For your direct booking website, collect reviews separately through:</p>
+<ul>
+<li>Google Reviews (linked to your Google Business Profile)</li>
+<li>A review widget on your website</li>
+<li>Post-stay email surveys with permission to publish responses</li>
+</ul>
+<hr>
+<h2 id="legal-and-payment-security-for-direct-bookings">Legal and Payment Security for Direct Bookings</h2>
+<p>Without Airbnb's platform protections, you bear more responsibility for security:</p>
+<p><strong>Payment processing:</strong> The <a href="https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges">FTC covers online payment</a> protections for merchants and consumers. Use a reputable payment processor (Stripe, Square, PayPal) that offers dispute resolution and fraud protection. Never accept wire transfers or cash for bookings — these cannot be disputed if a guest fails to pay or disputes a charge.</p>
+<p><strong>Rental agreement:</strong> Always collect a signed rental agreement for direct bookings. It should include your cancellation policy, damage deposit terms, house rules, and check-in/check-out requirements. Many PMS platforms include digital agreement signing.</p>
+<p><strong>Security deposit:</strong> Collect a refundable security deposit at booking. This protects you from damage and signals to guests that you take property care seriously.</p>
+<p><strong>Damage protection:</strong> Consider a short-term rental damage protection policy (many exist specifically for direct bookings) to protect against damage that exceeds the security deposit.</p>
+<hr>
+<h2 id="summary">Summary</h2>
+<p>Building a direct booking channel is one of the highest-ROI strategic investments you can make as an STR host. The benefits compound over time:</p>
+<ol>
+<li><strong>Immediate fee savings</strong> — 3–15% more revenue per booking</li>
+<li><strong>Guest relationship ownership</strong> — Build loyalty, repeat business, and referrals</li>
+<li><strong>Business resilience</strong> — Reduce dependence on any single platform</li>
+<li><strong>Pricing flexibility</strong> — Control your rates, discounts, and packages without platform restrictions</li>
+<li><strong>Brand differentiation</strong> — Stand apart as a professional, independent operator</li>
+</ol>
+<p>Start with a simple website from a proven platform like Lodgify or Hostfully, integrate your calendar, add payment processing, and begin building your email list from day one. The direct booking channel grows slowly at first, then accelerates as your guest list and social following expand.</p>
+<p>For the complete STR business framework, visit our <a href="/blog/short-term-rental-management-guide">short-term rental management guide</a>. And for strategies to maximize your revenue across all booking channels, see our guide on <a href="/blog/maximize-rental-income-strategies">maximizing rental income strategies</a>.</p>
+26:["$","div",null,{"className":"prose prose-lg prose-blue max-w-none prose-headings:scroll-mt-20 prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline","dangerouslySetInnerHTML":{"__html":"$2c"}}]
+27:["$","div",null,{"className":"mt-10 flex flex-wrap gap-2","children":[["$","span","direct booking",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"direct booking"}],["$","span","vacation rental website",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"vacation rental website"}],["$","span","OTA independence",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"OTA independence"}],["$","span","STR marketing",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"STR marketing"}],["$","span","rental income",{"className":"rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-600","children":"rental income"}]]}]
+28:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","div",null,{"className":"mb-6 flex items-center justify-between","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-900","children":["More in ","Short-Term Rentals"]}],["$","$L10",null,{"href":"/blog/category/short-term-rentals","className":"text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline","children":"View all →"}]]}],["$","ul",null,{"className":"space-y-3","children":[["$","li","airbnb-arbitrage-how-to-profit-without-owning-property",{"children":["$","$L10",null,{"href":"/blog/airbnb-arbitrage-how-to-profit-without-owning-property","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Arbitrage: How to Profit Without Owning Property"}],["$","span",null,{"className":"text-xs text-gray-400","children":[7," min"]}]]}]}],["$","li","airbnb-cancellation-policy-options-protect-hosts",{"children":["$","$L10",null,{"href":"/blog/airbnb-cancellation-policy-options-protect-hosts","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Cancellation Policy Options: Which One Protects Hosts Best?"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-co-hosting-partner-manage-listing",{"children":["$","$L10",null,{"href":"/blog/airbnb-co-hosting-partner-manage-listing","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Co-Hosting: How to Partner with Someone to Manage Your Listing"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}],["$","li","airbnb-experiences-add-ons-boosting-revenue",{"children":["$","$L10",null,{"href":"/blog/airbnb-experiences-add-ons-boosting-revenue","className":"group flex items-baseline gap-3","children":[["$","span",null,{"className":"font-medium text-gray-900 group-hover:text-blue-600","children":"Airbnb Experiences and Add-Ons: Boosting Revenue Beyond the Stay"}],["$","span",null,{"className":"text-xs text-gray-400","children":[6," min"]}]]}]}]]}]]}]
+29:["$","section",null,{"className":"mt-12 border-t border-gray-200 pt-10","children":[["$","h2",null,{"className":"mb-6 text-2xl font-bold text-gray-900","children":"Related Articles"}],["$","div",null,{"className":"grid gap-6 sm:grid-cols-2 lg:grid-cols-3","children":[["$","$L10","direct-booking-website-vacation-rentals",{"href":"/blog/direct-booking-website-vacation-rentals","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Direct Booking Website for Vacation Rentals: Should You Build One?"}],["$","p",null,{"className":"text-sm text-gray-500","children":[6," min read"]}]]}],["$","$L10","airbnb-property-management-tips",{"href":"/blog/airbnb-property-management-tips","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"15 Airbnb Property Management Tips to Boost Bookings and Reviews"}],["$","p",null,{"className":"text-sm text-gray-500","children":[13," min read"]}]]}],["$","$L10","airbnb-hoa-rules-restrictions",{"href":"/blog/airbnb-hoa-rules-restrictions","className":"group rounded-lg border border-gray-200 p-5 transition hover:border-blue-300 hover:shadow-md","children":[["$","span",null,{"className":"mb-2 inline-block rounded-full bg-blue-50 px-2.5 py-0.5 text-xs font-medium text-blue-700","children":"Short-Term Rentals"}],["$","h3",null,{"className":"mb-2 font-semibold text-gray-900 group-hover:text-blue-600","children":"Airbnb and HOA Rules: Navigating Restrictions"}],["$","p",null,{"className":"text-sm text-gray-500","children":[8," min read"]}]]}]]}]]}]
+2a:["$","aside",null,{"className":"hidden lg:block","children":["$","nav",null,{"aria-label":"Table of contents","className":"sticky top-24 max-h-[calc(100vh-8rem)] overflow-y-auto rounded-lg border border-gray-200 bg-gray-50 p-5","children":[["$","h2",null,{"className":"mb-3 text-sm font-semibold uppercase tracking-wide text-gray-500","children":"Table of Contents"}],["$","ul",null,{"className":"space-y-1.5","children":[["$","li","why-direct-bookings-matter",{"className":"","children":["$","a",null,{"href":"#why-direct-bookings-matter","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Why Direct Bookings Matter"}]}],["$","li","the-financial-case",{"className":"ml-4","children":["$","a",null,{"href":"#the-financial-case","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"The Financial Case"}]}],["$","li","owning-your-guest-relationship",{"className":"ml-4","children":["$","a",null,{"href":"#owning-your-guest-relationship","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Owning Your Guest Relationship"}]}],["$","li","reducing-regulatory-risk",{"className":"ml-4","children":["$","a",null,{"href":"#reducing-regulatory-risk","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Reducing Regulatory Risk"}]}],["$","li","what-your-direct-booking-website-needs",{"className":"","children":["$","a",null,{"href":"#what-your-direct-booking-website-needs","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"What Your Direct Booking Website Needs"}]}],["$","li","essential-elements",{"className":"ml-4","children":["$","a",null,{"href":"#essential-elements","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Essential Elements"}]}],["$","li","website-builder-options-for-str-hosts",{"className":"","children":["$","a",null,{"href":"#website-builder-options-for-str-hosts","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Website Builder Options for STR Hosts"}]}],["$","li","hostfully",{"className":"ml-4","children":["$","a",null,{"href":"#hostfully","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hostfully"}]}],["$","li","lodgify",{"className":"ml-4","children":["$","a",null,{"href":"#lodgify","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Lodgify"}]}],["$","li","hospitable-formerly-smartbnb",{"className":"ml-4","children":["$","a",null,{"href":"#hospitable-formerly-smartbnb","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Hospitable (formerly Smartbnb)"}]}],["$","li","squarespace-or-wordpress-bookingkit",{"className":"ml-4","children":["$","a",null,{"href":"#squarespace-or-wordpress-bookingkit","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Squarespace or WordPress + Bookingkit"}]}],["$","li","airbnb-s-own-off-platform-booking-risk",{"className":"ml-4","children":["$","a",null,{"href":"#airbnb-s-own-off-platform-booking-risk","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Airbnb's Own Off-Platform Booking Risk"}]}],["$","li","driving-traffic-to-your-direct-booking-website",{"className":"","children":["$","a",null,{"href":"#driving-traffic-to-your-direct-booking-website","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Driving Traffic to Your Direct Booking Website"}]}],["$","li","1-email-list-from-past-guests",{"className":"ml-4","children":["$","a",null,{"href":"#1-email-list-from-past-guests","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"1. Email List from Past Guests"}]}],["$","li","2-social-media",{"className":"ml-4","children":["$","a",null,{"href":"#2-social-media","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"2. Social Media"}]}],"$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35"]}]]}]}]
+2b:["$","footer",null,{"className":"border-t border-gray-200 bg-gray-50 px-6 py-16","children":["$","div",null,{"className":"mx-auto max-w-7xl","children":[["$","div",null,{"className":"grid gap-12 sm:grid-cols-2 lg:grid-cols-4","children":[["$","div",null,{"children":[["$","$L10",null,{"href":"/","className":"text-2xl font-bold tracking-tight text-primary","children":["Portfolio",["$","span",null,{"className":"text-accent","children":"Rental"}]]}],["$","p",null,{"className":"mt-4 text-sm leading-6 text-gray-500","children":"Professional property management services for landlords, investors, and property owners who want to maximize rental income."}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Services"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/services/property-management",{"children":["$","$L10",null,{"href":"/services/property-management","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Management"}]}],["$","li","/services/tenant-screening",{"children":["$","$L10",null,{"href":"/services/tenant-screening","className":"text-sm text-gray-500 hover:text-gray-700","children":"Tenant Screening"}]}],["$","li","/services/maintenance-coordination",{"children":["$","$L10",null,{"href":"/services/maintenance-coordination","className":"text-sm text-gray-500 hover:text-gray-700","children":"Maintenance Coordination"}]}],["$","li","/services/rent-collection",{"children":["$","$L10",null,{"href":"/services/rent-collection","className":"text-sm text-gray-500 hover:text-gray-700","children":"Rent Collection"}]}],["$","li","/services/property-marketing",{"children":["$","$L10",null,{"href":"/services/property-marketing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Property Marketing"}]}],["$","li","/services/financial-reporting",{"children":["$","$L10",null,{"href":"/services/financial-reporting","className":"text-sm text-gray-500 hover:text-gray-700","children":"Financial Reporting"}]}],["$","li","/services/investment-analysis",{"children":["$","$L10",null,{"href":"/services/investment-analysis","className":"text-sm text-gray-500 hover:text-gray-700","children":"Investment Analysis"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Company"}],["$","ul",null,{"className":"mt-4 space-y-2","children":[["$","li","/about",{"children":["$","$L10",null,{"href":"/about","className":"text-sm text-gray-500 hover:text-gray-700","children":"About"}]}],["$","li","/how-it-works",{"children":["$","$L10",null,{"href":"/how-it-works","className":"text-sm text-gray-500 hover:text-gray-700","children":"How It Works"}]}],["$","li","/pricing",{"children":["$","$L10",null,{"href":"/pricing","className":"text-sm text-gray-500 hover:text-gray-700","children":"Pricing"}]}],["$","li","/blog",{"children":["$","$L10",null,{"href":"/blog","className":"text-sm text-gray-500 hover:text-gray-700","children":"Blog"}]}],["$","li","/hire",{"children":["$","$L10",null,{"href":"/hire","className":"text-sm text-gray-500 hover:text-gray-700","children":"Get a Quote"}]}]]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-gray-900","children":"Get in Touch"}],["$","p",null,{"className":"mt-4 text-sm text-gray-500","children":"Ready to simplify your property management?"}],["$","$L10",null,{"href":"/hire","className":"mt-4 inline-block rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-accent-dark","children":"Get a Free Quote"}]]}]]}],["$","div",null,{"className":"mt-12 border-t border-gray-200 pt-8 text-center","children":["$","p",null,{"className":"text-sm text-gray-400","children":["© ",2026," PortfolioRental. All rights reserved."]}]}]]}]}]
+2d:["$","li","3-google-vacation-rental-integration",{"className":"ml-4","children":["$","a",null,{"href":"#3-google-vacation-rental-integration","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"3. Google Vacation Rental Integration"}]}]
+2e:["$","li","4-content-marketing-and-seo",{"className":"ml-4","children":["$","a",null,{"href":"#4-content-marketing-and-seo","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"4. Content Marketing and SEO"}]}]
+2f:["$","li","5-corporate-and-group-outreach",{"className":"ml-4","children":["$","a",null,{"href":"#5-corporate-and-group-outreach","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"5. Corporate and Group Outreach"}]}]
+30:["$","li","managing-direct-bookings-alongside-ota-listings",{"className":"","children":["$","a",null,{"href":"#managing-direct-bookings-alongside-ota-listings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Managing Direct Bookings Alongside OTA Listings"}]}]
+31:["$","li","channel-manager-software",{"className":"ml-4","children":["$","a",null,{"href":"#channel-manager-software","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Channel Manager Software"}]}]
+32:["$","li","consistent-pricing",{"className":"ml-4","children":["$","a",null,{"href":"#consistent-pricing","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Consistent Pricing"}]}]
+33:["$","li","separate-review-collection",{"className":"ml-4","children":["$","a",null,{"href":"#separate-review-collection","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Separate Review Collection"}]}]
+34:["$","li","legal-and-payment-security-for-direct-bookings",{"className":"","children":["$","a",null,{"href":"#legal-and-payment-security-for-direct-bookings","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Legal and Payment Security for Direct Bookings"}]}]
+35:["$","li","summary",{"className":"","children":["$","a",null,{"href":"#summary","className":"text-sm text-blue-600 hover:text-blue-800 hover:underline","children":"Summary"}]}]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Building a Direct Booking Website for Your STR | PortfolioRental Blog"}],["$","meta","1",{"name":"description","content":"Learn how to build a direct booking website for your short-term rental to avoid OTA fees, own your guest relationships, and grow revenue in 2026."}],["$","meta","2",{"name":"author","content":"PortfolioRental Team"}],["$","meta","3",{"name":"keywords","content":"direct booking,vacation rental website,OTA independence,STR marketing,rental income"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://portfoliorental.com/blog/direct-booking-website-str"}],["$","meta","6",{"property":"og:title","content":"Building a Direct Booking Website for Your STR"}],["$","meta","7",{"property":"og:description","content":"Learn how to build a direct booking website for your short-term rental to avoid OTA fees, own your guest relationships, and grow revenue in 2026."}],["$","meta","8",{"property":"og:url","content":"https://portfoliorental.com/blog/direct-booking-website-str"}],["$","meta","9",{"property":"og:site_name","content":"PortfolioRental"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"property":"article:published_time","content":"2026-04-07"}],["$","meta","12",{"property":"article:author","content":"PortfolioRental Team"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Building a Direct Booking Website for Your STR"}],["$","meta","15",{"name":"twitter:description","content":"Learn how to build a direct booking website for your short-term rental to avoid OTA fees, own your guest relationships, and grow revenue in 2026."}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"
